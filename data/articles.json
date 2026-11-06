@@ -672,6 +672,27 @@
     "last_translation_attempt_at": "2026-11-06T11:56:32+00:00"
   },
   {
+    "id": "7dba42b8ff4a82bed01c",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "外交部驻港公署",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRzdhcjB4WW43SnItOG9ZMDBWY3Zzcm1CSmFuWGVLaUFhZkxiMExTU0xpRmcxUWh4VTJxb3ZNVTI2LXozVDZIdy1lM0kzMFBqeWZQLWEyaFZiVWVPS3BOOEFFbFM0dGtOLVE?oc=5",
+    "original_title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会 - 外交部驻港公署",
+    "original_summary": "2026年11月6日外交部发言人郭嘉昆主持例行记者会 外交部驻港公署",
+    "published_at": "2026-11-06T11:03:00+00:00",
+    "first_seen_at": "2026-11-06T17:52:53+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conferência de imprensa regular do porta-voz do Ministério das Relações Exteriores, Guo Jiakun - Escritório de Hong Kong do Ministério das Relações Exteriores em 6 de novembro de 2026",
+    "translated_summary": "Em 6 de novembro de 2026, o porta-voz do Ministério das Relações Exteriores, Guo Jiakun, presidiu uma coletiva de imprensa regular no Escritório de Hong Kong do Ministério das Relações Exteriores.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T17:52:59+00:00"
+  },
+  {
     "id": "aba861a15c37b32436c6",
     "country": "Japão",
     "category": "Política",
@@ -2448,6 +2469,27 @@
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T10:08:32+00:00",
     "translation_error": "TooManyRequests"
+  },
+  {
+    "id": "a0fdf836ead14e873291",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "美国之音",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2tiUV9wc2stS0JPSnZmNThnVHAwS1FvUW1tOW5KSnN0b01wTUhTRG5HQWE4RDNLMkVZODBmSk5tM3kzTERZeWxmSFlGUnVqVzZOUVFpY1ZNTmZkNG9veHhEalRkcTkwenBjSndLVW9CUmMzcXh0SXVENDFOS25wemI5WWF2MW9STi1pbnhlV0FTZk1NeDJKbzFIN1FfOGUxbEpMa1dB0gGoAUFVX3lxTE0yVEx5S1FSZmF2VkNBeGZnYmZ0ZHBxR2JiSWRvQ0JydXphZjhiak9hQWl4dUZVUWEzeTdCa3dJZUd1emFwTnp0RHZkQThWRG12TThHazJlNU1JX2tJREx2Y216cWdreHg5UFQ3Q2kwU1Q5N3FXc3FUaDNfZGtBV243d2p2ZFM3M0czYjl0LS1ydGtCMF8wYU4yTFhiTWdYNWpuZ3p5MVJVaw?oc=5",
+    "original_title": "从芯片到台湾，新科参议员将如何影响美国对华政策？ - 美国之音",
+    "original_summary": "从芯片到台湾，新科参议员将如何影响美国对华政策？ 美国之音",
+    "published_at": "2026-11-05T22:30:09+00:00",
+    "first_seen_at": "2026-11-06T17:52:53+00:00",
+    "topics": [
+      "Semicondutores"
+    ],
+    "translation_status": "translated",
+    "translated_title": "De chips a Taiwan, como o senador Xinke influenciará a política dos EUA em relação à China? - Voz da América",
+    "translated_summary": "De chips a Taiwan, como o senador Xinke influenciará a política dos EUA em relação à China? Voz da América",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T17:53:02+00:00"
   },
   {
     "id": "b892a178d748cdc1ba7c",
