@@ -1,5 +1,228 @@
 [
   {
+    "id": "a4395ead6dfabc438611",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71420",
+    "original_title": "関文科相 米グーグルの学校向けAI機能制限、影響を適切判断",
+    "original_summary": "アメリカのIT大手「グーグル」が、世界各地の学校向けの学習サービスでAIや検索の機能を制限できるようにする方針を明らかにしたことについて、関文部科学大臣は、学校への影響を適切に検討していく考えを示しま…",
+    "published_at": "2026-11-06T02:48:42+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Julgamento apropriado das limitações e impactos da função de IA para as escolas de Kan Bunka Sang US Google",
+    "translated_summary": "No que diz respeito à política da gigante de TI dos EUA \"Google\" de limitar as funções de IA e pesquisa em serviços de aprendizagem para escolas em todo o mundo, o Ministro da Educação, Cultura, Esportes, Ciência e Tecnologia Seki expressou sua intenção de considerar adequadamente o impacto nas escolas...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:04+00:00"
+  },
+  {
+    "id": "077271e1b3dd74aa063f",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/06/chery-jaecoo-j5-ev-loses-wheel-in-jakarta-raising-questions-after-omoda-5-axle-failures/",
+    "original_title": "Chery Jaecoo J5 EV loses wheel in Jakarta, raising questions after Omoda 5 axle failures",
+    "original_summary": "Jaecoo says a collision with roadside infrastructure caused its J5 EV's wheel to detach in Jakarta, weeks after an Omoda 5 recall in Malaysia. The post Chery Jaecoo J5 EV loses wheel in Jakarta, raising questions after Omoda 5 axle failures appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-06T02:47:03+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Chery Jaecoo J5 EV perde o volante em Jacarta, levantando questões após falhas nos 5 eixos do Omoda",
+    "translated_summary": "Jaecoo diz que uma colisão com a infraestrutura rodoviária fez com que a roda do seu J5 EV se destacasse em Jacarta, semanas após um recall do Omoda 5 na Malásia. O post Chery Jaecoo J5 EV perde o volante em Jacarta, levantando questões após as falhas nos 5 eixos do Omoda aparecerem primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:55:56+00:00"
+  },
+  {
+    "id": "b2c5c8f9de50c23629e5",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71419",
+    "original_title": "消費税減税法案“所得応じた支援金 勤労者の3割以上”高市首相",
+    "original_summary": "高市総理大臣は、食料品の消費税減税関連法案を審議している衆議院の委員会に出席し、減税にあわせて導入するとしている所得に応じた支援金について、勤労者の3割以上を対象とする方向で検討する考えを示しました。",
+    "published_at": "2026-11-06T02:46:15+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Lei de redução do imposto de consumo \"Mais de 30% dos trabalhadores de apoio de acordo com a renda\" Takashi Primeiro-Ministro",
+    "translated_summary": "O primeiro-ministro Gaoshi participou de uma comissão da Câmara dos Deputados deliberando sobre um projeto de lei relacionado à redução do imposto de consumo de produtos alimentícios, e expressou sua intenção de considerar um fundo de apoio à renda que deve ser introduzido de acordo com a redução de impostos no sentido de atingir mais de 30% dos trabalhadores.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:07+00:00"
+  },
+  {
+    "id": "5227fc2cefa4d1faa365",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/06/byd-denza-to-launch-new-n8-nov-12/",
+    "original_title": "BYD Denza to launch new N8 SUV on November 12 with up to 1,003 km range",
+    "original_summary": "The new N8 is a 5-seat battery-electric SUV that opened for pre-orders on October 26. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-06T02:45:33+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Baterias",
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BYD Denza lançará novo SUV N8 em 12 de novembro com alcance de até 1.003 km",
+    "translated_summary": "O novo N8 é um SUV elétrico com bateria de 5 lugares que abriu para pré-encomendas a 26 de outubro. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:01+00:00"
+  },
+  {
+    "id": "3f63f8e1abc1949af8ba",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71412",
+    "original_title": "定数削減 自民 維新 国民 実務者 統一名簿など詰めの協議へ",
+    "original_summary": "衆議院議員の定数削減をめぐり、自民党、日本維新の会、国民民主党の実務者が会談し、統一名簿を導入する場合の課題や法案の施行時期など、残された論点について詰めの協議を行っていくことを確認しました。",
+    "published_at": "2026-11-06T02:45:22+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Redução constante do número Para discutir a embalagem, como uma lista unificada de funcionários públicos",
+    "translated_summary": "Em relação à redução do número de membros da Câmara dos Deputados, funcionários do Partido Liberal Democrático, da Sociedade Japonesa de Restauração e do Partido Nacional Democrático se reuniram e confirmaram que manteriam discussões completas sobre questões remanescentes, como questões ao introduzir uma lista unificada e quando o projeto entraria em vigor.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:10+00:00"
+  },
+  {
+    "id": "7cdeb8fff933ab415e2a",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727112.shtml",
+    "original_title": "全国已累计收购秋粮1亿吨",
+    "original_summary": "记者11月6日从国家发展改革委新闻发布会上获悉，秋粮收购开局平稳，东北地区陆续上量，全国已累计收购秋粮1亿吨，进度与上年基本持平。综合研判，随着我国粮食产能稳步提升，“十五五”时期，每年粮食收购量将继续保持在4亿吨以上。",
+    "published_at": "2026-11-06T02:45:13+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O país adquiriu um total de 100 milhões de toneladas de grãos de outono",
+    "translated_summary": "O repórter soube pela coletiva de imprensa da Comissão Nacional de Desenvolvimento e Reforma, em 6 de novembro, que a aquisição de grãos no outono começou sem problemas, a região nordeste aumentou sucessivamente e o país adquiriu 100 milhões de toneladas de grãos no outono, e o progresso é basicamente o mesmo do ano anterior. De acordo com pesquisa e julgamento abrangentes, com o aumento constante da capacidade de produção de grãos da China, o volume anual de compra de grãos continuará acima de 400 milhões de toneladas durante o período do \"15º Plano Quinquenal\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:55:50+00:00"
+  },
+  {
+    "id": "7985bcffa481b3eb4cf9",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71400",
+    "original_title": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府",
+    "original_summary": "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。",
+    "published_at": "2026-11-06T02:40:36+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Prazo de operação de coleta de inteligência e combate à pirataria das Forças de Autodefesa do Oriente Médio prorrogado por um ano Governo",
+    "translated_summary": "O governo decidiu prorrogar o prazo para as atividades de escoltas e aeronaves das Forças de Autodefesa na região do Oriente Médio, incluindo a coleta de informações necessárias para garantir a segurança das embarcações relacionadas ao Japão, por um ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:13+00:00"
+  },
+  {
+    "id": "a7bebd9c0735ae246fab",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71388",
+    "original_title": "武部農相 公共事業受注企業から選挙中に受けた寄付を返金へ",
+    "original_summary": "武部農林水産大臣は、過去の衆議院選挙で公職選挙法で禁じられている国の公共事業を請け負った企業からの寄付を受けたことが確認されたとして、その分を返金する方針を示しました。 その上で、過去の政治資金収支…",
+    "published_at": "2026-11-06T02:33:11+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ministro da Agricultura de Takefu reembolsará doações recebidas durante a eleição de empreiteiros de obras públicas",
+    "translated_summary": "O ministro da Agricultura, Florestas e Pescas, Takebu, indicou uma política de restituição das doações recebidas de empresas contratantes de obras públicas no país, que são proibidas pela Lei de Eleições de Cargos Públicos em eleições passadas para a Câmara dos Deputados. Além disso, os saldos dos fundos políticos anteriores...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:16+00:00"
+  },
+  {
+    "id": "5b136cf90d5215e10c7a",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727075.shtml",
+    "original_title": "中国副财长：愿坚持经济全球化、贸易多元化的正确方向",
+    "original_summary": "中新网上海11月6日电 (邸子瀛)2026年中国国际公共采购论坛5日在上海开幕。论坛以“共享公共采购市场的未来——制度创新、合作共赢”为主题，开展政策对话，交流公共采购经验。",
+    "published_at": "2026-11-06T02:28:50+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Vice-Ministro das Finanças da China: Disposto a aderir à direção certa da globalização econômica e da diversificação comercial",
+    "translated_summary": "Xangai, 6 de novembro (Xinhua) -- O Fórum Internacional de Compras Públicas da China de 2026 foi aberto em Xangai em 5 de novembro. Com o tema “Compartilhando o Futuro do Mercado de Compras Públicas - Inovação Institucional e Cooperação Ganha-Ganha”, o Fórum realizou diálogos políticos e trocou experiências em compras públicas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:55:53+00:00"
+  },
+  {
+    "id": "7e65315f1b3599305d93",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727051.shtml",
+    "original_title": "学习新语｜中国开放的大门只会越开越大",
+    "original_summary": "第九届中国国际进口博览会11月5日至10日在上海举办。在习近平主席引领推动下，进博会越办越好，已经成为中国构建新发展格局的窗口、推动高水平开放的平台、全球共享的国际公共产品。",
+    "published_at": "2026-11-06T02:14:07+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aprender um novo idioma | A porta para a abertura da China só aumentará",
+    "translated_summary": "A 9ª Exposição Internacional de Importação da China foi realizada em Xangai de 5 a 10 de novembro. Sob a orientação e promoção do presidente Xi Jinping, a CIIE tornou-se uma janela para a China construir um novo padrão de desenvolvimento, promover uma plataforma aberta de alto nível e compartilhar bens públicos internacionais globalmente.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:55:46+00:00"
+  },
+  {
+    "id": "13eac986e7be679059b4",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/06/byds-new-denza-n8-ev-to-launch-on-november-12-up-to-1193-hp-and-1003-km-range/",
+    "original_title": "BYD’s new Denza N8 EV to launch on November 12: up to 1,193 hp and 1,003 km range",
+    "original_summary": "1,003 km range & 1,193 hp: Denza N8 EV launches on November 12. The post BYD’s new Denza N8 EV to launch on November 12: up to 1,193 hp and 1,003 km range appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-06T02:08:57+00:00",
+    "first_seen_at": "2026-11-06T02:55:41+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Novo Denza N8 EV da BYD será lançado em 12 de novembro: até 1.193 cv e alcance de 1.003 km",
+    "translated_summary": "1.003 km de alcance e 1.193 cv: Denza N8 EV será lançado em 12 de novembro. O novo Denza N8 EV da BYD será lançado em 12 de novembro: até 1.193 cv e alcance de 1.003 km apareceram primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:55:58+00:00"
+  },
+  {
     "id": "c5707d7a732ceb874d68",
     "country": "Japão",
     "category": "Política",
@@ -859,11 +1082,11 @@
     "published_at": "2026-11-05T07:09:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lei de redução do imposto sobre o consumo partido no poder \"passando a Câmara dos Deputados amanhã\" partido da oposição \"julgado pela resposta do primeiro-ministro\"",
+    "translated_summary": "Supondo que o partido no poder tenha deliberado minuciosamente sobre o projeto de lei relacionado à redução do imposto de consumo de alimentos, eu gostaria de votar na comissão e na reunião plenária no dia 6 e passar na Câmara dos Deputados. Em resposta, se o lado da oposição aceitará a votação depois de ouvir a resposta do primeiro-ministro Takaichi...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:19+00:00"
   },
   {
     "id": "ad01b5e821fc01c6d355",
@@ -880,11 +1103,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Observação eleitoral de meio de mandato | Trump sofre grande derrota, aumento das divisões republicanas e incerteza política - Rumores",
+    "translated_summary": "Relógio eleitoral de meio de mandato | Trump sofre grande derrota, aumento das divisões republicanas e incerteza política",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:22+00:00"
   },
   {
     "id": "ab162b9530eb14903881",
@@ -899,11 +1122,11 @@
     "published_at": "2026-11-05T06:40:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Novas Declarações de Veículos de Passageiros de Energia Encolhem Significativamente! MIIT Anuncia o Catálogo de Veículos Novos do Lote 413 - https://www.itdcw.com/",
+    "translated_summary": "Novas Declarações de Veículos de Passageiros de Energia Encolhem Significativamente! O 413º lote de novos catálogos de carros anunciados pelo Ministério da Indústria e Tecnologia da Informação https://www.itdcw.com/",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:25+00:00"
   },
   {
     "id": "6d956c86a02150937868",
@@ -918,11 +1141,11 @@
     "published_at": "2026-11-05T06:03:45+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xiaomi dá impulso global à direção à direita em 2028, à medida que as contratações na Austrália começam",
+    "translated_summary": "A Xiaomi está a preparar-se para uma expansão do volante à direita em 2028 após a sua entrada planeada na Europa, com o recrutamento em Sydney a adicionar uma dimensão australiana. O post Xiaomi define o impulso global para a direção à direita em 2028, à medida que a contratação na Austrália começa, apareceu primeiro em CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:27+00:00"
   },
   {
     "id": "e7fa4b709c3f002f75ee",
@@ -939,11 +1162,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A próxima geração de Yaris, Yariskross e Corolla em uma única plataforma? Vice-presidente da Toyota Miyazaki revela segmento A-C de próxima geração em plataforma multi-caminho",
+    "translated_summary": "A Toyota Motor anunciou seus resultados financeiros para o segundo trimestre do ano fiscal que termina em março de 2027 (abril-setembro de 2026, acumulado de seis meses) em 5 de novembro, mas o Diretor Representante e Vice-Presidente Yoichi Miyazaki anunciou que a próxima geração de veículos será atualizada com uma inovadora plataforma multi-caminho que fará do segmento A-C uma plataforma única.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:30+00:00"
   },
   {
     "id": "2cc128770f19e61df498",
@@ -960,11 +1183,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os resultados financeiros da Toyota no segundo trimestre do ano fiscal encerrado em 31 de março de 2027 e o lucro operacional aumentaram 185,4 bilhões de ienes em relação ao ano fiscal anterior, para 219,11 bilhões de ienes em crescimento de receita e lucro. O lucro operacional do ano inteiro também deve aumentar 500 bilhões de ienes, para 3,9 trilhões de ienes.",
+    "translated_summary": "A Toyota Motor anunciou seus resultados financeiros para o segundo trimestre do ano fiscal de 27/03 (abril-setembro de 2026, acumulado de seis meses) em 5 de novembro. A receita operacional aumentou Y2.331,7 bilhões para Y2.696,24 bilhões, e o lucro operacional aumentou Y185,4 bilhões para Y219,11 bilhões. O lucro antes de impostos aumentou 476,2 mil milhões de ienes, para 2.954,4 mil milhões de ienes, e o lucro líquido aumentou 463 mil milhões de ienes, para 2.236,4 mil milhões de ienes. A margem de lucro melhorou de 7,2% para 8,3% no exercício anterior. A proporção de veículos elétricos é de 55,6%.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:33+00:00"
   },
   {
     "id": "88d6a16b055531ac4d8b",
@@ -981,11 +1204,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Suzuki exibirá o veículo real do novo veículo elétrico leve \"e sky\" a ser lançado em 16 de novembro na \"FIELDSTYLE Expo 2026\" a ser realizada em Aichi",
+    "translated_summary": "A Suzuki exibirá o novo EV leve de passageiros (veículo elétrico) \"e Sky\", a ser lançado no dia 16 de novembro na exposição abrangente \"FIELDSTYLE Expo 2026\", a ser realizada no Aichi Sky Expo (Centro Internacional de Exposições de Aichi) nos dias 14 e 15 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:36+00:00"
   },
   {
     "id": "3ba604d50fc2eb919a2f",
@@ -1000,11 +1223,11 @@
     "published_at": "2026-11-05T05:12:03+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Oito marcas Stellantis convergem para o Fuji Speedway! \"STELLANTIS All Brands Day -JAPAN2026-\" foi realizado pela primeira vez, reunindo as características únicas da Itália, França e arroz através dos limites da marca.",
+    "translated_summary": "Em 3 de novembro, o primeiro evento conjunto de oito marcas da Stellantis Japan, \"Stellantis All Brands Day-JAPAN 2026-\", foi realizado no palco do Fuji Speedway, na província de Shizuoka.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:39+00:00"
   },
   {
     "id": "97b1b9d6d3e2d48c2250",
@@ -1021,11 +1244,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mitsuoka começa a encomendar modelos de maquiagem à base de carros usados para SUV Buddy, garantindo aproximadamente 70 unidades de produção em 2027",
+    "translated_summary": "Em 5 de novembro, a Mitsuoka Motor Co., Ltd. começou a receber pedidos de \"modelos de maquiagem\" baseados em carros usados de \"RAV4\" para o SUV \"Buddy\", que foi descontinuado como um carro novo. Cerca de 70 unidades foram garantidas como quadro de produção para 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:42+00:00"
   },
   {
     "id": "e834e99262fe4eb771fc",
@@ -1042,11 +1265,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cada parte do Comitê de Revisão Constitucional da Câmara dos Deputados discute a forma de futuras discussões",
+    "translated_summary": "A Comissão de Revisão Constitucional da Câmara dos Deputados realizou uma discussão sobre a forma de discussões futuras, e o PLD propôs que o Artigo 9º da Constituição fosse a agenda intensiva, enquanto o Partido Meiji, que constitui o primeiro partido da oposição, considerou a imagem da cláusula de emergência apresentada pela Dieta anterior...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:45+00:00"
   },
   {
     "id": "468b4be7ba3a04f29e73",
@@ -1063,11 +1286,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Toyota estabeleceu a recém-revisada Toyota Robotics em 1º de janeiro de 2027, com o Presidente Akio Toyoda atuando simultaneamente como Gerente Geral da Sede de Educação",
+    "translated_summary": "Em 5 de novembro, a Toyota Motor anunciou uma alteração organizacional datada de 1º de janeiro de 2027. De acordo com o anúncio, a Sede de Assuntos Gerais e Recursos Humanos e a Sede de Contabilidade foram abolidas, e a Sede de Kanri foi recém-criada. Além de reorganizar a Sede de Relações Públicas de Relações Exteriores, o Centro de Desenvolvimento CN (Carbono Neutro) será abolido e a Toyota Robotics será recém-criada.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:48+00:00"
   },
   {
     "id": "18a0daf7108534ce4c19",
@@ -1084,11 +1307,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng inicia entregas Mona L05, visa 10.000 unidades no primeiro mês",
+    "translated_summary": "Xpeng disse que a Mona L05 é construída sobre uma linha de produção dedicada, e sua produção e entregas não afetarão modelos como a Mona L03. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:51+00:00"
   },
   {
     "id": "5b4a11baf73a7bb618e2",
@@ -1103,11 +1326,11 @@
     "published_at": "2026-11-05T04:14:23+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Zeekr abre pré-vendas para o Zeekr 7X 2027 na China, a partir de 34.300 USD",
+    "translated_summary": "2027 Zeekr 7X abre pré-vendas na China, agora com acabamento de 85 kWh. O post Zeekr abre pré-vendas para o Zeekr 7X 2027 na China, a partir de 34.300 USD apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:54+00:00"
   },
   {
     "id": "8f1ea1640919a91bad7a",
@@ -1124,11 +1347,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Primeira edição da nova bateria EV Tolkare Limited Edition da Bentley",
+    "translated_summary": "Em 22 de outubro (hora local), a Bentley Motors anunciou uma edição limitada \"Torquard First Edition\" para comemorar o nascimento do primeiro veículo elétrico da empresa \"Torquard\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:56+00:00"
   },
   {
     "id": "6fafae42732b44f65e98",
@@ -1143,11 +1366,11 @@
     "published_at": "2026-11-05T03:56:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministro das Relações Exteriores Iburi realizou festa política de arrecadação de fundos e pediu desculpas por “não dar a devida consideração”",
+    "translated_summary": "Em resposta à indicação do Ministro da Terra, Infraestruturas, Transportes e Turismo de que a realização do seu próprio partido político de angariação de fundos no final de outubro pode violar as normas ministeriais, o Ministro da Terra, Infraestruturas, Transportes e Turismo disse na Comissão de Terras, Infraestruturas, Transportes e Turismo da Câmara dos Vereadores no dia 5 que \"enquanto se presta muita atenção às palavras, ações e atitudes dos ministros,...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:56:59+00:00"
   },
   {
     "id": "ef9b2e7a954d97ae84b1",
@@ -1164,11 +1387,11 @@
     "topics": [
       "Nissan"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nissan revela modelos conceituais como \"Sentra Spec-V\", \"Datsun S30\", \"Frontier Ronin\" e \"Armada Jungle Patrol\"",
+    "translated_summary": "No dia 3 de novembro (horário local), a Nissan North America exibiu vários modelos conceituais personalizados no SEMA Show 2026, realizado no Centro de Convenções de Las Vegas, incluindo o Sentra Spec-V Concept, que reviveu o lendário conceito do sedã esportivo Sentra na era moderna.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:03+00:00"
   },
   {
     "id": "65a8c2f56e3e1882f041",
@@ -1185,11 +1408,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "100 anos depois de Sakichi Toyoda ter fundado as Indústrias Toyoda, o Presidente Akio Toyoda cumprimentou-o na Cerimónia de Entrega dos Prémios Toyoda Sakio",
+    "translated_summary": "No dia 30 de outubro, o 63º Festival de Louvor Toyoda Sakio foi realizado na Washizu Junior High School com uma estátua de bronze de Toyoda Sakio na cidade de Kosei, província de Shizuoka. Devido ao padrão de chuva leve no dia, foi considerado realizado em outro local se a chuva se tornasse forte, mas choveu pouco antes do início do festival de recomendação, e foi implementado na Washizu Junior High School.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:06+00:00"
   },
   {
     "id": "4a9778457d0eb260c8f1",
@@ -1206,11 +1429,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz revela que o desempenho residual da bateria de alta tensão (soh) de veículos elétricos usados certificados reduz a ansiedade da bateria ao comprar um veículo elétrico",
+    "translated_summary": "A Mercedes-Benz Japão anunciou em 5 de novembro que iniciou as operações para divulgar o desempenho residual de baterias de alta tensão em veículos elétricos usados (EVs) certificados.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:09+00:00"
   },
   {
     "id": "241b965e921d7c1e0f86",
@@ -1227,11 +1450,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O sedã Audi-look Arrizo 7 da Chery entra em produção com 1.700 km de autonomia híbrida",
+    "translated_summary": "O conceito Arrizo S de 257 cv da Chery torna-se o Arrizo 7 de produção, trocando seu motor 2.0T por 1.5T a gasolina e potência híbrida C-DM. O pós Chery Audi-look Arrizo 7 sedan entra em produção com 1.700 km de alcance híbrido apareceu pela primeira vez em CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:12+00:00"
   },
   {
     "id": "0392209e997f8048ed4b",
@@ -1246,11 +1469,11 @@
     "published_at": "2026-11-05T02:52:34+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Acidente de trem espanhol, dois japoneses confirmados mortos, funcionário do Ministério das Relações Exteriores",
+    "translated_summary": "Um alto funcionário do Ministério das Relações Exteriores confirmou a morte de dois cidadãos japoneses cujos nomes apareceram no manifesto de passageiros em um acidente em que um trem de alta velocidade colidiu com outro trem no centro da Espanha.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:15+00:00"
   },
   {
     "id": "2bed580fe563c0f617f5",
@@ -1267,11 +1490,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Zeekr inicia pré-venda para 7X atualizado na China por $ 34.220 com upgrades de bateria e conforto",
+    "translated_summary": "O preço inicial de pré-venda permanece inalterado em relação ao modelo anterior, com um padrão de arquitetura de 900 volts e uma nova opção de bateria de 85 kWh. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:17+00:00"
   },
   {
     "id": "d539fc45e63cd6e32d4c",
@@ -1288,11 +1511,11 @@
     "topics": [
       "Nissan"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nissan lança Black Edition, um veículo especial para o 35º aniversário da Serena",
+    "translated_summary": "A Nissan Motor lançou a minivan \"Serena\" em 5 de novembro com uma alteração parcial nas especificações. Os preços variam de 2.789.600 ienes a 3.542.000 ienes para modelos a gasolina (2WD/4WD), 3.329 ienes a 4.797.100 ienes para modelos e-POWER (2WD) e 3.636.000 ienes a 4.188.800 ienes para modelos e-4ORECE (4WD).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:20+00:00"
   },
   {
     "id": "edee436aca9ab5739a42",
@@ -1307,11 +1530,11 @@
     "published_at": "2026-11-05T01:47:28+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Baidu revela o modelo Apollo World para permitir que a IA ensine a dirigir",
+    "translated_summary": "O modelo usa agentes de IA para simular o tráfego e já está apoiando os testes e validações globais da Apollo Go. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:23+00:00"
   },
   {
     "id": "504364f5ecdd165286fb",
@@ -1326,11 +1549,11 @@
     "published_at": "2026-11-05T00:00:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Mitsubishi Motors melhora a funcionalidade com o novo modo de rock de estreia mundial \"Outlander Diamond Trail Edition\"",
+    "translated_summary": "No dia 3 de novembro (hora local), a Mitsubishi Motors North America (MMNA) revelou a estreia mundial da Outlander Diamond Trail Edition no SEMA Show 2026, realizado no Centro de Convenções de Las Vegas, nos Estados Unidos, a performance mais off-road e aventura da história de Outlander.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:26+00:00"
   },
   {
     "id": "7258d436c9a139a85a99",
@@ -1345,11 +1568,11 @@
     "published_at": "2026-11-04T23:56:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ruan Qingyi, Membro do Birô Político do Comitê Central do Partido Comunista do Vietnã, Secretário do Secretariado Central e Ministro da Política e Estratégia Central, visitou a Província de Zhejiang, China - cn.baochinhphu.vn",
+    "translated_summary": "Ruan Qingyi, membro do Birô Político do Comitê Central do Partido Comunista do Vietnã, secretário do Secretariado Central e ministro do Departamento Central de Política e Estratégia, visitou a província chinesa de Zhejiang",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:29+00:00"
   },
   {
     "id": "089f8a248810ccff7c46",
@@ -1367,11 +1590,11 @@
       "Geopolítica",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O que significa o controle democrata do Congresso para a agenda de política externa de Trump? - Chinês do Wall Street Journal",
+    "translated_summary": "O que significa o controle democrata do Congresso para a agenda de política externa de Trump? Chinês do Wall Street Journal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:32+00:00"
   },
   {
     "id": "74dd892ad2ef0af5e920",
@@ -1386,11 +1609,11 @@
     "published_at": "2026-11-04T23:17:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O primeiro-ministro Takaichi descansa em 4 de novembro de 2026",
+    "translated_summary": "(O primeiro-ministro Takaichi se muda em 4 de novembro de 2026)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:35+00:00"
   },
   {
     "id": "4f03af63c43a3b776bf2",
@@ -1407,11 +1630,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "HRC estreia nova pista de troféus Honda Passport Baja Speck no SEMA Show 2026",
+    "translated_summary": "No dia 3 de novembro (hora local), a Honda Racing Corporation usa (HRC US), a empresa norte-americana de automobilismo da Honda Motor Corporation, revelou a nova pista de corrida \"Honda Passport Baja Spec\" ao público pela primeira vez no estande da HRC no Sema Show de 2026 em Las Vegas, EUA.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:37+00:00"
   },
   {
     "id": "ab4d18e3b86438d219c9",
@@ -1426,11 +1649,11 @@
     "published_at": "2026-11-04T22:14:53+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Jetour T1 da Chery é lançado na China a partir de 12.500 USD com Deepseek e alcance elétrico de 150 km",
+    "translated_summary": "O Jetour T1 da Chery é lançado na China a partir de 89.900 yuans (13.500 USD), adicionando um modelo 1.5T FWD e um híbrido plug-in C-DM de 150 km. O post Jetour T1 da Chery é lançado na China a partir de 12.500 USD com Deepseek e 150 km de alcance elétrico apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T02:57:40+00:00"
   },
   {
     "id": "a756061e6b94ace5e93a",
