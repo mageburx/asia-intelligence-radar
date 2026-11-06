@@ -74,7 +74,8 @@
     "published_at": "2026-11-06T17:17:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Indústria e produção"
+      "Indústria e produção",
+      "Fábricas e produção"
     ],
     "translation_status": "translated",
     "translated_title": "A fábrica II no Schießtal é vendida: Bosch permanece em locação em Schwäbisch Gmünd: - Gmünder Tagespost",
@@ -961,7 +962,8 @@
     "published_at": "2026-11-06T13:00:02+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Indústria e produção"
+      "Indústria e produção",
+      "Fábricas e produção"
     ],
     "translation_status": "translated",
     "translated_title": "Schwäbisch Gmünd: Bosch vende a fábrica 2 em Schießtal para Gewerbepark GmbH - Rems-Zeitung",
@@ -982,7 +984,9 @@
     "original_summary": "Bosch-Betriebsrat Brandsch zur Ausgliederung: „Drohender Personalabbau überlagert alles“ NN.de",
     "published_at": "2026-11-06T12:55:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização"
+    ],
     "translation_status": "translated",
     "translated_title": "Bosch Works Council Brandsch on the spin-off: \"Redução de pessoal ameaçadora sobrepõe tudo\" - NN.de",
     "translated_summary": "Bosch Works Council Brandsch sobre a cisão: \"Redução de pessoal ameaçadora sobrepõe tudo\" NN.de",
@@ -1160,7 +1164,10 @@
     "original_summary": "Mitarbeitende aller Schichten von Bosch Rexroth in Elchingen beteiligen sich an Warnstreik swp.de",
     "published_at": "2026-11-06T12:19:32+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização",
+      "Bosch Rexroth"
+    ],
     "translation_status": "translated",
     "translated_title": "Funcionários de todos os turnos da Bosch Rexroth em Elchingen estão participando de uma greve de advertência - swp.de",
     "translated_summary": "Funcionários de todos os turnos da Bosch Rexroth em Elchingen participam da greve de advertência swp.de",
@@ -1241,7 +1248,9 @@
     "original_summary": "Condenação da Bosch no despedimento de ex-CEO português: \"Pedido de desculpas não apagará o sofrimento\" Jornal de Negócios",
     "published_at": "2026-11-06T12:01:01+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização"
+    ],
     "translation_status": "translated",
     "translated_title": "Condenação da Bosch no despedimento de ex-CEO português: \"Pedido de desculpas não apagará o sofrimento\" - Jornal de Negócios",
     "translated_summary": "Condenação da Bosch no despedimento de ex-CEO português: \"Pedido de desculpas não apagará o sofrimento\" Jornal de Negócios",
@@ -1622,7 +1631,9 @@
     "original_summary": "MVTec, BMG und Bosch Rexroth kooperieren inVISION | Bildverarbeitung",
     "published_at": "2026-11-06T10:46:12+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Bosch Rexroth"
+    ],
     "translation_status": "translated",
     "translated_title": "MVTec, BMG e Bosch Rexroth cooperam - inVISION | Processamento de imagem",
     "translated_summary": "MVTec, BMG e Bosch Rexroth cooperam em Visão | Processamento de imagem",
@@ -1961,11 +1972,11 @@
     "published_at": "2026-11-06T09:50:29+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A SEMICON 2.0 será bem-sucedida se a Índia atrair grandes fabricantes de equipamentos, produtos químicos e gases: Ashwini Vaishnaw - electronics.economictimes.indiatimes.com",
+    "translated_summary": "A SEMICON 2.0 será bem-sucedida se a Índia atrair grandes fabricantes de equipamentos, produtos químicos e gases: Ashwini Vaishnaw electronics.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:30+00:00"
   },
   {
     "id": "391f19581b521d2b90b8",
@@ -1982,11 +1993,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O discurso da cidade de Nissango \"Taiwan tem um problema\" será um ano inteiro em que o Ministério das Relações Exteriores da China gritou \"corrija as palavras e ações erradas o mais rápido possível\" - TaiSounds",
+    "translated_summary": "Nissango City \"Taiwan tem um problema\" discurso será concluído um ano depois que o Ministério das Relações Exteriores da China gritou \"o mais rápido possível para corrigir as palavras e ações erradas\" TaiSounds",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:32+00:00"
   },
   {
     "id": "daa71430071ab2f794b3",
@@ -2021,11 +2032,11 @@
     "published_at": "2026-11-06T09:43:41+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Um dia na vida de um representante de IA no Serviço Nacional de Dados - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Um dia na vida de um representante de IA no Serviço Nacional de Dados - Vídeo | Multimedia Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:35+00:00"
   },
   {
     "id": "a81529b2b1ffe5116acb",
@@ -2120,11 +2131,11 @@
     "published_at": "2026-11-06T09:20:17+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Entrevista com o Sr. Sumanta Chaudhuri [Parte II] - The Policy Edge",
+    "translated_summary": "Entrevista com o Sr. Sumanta Chaudhuri [Parte II] The Policy Edge",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:37+00:00"
   },
   {
     "id": "5c13d319268dfd1b2cf7",
@@ -2139,7 +2150,10 @@
     "original_summary": "Bosch revenue rises 28.2% as mobility sales gain 29.8% Multibagg AI",
     "published_at": "2026-11-06T09:18:35+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Mobilidade",
+      "Resultados e investimentos"
+    ],
     "translation_status": "translated",
     "translated_title": "Receita da Bosch sobe 28,2% à medida que as vendas de mobilidade ganham 29,8% - Multibagg AI",
     "translated_summary": "A receita da Bosch aumenta 28,2% à medida que as vendas de mobilidade aumentam 29,8% Multibagg AI",
@@ -2197,11 +2211,11 @@
     "published_at": "2026-11-06T09:14:38+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vendas de carros novos no Reino Unido sobem 5,4% em outubro, mostra dados da SMMT - ET Auto",
+    "translated_summary": "Vendas de carros novos no Reino Unido sobem 5,4% em outubro, mostram dados da SMMT ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:40+00:00"
   },
   {
     "id": "c27074aea1dbbc162fde",
@@ -2216,7 +2230,9 @@
     "original_summary": "Bosch Limited Q2 profit rises 19% as revenue gains 28.2% Multibagg AI",
     "published_at": "2026-11-06T09:12:29+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Resultados e investimentos"
+    ],
     "translation_status": "translated",
     "translated_title": "Lucro da Bosch Limited no segundo trimestre aumenta 19% à medida que a receita aumenta 28,2% - Multibagg AI",
     "translated_summary": "Lucro da Bosch Limited no segundo trimestre aumenta 19% à medida que a receita aumenta 28,2% Multibagg AI",
@@ -2317,11 +2333,11 @@
     "published_at": "2026-11-06T08:32:17+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Expansion Summit in Timor-Leste - Photos | Multimedia - South Korea Policy Briefing",
+    "translated_summary": "Expansão da Cimeira de Timor-Leste - Fotos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:42+00:00"
   },
   {
     "id": "5ebfc035e9dd342e0777",
@@ -2338,11 +2354,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Gaoshi Early Seedlings \"Something's Wrong in Taiwan\" Aniversário de um ano! O Ministério das Relações Exteriores da República Popular da China gira e evita se esquivar - Zhongtian News Network",
+    "translated_summary": "Gaoshi Early Seedlings \"Something's Wrong in Taiwan\" Aniversário de um ano! O Ministério das Relações Exteriores da República Popular da China deu meia volta e evadiu a Zhongtian News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:45+00:00"
   },
   {
     "id": "620bebea90e24e41827c",
@@ -2397,11 +2413,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Maharashtra visa 30% de registos de veículos elétricos até 2030 para impulsionar um futuro mais verde - ET Auto",
+    "translated_summary": "Maharashtra tem como meta 30% de registos de veículos elétricos até 2030 para impulsionar um futuro ET Auto mais verde",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:47+00:00"
   },
   {
     "id": "4797bdcfb4568a5daf31",
@@ -2541,11 +2557,11 @@
     "published_at": "2026-11-06T08:01:07+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "India Sugar Market: AISTA MSP Hike Demand and Its Price Impact — Notícias da CMB - Notícias da CMB",
+    "translated_summary": "Mercado de açúcar da Índia: demanda de aumento de MSP da AISTA e seu impacto no preço — CMB News CMB News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:49+00:00"
   },
   {
     "id": "d290b1d27f0d2d4abf46",
@@ -2712,11 +2728,11 @@
     "published_at": "2026-11-06T07:35:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BMW e Mercedes-Benz cooperam para entrar no mercado de capitais na indústria de cobrança de Taiwan - Yahoo News",
+    "translated_summary": "BMW e Mercedes-Benz cooperam na indústria de cobrança de Taiwan para entrar no mercado de capitais Yahoo News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:52+00:00"
   },
   {
     "id": "d8140e27c3d403e58a61",
@@ -2731,11 +2747,11 @@
     "published_at": "2026-11-06T07:34:09+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[O governo reiterou sua posição inalterada sobre Taiwan um ano após o discurso \"Something Happened in Taiwan\" do Gao City Early Seedlings] Um ano atrás, Pequim também pediu repetidamente ao Japão que retirasse sua declaração relevante. (# pigskin) - Facebook",
+    "translated_summary": "[O governo reiterou sua posição inalterada sobre Taiwan um ano após o discurso \"Something Happened in Taiwan\" do Gao City Early Seedlings] Um ano atrás, Pequim também pediu repetidamente ao Japão que retirasse sua declaração relevante. (# pigskin) Facebook",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:54+00:00"
   },
   {
     "id": "8ac54685814c6af8932a",
@@ -2794,11 +2810,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reunião Consultiva de Cooperação Agrícola Taiwan-Indonésia Ministério das Relações Exteriores: Melhorando o Intercâmbio de Segurança Alimentar | China Radio - Line hoje",
+    "translated_summary": "Reunião Consultiva de Cooperação Agrícola Taiwan-Indonésia Ministério das Relações Exteriores: Fortalecimento do Intercâmbio de Segurança Alimentar | Line hoje",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:57+00:00"
   },
   {
     "id": "7bb3a424bb234fdda2f5",
@@ -2984,11 +3000,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Universidade de Zhongzheng realizou o \"Fórum de Carregamento e Descarregamento Bidirecional de Veículos Elétricos e Integração de Micro Rede e Atividade de Exposição de Demonstração - Boletim do Povo de Taiwan",
+    "translated_summary": "A Universidade de Zhongzheng realizou o \"Fórum e Exposição de Carregamento e Descarregamento Bidirecional de Veículos Elétricos e Integração de Microrredes\" Boletim do Povo de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:00+00:00"
   },
   {
     "id": "0e60ab1b67996f6ee4dd",
@@ -3005,11 +3021,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Ministério das Relações Exteriores do Pavilhão da América Latina e Caribe convida você a experimentar a beleza da amizade | China Central Radio - Line hoje",
+    "translated_summary": "O Ministério das Relações Exteriores convida você a experimentar a beleza da amizade na exposição \"Pavilhão da América Latina e Caribe\" | Line hoje",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:02+00:00"
   },
   {
     "id": "edf8440f88705c707cd8",
@@ -3123,11 +3139,11 @@
     "published_at": "2026-11-06T06:50:28+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Kia cria ecossistema PBV em Jeonnam Gwangju... Vendas da Hankook Tire no terceiro trimestre de KRW 5,445 trilhões e outros [Si-Kyung Today-Automobile] - Jornal de economia de mercado",
+    "translated_summary": "Kia Cria Ecossistema PBV em Jeonnam Gwangju... Vendas da Hankook Tire no 3º Trimestre de KRW 5,445 Trilhões e Outros Jornais Econômicos do Mercado [Si-Kyung Today-Automotive]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:05+00:00"
   },
   {
     "id": "8b1108d12231c922fdd1",
@@ -3144,11 +3160,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reunião Consultiva de Cooperação Agrícola Taiwan-Indonésia Ministério dos Negócios Estrangeiros: Reforçar o Intercâmbio de Segurança Alimentar - Rti Central Radio",
+    "translated_summary": "Reunião Consultiva de Cooperação Agrícola Taiwan-Indonésia Ministério das Relações Exteriores: Melhorando o Intercâmbio de Segurança Alimentar Estação Central de Rádio Rti",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:08+00:00"
   },
   {
     "id": "6b68f51fbab7b31a74fa",
@@ -3222,11 +3238,11 @@
     "published_at": "2026-11-06T06:26:54+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Float Wrap, Know and Prevent - Card/Han Cut | Multimídia - Briefing de Política da Coreia do Sul",
+    "translated_summary": "Float Winding, Know and Prevent - Card/Hankut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:10+00:00"
   },
   {
     "id": "3b38f35affdda5f2b801",
@@ -3263,11 +3279,11 @@
     "published_at": "2026-11-06T06:16:48+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "No aniversário da resposta \"Taiwan tem um problema\" de Gaoshi, o governo reiterou sua posição inalterada - Liberty Times",
+    "translated_summary": "No aniversário da resposta \"Taiwan tem um problema\" de Gaoshi, o governo reiterou sua posição inalterada. The Freedom Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:13+00:00"
   },
   {
     "id": "e60020a13013d42045c5",
@@ -3362,11 +3378,11 @@
     "published_at": "2026-11-06T05:37:24+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BMW Stock: Kepler fica na Reduce - Börse Express",
+    "translated_summary": "Ação da BMW: Kepler permanece na Reduce Stock Exchange Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:15+00:00"
   },
   {
     "id": "9fc063f36d2a4d86edde",
@@ -3516,11 +3532,11 @@
     "published_at": "2026-11-06T04:55:06+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As vozes do site de pesquisa, agora em apenas um texto! - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "As vozes do site de pesquisa, agora em apenas um texto! - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:18+00:00"
   },
   {
     "id": "f8bebc56acd40e449a6b",
@@ -3615,11 +3631,11 @@
     "published_at": "2026-11-06T04:05:37+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "2330 TSMC - Peng Jinlong disse para salvar a cidade, como salvá-la? Como o governo taiwanês pode salvá-los? - Reunião de denunciantes do mercado de ações - CMoney",
+    "translated_summary": "2330 TSMC - Peng Jinlong disse para salvar a cidade, como salvá-la? Como o governo taiwanês pode salvá-los? - Stock Market Breaking Alumni Association CMoney",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:20+00:00"
   },
   {
     "id": "d2b546ae45e09b32193d",
@@ -3634,7 +3650,9 @@
     "original_summary": "Warnstreik heute bei Bosch, MAN und Siemens in Nürnberg: „Letzte Warnung“ vor Urabstimmung NN.de",
     "published_at": "2026-11-06T04:00:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização"
+    ],
     "translation_status": "translated",
     "translated_title": "Greve de advertência hoje na Bosch, MAN e Siemens em Nuremberg: \"Último aviso\" antes da votação - NN.de",
     "translated_summary": "Greve de advertência hoje na Bosch, MAN e Siemens em Nuremberg: \"Último aviso\" antes da votação NN.de",
@@ -3776,11 +3794,11 @@
     "published_at": "2026-11-06T03:18:25+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Governo revisa sistemas de computador antigos para evitar atrasos nas mudanças de políticas - United Morning Post",
+    "translated_summary": "Governo revisa sistemas de computador envelhecidos para evitar atrasos nas mudanças de políticas Joint Morning Post",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:23+00:00"
   },
   {
     "id": "d59c308e34379a2c31ca",
@@ -3910,11 +3928,11 @@
     "published_at": "2026-11-06T02:55:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O governo de Taiwan sofre 2,8 milhões de ataques cibernéticos todos os dias! Qual é o verdadeiro propósito dos hackers que visam hospitais, eletricidade? | Margaret Wei | Wind Life - Mídia Eólica",
+    "translated_summary": "O governo de Taiwan sofre 2,8 milhões de ataques cibernéticos todos os dias! Qual é o verdadeiro propósito dos hackers que visam hospitais, eletricidade? | Margaret Wei | Fashion Lifestyle Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:25+00:00"
   },
   {
     "id": "5ec903fea910519f6111",
@@ -4109,11 +4127,11 @@
     "published_at": "2026-11-06T02:29:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"A Hyundai Motor e a Genesis foram todas ultrapassadas\" … Sedan grande dominado por carros domésticos e selecionado como 'carro do mês' - Topictree",
+    "translated_summary": "\"A Hyundai Motor e a Genesis foram todas ultrapassadas\"... Grande árvore de tópicos de sedã dominada por carros domésticos e selecionada como 'carro do mês'",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:27+00:00"
   },
   {
     "id": "5b136cf90d5215e10c7a",
@@ -4252,11 +4270,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "45.000 lugares para criar uma visão de 360 graus da competição! A Super Dome de Taiwan introduz 60 bilhões de dólares em investimentos, e o governo municipal se une ao setor privado para construir locais de classe internacional - Rede de Informações Globais do Governo Municipal de Taichung",
+    "translated_summary": "45.000 lugares para criar uma visão de 360 graus da competição! O Super Dome de Taiwan introduz 60 bilhões de dólares em investimentos e o governo municipal se une ao setor privado para construir um local de nível internacional. Rede Global de Informações do Governo da Cidade de Taichung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:30+00:00"
   },
   {
     "id": "5063fac597e70fcaef14",
@@ -4271,11 +4289,11 @@
     "published_at": "2026-11-06T01:39:11+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motors Targets Downward… Vendor Emergency - Small Business Newspaper",
+    "translated_summary": "A Hyundai rebaixou sua meta... Jornal de Emergência para Pequenas Empresas do Fornecedor",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:33+00:00"
   },
   {
     "id": "4d741eaed2878fee0c7b",
@@ -4390,11 +4408,11 @@
     "published_at": "2026-11-06T00:45:30+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Você conhece o sabor de fissuras? (Deus) (velho) Confronto! - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Você conhece o sabor de fissuras? (Deus) (velho) Confronto! - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:35+00:00"
   },
   {
     "id": "c2815df6bfd5a016dbb9",
@@ -4409,11 +4427,11 @@
     "published_at": "2026-11-06T00:45:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fraudes de fretamento, você pode detê-las se souber e se preparar! - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Fraudes de fretamento, você pode detê-las se souber e se preparar! - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:38+00:00"
   },
   {
     "id": "fcf59e4a23dafb483ccd",
@@ -4471,11 +4489,11 @@
     "published_at": "2026-11-05T23:21:29+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "É improvável que o Congresso Democrata reformule a política dos EUA em relação à Ásia - upi",
+    "translated_summary": "É improvável que o Congresso Democrata reformule a política dos EUA em relação à Ásia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:24:40+00:00"
   },
   {
     "id": "bbcbd8b4d8d41cfa5d0b",
@@ -4615,7 +4633,8 @@
     "published_at": "2026-11-05T22:34:41+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Indústria e produção"
+      "Indústria e produção",
+      "Fábricas e produção"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch-Werk em Braga „nimmt Normalbetrieb wieder auf“ - Residente em Portugal",
@@ -5279,7 +5298,9 @@
     "original_summary": "Bosch Business Innovations erweitert Investmentfokus auf die Resilienz kritischer Infrastrukturen ad-hoc-news.de",
     "published_at": "2026-11-05T15:33:46+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Resultados e investimentos"
+    ],
     "translation_status": "translated",
     "translated_title": "Bosch Business Innovations expande o foco de investimento para a resiliência de infraestruturas críticas - ad-hoc-news.de",
     "translated_summary": "Bosch Business Innovations expande o foco de investimento para a resiliência de infraestruturas críticas ad-hoc-news.de",
@@ -5461,7 +5482,8 @@
     "published_at": "2026-11-05T14:25:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Indústria e produção"
+      "Indústria e produção",
+      "Emprego e reorganização"
     ],
     "translation_status": "translated",
     "translated_title": "Chefe do conselho de trabalhadores da Bosch sobre cortes de empregos planejados: \"Um verdadeiro martelo para Abstatt\" - voz",
@@ -5595,6 +5617,26 @@
     "last_translation_attempt_at": "2026-11-06T02:05:41+00:00"
   },
   {
+    "id": "1d7bd01a043ce59b28fd",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tTEF4aWJaMGQ3SUxoTVRWRVlpRndDR1g2SmR6VWIzeDhfUnVpVnJ3V1VKR2pGS0xObnBEM3FwY3NCdnMzcHpiVlZfa2xJZXRXd2JFYUp1RG5Sc0d0MFh4SThscw?oc=5",
+    "original_title": "부산서 베일 벗은 신형 8세대 아반떼…현대차 ‘AI 자동차’ 대중화 시동 [2026 부산모빌리티쇼] - 쿠키뉴스",
+    "original_summary": "부산서 베일 벗은 신형 8세대 아반떼…현대차 ‘AI 자동차’ 대중화 시동 [2026 부산모빌리티쇼] 쿠키뉴스",
+    "published_at": "2026-11-05T13:33:44+00:00",
+    "first_seen_at": "2026-11-06T19:22:48+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Busanseo Revelou a Nova 8ª Geração Avante… O 'Carro AI‘ da Hyundai Começa a Popularização [Busan Mobility Show 2026] - Notícias sobre Cookies",
+    "translated_summary": "Busanseo Bale Revelou a Nova 8ª Geração Avante… O 'Carro AI‘ da Hyundai Começa a Popularizar [Busan Mobility Show 2026] Notícias sobre Cookies",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:04+00:00"
+  },
+  {
     "id": "6e664d517a1a30a0008c",
     "country": "China",
     "category": "Política",
@@ -5668,7 +5710,9 @@
     "original_summary": "Trotz Bosch-Stellenabbau in Abstatt: Standortbekenntnis ist „wichtiges Signal“ Stimme",
     "published_at": "2026-11-05T13:12:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização"
+    ],
     "translation_status": "translated",
     "translated_title": "Trotz Bosch-Stellenabbau in Abstatt: Standortbekenntnis ist „wichtiges Signal“ - Stimme",
     "translated_summary": "Trotz Bosch-Stellenabbau em Abstatt: Standortbekenntnis ist „wichtiges Signal“ Stimme",
@@ -5929,7 +5973,9 @@
     "original_summary": "Bosch Blue Disc Brake Rotors Line Announced Brake & Front End",
     "published_at": "2026-11-05T12:00:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Mobilidade"
+    ],
     "translation_status": "translated",
     "translated_title": "Linha de Rotores de Freio a Disco Azul Bosch Anunciada - Freio e Extremidade Frontal",
     "translated_summary": "Linha de rotores de freio a disco azul Bosch anunciada Freio e extremidade dianteira",
@@ -6266,7 +6312,9 @@
     "original_summary": "Brake-by-Wire made in China: Bosch baut in Abstatt 750 Jobs ab heise online",
     "published_at": "2026-11-05T09:51:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Mobilidade"
+    ],
     "translation_status": "translated",
     "translated_title": "Brake-by-Wire made in China: Bosch baut in Abstatt 750 Jobs ab - heise online",
     "translated_summary": "Brake-by-Wire made in China: Bosch baut in Abstatt 750 Jobs ab heise online",
@@ -6350,7 +6398,8 @@
     "published_at": "2026-11-05T09:33:39+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch coloca o negócio de semicondutores por conta própria | - AUTO & Wirtschaft",
@@ -6891,7 +6940,9 @@
     "original_summary": "Stellenabbau in Abstatt: Bosch streicht weitere 750 Jobs Wochenblatt Reporter",
     "published_at": "2026-11-05T07:32:23+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Emprego e reorganização"
+    ],
     "translation_status": "translated",
     "translated_title": "Stellenabbau em Abstatt: Bosch streicht weitere 750 Jobs - Wochenblatt Reporter",
     "translated_summary": "Stellenabbau in Abstatt: Bosch streicht weitere 750 Empregos Repórter Wochenblatt",
@@ -7069,7 +7120,10 @@
     "original_summary": "Bosch Rexroth und seine Partner treiben die Automatisierungstechnik voran. Vietnam.vn",
     "published_at": "2026-11-05T06:41:04+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Bosch Rexroth",
+      "IA e automação"
+    ],
     "translation_status": "translated",
     "translated_title": "A Bosch Rexroth e os seus parceiros estão a impulsionar a tecnologia de automação. - Vietnam.vn",
     "translated_summary": "A Bosch Rexroth e os seus parceiros estão a impulsionar a tecnologia de automação. Vietnam.vn",
@@ -8002,6 +8056,26 @@
     "last_translation_attempt_at": "2026-11-06T19:17:23+00:00"
   },
   {
+    "id": "68a18207e04560c77c29",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTFqcW0yYjFhM0pXMF9qd0dBVklteWZVMUN0d3BKNUZVM3VEVVczNEdrYXpqUmVIWWI0RGNIVHBwUVVwN1dOemhjUjdhem9LdzlaTXFmdVBCYlB2NGloNnU2QW9OWGxwZ25ENnVYNk5qTmkzMlZSSkVyaGZVWUlObjQ4Q0ptVnNDaUpUaFpVelNqNWNEM0Jtck0tc2xlSnM3M3NEY053NA?oc=5",
+    "original_title": "Mercedes-Benz Aktie: Abfindungsprogramm kommt zurück - Börse Express",
+    "original_summary": "Mercedes-Benz Aktie: Abfindungsprogramm kommt zurück Börse Express",
+    "published_at": "2026-11-05T02:21:07+00:00",
+    "first_seen_at": "2026-11-06T19:22:48+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ação Mercedes-Benz: Devoluções do programa de rescisão - Börse Express",
+    "translated_summary": "Compartilhamento Mercedes-Benz: Programa de desligamento volta Börse Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:01+00:00"
+  },
+  {
     "id": "69852b209598db06d027",
     "country": "Singapura",
     "category": "Política",
@@ -8883,7 +8957,9 @@
     "original_summary": "Bosch Launches Bosch Blue Brake Rotors With 830 Part Numbers The BRAKE Report",
     "published_at": "2026-11-04T15:26:13+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Mobilidade"
+    ],
     "translation_status": "translated",
     "translated_title": "Bosch Lança Rotores de Freio Azul Bosch com 830 Números de Peça - O Relatório DE FREIO",
     "translated_summary": "Bosch Lança Rotores de Freio Azul Bosch Com 830 Números de Peça O Relatório DE FREIO",
@@ -9063,7 +9139,8 @@
     "published_at": "2026-11-04T14:00:41+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch Lança Unidade de Semicondutores - Paquistão Digital",
@@ -10160,13 +10237,14 @@
     "published_at": "2026-11-04T08:35:27+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Bosch da Alemanha diz que vai desmembrar o negócio de semicondutores em janeiro de 2028 - electronics.economictimes.indiatimes.com",
+    "translated_summary": "A alemã Bosch diz que vai desmembrar o negócio de semicondutores em janeiro de 2028 electronics.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:07+00:00"
   },
   {
     "id": "a8c5a102e6f1d5a6885d",
@@ -10686,11 +10764,11 @@
     "published_at": "2026-11-04T05:42:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Technologiekonzern: Konkurrenz aus Asien setzt Bosch in Abstatt unter Druck - STERN.de",
+    "translated_summary": "Technologiekonzern: Konkurrenz aus Asien setzt Bosch em Abstatt unter Druck STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:10+00:00"
   },
   {
     "id": "81c6322847f0c2dd347f",
@@ -11514,12 +11592,14 @@
     "original_summary": "SWR Aktuell. . Über die sogenannte Personal-Drehscheibe unterstützt Bosch Mitarbeitende bei der Jobsuche: https://1.ard.de/vonboschzutuev. Seit Mitte 2024 haben rund 1.500 Beschäftigte das Angebot genutzt. Einer davon ist Maximilien Habchi, der nach 1 Facebook",
     "published_at": "2026-11-03T14:40:06+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "topics": [
+      "Emprego e reorganização"
+    ],
+    "translation_status": "translated",
+    "translated_title": "SWR Aktuell. A Bosch apoia os funcionários na sua procura de emprego através do chamado hub de pessoal: https://1.ard.de/vonboschzutuev. Desde meados de 2024, cerca de 1.500 funcionários aproveitaram a oferta. Um deles é Maximilien Habchi, que segundo 1 - Facebook",
+    "translated_summary": "SWR Aktuell. A Bosch apoia os funcionários na sua procura de emprego através do chamado hub de pessoal: https://1.ard.de/vonboschzutuev. Desde meados de 2024, cerca de 1.500 funcionários aproveitaram a oferta. Um deles é Maximilien Habchi, que de acordo com 1 Facebook",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:12+00:00"
   },
   {
     "id": "65f1c04e1014587cef89",
@@ -11554,7 +11634,8 @@
     "published_at": "2026-11-03T14:02:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch criará divisão de semicondutores para lucrar com a crescente demanda por chips - WSJ",
@@ -11595,13 +11676,14 @@
     "published_at": "2026-11-03T14:00:08+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bosch fortalece negócio de semicondutores com divisão dedicada - DQ",
+    "translated_summary": "Bosch fortalece seu negócio de semicondutores com uma divisão dedicada DQ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:15+00:00"
   },
   {
     "id": "f5765005386b5038b517",
@@ -11677,7 +11759,8 @@
     "published_at": "2026-11-03T13:30:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch reestruturará negócios de semicondutores a partir de 2028 - electrive.net",
@@ -11741,13 +11824,14 @@
     "published_at": "2026-11-03T12:24:20+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bosch estabelece divisão própria de semicondutores a partir de 2028 - all-electronics.de",
+    "translated_summary": "Bosch estabelece divisão própria de semicondutores a partir de 2028 all-electronics.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:17+00:00"
   },
   {
     "id": "d19bddc4b2dd7a5bcfa8",
@@ -11827,7 +11911,10 @@
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
       "Indústria e produção",
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores",
+      "Fábricas e produção",
+      "Resultados e investimentos"
     ],
     "translation_status": "translated",
     "translated_title": "Bosch prevê cinco mil milhões de euros em vendas de semicondutores até 2030 - TradingView",
@@ -11848,12 +11935,14 @@
     "original_summary": "Bosch bündelt Chipgeschäft in eigener Sparte Automobilwoche",
     "published_at": "2026-11-03T10:56:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "topics": [
+      "Semicondutores e sensores"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch agrupa negócio de chips em divisão própria - Automobile Week",
+    "translated_summary": "Bosch reúne negócio de chips na sua própria divisão Automotive Week",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:20+00:00"
   },
   {
     "id": "5578612ee59640731510",
@@ -11911,7 +12000,8 @@
     "published_at": "2026-11-03T10:00:07+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Grupo de tecnologia - Bosch continua a reconstruir: Unidade de negócios própria de semicondutores - Economia - SZ.de - SZ.de",
@@ -11933,7 +12023,9 @@
     "published_at": "2026-11-03T09:55:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [
-      "Semicondutores"
+      "Semicondutores",
+      "IA e automação",
+      "Semicondutores e sensores"
     ],
     "translation_status": "translated",
     "translated_title": "Olhando para os mercados futuros: Bosch fortalece seu negócio de semicondutores com divisão própria",
@@ -12014,12 +12106,15 @@
     "original_summary": "Bosch Rexroth zeigt Agentic AI und mobile humanoide Robotik auf der SPS 2026 PresseBox",
     "published_at": "2026-11-03T08:50:00+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "topics": [
+      "Bosch Rexroth",
+      "IA e automação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch Rexroth mostra IA Agentic e robótica humanóide móvel no PLC 2026 - PresseBox",
+    "translated_summary": "Bosch Rexroth mostra IA Agentic e robótica humanóide móvel no PLC 2026 PresseBox",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:22+00:00"
   },
   {
     "id": "daee06d25781518e56ba",
@@ -13398,7 +13493,9 @@
     "original_summary": "Bosch Announces Major Mobility Business Restructuring: What Does It Mean for Bosch eBike Systems? TodoMountainBike",
     "published_at": "2026-11-02T07:00:46+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
-    "topics": [],
+    "topics": [
+      "Mobilidade"
+    ],
     "translation_status": "translated",
     "translated_title": "Bosch anuncia grande reestruturação de negócios de mobilidade: o que isso significa para os sistemas de eBike da Bosch? - TodoMountainBike",
     "translated_summary": "Bosch anuncia grande reestruturação de negócios de mobilidade: o que isso significa para os sistemas de eBike da Bosch? TodoMountainBike",
@@ -13667,11 +13764,11 @@
     "published_at": "2026-11-01T17:14:29+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reorganização Bosch: O acordo coletivo continua em vigor – e o que será da segurança do emprego até 2027? - Anwalt.de",
+    "translated_summary": "Reorganização Bosch: O acordo coletivo continua em vigor – e o que será da segurança do emprego até 2027? Anwalt.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:25+00:00"
   },
   {
     "id": "68ffc436867d7760a6d3",
@@ -14214,11 +14311,11 @@
     "published_at": "2026-10-31T12:03:02+00:00",
     "first_seen_at": "2026-11-06T19:17:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cisão Bosch: O que acontece com o contrato de trabalho, proteção contra demissão e pensão da empresa? - Anwalt.de",
+    "translated_summary": "Cisão Bosch: O que acontece com o contrato de trabalho, proteção contra demissão e pensão da empresa? Anwalt.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:23:27+00:00"
   },
   {
     "id": "086391774d0bbf0ec721",
