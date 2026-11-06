@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime,timedelta,timezone
-from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags
+from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto
 from asia_radar.report import make_payload,export_archive_csv,safe_csv
 from asia_radar.collector import detect_source_lang,feed_url,ROOT,retain_archive,ARCHIVE_DAYS
 import json, csv, tempfile
@@ -24,6 +24,25 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(trend_data(articles,now)[0]["status"],"A monitorizar")
         articles[2]["publisher"]="Fonte B"
         self.assertEqual(trend_data(articles,now)[0]["status"],"Tema emergente")
+    def test_new_public_rss_sources(self):
+        sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
+        self.assertEqual(len(sources),41)
+        ids={s["id"]:s for s in sources}
+        expected={"de-bundesregierung-official","de-bundestag-official",
+                  "kr-koreaherald-business","kr-yonhap-national","tw-taipeitimes",
+                  "in-etauto-industry","in-etauto-components","sg-straitstimes","china-scmp-china"}
+        self.assertTrue(expected.issubset(ids))
+        for item in expected:
+            self.assertEqual(ids[item]["kind"],"rss")
+            self.assertTrue(ids[item]["url"].startswith("https://"))
+        self.assertEqual(ids["kr-koreaherald-business"]["filter"],"automotive")
+        self.assertEqual(ids["de-bundestag-official"]["official"],True)
+        self.assertEqual(len(set(s["id"] for s in sources)),len(sources))
+    def test_auto_business_relevance_filter(self):
+        self.assertTrue(relevant_native_auto("Hyundai Motor opens new electric vehicle factory",""))
+        self.assertTrue(relevant_native_auto("Car parts supplier in South Korea",""))
+        self.assertFalse(relevant_native_auto("K-pop chart climbs to new record","concerts"))
+        self.assertFalse(relevant_native_auto("Bank announces dividends","financial results"))
     def test_new_language_detection(self):
         self.assertEqual(detect_source_lang("현대차 전기차","Coreia do Sul"),"ko")
         self.assertEqual(detect_source_lang("台灣政府宣布政策","Taiwan"),"zh-TW")

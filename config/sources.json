@@ -88,7 +88,7 @@
     "category": "Automóvel",
     "name": "Google News · japonês",
     "kind": "google",
-    "query": "日本 自動車 電気自動車 トヨタ ホンダ 日産 電池",
+    "query": "日本 (自動車 OR トヨタ OR ホンダ OR 日産 OR 電気自動車 OR 車載電池) when:7d",
     "locale": "ja",
     "gl": "JP",
     "ceid": "JP:ja"
@@ -344,5 +344,95 @@
     "gl": "PT",
     "ceid": "PT:pt-150",
     "max_entries": 30
+  },
+  {
+    "id": "de-bundesregierung-official",
+    "country": "Alemanha",
+    "category": "Política",
+    "name": "Bundesregierung · Comunicados oficiais",
+    "kind": "rss",
+    "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+    "filter": "politics",
+    "official": true,
+    "max_entries": 40
+  },
+  {
+    "id": "de-bundestag-official",
+    "country": "Alemanha",
+    "category": "Política",
+    "name": "Deutscher Bundestag · Comunicados oficiais",
+    "kind": "rss",
+    "url": "https://www.bundestag.de/static/appdata/includes/rss/pressemitteilungen.rss",
+    "filter": "politics",
+    "official": true,
+    "max_entries": 40
+  },
+  {
+    "id": "kr-koreaherald-business",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "name": "The Korea Herald · Business",
+    "kind": "rss",
+    "url": "https://www.koreaherald.com/rss/kh_Business",
+    "filter": "automotive",
+    "max_entries": 70
+  },
+  {
+    "id": "kr-yonhap-national",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "name": "Yonhap News Agency · National",
+    "kind": "rss",
+    "url": "https://en.yna.co.kr/RSS/national.xml",
+    "filter": "politics",
+    "max_entries": 60
+  },
+  {
+    "id": "tw-taipeitimes",
+    "country": "Taiwan",
+    "category": "Política",
+    "name": "Taipei Times · Política e economia",
+    "kind": "rss",
+    "url": "https://www.taipeitimes.com/xml/index.rss",
+    "filter": "politics",
+    "max_entries": 65
+  },
+  {
+    "id": "in-etauto-industry",
+    "country": "Índia",
+    "category": "Automóvel",
+    "name": "ETAuto · Indústria automóvel",
+    "kind": "rss",
+    "url": "https://auto.economictimes.indiatimes.com/rss/industry",
+    "max_entries": 45
+  },
+  {
+    "id": "in-etauto-components",
+    "country": "Índia",
+    "category": "Automóvel",
+    "name": "ETAuto · Componentes automóveis",
+    "kind": "rss",
+    "url": "https://auto.economictimes.indiatimes.com/rss/auto-components",
+    "max_entries": 45
+  },
+  {
+    "id": "sg-straitstimes",
+    "country": "Singapura",
+    "category": "Política",
+    "name": "The Straits Times · Singapura",
+    "kind": "rss",
+    "url": "https://www.straitstimes.com/news/singapore/rss.xml",
+    "filter": "politics",
+    "max_entries": 65
+  },
+  {
+    "id": "china-scmp-china",
+    "country": "China",
+    "category": "Política",
+    "name": "South China Morning Post · China",
+    "kind": "rss",
+    "url": "https://www.scmp.com/rss/4/feed",
+    "filter": "politics",
+    "max_entries": 50
   }
 ]

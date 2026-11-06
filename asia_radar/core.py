@@ -53,11 +53,27 @@ POLITICAL_WORDS=(
  "Bundesregierung","Bundestag","Bundeskanzler","Koalition","Gesetz","politisch","Wahl","Zoll",
  "정부","국회","대통령","정책","선거","관세","외교","총리","법안",
  "台灣","行政院","立法院","總統","政府","政策","選舉","關稅",
- "सरकार","संसद","चुनाव","नीति"
+ "सरकार","संसद","चुनाव","नीति",
+ "legislatur","legislation","national assembly","assembly passes","lawmakers","presidential","cabinet",
+ "federal government","policy maker","ministerial","Bundesministerium","Bundeswirtschaft","Bundestagsfraktion",
+ "Verordnung","Regierungsentwurf","대통령실","국무회의","입법","국회의원"
 )
 def relevant_native_politics(title,summary):
     t=f"{title} {summary}".casefold()
     return any(w.casefold() in t for w in POLITICAL_WORDS)
+AUTO_WORDS=(
+ "automotive","automaker","automobile","car maker","car sales","car production","vehicle",
+ "electric car","electric bus","electric truck","electric mobility","ev market","ev battery","battery pack",
+ "mobility industry","motor industry","drivetrain","charging infrastructure","self-driving","driverless",
+ "hyundai","kia motors","hyundai motor","kia corp","genesis motor","renault korea","samsung motors",
+ "auto parts","car parts","parts supplier","engine production","factory production",
+ "자동차","전기차","완성차","차량","자동차부품","현대차","기아차","車両","汽車","電動車"
+)
+def relevant_native_auto(title,summary):
+    """Only auto-related items from multi-topic RSS feeds, not unrelated business news."""
+    t=f" {title} {summary} ".casefold()
+    return any(w.casefold() in t for w in AUTO_WORDS)
+
 def topic_tags(title,summary=""):
     t=f" {title} {summary} ".casefold()
     return [tag for tag,words in TOPICS.items() if any(w.casefold() in t for w in words)]

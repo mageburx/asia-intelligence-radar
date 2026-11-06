@@ -4,7 +4,7 @@ Bot **independente** de vigilância noticiosa: política e indústria automóvel
 
 ## O que faz
 
-- 20 fontes/consultas, incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
+- 41 fontes/consultas (29 para países e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
 - Deduplicação por URL/categoria/país; retenção contínua de 30 dias (data de publicação). Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
@@ -68,7 +68,7 @@ $env:TARGET_LANG="en"; python -m asia_radar.collector
 asia_radar/core.py            # texto, tópicos, deduplicação e tendências
 asia_radar/collector.py       # RSS, histórico e traduções
 asia_radar/report.py          # relatório HTML offline
-config/sources.json           # 20 fontes e pesquisas
+config/sources.json           # 41 fontes e pesquisas
 .github/workflows/hourly.yml  # GitHub Actions / 1 hora
 data/articles.json            # notícias recolhidas (inicia vazio)
 data/status.json              # estado de saúde das fontes
@@ -112,3 +112,10 @@ As notícias surgem antes dos sinais. A secção **Sinais e tendências** foi mo
 ## Bandeiras nacionais
 
 As sete bandeiras usadas nos cartões e nas notícias são ficheiros SVG locais em `docs/assets/flags/`, independentes da renderização de emojis no sistema operativo e sem dependências de CDN. Ficheiros provenientes de [flag-icons](https://github.com/lipis/flag-icons) de Panayiotis Lipiridis, sob licença MIT (cópia em `docs/assets/flags/LICENSE`).
+
+
+## Expansão RSS verificada (novembro de 2026)
+
+Acrescentadas 9 fontes RSS: Alemanha (Bundesregierung e Bundestag, fontes oficiais), Coreia do Sul (The Korea Herald Business e Yonhap National), Taiwan (Taipei Times), Índia (ETAuto Industry e Auto Components), Singapura (The Straits Times, secção Singapura) e China (South China Morning Post, secção China). A pesquisa Google News sobre automóveis do Japão foi ajustada para eliminar uma combinação demasiado restritiva de termos. 
+
+RSS de política generalistas são filtrados por vocabulário político; o feed multi-temático Business da Korea Herald é filtrado por vocabulário automóvel. Isto pode omitir artigos relevantes ou incluir falsos positivos. Cada fonte regista a sua contagem e eventuais falhas em `data/status.json`; o sucesso de ingestão, particularmente em sites com proteção anti-bot, deve ser confirmado nas execuções do GitHub Actions. Não são recolhidos artigos completos nem conteúdo sujeito a paywall.
