@@ -1,5 +1,25 @@
 [
   {
+    "id": "d3b3a967b53e847a4057",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261107de71985",
+    "original_title": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+    "original_summary": "食料品の消費税減税関連法案は自民・維新両党などの賛成多数で衆議院を通過し、参議院に送られました。 参議院では与党が少数となる中、政府・与党は衆議院で反対した野党の賛同も取り付けて成立させたい考えで、…",
+    "published_at": "2026-11-06T20:47:05+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A lei de redução do imposto sobre o consumo foi aprovada na Câmara dos Deputados, e o consenso do partido no poder é o foco",
+    "translated_summary": "O projeto de lei relacionado à redução do imposto sobre o consumo de alimentos foi aprovado pela Câmara dos Deputados com a maioria dos votos dos dois partidos, incluindo a República Popular da China e a República Popular da China, e foi enviado à Câmara dos Vereadores. Enquanto o partido no poder está em minoria na Câmara dos Vereadores, o governo e o partido no poder também querem ganhar a aprovação do partido da oposição que se opôs na Câmara dos Deputados, e...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:06+00:00"
+  },
+  {
     "id": "8fd4fd2acf4fd567381b",
     "country": "Alemanha",
     "category": "Política",
@@ -40,6 +60,26 @@
     "translated_summary": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 € SAPO",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:56:07+00:00"
+  },
+  {
+    "id": "3ddb145f8c4e44dc80f4",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczd2dHNBTzkzeS0wcEpRQ1RnTWhnVHpaVldHLWNZS0dLYlRuX0tRNmtJbkZQcWxRYzh2WTduVTlkZFhfYzd4NExzaHg3MV9GbG53MEl0dmFickhGS3B3dVVRUmlWcHlFa0prZ2dRUzBtdnE3TWROVTZGMllZVTNmVEhOQWczcGh5clRCVHA4bVhvMl9KUnhEZzZvSGwtaUhkM01VLW5ISDJCcXczemtEdllldm05eDFDa3oyWlpPYUF0d00?oc=5",
+    "original_title": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000€ - SAPO",
+    "original_summary": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000€ SAPO",
+    "published_at": "2026-11-06T18:30:00+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 € - SAPO",
+    "translated_summary": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 € SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:35+00:00"
   },
   {
     "id": "ef14b8920784f020f47b",
@@ -445,6 +485,26 @@
     "last_translation_attempt_at": "2026-11-06T18:57:19+00:00"
   },
   {
+    "id": "59b7837b9c1524e5d281",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xaUtUdWNLcThCNG9KRU92dFFsZEg3c1NEcDFqY0NNNnJvUmRWdTh4Q3B0R3FTR3ZndTRXWFNNbmNKWXdyRmd2RGtKYzNqcGtTVk5vLU5SZmFmMUlxWnVMV3JvTzREV2w5NDZNLXZTVm1Bd0R5VUhjV053?oc=5",
+    "original_title": "한·동티모르 정상회담 확대 회담 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "한·동티모르 정상회담 확대 회담 - 사진 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-06T14:25:59+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Timor-Leste Summit Extension - Photos | Multimedia - South Korea Policy Briefing",
+    "translated_summary": "Expansão da Cimeira de Timor-Leste - Fotos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:17+00:00"
+  },
+  {
     "id": "5e503d5fa8875b15121f",
     "country": "Índia",
     "category": "Automóvel",
@@ -524,6 +584,26 @@
     "translated_summary": "Agência de Notícias da China, Sanya, Hainan, 6 de novembro (Repórter Wang Ziqian) O 7º \"Fórum de Cooperação e Governança Oceânica\" foi aberto em Sanya, Hainan, no dia 6, com a participação de mais de 400 especialistas, acadêmicos, funcionários do governo, funcionários de embaixadas e consulados estrangeiros na China, representantes de organizações internacionais e departamentos relacionados ao mar de mais de 30 países e regiões ao redor do mundo.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T15:54:28+00:00"
+  },
+  {
+    "id": "89799820cccd08f7a47e",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET HospitalityWorld",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaXYyRWlmd2NRWEEzNFNaeHZEcVI4cHd2UUhKV3B5M1ZHV3J2OXg5RGU2NkZfeTIxa3d4alJuLWVCRmphb09jVXdRdEJXcUhMOEY0Mnl0ZzM3d29VTmlBdzNqb2hUdFlPVXZCbTRvSWFYSUU5SWQzRFhuT2NtMDRlN3NHOS11V0VWSHlGY2dpTmp2Ny1zNTB6NDFqRVc0MFBtN3h1TTczYkxyaGpoSVFJOVllUGk5cGtIcmhDRTRZSjlRaEtVV2s3X3dsLVRMTXdHR1JSLUtPajlENnV4b0dZQy1CN0I5OTlmMWlLTXFERGJadVN1OWs1R3J6eUpHNi1ydzY4SlJzTVFWNVBXVXfSAZMCQVVfeXFMT0tiYmJsbTYxTktyQUlYb2FfSTJENENUaFRKVjdnVnNpMUQyWG1pNm5TUUNab04tQ1lSZXRXSHUzTTFwdllQRHZGYTBBanFuR0xSY0g4NFdCNTJoMzZuWUxCUjNOMlVXbWJPQnI1MEZBME9jQlh6NEQ3cFp6anhCQ0pBUWZUVFl4WUVRaTduX2RVR2VIdHZWT3JkbUx5amE3ajBIR1kyWUlCQVpxYXNVRVEyX0pTZXU1TndnbG5vOE9mSDlsOVpLeXNhME1qaVo2Y3ZPZ3NWMnBxdDQtX2JNZy10Z2FjYjdBdVFrMzI0ZVFIX1FPbzg3YzlhNzlpY1NhUXlpS2ZaTGkyb3p5d1Rwems3cU0?oc=5",
+    "original_title": "A new chapter for India–New Zealand wine trade: A long-term view for importers, distributors and consumers - ET HospitalityWorld",
+    "original_summary": "A new chapter for India–New Zealand wine trade: A long-term view for importers, distributors and consumers ET HospitalityWorld",
+    "published_at": "2026-11-06T14:14:17+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Um novo capítulo para o comércio de vinhos Índia-Nova Zelândia: uma visão de longo prazo para importadores, distribuidores e consumidores - ET HospitalityWorld",
+    "translated_summary": "Um novo capítulo para o comércio de vinhos Índia-Nova Zelândia: uma visão de longo prazo para importadores, distribuidores e consumidores ET HospitalityWorld",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:24+00:00"
   },
   {
     "id": "e0a5b18c666ae50cfedc",
@@ -1075,6 +1155,26 @@
     "translated_summary": "Como as iniciativas governamentais e o impulso político estão fortalecendo a infraestrutura da Índia para a demanda festiva.. ET Governo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T18:57:33+00:00"
+  },
+  {
+    "id": "cd596a5e2446a770d24d",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcXB4MHQ2UklpWGhVd0pUYXRUX1BrdlJiTWJJVkJFbzJXWDExSDRCdFlfcGg1R2ZhZTFBT0VJQTFXSk1Bc1dQUXNVMzVpSFVvbGdFUG1wcjBEc0xJLVE5WXc1T0tBZHRPTkFqcEZ6NzJINXNrajYzZ203elZNRUFjTXk2YmVZN0VxaWVpZEdVVXNuQ0trcHJZMXkwckRVUzdxM25mcVdYRWNHMXY5NnhLQWhRN19IMUt1NUpsZkczNEEyME11RUNoMGhJdGdWWkJMcG11S2tRbWs2SU9HTnMwejJ5dUFJT0xKWGx3RE43QkVLUk8zWHpZR2RuS1dmcU5HYm9z?oc=5",
+    "original_title": "How government initiatives and policy push are strengthening India's infrastructure for the festive demand surge - ET Government",
+    "original_summary": "How government initiatives and policy push are strengthening India's infrastructure for the festive demand surge ET Government",
+    "published_at": "2026-11-06T12:49:32+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Como as iniciativas governamentais e o impulso político estão fortalecendo a infraestrutura da Índia para o aumento festivo da demanda - ET Government",
+    "translated_summary": "Como as iniciativas governamentais e o impulso político estão fortalecendo a infraestrutura da Índia para o aumento festivo da demanda ET Government",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:20+00:00"
   },
   {
     "id": "e6987933c9f5adf1e38c",
@@ -4321,6 +4421,28 @@
     "last_translation_attempt_at": "2026-11-06T02:05:02+00:00"
   },
   {
+    "id": "fe02d29fbdb767790c1a",
+    "country": "Japão",
+    "category": "Política",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-search",
+    "publisher": "ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanV3Ym9QbDdYMHdHcXdwNjBoX3VwT1B6NFVWOS1iWTZaVnFjS0JGam0zR2lVcURpY1p6NkNHV0VvZjBuNUFyV18tbG5IVDAxaWpxcWx5NHJTdTRTd1dRc3pLVThKa3ZrUWtJLXF0RFc4ZTdSbDlCcXZLRThXRkJ4QkdGWnVjLTZMei1rQ1BLZmo0X3RINGfSAZsBQVVfeXFMUEpXaTFBcDFGV3RhY2Iyc2NabjZ5RGU4RGNReGJ5ZFN6cEswNERUYlQxN3MwazlhYnZxVHFPdFhvTTlkdWJhbkU1cy11WTFQT0RLVnFIbXcwbFRNc3hQVk1YTllMTEloajhpT01Yc3d4TmlIOTVFczNUalFBcXpJbjVXUWVXRjJNTmdPeDRfd2Z1UmdjWHp1NlhvLVU?oc=5",
+    "original_title": "高市首相、G7欠席は「総合的に判断」 「力強い外交展開」強調 - ｄメニューニュース",
+    "original_summary": "高市首相、G7欠席は「総合的に判断」 「力強い外交展開」強調 ｄメニューニュース",
+    "published_at": "2026-11-06T01:47:00+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ausência do G7 do primeiro-ministro Takaichi destaca 'julgamento geral' e 'forte diplomacia' - dMenu News",
+    "translated_summary": "Ausência do G7 do primeiro-ministro Takaichi destaca 'julgamento geral' e 'forte diplomacia'",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:10+00:00"
+  },
+  {
     "id": "a48c213817a9c8460c62",
     "country": "Japão",
     "category": "Política",
@@ -5368,6 +5490,28 @@
     "translated_summary": "BMW M 1000 RS: Bicicleta Limitiertes Hyper Naked leistet 218 PS Motorsport-Total.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:56:32+00:00"
+  },
+  {
+    "id": "c575b61b3ccc173dc541",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Fábricas e produção",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-manufacturing-de",
+    "publisher": "extratipp.com",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0pjbnR3MmZVaENGQU80WXV3SS1HLXJmQnlfWU4wYXlxcEI4LTVyVmQtQXNndWhSdVJoeXIwbG01RXlic2stZVZQOE1JOTA3a0FTSVM4N2MxZ2JuQVZKanA0eHQ1SE5TWE03aUNYeHRSNks2VEFPNGVieElVb3BSS2hfdFJXamViLTFOaWtUWTVRa084dExTNGJIa19jSzFodElQWnVMWFZickFTVW53WW1nd2s0UjdaYy1PVzRqbVJrZFkxNS1Dcm45MjZaTTZ2bHk5NkNCMFJtOEJpeGRMYkpkTUtHRHdiclp0VkdZdjVYNkdH?oc=5",
+    "original_title": "Bosch Business Innovations erweitert Investmentfokus auf die Resilienz kritischer Infrastrukturen - extratipp.com",
+    "original_summary": "Bosch Business Innovations erweitert Investmentfokus auf die Resilienz kritischer Infrastrukturen extratipp.com",
+    "published_at": "2026-11-05T15:33:58+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [
+      "Resultados e investimentos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch Business Innovations expande o foco do investimento para a resiliência de infraestruturas críticas - extratipp.com",
+    "translated_summary": "Bosch Business Innovations expande foco de investimento para resiliência de infraestrutura crítica extratipp.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:32+00:00"
   },
   {
     "id": "77b84b1cd45fe218fa6a",
@@ -6608,11 +6752,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O revés de meio de mandato de Trump pode reduzir as ameaças tarifárias dos EUA, dar à Índia mais espaço nas negociações comerciais: Relatório - ANI NEWS",
+    "translated_summary": "O revés de meio de mandato de Trump pode reduzir as ameaças tarifárias dos EUA e dar à Índia mais espaço nas negociações comerciais: Reportagem da ANI NEWS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:38+00:00"
   },
   {
     "id": "8758da010063ae901e97",
@@ -6708,11 +6852,11 @@
     "published_at": "2026-11-05T08:53:23+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Taiwan Boutique Traz 21 Empresas para a SEMA para Oportunidade de Tecnologia Automotiva dos EUA - Business Insight Quinzenal",
+    "translated_summary": "Taiwan Boutique Traz 21 Empresas para a Exposição SEMA para Impulsionar a Oportunidade de Negócios de Tecnologia Automotiva dos EUA Insight de Negócios Quinzenal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:40+00:00"
   },
   {
     "id": "eb1d3b2977566597eea8",
@@ -6729,11 +6873,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A indústria automóvel regista significativamente mais encomendas - Produção automóvel",
+    "translated_summary": "A indústria automóvel regista significativamente mais encomendas Produção automóvel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:43+00:00"
   },
   {
     "id": "7d71c5a2c67e93010789",
@@ -6848,11 +6992,11 @@
     "published_at": "2026-11-05T08:07:52+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Kia e muitos veículos modernos partilham o mesmo motor. - Vietnam.vn",
+    "translated_summary": "A Kia e muitos veículos modernos partilham o mesmo motor. Vietnam.vn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:46+00:00"
   },
   {
     "id": "b6167e5782560afd6f9c",
@@ -6911,11 +7055,11 @@
       "Semicondutores",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motor, Kia, Automotive Semiconductor Development Process International Standard Certification... BYD Selected as Official Partner of 2026 APEC Summit and Others [Si-Kyung Today-Automobile] - Market Economic Newspaper",
+    "translated_summary": "Hyundai Motor, Kia, Automotive Semiconductor Development Process International Standard Certification... BYD Selected as Official Partner of 2026 APEC Summit and Other [Si-Kyung Today-Automotive] Market Economic Newspaper",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:49+00:00"
   },
   {
     "id": "4cb1d21d16ed2c427b5a",
@@ -6989,11 +7133,11 @@
     "published_at": "2026-11-05T07:40:46+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Estudioso vencedor dos democratas eleitorais de meio de mandato: mais espaço para o poder interpartidário | Política - Newtalk News",
+    "translated_summary": "Democratas eleitorais de meio de mandato ganham bolsa de estudos: força de Taiwan entre partidos tem mais espaço | Politics Newtalk News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:52+00:00"
   },
   {
     "id": "129c5eb734bc08bbf72e",
@@ -7008,11 +7152,11 @@
     "published_at": "2026-11-05T07:36:58+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Celebração do 100º Aniversário do Banpo Braille Coreano - Fotos | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "100º Aniversário do Banpo Braille Coreano - Fotos | Multimedia Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:55+00:00"
   },
   {
     "id": "4aaf8b9e4c7895429aa1",
@@ -7027,11 +7171,11 @@
     "published_at": "2026-11-05T07:32:31+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As eleições de meio de mandato tornam o administrador Trump um \"pato manco\": como isso afeta o comércio entre a Índia e os EUA, a imigração - The Federal",
+    "translated_summary": "As eleições de meio de mandato tornam o administrador Trump um \"pato manco\": como isso afeta o comércio entre a Índia e os EUA, a imigração",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:59+00:00"
   },
   {
     "id": "c569e349b0b11d3edcea",
@@ -7167,11 +7311,11 @@
     "published_at": "2026-11-05T07:00:08+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O revés de meio de mandato de Trump pode funcionar a favor da Índia durante as negociações comerciais? - Firstpost",
+    "translated_summary": "O revés de meio de mandato de Trump pode funcionar a favor da Índia durante as negociações comerciais? Firstpost",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:01+00:00"
   },
   {
     "id": "6ec36367ccf0c1e7fe35",
@@ -7186,11 +7330,11 @@
     "published_at": "2026-11-05T06:56:57+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Policy One Step Closer, Policy Journalist Looks at One Madang - People Speak Policy | News - South Korea Policy Briefing",
+    "translated_summary": "Policy One Step Closer, Policy Journalist Looks at One Madang - People Speak Policy | News South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:04+00:00"
   },
   {
     "id": "986f5c56c4deb0319aea",
@@ -7288,11 +7432,11 @@
     "published_at": "2026-11-05T06:37:19+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "IA para impulsionar o comércio global em 40%; Singapura citada como modelo regulatório: relatório da OMC - Singapore Economic Development Board (EDB)",
+    "translated_summary": "IA para impulsionar o comércio global em 40%; Singapura citada como modelo regulatório: relatório da OMC Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:07+00:00"
   },
   {
     "id": "dcc5e58be7574cd4a386",
@@ -7307,11 +7451,11 @@
     "published_at": "2026-11-05T06:24:30+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Novo SUV elétrico da Hyundai pode receber grandes novidades - CarLelo",
+    "translated_summary": "Novo SUV elétrico da Hyundai pode receber estas grandes atualizações CarLelo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:10+00:00"
   },
   {
     "id": "430a7a26d0deb865c6b9",
@@ -7326,11 +7470,11 @@
     "published_at": "2026-11-05T06:12:24+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos na Alemanha: quão boa é a rede de carregamento? - faz",
+    "translated_summary": "Carros elétricos na Alemanha: quão boa é a rede de carregamento? faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:14+00:00"
   },
   {
     "id": "e49c7902b90aeaeb07cd",
@@ -7345,11 +7489,11 @@
     "published_at": "2026-11-05T06:12:04+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "'International Anti-Disease Fund' abolido · · · Receba o reembolso do seu pagamento de partida! - K-empathy",
+    "translated_summary": "'International Anti-Disease Fund' abolido · · · Receba o seu pagamento de partida reembolsado! K-empathy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:16+00:00"
   },
   {
     "id": "b94fe8f6a7d6b22693d5",
@@ -7366,11 +7510,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BEISIT: O Exportador de Conector Impermeável Confiável da China com Certificação UL/cULus - The Des Moines Register",
+    "translated_summary": "BEISIT: O exportador confiável de conectores à prova d 'água da China com certificação UL/cULus The Des Moines Register",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:19+00:00"
   },
   {
     "id": "6d956c86a02150937868",
@@ -7465,11 +7609,11 @@
     "published_at": "2026-11-05T05:51:27+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como a Índia pode gerir os excedentes chineses - The China-Global South Project",
+    "translated_summary": "Como a Índia pode gerir os excedentes chineses O Projeto China-Sul Global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:22+00:00"
   },
   {
     "id": "e7fa4b709c3f002f75ee",
@@ -7508,11 +7652,11 @@
       "Veículos elétricos",
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Foco] Competitividade de Veículos Elétricos da Coreia Enfraquecida por Lesões... Preocupado com a Erupção de Exportações de 2,2 Trilhões de Won - CEONEWS",
+    "translated_summary": "[Foco] Competitividade de Veículos Elétricos da Coreia Enfraquecida por Lesões... Preocupado com a Erupção de 2,2 Trilhões de Won CEO de ExportaçãoNEWS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:25+00:00"
   },
   {
     "id": "595751faec2961ceed03",
@@ -7527,11 +7671,11 @@
     "published_at": "2026-11-05T05:35:28+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Discussão da Política de Remoção de Gelo da Starbucks de Taiwan! Os consumidores respondem da sede dos EUA do outro lado do oceano - UDN",
+    "translated_summary": "Discussão da Política de Remoção de Gelo da Starbucks de Taiwan! Os consumidores escreveram de volta para a UDN da sede dos EUA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:28+00:00"
   },
   {
     "id": "86be515fc61febf1737a",
@@ -7548,11 +7692,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Briefing Regular do Porta-voz do Ministério das Relações Exteriores - Briefing de Política da Coreia do Sul",
+    "translated_summary": "Briefing regular do porta-voz do Ministério das Relações Exteriores da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:30+00:00"
   },
   {
     "id": "96d1d8762d2d746e8dee",
@@ -7570,11 +7714,11 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Swiggy instala estações de troca de baterias de veículos elétricos no Instamart Pods em 25 locais - BW Disrupt",
+    "translated_summary": "A Swiggy instala estações de troca de baterias de veículos elétricos no Instamart Pods em 25 locais que interrompem o BW",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:33+00:00"
   },
   {
     "id": "2cc128770f19e61df498",
@@ -7713,11 +7857,11 @@
     "published_at": "2026-11-05T04:59:54+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Suporte personalizado ao ciclo de vida juvenil aprimorado - Todos | Cards/HanCut | Multimídia - Resumo de políticas da Coreia do Sul",
+    "translated_summary": "Suporte personalizado ao ciclo de vida juvenil aprimorado - Todos | Cards/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:36+00:00"
   },
   {
     "id": "5bc2de96754ae948cdd9",
@@ -7734,11 +7878,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "JBM Electric Vehicles lança ECOLIFE e12 Electric City Bus na Semana de Mobilidade Urbana de Singapura 2026 - Fabricante de Máquinas",
+    "translated_summary": "JBM Electric Vehicles lança ECOLIFE e12 Electric City Bus na Singapore Urban Mobility Week 2026 Machine Maker",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:39+00:00"
   },
   {
     "id": "841b3e0f8dd63b3607f7",
@@ -7753,11 +7897,11 @@
     "published_at": "2026-11-05T04:41:32+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motor Group realiza a primeira Cúpula Mundial de Mobilidade da Coreia... Estratégia de Compartilhamento para Veículos Futuros - Economia Especial",
+    "translated_summary": "Hyundai Motor Group realiza a primeira Cúpula Mundial de Mobilidade da Coreia... Estratégia Especial de Compartilhamento de Economia para Veículos Futuros",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:42+00:00"
   },
   {
     "id": "abca90af67d69546572c",
@@ -7772,11 +7916,11 @@
     "published_at": "2026-11-05T04:31:44+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motor Group realiza o primeiro FISITA Summit na Coreia... 'Diversificando a estratégia de motorização' - Notícias diárias",
+    "translated_summary": "Hyundai Motor Group realiza o primeiro FISITA Summit na Coreia... 'Diversificando a estratégia de motorização' Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:45+00:00"
   },
   {
     "id": "26a164f400a5753096b1",
@@ -7791,11 +7935,11 @@
     "published_at": "2026-11-05T04:31:01+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Política de apoio ao emprego juvenil, não vou perder! - Card/Han Cut | Multimídia - South Korea Policy Briefing",
+    "translated_summary": "Política de apoio ao emprego juvenil, não vou perder! - Card/Han Cut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:48+00:00"
   },
   {
     "id": "18a0daf7108534ce4c19",
@@ -7850,11 +7994,11 @@
     "published_at": "2026-11-05T04:12:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os resultados podem mudar o equilíbrio do acordo comercial para a Índia - TradingView",
+    "translated_summary": "Os resultados podem mudar o equilíbrio do acordo comercial para o India TradingView",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:51+00:00"
   },
   {
     "id": "3b0c9b012187b20155e0",
@@ -7871,11 +8015,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Impacto dos resultados das eleições intercalares dos EUA no acordo comercial Índia-EUA: especialistas descodificam como a perda de Trump afetará grandes investimentos - Livemint",
+    "translated_summary": "Impacto dos resultados das eleições intercalares dos EUA no acordo comercial Índia-EUA: especialistas descodificam como a perda de Trump afetará grandes investimentos Livemint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:54+00:00"
   },
   {
     "id": "8f1ea1640919a91bad7a",
@@ -7913,11 +8057,11 @@
     "topics": [
       "Semicondutores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motor, Kia, Automotive Semiconductor ISO International Standard Certification… ‘Semiconductor Self-Reliance’ Speed - Financial Newspaper",
+    "translated_summary": "Hyundai Motor, Kia, Automotive Semiconductor ISO International Standard Certification… ‘Semiconductor Self-Reliance’ Speed Financial Newspaper",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:53:57+00:00"
   },
   {
     "id": "6fafae42732b44f65e98",
@@ -7993,11 +8137,11 @@
     "published_at": "2026-11-05T03:10:42+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Why the Arctic Passage Now… Preparing a New Road in South Korea - South Korea Policy Briefing",
+    "translated_summary": "Why the Arctic Passage Now… Preparing a New Road in South Korea South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:54:00+00:00"
   },
   {
     "id": "4a9778457d0eb260c8f1",
@@ -8073,11 +8217,11 @@
     "published_at": "2026-11-05T02:45:06+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O principal economista comercial, Professor Davin Chor, nomeou MAS Term Professor na nus - nus - Universidade Nacional de Singapura",
+    "translated_summary": "O principal economista comercial, Professor Davin Chor, nomeou MAS Term Professor na nus nus - Universidade Nacional de Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:54:03+00:00"
   },
   {
     "id": "2bed580fe563c0f617f5",
@@ -9616,6 +9760,29 @@
     "last_translation_attempt_at": "2026-11-06T19:55:51+00:00"
   },
   {
+    "id": "ee17ac383ac8dd5a6a22",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "CarLelo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2owbndHZ2w2bVZ1SGhIT05vdWx4ZF9SMmtHTXBpNTNBOFBHRDdtcHYtVnVVUy1LaER5RTZYNlFtNm1id1g4VjVxS3JyVmwwWVZkdFlZVG93bmtiWW9yQWFEdENSQ3l2eWVXSjdRZmZnMGN0TXRaT2o5N1VlS2llOFFXLTlEU21BYzFXQUZhX1ZzdkZCRjQ3UEkwdTQ?oc=5",
+    "original_title": "Honda India SUV Strategy: Alpha EV in December, Compact SUV to Follow - CarLelo",
+    "original_summary": "Honda India SUV Strategy: Alpha EV in December, Compact SUV to Follow CarLelo",
+    "published_at": "2026-11-04T11:44:09+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Honda India SUV Strategy: Alpha EV em dezembro, SUV compacto a seguir - CarLelo",
+    "translated_summary": "Honda India SUV Strategy: Alpha EV em dezembro, SUV compacto seguirá CarLelo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:30+00:00"
+  },
+  {
     "id": "f1c077f2afd4b1c35e4a",
     "country": "Índia",
     "category": "Política",
@@ -10920,6 +11087,26 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "a2f2366d32d034bacf86",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1WXdEd2U3NFdMMmtjRXItcEtVakQyd3AzYkZWUHlUTG5EN29fYW5wR0txOTdSQWxOZXZMUV9OckNuelNIMXlJdEZyRV95bDZ2YzN0aHFxWHlfSDE0MWVjWTYxOXpPSzBfRExxTm53?oc=5",
+    "original_title": "장시간 노동, 공짜야근 근절합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "장시간 노동, 공짜야근 근절합니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-04T05:45:57+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Erradicar longas horas, noites gratuitas - Tudo | Cartões/HANCUT | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Erradicar longas horas, noites gratuitas - Todos | Cards/Hankut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:13+00:00"
   },
   {
     "id": "fdca30158af7abefe965",
@@ -14407,6 +14594,28 @@
     "translated_summary": "As entregas de outubro da Zeekr caíram 12,72% em relação a setembro, marcando a primeira queda sequencial desde janeiro. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T06:03:35+00:00"
+  },
+  {
+    "id": "7862da814a64729dc8b4",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Autocar India",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2ZNSC1WRF83NXcwUUpsYW1ONEtDWXRidUdvZnZaWDBvYXJSZzJpSHdhcFFnaVFwdWxtOVVMVEtVS2tDeXNweFBSWXh6Tk9QOUE1ZHRGVWpRbmNsUzBmV0RraFNPaGt6d3MwWUQwMjNtYXVfR1YtblRlNUhsME1aRElXdDk2WVAwOXR1dUg5anN2Z9IBlwFBVV95cUxNOWpyU2NySzBZdXdRZWREb0FzMHNTbUlLYzVwWWN4Nk1QaGZWUm01SUpkb18zeENjLWRNWVVBTjA3MnUxWjlLd1BzaDExSlZRekxVZE5JTmluMzJaSlZNdUl2aFZTNWxPS1IxZU9aNEFTNng0RGlFaE1tM2FkaGw0SXVqTXZVeE5uaF9Bb2lGQlc2Zkp5b0hr?oc=5",
+    "original_title": "Best deals on electric cars ahead of Diwali - Autocar India",
+    "original_summary": "Best deals on electric cars ahead of Diwali Autocar India",
+    "published_at": "2026-11-01T05:30:18+00:00",
+    "first_seen_at": "2026-11-06T20:51:51+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Melhores ofertas em carros elétricos à frente de Diwali - Autocar India",
+    "translated_summary": "Melhores ofertas em carros elétricos à frente do Diwali Autocar India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T20:52:27+00:00"
   },
   {
     "id": "0a6eaad54b8b86c67cbb",
