@@ -58,17 +58,40 @@ def fetch_source(session,source,now,max_entries=40):
             "translated_lang":"","last_translation_attempt_at":""})
     return rows
 
-def translate_one(text,target):
+def detect_source_lang(text,country):
+    """Use script detection rather than the publication country (sources can be in English)."""
+    import re
+    if re.search(r"[\u3040-\u30ff]",text): return "ja"
+    if re.search(r"[\u3400-\u9fff]",text): return "ja" if country=="Japão" else "zh-CN"
+    return "en"
+
+def translate_one(text,target,country):
     if not text: return ""
+    source=detect_source_lang(text,country)
+    if source=="en" and target=="en": return text
     key=os.getenv("DEEPL_API_KEY","").strip()
     if key:
         response=requests.post(os.getenv("DEEPL_API_URL","https://api-free.deepl.com/v2/translate"),
-             data={"text":text[:4500],"target_lang":"PT-PT" if target=="pt" else "EN-GB"},
+             data={"text":text[:4500],"target_lang":"PT-PT" if target=="pt" else "EN-GB",
+                   "source_lang":"JA" if source=="ja" else ("ZH" if source=="zh-CN" else "EN")},
              headers={"Authorization":f"DeepL-Auth-Key {key}"},timeout=20)
         response.raise_for_status()
         return response.json()["translations"][0]["text"]
-    from deep_translator import GoogleTranslator
-    return GoogleTranslator(source="auto",target=target).translate(text[:4500]) or ""
+    # Public MyMemory API is a best-effort fallback with a small shared-IP quota.
+    params={"q":text[:450],"langpair":f"{source}|{'pt-PT' if target=='pt' else 'en'}"}
+    email=os.getenv("MYMEMORY_EMAIL","").strip()
+    if email: params["de"]=email
+    response=requests.get("https://api.mymemory.translated.net/get",params=params,
+                          headers={"User-Agent":USER_AGENT},timeout=18)
+    response.raise_for_status()
+    body=response.json()
+    if int(body.get("responseStatus",0))!=200:
+        raise RuntimeError("MyMemory provider unavailable or daily quota reached")
+    translated=body.get("responseData",{}).get("translatedText","")
+    if not translated or translated.upper().startswith("MYMEMORY WARNING"):
+        raise RuntimeError("MyMemory did not return a translation")
+    return translated
+
 def translate_backlog(articles,lang,budget):
     now=datetime.now(timezone.utc)
     done=failed=0
@@ -79,13 +102,17 @@ def translate_backlog(articles,lang,budget):
         if row.get("translation_status")=="failed" and now-last<timedelta(hours=6): continue
         try:
             row["last_translation_attempt_at"]=iso_now()
-            row["translated_title"]=translate_one(row["original_title"],lang)
-            row["translated_summary"]=translate_one(row["original_summary"],lang) if row["original_summary"] else ""
+            row["translated_title"]=translate_one(row["original_title"],lang,row["country"])
+            try:
+                row["translated_summary"]=translate_one(row["original_summary"],lang,row["country"]) if row["original_summary"] else ""
+            except Exception as exc:
+                row["translated_summary"]=""
+                print(f"Summary translation pending: {row['id']} ({type(exc).__name__})")
             if not row["translated_title"]: raise ValueError("Empty translation")
             row["translation_status"]="translated"
             row["translated_lang"]=lang
             done+=1
-            if not os.getenv("DEEPL_API_KEY"): time.sleep(0.6)
+            if not os.getenv("DEEPL_API_KEY"): time.sleep(1.0)
         except Exception as exc:
             row["translation_status"]="failed"
             row["translation_error"]=type(exc).__name__
