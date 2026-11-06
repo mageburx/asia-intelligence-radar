@@ -1,6 +1,6 @@
 """Update self-contained dashboard HTML using the currently stored news metadata."""
 from __future__ import annotations
-import json,re
+import csv,json,re
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from .core import parse_utc,trend_data
@@ -8,6 +8,7 @@ ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
 OUT=ROOT/"docs"/"index.html"
+ARCHIVE_CSV=ROOT/"docs"/"arquivo-30-dias.csv"
 def read(path,fallback):
     try:return json.loads(path.read_text(encoding="utf-8"))
     except (FileNotFoundError,ValueError):return fallback
@@ -31,11 +32,29 @@ def make_payload(articles,status,now=None):
         started=country_first.get(trend["country"])
         if started and now-started<timedelta(hours=48):
             trend["status"]="Histórico inicial"
-    return {"articles":articles[:4500],"status":status,"trends":trends,"counts24":counts,
+    return {"articles":articles,"status":status,"trends":trends,"counts24":counts,
             "generated_at":now.isoformat(timespec="seconds")}
+def safe_csv(value):
+    """Avoid spreadsheet formula execution in untrusted RSS titles or excerpts."""
+    s=str(value or "")
+    if s.lstrip().startswith(("=","+","-","@")) or s.startswith(("\\t","\\r")):
+        return "'"+s
+    return s
+
+def export_archive_csv(articles, path=ARCHIVE_CSV):
+    columns=("published_at","country","category","publisher","source_type",
+             "translated_title","original_title","translated_summary","original_summary","url")
+    path.parent.mkdir(parents=True,exist_ok=True)
+    with path.open("w",encoding="utf-8-sig",newline="") as f:
+        writer=csv.writer(f,delimiter=";")
+        writer.writerow(columns)
+        for a in articles:
+            writer.writerow([safe_csv(a.get(k,"")) for k in columns])
+
 def main():
     articles=read(DATA,[])
     status=read(STATUS,{})
+    export_archive_csv(articles)
     payload=json.dumps(make_payload(articles,status),ensure_ascii=False,separators=(",",":"))
     payload=payload.replace("<","\\u003c").replace(">","\\u003e").replace("&","\\u0026")
     template=OUT.read_text(encoding="utf-8")

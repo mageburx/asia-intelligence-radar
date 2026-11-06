@@ -6,9 +6,9 @@ Bot **independente** de vigilância noticiosa: política e indústria automóvel
 
 - 20 fontes/consultas, incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
-- Deduplicação por URL/categoria/país; retenção de 60 dias. Armazenamento JSON para facilitar o MVP.
+- Deduplicação por URL/categoria/país; retenção contínua de 30 dias (data de publicação). Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
-- Dashboard HTML estático, sem servidor e com pesquisa, filtros de país/tema/tempo, números de notícias e tópicos em crescimento.
+- Dashboard HTML estático, sem servidor, com pesquisa, filtros por país/tema/tempo, arquivo de 30 dias, exportação CSV, números de notícias e tópicos em crescimento.
 - Cron GitHub Actions `17 * * * *` (todos os dias, 24 vezes/dia, 17 minutos após cada hora, UTC), com execução manual por botão.
 
 ## Configuração do repositório GitHub
@@ -60,7 +60,7 @@ $env:TARGET_LANG="en"; python -m asia_radar.collector
 - GitHub Actions usa cron **não garantido ao minuto**, pois execuções podem atrasar ou, em casos raros, ser omitidas. Em repositórios públicos inativos, os workflows agendados podem ser desativados após 60 dias sem atividade.
 - Sem dados reais de histórico, o painel inicia vazio. Não são inseridas notícias fictícias.
 - Repositório **público significa que o histórico de títulos/excertos e o dashboard serão públicos**. Não inclua segredos em ficheiros versionados.
-- O armazenamento JSON em commits horários é adequado a uma experiência inicial, não a uma operação de larga escala. Para produção, migrar para PostgreSQL/SQLite externo com backups, observabilidade e alertas.
+- O arquivo mantém apenas notícias publicadas nos últimos 30 dias. O CSV `docs/arquivo-30-dias.csv` é gerado a cada recolha para consulta externa no Excel. **Nota:** apagar notícias do arquivo ativo não as remove dos commits antigos do GitHub. O armazenamento JSON em commits horários é adequado a uma experiência inicial, não a uma operação de larga escala. Para produção, migrar para PostgreSQL/SQLite externo com backups, observabilidade e alertas.
 
 ## Estrutura
 
@@ -90,3 +90,8 @@ Acrescentados **Alemanha, Coreia do Sul, Taiwan, Índia e Singapura**, mantendo 
 Separador dedicado ao grupo Bosch, sem o misturar com as contagens dos sete países. Categorias: **Estratégia, Mobilidade, Indústria (incluindo Bosch Rexroth), Tecnologia, Pessoas, Portugal/Braga**. Recolhe o feed RSS do Bosch Media Service e pesquisas públicas no Google News em alemão, inglês e português, com intervalo horário herdado do workflow. O classificador tem regras simples de palavras-chave, a tradução é experimental e os títulos originais e URL permanecem guardados. Duplicados entre pesquisas Bosch que apontam para o mesmo URL são removidos. Os sinais de tendência dependem de acumular histórico e de fontes independentes. Não inclui conteúdos internos, pessoais ou restritos, nem recolhe artigos completos. 
 
 **RSS oficial**: https://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml (fonte corporativa; não é validação independente dos factos).
+
+
+## Arquivo de 30 dias
+
+O bot conserva, por data de publicação, as notícias dos **últimos 30 dias** de todos os países e da Bosch. O dashboard tem o filtro **Arquivo · últimos 30 dias**, o atalho **Consultar arquivo (30 dias)** e a exportação **CSV** (UTF-8 com BOM, separador `;`). As notícias anteriores ao período são excluídas do arquivo ativo na execução seguinte, mas podem continuar presentes no histórico de commits GitHub. O arquivo não recupera automaticamente notícias antigas que nunca tenham sido recolhidas.

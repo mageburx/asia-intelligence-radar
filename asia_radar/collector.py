@@ -12,6 +12,7 @@ DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
 SOURCES=ROOT/"config"/"sources.json"
 USER_AGENT="AsiaIntelligenceRadar/1.0 (RSS headline research; respectful periodic fetching)"
+ARCHIVE_DAYS=30
 def iso_now():
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 def read_json(path,fallback):
@@ -134,6 +135,17 @@ def translate_backlog(articles,lang,budget):
             failed+=1
             print(f"Translation failed: {row['id']} ({type(exc).__name__})")
     return done,failed
+def retain_archive(articles, now=None):
+    """Rolling archive of the last 30 days by original publication timestamp."""
+    now=now or datetime.now(timezone.utc)
+    cutoff=now-timedelta(days=ARCHIVE_DAYS)
+    result=[]
+    for article in articles:
+        published=parse_utc(article.get("published_at") or article.get("first_seen_at",""))
+        if cutoff<=published<=now+timedelta(hours=24):
+            result.append(article)
+    return result
+
 def main():
     now=iso_now()
     target=os.getenv("TARGET_LANG","pt").lower().strip()
@@ -158,13 +170,12 @@ def main():
             except Exception as exc:
                 errors.append({"source":source["id"],"error":f"{type(exc).__name__}: {str(exc)[:180]}"})
                 print(f"Source error [{source['id']}]: {exc}")
-    threshold=datetime.now(timezone.utc)-timedelta(days=60)
-    articles=[a for a in index.values() if parse_utc(a.get("first_seen_at",""))>=threshold]
+    articles=retain_archive(index.values())
     translated,failed=translate_backlog(articles,target,int(os.getenv("MAX_TRANSLATIONS","40")))
     articles.sort(key=lambda a:a.get("published_at",""),reverse=True)
     save_json(DATA,articles)
     save_json(STATUS,{"last_run":now,"first_run_at":old_status.get("first_run_at") or now,
-                      "target_lang":target,"articles_total":len(articles),"added":added,
+                      "target_lang":target,"articles_total":len(articles),"archive_days":ARCHIVE_DAYS,"added":added,
                       "translated_this_run":translated,"translation_failed_this_run":failed,
                       "sources_total":len(sources),"sources_ok":len(sources)-len(errors),
                       "sources_failed":errors,"items_seen_by_source":counts})

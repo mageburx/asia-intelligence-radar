@@ -104,6 +104,11 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 .bosch-category small{color:#a9c7c7;font-size:11px;white-space:nowrap}
 [hidden]{display:none!important}
 @media(max-width:650px){.filters.bosch-active{grid-template-columns:1fr}.bosch-categorygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.bosch-category{flex-direction:column;align-items:flex-start;gap:4px}.global-tab{flex:1}}
+
+.archive-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.archive-go,.archive-export{display:inline-flex;align-items:center;justify-content:center;min-height:42px;border:1px solid #41616b;border-radius:10px;background:#142f38;color:#c6f5eb;padding:10px 13px;font-size:12px;font-weight:700}
+.archive-go:hover,.archive-export:hover{background:#214c51;color:white}
+@media(max-width:640px){.archive-actions{width:100%}.archive-go,.archive-export{flex:1}}
 </style>
 </head>
 <body>
@@ -157,8 +162,11 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
  <div class="trends" id="trends"></div>
 </section>
 <section class="area" aria-labelledby="news-title">
- <div class="areahead"><div><h2 id="news-title">Últimas notícias</h2><p id="listcount" aria-live="polite">A carregar notícias…</p></div></div>
- <div class="filters"><select id="source-scope" aria-label="Origem das notícias Bosch" hidden><option value="">Todas as fontes</option><option value="Comunicado oficial">Só comunicados oficiais</option><option value="Imprensa / agregador">Só imprensa</option></select><input id="search" aria-label="Pesquisar notícias" placeholder="Pesquisar empresas, políticas, baterias…"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="720">Últimos 30 dias</option><option value="all">Todo o histórico</option></select></div>
+ <div class="areahead"><div><h2 id="news-title">Últimas notícias</h2><p id="listcount" aria-live="polite">A carregar notícias…</p></div>
+  <div class="archive-actions"><button type="button" class="archive-go" id="archive-go">Consultar arquivo (30 dias)</button>
+  <a class="archive-export" href="arquivo-30-dias.csv" download>Exportar CSV</a></div>
+</div>
+ <div class="filters"><select id="source-scope" aria-label="Origem das notícias Bosch" hidden><option value="">Todas as fontes</option><option value="Comunicado oficial">Só comunicados oficiais</option><option value="Imprensa / agregador">Só imprensa</option></select><input id="search" aria-label="Pesquisar notícias" placeholder="Pesquisar empresas, políticas, baterias…"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="720">Arquivo · últimos 30 dias</option><option value="all">Todo o histórico</option></select></div>
  <div class="articles" id="articles"></div>
  <button class="more" id="more" type="button">Mostrar mais notícias</button>
 </section>
@@ -321,6 +329,13 @@ $("articles").addEventListener("click",event=>{
  if(!btn)return;
  const el=document.getElementById("original-"+btn.dataset.original);
  if(el){const show=el.style.display!=="block";el.style.display=show?"block":"none";btn.textContent=show?"Ocultar original":"Ver original";btn.setAttribute("aria-expanded",String(show));}
+});
+$("archive-go").addEventListener("click",()=>{
+ $("period").value="720";
+ $("search").value="";
+ state.visible=12;
+ drawArticles();
+ document.getElementById("news-title").scrollIntoView({behavior:"smooth",block:"start"});
 });
 $("more").addEventListener("click",()=>{state.visible+=12;drawArticles()});
 $("updated").textContent="Atualizado: "+fmt(p.status.last_run)+(p.status.sources_failed?.length?" · "+p.status.sources_failed.length+" fontes indisponíveis":"");

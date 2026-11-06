@@ -1,9 +1,10 @@
 import unittest
 from datetime import datetime,timedelta,timezone
 from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags
-from asia_radar.report import make_payload
-from asia_radar.collector import detect_source_lang,feed_url,ROOT
-import json
+from asia_radar.report import make_payload,export_archive_csv,safe_csv
+from asia_radar.collector import detect_source_lang,feed_url,ROOT,retain_archive,ARCHIVE_DAYS
+import json, csv, tempfile
+from pathlib import Path
 class RadarTests(unittest.TestCase):
     def test_strip_markup(self):
         self.assertEqual(clean_text("<p>A &amp; B</p>"),"A & B")
@@ -68,6 +69,28 @@ class RadarTests(unittest.TestCase):
         a=article_id("Bosch","Bosch","https://example.com/bosch", "Title")
         b=article_id("Bosch","Bosch","https://example.com/bosch","Title")
         self.assertEqual(a,b)
+    def test_rolling_archive_uses_publication_date(self):
+        now=datetime(2026,11,6,tzinfo=timezone.utc)
+        def article(n,published,seen):
+            return {"id":n,"published_at":(now-timedelta(days=published)).isoformat(),
+                    "first_seen_at":(now-timedelta(days=seen)).isoformat()}
+        items=[article("current",1,1),article("boundary",30,3),
+               article("too_old",31,0),article("reseen",40,0)]
+        kept=retain_archive(items,now)
+        self.assertEqual([x["id"] for x in kept],["current","boundary"])
+        self.assertEqual(ARCHIVE_DAYS,30)
+
+    def test_csv_archive_export_sanitizes_formulas(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path=Path(tmp)/"archive.csv"
+            export_archive_csv([{"published_at":"2026-11-06","country":"Bosch",
+                                 "original_title":"=HYPERLINK(\"malicious\")",
+                                 "url":"https://example.com/news"}],path)
+            with path.open(encoding="utf-8-sig",newline="") as f:
+                rows=list(csv.DictReader(f,delimiter=";"))
+            self.assertEqual(len(rows),1)
+            self.assertTrue(rows[0]["original_title"].startswith("'="))
+            self.assertEqual(rows[0]["url"],"https://example.com/news")
     def test_zero_history_dashboard(self):
         p=make_payload([],{},datetime.now(timezone.utc))
         self.assertEqual(p["articles"],[])
