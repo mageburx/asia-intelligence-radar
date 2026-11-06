@@ -42,5 +42,6 @@ jobs:
           git add data/articles.json data/status.json docs/index.html
           if ! git diff --cached --quiet; then
             git commit -m 'data: update Asia Intelligence Radar'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
