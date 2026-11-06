@@ -1,5 +1,83 @@
 [
   {
+    "id": "0e881358dfbfe5a45279",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/06/lynk-co-900l-flagship-suv-debuts-november-10-with-5280-mm-body-and-range-rover-like-styling/",
+    "original_title": "Lynk & Co 900L flagship SUV debuts November 10 with 5,280 mm body and Range Rover-like styling",
+    "original_summary": "Lynk & Co will debut the 900L seven-seat SUV on November 10, featuring a Range Rover-like profile, roof-mounted LiDAR and a 160 kW 2.0T engine. The post Lynk & Co 900L flagship SUV debuts November 10 with 5,280 mm body and Range Rover-like styling appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-06T05:00:33+00:00",
+    "first_seen_at": "2026-11-06T05:00:34+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O SUV emblemático Lynk & Co 900L estreia em 10 de novembro com corpo de 5.280 mm e estilo Range Rover",
+    "translated_summary": "A Lynk & Co lançará o SUV de sete lugares de 900L em 10 de novembro, com um perfil semelhante ao Range Rover, LiDAR montado no teto e um motor 2.0T de 160 kW. O SUV emblemático post Lynk & Co 900L estreia em 10 de novembro com corpo de 5.280 mm e estilo Range Rover apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:49+00:00"
+  },
+  {
+    "id": "8cc75257b1ca9483db37",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
+    "original_title": "国家主席习近平任免驻外大使",
+    "original_summary": "新华社北京11月6日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：",
+    "published_at": "2026-11-06T04:32:19+00:00",
+    "first_seen_at": "2026-11-06T05:00:34+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O presidente Xi Jinping nomeou e removeu embaixadores no exterior",
+    "translated_summary": "Pequim, 6 de novembro (Xinhua) -- O presidente da República Popular da China, Xi Jinping, nomeou e destituiu os seguintes embaixadores no exterior, de acordo com a decisão do Comitê Permanente do Congresso Nacional Popular:",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:40+00:00"
+  },
+  {
+    "id": "f1412e21463af1b24ab2",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
+    "original_title": "习近平复信澳大利亚青年学生",
+    "original_summary": "新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。",
+    "published_at": "2026-11-06T04:10:46+00:00",
+    "first_seen_at": "2026-11-06T05:00:34+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Xi Jinping Fuxin jovens estudantes australianos",
+    "translated_summary": "Pequim, 6 nov (Xinhua) -- Em 28 de outubro, o presidente Xi Jinping escreveu uma carta a 110 jovens estudantes australianos, incentivando-os a continuar a participar ativamente da causa da amizade China-Austrália.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:43+00:00"
+  },
+  {
+    "id": "2d9472569772bde52fe1",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154299.html",
+    "original_title": "ホンダ、新型「アヴァンシア」近日発売を予告 次世代ハイブリッドシステム「Honda Hybrid」搭載",
+    "original_summary": "本田技研工業は11月6日、次世代ハイブリッドシステム「Honda Hybrid」を搭載する新型「AVANCIER（アヴァンシア）」を近日発売することを公式SNSで予告した。",
+    "published_at": "2026-11-06T03:58:57+00:00",
+    "first_seen_at": "2026-11-06T05:00:34+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Honda anuncia o próximo lançamento do novo Avancia, com o sistema híbrido de próxima geração, o Honda Hybrid",
+    "translated_summary": "Em 6 de novembro, a Honda Motor anunciou em suas redes sociais oficiais que o novo sistema híbrido Avancier, equipado com o sistema Honda Hybrid de próxima geração, seria lançado em breve.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:52+00:00"
+  },
+  {
     "id": "c15812b8e6b5aa52a94a",
     "country": "Japão",
     "category": "Política",
@@ -945,6 +1023,29 @@
     "translated_summary": "Em relação ao “voto eletrônico” usando terminais de tablet, que está sendo introduzido em todo o país, os fabricantes de componentes eletrônicos que estão desenvolvendo terminais têm um novo recurso que lhes permite votar enquanto ouvem informações na tela para ajudar pessoas com deficiência visual a votar...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T02:06:03+00:00"
+  },
+  {
+    "id": "1a3dc804abf4e7e2da42",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "벤처스퀘어",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01VXdfYVZKT0VKZTlWeEh1N3puTGpWcFJsanZhM3daWjF5Z1JWanhEMXhhSmFqSmFZaHpFbEh1U2Y3ZDFlcWU2aURTM1hiWTBSdGFv?oc=5",
+    "original_title": "韩国国际贸易协会与光章律师事务所评估美国中期选举后的贸易风险……“可能继续加征关税，并对美国投资施加压力” - 벤처스퀘어",
+    "original_summary": "韩国国际贸易协会与光章律师事务所评估美国中期选举后的贸易风险……“可能继续加征关税，并对美国投资施加压力” 벤처스퀘어",
+    "published_at": "2026-11-05T12:10:48+00:00",
+    "first_seen_at": "2026-11-06T05:00:34+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Indústria e produção",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Korea International Trade Association e Guangzhang Law Firm Avaliam os Riscos Comerciais Após as Eleições Intermediárias dos EUA... \"Possíveis Tarifas Contínuas e Pressão sobre os Investimentos dos EUA\"",
+    "translated_summary": "A Korea International Trade Association e a Gwangjang Law Firm avaliam os riscos comerciais após as eleições intercalares dos EUA... \"podem continuar a impor tarifas e pressionar o investimento dos EUA\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:46+00:00"
   },
   {
     "id": "245038044209961994a7",
@@ -2468,11 +2569,11 @@
     "published_at": "2026-11-04T07:11:20+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Yamaha revela novas scooters de aventura RW700 e RW350",
+    "translated_summary": "A Yamaha Motor anunciou as scooters de aventura RW700 e RW350 de sua nova série de marcas globais, RW, em 4 de novembro. Ele tem sido exibido na exposição de motocicletas \"EICMA2026\", realizada em Milão, Itália, a partir de 3 de novembro, e está programado para ser lançado no Japão após o outono de 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:55+00:00"
   },
   {
     "id": "a5f11694943c108d9196",
@@ -2487,11 +2588,11 @@
     "published_at": "2026-11-04T06:54:43+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ressuscitado 1.5 litro diesel modelo turbo \"BlueHDi\" no Peugeot \"308\" e 308SW",
+    "translated_summary": "A Peugeot (Stellantis Japão) lançou os modelos do segmento C \"308\" e \"308SW\" em 3 de novembro com a adição de um motor diesel limpo de 1,5 litros \"BlueHDi\". O preço é de 4,89 milhões de ienes para o 308GT BlueHDi e 4,99 milhões de ienes para o 308SW GT BlueHDi.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:00:58+00:00"
   },
   {
     "id": "81c6322847f0c2dd347f",
@@ -2508,11 +2609,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China Blue Watch: Que impacto Trump terá no mundo se perder as eleições intercalares dos EUA? - Nova Blue Net",
+    "translated_summary": "China Blue Watch [Trump tem medo de perder as eleições intercalares dos EUA para o mundo? Nova Blue Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:01+00:00"
   },
   {
     "id": "56f8d4964220dcd5e10f",
@@ -2529,11 +2630,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Aprovou o plano de pessoal de 2 instituições e 4 pessoas, incluindo o presidente da Comissão de Energia Atômica da Dieta",
+    "translated_summary": "Seiichi Koshizuka, professor da Universidade de Tóquio, foi recentemente nomeado presidente da Comissão de Energia Atômica, e quatro propostas de pessoal de duas instituições que exigiam o consentimento da Dieta foram aprovadas pela Dieta.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:04+00:00"
   },
   {
     "id": "7980eab053cc961ff7e7",
@@ -2550,11 +2651,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Amplamente desenvolvidas, como rodas leves de alumínio forjado para HRC, as \"peças de desempenho HRC\" estreiam o \"Civic type R\" para veículos comerciais",
+    "translated_summary": "Em 3 de novembro (horário local), a empresa norte-americana de automobilismo Honda Motor Corporation, HRC US (Honda Racing Corporation usa), revelou a peça oficial de ajuste \"HRC Performance Parts\" para veículos comerciais Honda e Acura no \"SEMA Show 2026\" realizado em Las Vegas, EUA.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:08+00:00"
   },
   {
     "id": "2a920a48deaa00b2c795",
@@ -2571,11 +2672,11 @@
     "topics": [
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Denza N9 da BYD adiciona versão totalmente elétrica com layouts de 5 e 6 lugares",
+    "translated_summary": "O Denza N9 totalmente elétrico possui um sistema de tração integral tri-motor com uma potência de pico combinada de 890 kW (1.194 cv). Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:11+00:00"
   },
   {
     "id": "8a9386f05d20605af271",
@@ -2592,11 +2693,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Honda adota o primeiro funil de ar variável de dois estágios produzido em massa do mundo para a nova Fireblade CBR1000RR-R",
+    "translated_summary": "Em 3 de novembro, a Honda Motor Co., Ltd. revelou a estreia mundial do modelo 2027 com uma mudança completa do modelo superesportivo grande da série \"CBR1000RR-R Fireblade\" na \"EICMA 2026\" realizada em Milão, Itália.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:14+00:00"
   },
   {
     "id": "f65472ee120215e143ed",
@@ -2613,11 +2714,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Honda adotou pela primeira vez o CRF1150L com radar de ondas milimétricas antes e depois do anúncio do Honda Sensing Ride, um sistema avançado de assistência à condução em segurança para motocicletas",
+    "translated_summary": "Em 3 de novembro, a Honda Motor Corporation anunciou o Honda Sensing Ride, um avançado sistema de suporte de condução de segurança para motocicletas. Foi instalado pela primeira vez no CRF 1150L Africa Twin Adventure Sports lançado no EICMA 2026 (Milan Show) realizado em Milão, Itália, e será instalado em mais modelos no futuro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:17+00:00"
   },
   {
     "id": "4d6a0c51fdb9de2309aa",
@@ -2634,11 +2735,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Secretário-Chefe do Gabinete ICC = Apoio à consideração do Tribunal Penal Internacional, incluindo resposta financeira",
+    "translated_summary": "Em relação às preocupações sobre o impacto das sanções impostas pelo governo Trump nos Estados Unidos sobre as atividades do Tribunal Penal Internacional (TPI), o secretário-chefe do gabinete, Kihara, deixou claro que está considerando apoiar o TPI, incluindo respostas fiscais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:20+00:00"
   },
   {
     "id": "af9a8e09ddd99f5eedfc",
@@ -2655,11 +2756,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Honda expõe V3R900E-Compressor, o primeiro turbocompressor controlado eletronicamente do mundo, na EICMA 2026",
+    "translated_summary": "A Honda Motor Europe Limited exibiu o V3R900E-Compressor, que usa um motor de três cilindros do tipo V equipado com o primeiro turbocompressor controlado eletronicamente do mundo, na feira de Milão \"EICMA 2026\" em Milão, Itália.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:23+00:00"
   },
   {
     "id": "cc769a137536009a3413",
@@ -2674,11 +2775,11 @@
     "published_at": "2026-11-04T03:44:52+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "SUV de longo alcance iCar V25 boxy da Chery com lançamento previsto para 19 de novembro",
+    "translated_summary": "o iCar V25 abriu para pré-encomendas em outubro, com preços a partir de 139.800 yuans ($ 20.810). Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:26+00:00"
   },
   {
     "id": "2853e8c7b2c66711a6a9",
@@ -2693,11 +2794,11 @@
     "published_at": "2026-11-04T03:40:42+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lei de redução do imposto sobre o consumo A Câmara dos Vereadores estabeleceu uma comissão especial para presidir o Sr. Matsumura Shimin",
+    "translated_summary": "Em relação ao projeto de lei relacionado à redução do imposto de consumo de gêneros alimentícios, a Câmara dos Vereadores decidiu estabelecer uma nova comissão especial para deliberar na sessão plenária do dia 4 e, em seguida, Matsumura, ex-presidente da Comissão Nacional de Segurança Pública do Partido Liberal Democrata, foi eleito presidente da comissão.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:29+00:00"
   },
   {
     "id": "38682fcf418006d9c2b4",
@@ -2712,11 +2813,11 @@
     "published_at": "2026-11-04T03:39:28+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Peugeot, \"3008\" e \"5008\" são limitados a 100 carros cada \"Titanium Edition\"",
+    "translated_summary": "Em 3 de novembro, a Stellantis Japão lançou o Titanium Edition, um carro de edição limitada que usa uma cor de carroceria dedicada para os SUVs 3008 e 5008 da Peugeot. O volume de vendas é de 100 unidades cada. O preço é de 6.046.000 ienes para o 3008GT Hybrid Titanium Edition e 6.360.000 ienes para o 5008GT Hybrid Titanium Edition.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:32+00:00"
   },
   {
     "id": "da2a3b0ea3db8cd0e337",
@@ -2731,11 +2832,11 @@
     "published_at": "2026-11-04T03:28:01+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Arquivos Zeekr para 001 atualizado, abrindo caminho para o lançamento do primeiro trimestre de 2027",
+    "translated_summary": "O Zeekr 001 2027 será lançado no primeiro trimestre de 2027 e deverá apresentar a tecnologia Geely Smart Charging para um carregamento mais rápido. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:35+00:00"
   },
   {
     "id": "9e21f2235d32ec745512",
@@ -2752,11 +2853,11 @@
     "topics": [
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BYD apresenta novo modelo para o Salão do Automóvel de Guangzhou, com a próxima geração de Han esperada",
+    "translated_summary": "A BYD confirmou que um novo modelo será lançado no Salão do Automóvel de Guangzhou, provavelmente o Han de próxima geração, que concluiu os registros regulatórios. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:38+00:00"
   },
   {
     "id": "4aa49e590d9f7ef73883",
@@ -2773,11 +2874,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Zeekr supostamente planeja um SUV off-road robusto para rivalizar com o Mercedes-Benz Classe G",
+    "translated_summary": "O novo modelo poderá entrar em produção em 2028–2029, tendo a Zeekr sinalizado anteriormente interesse no segmento off-road. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:40+00:00"
   },
   {
     "id": "d19de8757670faaaa3d8",
@@ -2792,11 +2893,11 @@
     "published_at": "2026-11-04T01:20:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China Automotive Top Ten Technology Trends Lançado no Próximo Ano - China Youth Net",
+    "translated_summary": "As 10 principais tendências tecnológicas para automóveis na China serão lançadas pela China Youth Net no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:43+00:00"
   },
   {
     "id": "e4e4a88c6d58630cd794",
@@ -2813,11 +2914,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O \"melhor relacionamento do mundo\" do primeiro-ministro Takaichi e do Sr. Trump é o maior trunfo da diplomacia japonesa... Entrevista com o professor Mori Satoshi e Keidai - au Web Portal",
+    "translated_summary": "O \"melhor relacionamento do mundo\" do primeiro-ministro Takaichi e do Sr. Trump é o maior trunfo da diplomacia japonesa... Entrevista com o professor Mori Satoshi e o Keidai au Web Portal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:46+00:00"
   },
   {
     "id": "65f1c04e1014587cef89",
@@ -2832,11 +2933,11 @@
     "published_at": "2026-11-03T14:21:24+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A COMSOL fez uma esplêndida aparição na 33ª Reunião Anual da Sociedade de Engenheiros Automotivos da China (SAECCE 2026) - https://m.capwhale.com/",
+    "translated_summary": "A COMSOL fez uma aparição esplêndida na 33ª Reunião Anual da Sociedade de Engenheiros Automotivos da China (SAECCE 2026) https://m.capwhale.com/",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:49+00:00"
   },
   {
     "id": "1637e0cd0261086ddef9",
@@ -2853,11 +2954,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Geely lança Xingyao 6 EF, chamando-o de primeiro sedã híbrido de metanol de produção do mundo",
+    "translated_summary": "O sedã começa em 76.800 yuans ($ 11.440) sob uma oferta por tempo limitado e suporta qualquer mistura de metanol e gasolina no mesmo tanque de combustível. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:51+00:00"
   },
   {
     "id": "70c7dd61dc66467ba636",
@@ -2874,11 +2975,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleições intercalares nos EUA começam a votar, aliados da Ásia-Pacífico têm suas próprias preocupações - Observer Network",
+    "translated_summary": "Eleições intercalares nos EUA começam a votar, aliados da Ásia-Pacífico têm sua própria rede de observadores ansiosos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:54+00:00"
   },
   {
     "id": "d19bddc4b2dd7a5bcfa8",
@@ -2895,11 +2996,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nio adiciona 10 milhões de trocas de bateria em 88 dias, totalizando mais de 130 milhões",
+    "translated_summary": "Nio disse que as trocas diárias de bateria tiveram uma média de mais de 110.000 nos últimos 88 dias. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:57+00:00"
   },
   {
     "id": "479d3b6c19af50f1ceab",
@@ -2916,11 +3017,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A CPCA estima que as vendas por atacado de Nev da China em outubro atinjam o recorde de 1,8 milhão",
+    "translated_summary": "A CPCA espera que as vendas por atacado de Nev de passageiros aumentem 12% ano a ano e 8% mês a mês em outubro. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:01:59+00:00"
   },
   {
     "id": "92ca736ae9d63fa928d4",
@@ -2935,11 +3036,11 @@
     "published_at": "2026-11-03T09:52:17+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vendas no atacado da Tesla China em outubro totalizam 67.829, menor nível desde fevereiro",
+    "translated_summary": "As vendas no atacado da Tesla China em outubro aumentaram 10,30% em relação ao ano anterior, mas caíram 28,88% em relação a setembro. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:02+00:00"
   },
   {
     "id": "0a870e6d5b90a333f8d2",
@@ -2975,11 +3076,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O empreendimento da BMW na China corta cerca de 1.800 empregos, já que as vendas estão sob pressão",
+    "translated_summary": "A BMW Brilliance teria iniciado as demissões em 2 de novembro, afetando várias categorias de trabalho, principalmente os trabalhadores da produção. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:04+00:00"
   },
   {
     "id": "73f341bbe2cf018ad5a9",
@@ -2996,11 +3097,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Entrevista: Como os democratas vencedores das eleições de meio de mandato afetam a política dos EUA em relação à China? - DW.com",
+    "translated_summary": "Entrevista: Como os democratas que vencem as eleições de meio de mandato afetam a política dos EUA em relação à China? DW.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:07+00:00"
   },
   {
     "id": "e63f51006d6455edfd87",
@@ -3015,11 +3116,11 @@
     "published_at": "2026-11-03T07:50:42+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng lança GX e G9L em 11 países em todo o Oriente Médio e África",
+    "translated_summary": "O GX garantiu mais de 4.000 pedidos no Oriente Médio e na África, incluindo 800 nos Emirados Árabes Unidos. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:09+00:00"
   },
   {
     "id": "958f704537593e95d0a3",
@@ -3034,11 +3135,11 @@
     "published_at": "2026-11-03T05:10:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cidadãos japoneses protestam contra a decisão do governo Takashi de mudar sua política nuclear - People's Daily Online",
+    "translated_summary": "Cidadãos japoneses protestam contra a decisão do governo Takashi de mudar sua política nuclear",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:12+00:00"
   },
   {
     "id": "83e2c47ebfa448aeaf1a",
@@ -3053,11 +3154,11 @@
     "published_at": "2026-11-03T03:16:27+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nio expandirá a linha ES8 com edição especial marcada para o lançamento no final de novembro no Salão do Automóvel de Guangzhou",
+    "translated_summary": "A edição especial nio ES8 será lançada no Salão do Automóvel de Guangzhou, que abre em 27 de novembro. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:15+00:00"
   },
   {
     "id": "154d00f49c1c1a56cc41",
@@ -3072,11 +3173,11 @@
     "published_at": "2026-11-03T02:20:18+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng planeja a entrada da Coreia do Sul, nomeia ex-executivo da Volvo para liderar negócios locais",
+    "translated_summary": "Lee Man-sik se tornará diretor administrativo da Xpeng Korea em 1º de dezembro, supervisionando o desenvolvimento de negócios, incluindo redes de vendas e serviços. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:17+00:00"
   },
   {
     "id": "9334aba297d0c9b73af8",
@@ -3093,11 +3194,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "“UK Government Policy Touching Stones Across the River” - Relatório Parlamentar - BBC",
+    "translated_summary": "\"British Government Policy Touching Stones Across the River\" - Relatório Parlamentar BBC",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:20+00:00"
   },
   {
     "id": "8832b8e8cfdfd3158d7c",
@@ -3112,11 +3213,11 @@
     "published_at": "2026-11-02T14:19:40+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O SUV ES9 da nio chega a 3.000 entregas em sua cidade sede global",
+    "translated_summary": "Xangai abriga a sede global da nio, com o ES9 atingindo o marco após 5 meses completos de entregas. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:23+00:00"
   },
   {
     "id": "952cf32802777b9d11c9",
@@ -3131,11 +3232,11 @@
     "published_at": "2026-11-02T13:49:37+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "SAIC VW para lançar ID. ERA 5X em 12 de novembro como o primeiro SUV totalmente elétrico da família",
+    "translated_summary": "O ID. ERA 5X é construído na plataforma CMP desenvolvida para o mercado chinês e usa a arquitetura CEA co-desenvolvida com o Xpeng. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:25+00:00"
   },
   {
     "id": "313305c63f357641e6cb",
@@ -3152,11 +3253,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "CATL expande parcerias eVTOL com acordo Blue Vector",
+    "translated_summary": "A Skyla Aviation selecionou a CATL como sua parceira exclusiva de baterias. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:28+00:00"
   },
   {
     "id": "06e30d094ecf15d78cf8",
@@ -3171,11 +3272,11 @@
     "published_at": "2026-11-02T09:16:12+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng deve relatar resultados do terceiro trimestre em 16 de novembro após entregas trimestrais recordes",
+    "translated_summary": "A Xpeng entregou um recorde de 118.390 veículos no terceiro trimestre, um pouco acima do ponto médio de sua orientação. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T05:02:30+00:00"
   },
   {
     "id": "c2665063e9c8d6c691f5",
