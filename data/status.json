@@ -1,13 +1,13 @@
 {
-  "last_run": "2026-11-06T17:52:53+00:00",
+  "last_run": "2026-11-06T18:36:56+00:00",
   "first_run_at": "2026-11-06T01:57:53+00:00",
   "target_lang": "pt",
-  "articles_total": 268,
-  "added": 2,
-  "translated_this_run": 2,
+  "articles_total": 612,
+  "added": 344,
+  "translated_this_run": 40,
   "translation_failed_this_run": 0,
-  "sources_total": 10,
-  "sources_ok": 10,
+  "sources_total": 20,
+  "sources_ok": 20,
   "sources_failed": [],
   "items_seen_by_source": {
     "chinanews-politics": 4,
@@ -19,6 +19,16 @@
     "japan-politics-nhk": 40,
     "japan-politics-search": 4,
     "japan-auto-carwatch": 30,
-    "japan-auto-search": 0
+    "japan-auto-search": 0,
+    "de-politics": 29,
+    "de-auto": 40,
+    "kr-politics": 40,
+    "kr-auto": 40,
+    "tw-politics": 40,
+    "tw-auto": 24,
+    "in-politics": 40,
+    "in-auto": 29,
+    "sg-politics": 30,
+    "sg-auto": 32
   }
 }
