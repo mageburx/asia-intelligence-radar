@@ -29,6 +29,7 @@ jobs:
           TARGET_LANG: ${{ vars.TARGET_LANG || 'pt' }}
           MAX_TRANSLATIONS: '40'
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
         run: python -m asia_radar.collector
       - name: Gerar dashboard
         if: always()
