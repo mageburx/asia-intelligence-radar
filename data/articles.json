@@ -1,5 +1,48 @@
 [
   {
+    "id": "29c2269b540c4077d7ef",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/06/volkswagens-jetta-m6-ev-quietly-launches-taxi-trim-in-china-with-555-km-range-at-12900-usd/",
+    "original_title": "Volkswagen’s Jetta M6 EV quietly launches “taxi” trim in China with 600,000 km warranty at 12,900 USD",
+    "original_summary": "The taxi trim gets a battery and power boost for 6,000 yuan (900 USD) extra, plus an 8 year & 600,000 km warranty. The post Volkswagen’s Jetta M6 EV quietly launches “taxi” trim in China with 600,000 km warranty at 12,900 USD appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-06T22:22:33+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Jetta M6 EV da Volkswagen lança silenciosamente o acabamento \"táxi\" na China com 600.000 km de garantia a 12.900 USD",
+    "translated_summary": "A guarnição do táxi recebe um aumento de bateria e energia por 6.000 yuans (900 USD) extra, além de uma garantia de 8 anos e 600.000 km. O post Jetta M6 EV da Volkswagen lança silenciosamente o acabamento \"táxi\" na China com 600.000 km de garantia a 12.900 USD apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:11+00:00"
+  },
+  {
+    "id": "3280410c0896da2a4d1a",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Na1RUTzRSYXNMSlpjN1AtTld0bDJpclA4VDVTUmFVbHVLWU1CcktLTXgzTldWdEJKOUtaQkh1aUFKQlkyUEdCZnoxQnpCaHJzSmlMZE9zamlZR1dQY2ljdNIBZkFVX3lxTE9rdzNwWEhwNDRhbkU2VmhmMnYwRTJGWHd5ZG9FcnZHTUFFX2UwbWU2cmlhVVlyb1hoTnl5RjNIT1VXT1NCWjJIY2dYdzF6QndBV0liMnQxWFpJdG1ucU9QVmNzaVFvdw?oc=5",
+    "original_title": "再逼撤館》我關閉巴紐駐處 終止援助 - 自由時報",
+    "original_summary": "再逼撤館》我關閉巴紐駐處 終止援助 自由時報",
+    "published_at": "2026-11-06T21:30:00+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Forçando a remoção do pavilhão novamente, estou fechando a presença parna para acabar com a ajuda - The Liberty Times",
+    "translated_summary": "Forçando o museu a se retirar novamente. - Fechei a estação de Parniu e encerrei a ajuda ao Freedom Times.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:25+00:00"
+  },
+  {
     "id": "c58593f96a25bc383eca",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -3478,6 +3521,28 @@
     "last_translation_attempt_at": "2026-11-06T19:24:05+00:00"
   },
   {
+    "id": "728d7661b1afd9e94eb8",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "TVBS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82NGZyMW5wenk1SG5rZlBnLXJKbENCNVNxaGlVLVFIdEZ2MWM2eTN0eTdkYXNPYWhqWUFackNFMkxDRVpwQjl6ZWkzWnhWcDZIbWs4?oc=5",
+    "original_title": "南美友邦政壇巨震！銀行倒閉掀風暴巴拉圭總統閃辭 外交部急發聲 - TVBS",
+    "original_summary": "南美友邦政壇巨震！銀行倒閉掀風暴巴拉圭總統閃辭 外交部急發聲 TVBS",
+    "published_at": "2026-11-06T06:44:00+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Grande terremoto no círculo político amigável da América do Sul! Falências bancárias invadem o presidente do Paraguai enquanto o Ministério das Relações Exteriores fala - TVBS",
+    "translated_summary": "Grande terremoto no círculo político amigável da América do Sul! Falências bancárias sopram uma tempestade Presidente paraguaio renuncia ao Ministério das Relações Exteriores apressado TVBS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:28+00:00"
+  },
+  {
     "id": "8b1108d12231c922fdd1",
     "country": "Taiwan",
     "category": "Política",
@@ -3575,6 +3640,26 @@
     "translated_summary": "Float Winding, Know and Prevent - Card/Hankut | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:24:10+00:00"
+  },
+  {
+    "id": "98bf2721d114ae499b01",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNVBadUNLM3Eta2J3RnVULXVCa1VUNjJXZXBsRENOY0NRaGhnT0c0YkJPVlhjWmg1V0s4RHBaLXRZZVRMZHNVTVRmOHFVMlBrT19VLV9rR1M3Y3JwNXF4dXZnRlJYUmcxSHZfamFR?oc=5",
+    "original_title": "놓치면 아까운 코그페 혜택 총정리! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "놓치면 아까운 코그페 혜택 총정리! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-06T06:21:51+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Recapitulação inesquecível dos benefícios do Cogpe! - Todos | Card/HanCut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Recapitulação inesquecível dos benefícios do Cogpe! - Todos | Card/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:22+00:00"
   },
   {
     "id": "3b38f35affdda5f2b801",
@@ -6040,6 +6125,28 @@
     "last_translation_attempt_at": "2026-11-06T02:05:38+00:00"
   },
   {
+    "id": "8cf47acfeefd2ab7180e",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Lebensmittelpraxis.de",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXo1aE9RckM0YmoycE9wczEwY0RXMkd1SWlaVUtndWFxTDlWQkxra0pRenIzdTZpUWk4WFNLUE81S0tVaWM1TlVISTdkNWZDb3g2cjFBdERmREx2ejdaTjNBZk41ZGo3Q1BNY3FQRUZMR3hDaUZJWXY3Vlc0MURLZmhoZjlxaHFhek16bFpJZkQwQlAwVDRkSVRaaFNVSXFFdl9CYThRWEFYdHlFeGtObzZWWnZ2OGNDaXdXZ3BXTS1Ub3ZsN3dZcWswMWFfa3pLNUdMSDg4MA?oc=5",
+    "original_title": "Plastiksteuer - Kunststoffbranche begrüßt Umdenken der Bundesregierung - Lebensmittelpraxis.de",
+    "original_summary": "Plastiksteuer - Kunststoffbranche begrüßt Umdenken der Bundesregierung Lebensmittelpraxis.de",
+    "published_at": "2026-11-05T13:38:00+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Imposto sobre plásticos - A indústria de plásticos congratula-se com o repensar do Governo Federal - Lebensmittelpraxis.de",
+    "translated_summary": "Imposto sobre plásticos - A indústria de plásticos congratula-se com o repensar do Governo Federal Lebensmittelpraxis.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:14+00:00"
+  },
+  {
     "id": "27f4fe84e25f2f5cbfe3",
     "country": "China",
     "category": "Política",
@@ -6058,6 +6165,26 @@
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T10:08:35+00:00",
     "translation_error": "TooManyRequests"
+  },
+  {
+    "id": "e50ffc6770388e60adb8",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Prime Minister's Office Singapore",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXdxemlreHBHTTJUWTIyb1ZvelJwUXVVVUV5NW1ZanRUdlMtT1dIMmFPcTlMUmxQU2c2djJESWt2bWU2OGJiMkFEYmtwN0x6bzg1Y3Q5Zk03N3Bzc1YyU3pWTEdHS0V5NnRRU25FOXFTcWc3aE1HLTREdUNZT01CZk5xNEY5VmtVUUg0WWlfeXdOZlE?oc=5",
+    "original_title": "PM Lawrence Wong at GovTech's 10th Year Anniversary Dinner - Prime Minister's Office Singapore",
+    "original_summary": "PM Lawrence Wong at GovTech's 10th Year Anniversary Dinner Prime Minister's Office Singapore",
+    "published_at": "2026-11-05T13:34:47+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "PM Lawrence Wong no Jantar do 10º Aniversário da GovTech - Gabinete do Primeiro-Ministro Singapura",
+    "translated_summary": "Primeiro-Ministro Lawrence Wong no Jantar do 10º Aniversário da GovTech no Gabinete do Primeiro-Ministro em Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:30+00:00"
   },
   {
     "id": "59b3c75d8527beb9060f",
@@ -8617,6 +8744,26 @@
     "last_translation_attempt_at": "2026-11-06T02:57:23+00:00"
   },
   {
+    "id": "d43ca789bb185060b2b7",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eWNYejZxeWtCRTljZUk2STl0bHFWM3EyYjNrVDQ3REMzeTZYZE05dFo3UkcwblR6dVNxOGV0QVJvM01scmtVQ29SX1ItMVdNaVhqOC1zQ1ZUY1lFcVN5Y2IzbFZTb1hSbDNDcTdn?oc=5",
+    "original_title": "2027년 질병관리청 예산안 핵심 내용 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "2027년 질병관리청 예산안 핵심 내용 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-05T01:44:12+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Conteúdo Principal do Orçamento KDCA 2027 - Cartão/Hankut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "2027 Centers for Disease Control and Prevention Budget Core Content - Card/Hankut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:20+00:00"
+  },
+  {
     "id": "94ca594dfd141fd9d737",
     "country": "Taiwan",
     "category": "Política",
@@ -8634,6 +8781,26 @@
     "translated_summary": "Democratas retomam o controle da análise dos EUA: vão se concentrar em Taiwan e pressionar Trump a mudar a política da China | CNA",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:14:56+00:00"
+  },
+  {
+    "id": "a08467c84b617bd06f2c",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TRUJFRXpueHVydWtsMFY5ZlVUY2RtZTFtdTMxakJjcXJxUXZHTjVvbW5WOTROZWVJUGZOTEVhOGo4Q1QtckhIblBHOUNPVU1WQzV6UWEwMkJzLUtEN0wwWFVsRmxnUE9XNzVVblVB?oc=5",
+    "original_title": "국민이 체감하는 안전 사회 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "국민이 체감하는 안전 사회 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-05T01:38:12+00:00",
+    "first_seen_at": "2026-11-06T22:23:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Safety society felt by the people - All | Card/Hankut | Multimedia - South Korea Policy Briefing",
+    "translated_summary": "Uma sociedade segura sentida pelo povo - Todos | Cards/Hankut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:17+00:00"
   },
   {
     "id": "b4e550b4974afb3d32f4",
@@ -12829,11 +12996,11 @@
     "published_at": "2026-11-03T08:02:07+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Electra e Mercedes-Benz expandem oferta de carregamento rápido premium na Europa - Portal da imprensa",
+    "translated_summary": "Electra e Mercedes-Benz expandem oferta de carregamento rápido premium no portal Europe Press",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:33+00:00"
   },
   {
     "id": "c367b89090e8993aeb18",
@@ -12888,11 +13055,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Progresso mais recente da Pfeiffer de 10.000 yuans | Na revisão do Comitê de Pagamento do Orçamento Geral, o mais rápido 26/1? Elegibilidade de reivindicação, 5 métodos de garantia, 20.000 progressão universal de cada vez (atualização contínua) - World Magazine",
+    "translated_summary": "Progresso mais recente da Pfeiffer de 10.000 yuans | Na revisão do Comitê de Pagamento do Orçamento Geral, o mais rápido 26/1? Elegibilidade de reivindicação, 5 tipos de métodos de garantia, 20.000 progressão universal de cada vez (atualização contínua) Revista Tianxia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:35+00:00"
   },
   {
     "id": "e390cfb796d739700379",
@@ -12909,11 +13076,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Empresas do mercado de veículos elétricos, tamanho e tendências 2026-2035 - Pesquisa de precedência",
+    "translated_summary": "Empresas do mercado de veículos elétricos, tamanho e tendências 2026-2035 Pesquisa de precedência",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:38+00:00"
   },
   {
     "id": "d3050f9d7d85e5a3d786",
@@ -12928,11 +13095,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os fabricantes de Singapura podem contar com parcerias e apoio governamental para navegar nas cadeias de abastecimento globais em mudança - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Os fabricantes de Cingapura podem contar com parcerias e apoio do governo para navegar nas cadeias de suprimentos globais em constante mudança do Conselho de Desenvolvimento Econômico de Cingapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:40+00:00"
   },
   {
     "id": "bafb8b45a17488a93ba2",
@@ -12949,11 +13116,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura vai pilotar tecnologia de captura e armazenamento de carbono em usinas de transformação de resíduos em energia - Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_summary": "Cingapura testará tecnologia de captura e armazenamento de carbono em usinas de transformação de resíduos em energia Conselho de Desenvolvimento Econômico de Cingapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:43+00:00"
   },
   {
     "id": "b58070543da8eee92c1d",
@@ -12988,11 +13155,11 @@
     "published_at": "2026-11-03T07:58:14+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura cria centro para promover a aviação sustentável na APAC - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Singapura cria centro para promover a aviação sustentável na APAC Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:46+00:00"
   },
   {
     "id": "1400f19f086cf373cc7a",
@@ -13007,11 +13174,11 @@
     "published_at": "2026-11-03T07:54:58+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Encomendado pelo Comitê de Revisão de Desinfetantes Umidificadores - Fotos | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Encomendado pelo Humidifier Disinfectant Review Committee - Photos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:49+00:00"
   },
   {
     "id": "e63f51006d6455edfd87",
@@ -13047,11 +13214,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ecossistema de Veículos Elétricos da Índia: 8 Oportunidades de Negócios Emergentes para MPMEs - Notícias de Negócios Esta Semana",
+    "translated_summary": "Ecossistema de Veículos Elétricos da Índia: 8 Oportunidades de Negócios Emergentes para MPMEs Notícias de Negócios Esta Semana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:51+00:00"
   },
   {
     "id": "5ab2ba64d0ea12bbfdb3",
@@ -13068,11 +13235,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ecossistema de Veículos Elétricos da Índia: 8 Oportunidades de Negócios Emergentes para MPMEs - Notícias de Negócios Esta Semana",
+    "translated_summary": "Ecossistema de Veículos Elétricos da Índia: 8 Oportunidades de Negócios Emergentes para MPMEs Notícias de Negócios Esta Semana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:54+00:00"
   },
   {
     "id": "aa7be4a07c1a1d0a7d2a",
@@ -13130,11 +13297,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Participação de veículos elétricos domésticos abaixo de 50%... Deve incluir \"crédito fiscal de produção\" - Economia de Seul",
+    "translated_summary": "A participação de veículos elétricos na Coreia está abaixo de 50%... \"O crédito fiscal de produção deve ser incluído\" Economia de Seul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:57+00:00"
   },
   {
     "id": "46f1007a6a8555ed1218",
@@ -13151,11 +13318,11 @@
     "topics": [
       "Semicondutores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[coluna Li Guimin] A indústria de semicondutores gritou por ajuda! Quem paga por uma política energética fracassada de tíquetes verdes e preços de gás disparados? - PChome Notícias Online",
+    "translated_summary": "[coluna Li Guimin] A indústria de semicondutores gritou por ajuda! Quem paga por uma política energética fracassada de tíquetes verdes e preços de gás disparados? PChome Online News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:24:59+00:00"
   },
   {
     "id": "8a22218767053221feea",
@@ -13170,11 +13337,11 @@
     "published_at": "2026-11-03T06:28:13+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Volkswagen Aktie: Deutsche Bank senkt Kursziel nach Antlitz-Treffen - Finanztrends",
+    "translated_summary": "Volkswagen Aktie: Deutsche Bank senkt Kursziel nach Antlitz-Treffen Finanztrends",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:02+00:00"
   },
   {
     "id": "da97aa471dd59eff8d73",
@@ -13189,11 +13356,11 @@
     "published_at": "2026-11-03T05:56:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Proposta de lei busca prisão ou treinamento reformador para jovens infratores fraudulentos após decisão do Supremo Tribunal - The Straits Times",
+    "translated_summary": "Proposta de lei busca prisão ou treinamento reformador para jovens infratores de golpes após a decisão do Supremo Tribunal The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:04+00:00"
   },
   {
     "id": "54c3db0db66a834245b1",
@@ -13208,11 +13375,11 @@
     "published_at": "2026-11-03T05:55:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura ratificará o acordo há muito adiado do centro de neblina da ASEAN antes da presidência em 2027 - Eco-Business",
+    "translated_summary": "Singapura ratificará o acordo há muito adiado do centro de neblina da ASEAN antes da presidência da Eco-Business em 2027",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:06+00:00"
   },
   {
     "id": "9f9443b8d002421ae878",
@@ -13266,11 +13433,11 @@
     "published_at": "2026-11-03T04:46:17+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Europa e Singapura aprofundam laços tecnológicos profundos na Noite Europeia da Inovação - Serviço Europeu para a Ação Externa (SEAE)",
+    "translated_summary": "Europa e Singapura aprofundam laços tecnológicos profundos na Noite Europeia da Inovação Serviço Europeu para a Ação Externa (SEAE)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:09+00:00"
   },
   {
     "id": "b9b0d3c7140eac92abc6",
@@ -13287,11 +13454,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "XPeng entrega recorde de 50237 veículos elétricos durante outubro - Vietnam Investment Review - VIR",
+    "translated_summary": "A XPeng entrega o recorde de 50237 veículos elétricos durante a Revisão de Investimentos do Vietnã em outubro - VIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:12+00:00"
   },
   {
     "id": "83e2c47ebfa448aeaf1a",
@@ -13327,11 +13494,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Assembleia Nacional da Coreia do Sul Aprecia o Papel da Agência de Notícias do Vietname e da Yonhap News na Promoção das Relações entre a Coreia do Sul e o Vietname - Thông tļn xã Việt Nam",
+    "translated_summary": "Assembleia Nacional da Coreia do Sul Aprecia o Papel da Agência de Notícias do Vietname e da Yonhap News na Promoção das Relações entre a Coreia do Sul e o Vietname",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:14+00:00"
   },
   {
     "id": "2af5b82a46896da1ea6b",
@@ -13346,11 +13513,11 @@
     "published_at": "2026-11-03T02:36:29+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As duas faces do comércio Índia-Vietname - rivais na América, parceiros em casa - ThePrint",
+    "translated_summary": "As duas faces do comércio Índia-Vietname - rivais na América, parceiros em casa ThePrint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:17+00:00"
   },
   {
     "id": "154d00f49c1c1a56cc41",
@@ -13386,11 +13553,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Dê-me um quarto num carro elétrico como este\"... Partilha doméstica primeiro 'meio colapso' [Questão +] - Economia da Coreia",
+    "translated_summary": "\"Dê-me um quarto em um carro elétrico como este\"... A primeira parcela da produção doméstica da Coreia 'meio colapso' [Questão +] Economia da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:20+00:00"
   },
   {
     "id": "e526adf9bb0d822a6938",
@@ -13405,11 +13572,11 @@
     "published_at": "2026-11-03T02:03:45+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economize muito no 'Cogpe'! - Todos | Card/HanCut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Economize muito no 'Cogpe'! - Todos | Card/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:22+00:00"
   },
   {
     "id": "eacf8a834f52b667d588",
@@ -13426,11 +13593,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A maioria dos carros elétricos domésticos colapsados... \"Devemos incluir o crédito fiscal do carro elétrico\" - Yonhap News",
+    "translated_summary": "A maioria dos veículos elétricos domésticos colapsados... \"Os veículos elétricos devem incluir crédito fiscal\" Yonhap News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:25+00:00"
   },
   {
     "id": "2ca349ef88e8b607ab60",
@@ -13448,11 +13615,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A maioria dos carros domésticos colapsou… Uma voz que deveria ser “incluída no crédito fiscal de produção de veículos elétricos” - jornal eletrônico",
+    "translated_summary": "A maioria dos carros domésticos desabou... \"Deve ser incluído no crédito fiscal de produção de veículos elétricos.\" Han Voice Electronic Newspaper",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:28+00:00"
   },
   {
     "id": "59ad3cef0b49da98775a",
@@ -13469,11 +13636,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Férias domésticas de caminhão a gasolina de 7 lugares em Taiwan \"redução de preço de 129.000\"! Hack de Veículo Elétrico Nagilje 250k - ETtoday",
+    "translated_summary": "Férias domésticas de caminhão a gasolina de 7 lugares em Taiwan \"redução de preço de 129.000\"! Veículo elétrico NaZhiJie corta 250.000 nuvens de carros ETtoday",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:30+00:00"
   },
   {
     "id": "0af99f1c5056f8426125",
@@ -13488,11 +13655,11 @@
     "published_at": "2026-11-03T00:18:38+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hyundai Motors Classificada # 1 em Reputação de Marca para Empresas Automóveis Domésticas em Novembro... Seguindo Kia Motors e KG Mobility - Popcorn News",
+    "translated_summary": "Hyundai Motor, classificada em primeiro lugar na reputação da marca da empresa automobilística coreana em novembro... Popcorn News atrás da Kia Motors e da KG Mobility",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:33+00:00"
   },
   {
     "id": "fd30f637b2610656d646",
@@ -13509,11 +13676,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Digits Today: Primeiros óculos de IA da Samsung à venda | Solução de veículo elétrico Hon Hai | Mês de listagem de motocicletas de outubro reduzido em mais de 14% - dígitos",
+    "translated_summary": "Digits Today: Primeiros óculos de IA da Samsung à venda | Solução de veículo elétrico Hon Hai | Mês de listagem de motocicletas de outubro reduzido em mais de 14% de dígitos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:36+00:00"
   },
   {
     "id": "1c198156c8f19e8e8461",
@@ -13550,11 +13717,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Easelink e Luxshare colaboram para industrializar o sistema automatizado de carregamento de veículos elétricos na China - VEs carregados",
+    "translated_summary": "Easelink e Luxshare colaboram para industrializar o sistema automatizado de carregamento de veículos elétricos na China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:38+00:00"
   },
   {
     "id": "53b0f0aec94ea72b4f3f",
@@ -13572,11 +13739,11 @@
       "Veículos elétricos",
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Veículo elétrico Hon Hai se expande para o oceano para abrir novos caminhos para as exportações de automóveis de Taiwan - DIGITIMES",
+    "translated_summary": "Veículo elétrico Hon Hai se expande para o oceano para abrir novas estradas para as exportações de automóveis de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:41+00:00"
   },
   {
     "id": "9334aba297d0c9b73af8",
@@ -13614,11 +13781,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hora de recarregar as ambições de veículos elétricos da Nova Zelândia - Stuff.co.nz",
+    "translated_summary": "Hora de recarregar as ambições de veículos elétricos da Nova Zelândia Stuff.co.nz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:43+00:00"
   },
   {
     "id": "274570590b57907e3401",
@@ -13693,11 +13860,11 @@
     "published_at": "2026-11-02T12:45:21+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Defenda o Mar Ocidental! - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Proteja o Mar de Seohae! Resumo da Política da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:46+00:00"
   },
   {
     "id": "3abf0183d6c9119e3429",
@@ -13714,11 +13881,11 @@
     "topics": [
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Sealion 7 Luxury Electric SUV Is BYD's Fastest Selling EV: Sales Cross 5,000 Units In India - Cartoq",
+    "translated_summary": "Sealion 7 Luxury Electric SUV Is BYD's Fastest Selling EV: Sales Cross 5,000 Units In India Cartoq",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:49+00:00"
   },
   {
     "id": "093ebe43d14734cf1697",
@@ -13735,11 +13902,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Relatório de vendas/Em outubro de 2026, o número de veículos elétricos listados caiu para menos de 3.000, e a Foxtron Cavira subiu na liderança de vendas - a linha dourada da terra",
+    "translated_summary": "Relatório de vendas/Em outubro de 2026, o número de veículos elétricos listados caiu para menos de 3.000, e a Foxtron Cavira subiu a linha dourada do líder de vendas Earth",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:51+00:00"
   },
   {
     "id": "b7b5b86c03c5e5d1cf66",
@@ -13775,11 +13942,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 começa a entrega - Veículo Elétrico DDCAR",
+    "translated_summary": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 inicia entrega de veículos elétricos DDCAR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:25:54+00:00"
   },
   {
     "id": "3b42c27f065b37b41307",
