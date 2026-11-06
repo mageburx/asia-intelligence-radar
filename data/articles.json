@@ -1,5 +1,104 @@
 [
   {
+    "id": "83f0592c093ef947953a",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71818",
+    "original_title": "トクリュウ対策 通信内容遠隔で把握する法案 衆院内閣委で可決",
+    "original_summary": "「トクリュウ」＝匿名・流動型犯罪グループへの対策として、指示役らのスマートフォンでの通信内容を遠隔で把握できるようにする法案が、衆議院の委員会で賛成多数で可決されました。",
+    "published_at": "2026-11-06T10:01:17+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Medidas contra o conteúdo da comunicação Tokuryu Um projeto de lei que pode ser apreendido remotamente Aprovado pelo Comitê de Gabinete da Câmara dos Deputados",
+    "translated_summary": "\"Tokuryu\" = Como medida contra grupos criminosos anônimos e móveis, um projeto de lei para permitir que os instrutores compreendam remotamente o conteúdo das comunicações em smartphones foi aprovado pela maioria do comitê da Câmara dos Deputados.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:17+00:00"
+  },
+  {
+    "id": "a81529b2b1ffe5116acb",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727390.shtml",
+    "original_title": "习近平参加北京市区人大代表换届选举投票",
+    "original_summary": "原标题：习近平在参加北京市区人大代表换届选举投票时强调",
+    "published_at": "2026-11-06T09:39:36+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Xi Jinping participa das eleições para o Congresso Popular Municipal de Pequim",
+    "translated_summary": "Título original: Xi Jinping emphasized during his participation in the Beijing Municipal People's Congress Re-election Vote",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:02+00:00"
+  },
+  {
+    "id": "241ccf56917cde8fcf16",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71754",
+    "original_title": "“能動的サイバー防御含め戦略的に実行”政府が緊急パッケージ",
+    "original_summary": "不正アクセスによる情報漏えいが相次ぐ中、政府は「緊急対策パッケージ」を決定しました。基本的な対策の徹底として、個人情報を扱う企業に不要なデータの消去を求めるほか、サイバー攻撃を未然に防ぐため、攻撃元を…",
+    "published_at": "2026-11-06T09:26:00+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Pacote de emergência governamental \"Executar estrategicamente, incluindo ciberdefesa proativa\"",
+    "translated_summary": "Em meio a uma série de violações de dados devido ao acesso não autorizado, o governo decidiu por um \"pacote de resposta a emergências\". Como medida básica, além de exigir que as empresas que lidam com informações pessoais apaguem dados desnecessários, a fim de evitar ataques cibernéticos com antecedência, a fonte do ataque...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:21+00:00"
+  },
+  {
+    "id": "594ba68b2f544769754b",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727373.shtml",
+    "original_title": "习近平同加蓬总统恩圭马会谈",
+    "original_summary": "新华社北京11月6日电#8195;11月6日，国家主席习近平在北京同来华进行国事访问的加蓬总统恩圭马举行会谈。",
+    "published_at": "2026-11-06T09:16:54+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Xi Jinping reúne-se com o presidente do Gabão, Nguema",
+    "translated_summary": "Pequim, 6 nov (Xinhua) -- Em 6 de novembro, o presidente Xi Jinping conversou em Pequim com o presidente Nguema, do Gabão, que estava em visita de Estado à China.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:05+00:00"
+  },
+  {
+    "id": "42a90013ef6440b05612",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727366.shtml",
+    "original_title": "习近平为加蓬总统恩圭马举行欢迎仪式",
+    "original_summary": "新华社快讯：11月6日，国家主席习近平在北京为来华进行国事访问的加蓬总统恩圭马举行欢迎仪式。",
+    "published_at": "2026-11-06T09:16:26+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Xi Jinping realizou uma cerimónia de boas-vindas ao presidente do Gabão, Nguema",
+    "translated_summary": "Xinhua News Agency Express: Em 6 de novembro, o presidente Xi Jinping realizou uma cerimônia de boas-vindas em Pequim para o presidente Nguema do Gabão em sua visita de Estado à China.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:09+00:00"
+  },
+  {
     "id": "58ab7d3a6ba45a6ba50b",
     "country": "Japão",
     "category": "Política",
@@ -12,11 +111,11 @@
     "published_at": "2026-11-06T08:45:00+00:00",
     "first_seen_at": "2026-11-06T09:00:22+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Resultados do investimento do GPIF De julho a setembro, o déficit de mais de 5,25 trilhões de ienes em títulos estrangeiros será afetado",
+    "translated_summary": "GPIF = Pension Provident Fund Management Investment Incorporated Administrative Agency, que administra as reservas públicas de pensão, registrou um déficit de mais de 5.250 bilhões de ienes de julho a setembro, no contexto de uma queda no preço dos títulos estrangeiros devido ao aumento das taxas de juros globais...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:25+00:00"
   },
   {
     "id": "915f4e9dbdd02f622c4c",
@@ -33,11 +132,11 @@
     "topics": [
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BYD Seagull perde roda traseira após greve de divisores na Indonésia, atraindo escrutínio de qualidade",
+    "translated_summary": "Uma roda BYD Atto 1 se solta após um impacto relatado na estrada na Indonésia, ao lado de um incidente separado do Jaecoo J5 em Jacarta. O post BYD Seagull perde a roda traseira após a greve dos divisores na Indonésia, atraindo escrutínio de qualidade apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:29+00:00"
   },
   {
     "id": "620bebea90e24e41827c",
@@ -52,11 +151,30 @@
     "published_at": "2026-11-06T08:30:25+00:00",
     "first_seen_at": "2026-11-06T09:00:22+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Ministério da Administração Interna e Comunicações deu orientação administrativa à NTT DoCoMo e vazou informações da contratada para a Amazon.",
+    "translated_summary": "O Ministério da Administração Interna e Comunicações deu orientação administrativa para evitar uma recorrência no dia 6, assumindo que a NTT DoCoMo havia passado números de telefone e outras informações para a Amazon Japan sem o consentimento da contratada em um contrato de plano de taxas específico.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:32+00:00"
+  },
+  {
+    "id": "7e1ca6548ba8e390e870",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "IDNFinancials",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUUVFNlYtSVRNVDJCYzBlZWZXOFUxc1pjNTVrWWJhbXc1UjRrV1JSazJLaWFtcExPVkJ1bDJ3R1FpUW5wN0JiamM4OE5Gbjl0b3hGTGhrMTVUZEI3SXB0UC16TEJfa2x2N2FScHBWQ3d2M05UQ3l5emlJdFpzazFMZW9xX0R6VWRVOS02N1hDT2FtUGFOal80cFFRQmFIMnkxc0pKMGdLa28wVV85LS01N01XbW1RYVBlY0FwZzZMSm1LUVBJWS1yNDdoNndTY1J5aVp0b2pNUUdHcml5X240eU12bWZicnc?oc=5",
+    "original_title": "共和党惨败将增强中国地位？ - IDNFinancials",
+    "original_summary": "共和党惨败将增强中国地位？ IDNFinancials",
+    "published_at": "2026-11-06T08:30:00+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O fiasco republicano fortalecerá a China? - IDNFinancials",
+    "translated_summary": "O fiasco republicano fortalecerá a posição da China? IDNFinancials",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:12+00:00"
   },
   {
     "id": "4797bdcfb4568a5daf31",
@@ -73,11 +191,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A conta de redução do imposto sobre o consumo será deliberada pela Câmara dos Vereadores no dia 11",
+    "translated_summary": "Após a aprovação do projeto de lei relacionado à redução do imposto de consumo de alimentos pela Câmara dos Deputados, os presidentes do Comitê de Medidas da Assembleia Nacional do Partido Democrático Liberal da Câmara dos Vereadores e do Partido Democrático Constitucional se reuniram, realizaram uma sessão plenária da Câmara dos Vereadores no dia 11 deste mês, pediram a presença do primeiro-ministro Takashi e concordaram em discuti-lo...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:35+00:00"
   },
   {
     "id": "ecb6936d5ee3d3a8fcd7",
@@ -94,11 +212,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Evento de apreciação dos fãs de automobilismo \"Honda Racing Season Finale 2026\" realizado em Roppongi Hills, Honda",
+    "translated_summary": "A Honda Racing anunciou em 6 de novembro que o Honda Racing Season Finale 2026, um evento de apreciação dos fãs de automobilismo, será realizado na Roppongi Hills Arena (Minato-ku, Tóquio) de 12 a 13 de dezembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:39+00:00"
   },
   {
     "id": "eaa163efd5f004594fa6",
@@ -115,11 +233,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Carmate adiciona \"RAV4\", \"Lexus NX/RX\" e \"JPN Taxi\" ao filme de espelho lateral super resistente à água \"Zero Wiper Film Model Only\"",
+    "translated_summary": "Em 7 de outubro, a Carmate adicionou os modelos compatíveis com Toyota RAV4, Lexus NX/RX e Toyota JPN Taxi (Japan Taxi) ao filme super resistente à água \"Zero Wiper Film Type Model Only\", que dificulta a captação de chuva pelos espelhos laterais. O preço é o preço de abertura.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:42+00:00"
   },
   {
     "id": "38471a3d3f907ce1052e",
@@ -136,11 +254,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vida Passada e Vida Presente da \"Especialidade Ocidental\" | Um Novo Estágio para os Grãos de Café Africanos na China",
+    "translated_summary": "Na zona de produtos Ásia-África da 9ª CIIE, os aromas de café floresceram. Este ano, pela primeira vez, o café africano do Quénia, Etiópia e Ruanda foi revelado coletivamente como \"Tarifa Zero\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:45+00:00"
   },
   {
     "id": "9c8899efdaff2471609a",
@@ -242,11 +360,11 @@
       "Indústria e produção",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BYD Yangwang U9 Xtreme quebra barreira de 500 km/h para estabelecer novo recorde mundial para carros de produção",
+    "translated_summary": "O Yangwang U9 Xtreme atingiu 503,17 km/h (312,66 milhas por hora) em um desafio de alta velocidade em estradas públicas em Abu Dhabi. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:48+00:00"
   },
   {
     "id": "281d55d526f5462bf823",
@@ -286,11 +404,11 @@
       "Indústria e produção",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Yangwang U9 Xtreme da BYD torna-se o primeiro carro de produção a superar 500 km/h",
+    "translated_summary": "O Yangwang U9 Xtreme da BYD atinge 503,17 km/h em Abu Dhabi. O post Yangwang U9 Xtreme da BYD se torna o primeiro carro de produção a superar 500 km/h apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:51+00:00"
   },
   {
     "id": "9f29b1c3d1ec7c970c13",
@@ -307,11 +425,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China felicita Mitchell pela sua reeleição como primeiro-ministro de Granada",
+    "translated_summary": "Pequim, 6 de novembro (Xinhua) -- (Repórter Zhang Weiran) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular em 6 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:55+00:00"
   },
   {
     "id": "8ac54685814c6af8932a",
@@ -328,11 +446,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "He Lifeng irá ao Canadá para sediar o segundo Diálogo Estratégico Econômico e Financeiro China-Canadá",
+    "translated_summary": "Um porta-voz do Ministério das Relações Exteriores anunciou:",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:58+00:00"
   },
   {
     "id": "ece72c4146a8220a68ef",
@@ -349,11 +467,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China: Não importa como a situação internacional mude, a China sempre foi o parceiro mais confiável para os países africanos.",
+    "translated_summary": "Pequim, 6 de novembro (Xinhua) -- (Repórter Zhang Weiran) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular em 6 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:00+00:00"
   },
   {
     "id": "9bce0edff83e4736bd21",
@@ -370,11 +488,33 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Sanções dos EUA contra Cuba adicionam duas novas empresas chinesas China: opõe-se firmemente à chamada \"jurisdição de braço longo\"",
+    "translated_summary": "Pequim, 6 nov (Xinhua) -- (Repórter Zhang Weiran) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular no dia 6.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:04+00:00"
+  },
+  {
+    "id": "b5f1ea79a7c238c99366",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_id": "china-auto-zh",
+    "publisher": "证券之星",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UMFdhdFN3b1AwX3N1TmJUbDYxU0pvOURDZTJnc19Kekdzbmk3NnFZZFdaRDdDaGZHVUFDOElqaFBpeFgwMWE5cHBsV2gzVDJqbkdJbXNXUzZxV3BOY2hNUDBB?oc=5",
+    "original_title": "新能源车周报：五部门表示构建新能源汽车动力电池全生命周期管理体系 - 证券之星",
+    "original_summary": "新能源车周报：五部门表示构建新能源汽车动力电池全生命周期管理体系 证券之星",
+    "published_at": "2026-11-06T07:27:13+00:00",
+    "first_seen_at": "2026-11-06T10:06:57+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "New Energy Vehicle Weekly Report: Five Departments Say to Build a New Energy Vehicle Power Battery Full Life Cycle Management System - Securities Star",
+    "translated_summary": "Relatório Semanal de Veículos de Nova Energia: Cinco Departamentos Expressaram as Estrelas da Construção de um Sistema de Gestão do Ciclo de Vida Total da Bateria de Veículos de Nova Energia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:07:14+00:00"
   },
   {
     "id": "028e19fd938a1e85da38",
@@ -391,11 +531,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Tesla empurra a localização da fábrica de Xangai para 98%, trazendo desenvolvimentos conjuntos com fornecedores chineses em todo o mundo",
+    "translated_summary": "Nos últimos anos, a Tesla sempre descreveu a taxa de localização de peças da fábrica de Xangai como \"acima de 95%.\" Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:07+00:00"
   },
   {
     "id": "ec0fbf83f8b30a8e40ff",
@@ -412,11 +552,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O lado chinês respondeu ao primeiro aniversário da falácia relacionada a Taiwan das primeiras mudas de Gaoshi: um ano se passou e as autoridades japonesas ainda estão em vigor.",
+    "translated_summary": "Pequim, 6 nov (Xinhua) -- (Repórter Zhang Weiran) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular no dia 6.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:09+00:00"
   },
   {
     "id": "223d0906bf4d2a36b9cd",
@@ -433,11 +573,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Relações Exteriores: China e Estados Unidos devem seguir na mesma direção e aderir à orientação de benefício mútuo e resultados ganha-ganha",
+    "translated_summary": "Pequim, 6 nov (Xinhua) -- (Repórter Zhang Weiran) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular no dia 6.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:13+00:00"
   },
   {
     "id": "fa76806841238c07688d",
@@ -454,11 +594,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Relações Exteriores: China e Estados Unidos devem avançar na mesma direção para promover a estabilidade contínua e o bom desenvolvimento das relações econômicas e comerciais",
+    "translated_summary": "Agência de Notícias Xinhua, Pequim, 6 de novembro (Repórter Shao Yibo, Wang Huihui) O porta-voz do Ministério das Relações Exteriores, Guo Jiakun, disse em resposta a perguntas em uma coletiva de imprensa regular no dia 6 que manter o desenvolvimento estável das relações econômicas e comerciais China-EUA está de acordo com os interesses dos dois países e dos dois povos, e também é propício ao desenvolvimento econômico global. Os dois lados devem seguir na mesma direção, aderir à orientação mutuamente benéfica e de benefício mútuo e promover o desenvolvimento sustentado, estável e bom das relações econômicas e comerciais China-EUA.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:16+00:00"
   },
   {
     "id": "a06fbaf7315f94d3c019",
@@ -475,11 +615,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Relações Exteriores: As graves dificuldades atuais nas relações sino-japonesas estão inteiramente do lado japonês",
+    "translated_summary": "Em 6 de novembro, o porta-voz do Ministério das Relações Exteriores, Guo Jiakun, organizou uma coletiva de imprensa regular. Um repórter perguntou sobre as relações sino-japonesas. Guo Jiakun disse que as atuais relações sino-japonesas estão enfrentando sérias dificuldades e a responsabilidade é inteiramente do lado japonês. Há cerca de um ano, o líder japonês emitiu uma falácia relacionada a Taiwan, enviando descaradamente o sinal errado para tentar intervir na questão de Taiwan pela força, desafiando a soberania nacional da China e abalando a base política das relações sino-japonesas. Infelizmente, um ano se passou, e as autoridades japonesas ainda estão girando no lugar, evitando problemas e evitando problemas, e nunca mostraram a sinceridade e a ação de refletir e corrigir erros. Sobre a questão das relações China-Japão, a posição da China tem sido consistente. Gostaríamos de enfatizar mais uma vez que, para o Japão, é urgente corrigir palavras e ações erradas sobre a questão de Taiwan o mais rápido possível, o importante é adotar uma atitude correta sobre questões históricas, e o fundamental é ser verdadeiramente objetivo e racional em nossa cognição da China.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:20+00:00"
   },
   {
     "id": "edf8440f88705c707cd8",
@@ -496,11 +636,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Deixar o empreendimento cantar o protagonista e rachar as “duas peles” da economia da tecnologia",
+    "translated_summary": "Nota do editor: Desenvolver uma nova produtividade de qualidade é um requisito inerente e um foco importante para promover o desenvolvimento de alta qualidade. Recentemente, o Comitê Central do PCC e o Conselho de Estado emitiram os Pareceres sobre o Desenvolvimento de Nova Produtividade para fazer implementações sistemáticas para acelerar o desenvolvimento de nova produtividade. Sanlihe lançou uma série de interpretações de especialistas autorizados para explicar a conotação política e a percepção da tendência geral de desenvolvimento. Hoje, Wei Chu, reitor da Escola de Economia Aplicada da Universidade Renmin da China, publicou o artigo assinado \"Let Enterprises Sing the Leading Role\". Por que os dois às vezes não conseguem acompanhar quando há resultados em pesquisas científicas e necessidades na indústria? Uma razão importante é que as empresas não participam plenamente de todo o processo de inovação, e há uma falta de conexão efetiva entre pesquisa e desenvolvimento e aplicação, formando um fenômeno de “duas peles” entre ciência e tecnologia e economia. Os Pareceres do Comitê Central do Partido Comunista da China e do Conselho de Estado sobre o Desenvolvimento da Nova Produtividade recentemente listaram \"fortalecer o status das empresas como o principal corpo de inovação científica e tecnológica\" como uma tarefa importante para promover vigorosamente a inovação científica e tecnológica, ou seja, aproveitar a ligação entre ciência e tecnologia e a economia, e promover o agrupamento de recursos de inovação para as empresas e a transformação de conquistas científicas e tecnológicas em produtividade real. Esta implantação captura o cerne do problema das \"duas peles\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:25+00:00"
   },
   {
     "id": "4a6fd397469f1b59f107",
@@ -1467,11 +1607,11 @@
     "published_at": "2026-11-06T01:12:44+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-06T01:57:58+00:00",
+    "translation_status": "translated",
+    "translated_title": "O \"15º Plano Quinquenal\" de Yunnan irá tecer um elo de cooperação digital da Rota da Seda voltado para o Sul e Sudeste Asiático",
+    "translated_summary": "China New Network, Kunming, 6 de novembro (Luo Ji) Recentemente, o Governo Popular Provincial de Yunnan emitiu o \"15º Plano Quinquenal para a Construção de Yunnan Digital\" (doravante referido como o \"Plano\"), que irá tecer o elo de cooperação da rota da seda digital para o Sul da Ásia e Sudeste Asiático para alcançar canais de informação digital eficientes e suaves até 2030. A iniciativa \"Canal de Informação Digital + Indústria\" alcançou resultados notáveis e a cooperação digital transfronteiriça é vigorosamente realizada.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:28+00:00",
     "translation_error": "TooManyRequests"
   },
   {
@@ -1531,11 +1671,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-06T01:57:59+00:00",
+    "translation_status": "translated",
+    "translated_title": "He Li Feng apontou em sua pesquisa em Pequim que o fortalecimento da profunda integração da inovação científica e tecnológica e da inovação industrial promove o desenvolvimento contínuo da economia do novo para o melhor.",
+    "translated_summary": "Pequim, 5 nov (Xinhua) -- He Lifeng, membro do Birô Político do Comitê Central do Partido Comunista da China e vice-primeiro-ministro do Conselho de Estado, visitou Pequim nos dias 4 e 5 de novembro para investigar. He Lifeng apontou que é necessário estudar e implementar seriamente o espírito da Quinta Sessão Plenária do 20º Comitê Central do PCC, implementar completamente o espírito do importante discurso do Secretário-Geral Xi Jinping a Pequim, acelerar a autoconfiança e o auto-aperfeiçoamento da ciência e tecnologia de alto nível, fortalecer a integração profunda da inovação científica e tecnológica e da inovação industrial e promover o desenvolvimento contínuo da economia.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:32+00:00",
     "translation_error": "TooManyRequests"
   },
   {
@@ -1694,11 +1834,11 @@
     "published_at": "2026-11-05T13:35:36+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-06T01:57:59+00:00",
+    "translation_status": "translated",
+    "translated_title": "Administração Nacional de Seguros de Saúde da China: a inscrição no seguro de saúde básico alcançará um crescimento positivo por dois anos consecutivos",
+    "translated_summary": "Pequim, 5 de novembro (Xinhua) -- (Repórter Li Chun) A Administração Nacional de Segurança Médica da China realizou uma reunião de interpretação da mídia em Pequim em 5 de novembro. Zhang Chenguang, vice-diretor do Departamento de Regulamentos e Regulamentos Financeiros da Administração Nacional de Seguros Médicos, disse que a partir de setembro deste ano, o número de pessoas inscritas no seguro médico básico da China atingiu 1,328 bilhão, superando todo o ano de 2024, que pode se aproximar do nível de 2025 no final de outubro. O ano inteiro ultrapassou o ano passado e alcançará um crescimento positivo por dois anos consecutivos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T10:08:35+00:00",
     "translation_error": "TooManyRequests"
   },
   {
