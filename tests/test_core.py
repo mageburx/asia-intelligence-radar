@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime,timedelta,timezone
-from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant
+from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags
 from asia_radar.report import make_payload
 from asia_radar.collector import detect_source_lang,feed_url,ROOT
 import json
@@ -60,6 +60,10 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(bosch_category("Mitarbeitende von Bosch Rexroth beteiligen sich an Warnstreik"),"Pessoas")
     def test_bosch_german_language_detection(self):
         self.assertEqual(detect_source_lang("Bosch stärkt sein Halbleitergeschäft","Bosch"),"de")
+    def test_bosch_signals(self):
+        self.assertIn("Bosch Rexroth",bosch_topic_tags("Bosch Rexroth uses ctrlX"))
+        self.assertIn("Emprego e reorganização",bosch_topic_tags("Bosch workers face layoffs"))
+        self.assertIn("Fábricas e produção",bosch_topic_tags("Bosch plant in Braga"))
     def test_bosch_dedupe_between_topics(self):
         a=article_id("Bosch","Bosch","https://example.com/bosch", "Title")
         b=article_id("Bosch","Bosch","https://example.com/bosch","Title")

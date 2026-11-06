@@ -93,6 +93,24 @@ def bosch_relevant(title, summary="", official=False):
     t=f"{title} {summary}".casefold()
     return bool(re.search(r"\bbosch\b",t))
 
+
+BOSCH_SIGNALS = {
+    "Emprego e reorganização": ("stellenabbau","personalabbau","betriebsrat","entlass","warnstreik",
+                                 "layoff","job cut","workforce","despediment","trabalhador","sindicat","mitarbeit"),
+    "Bosch Rexroth": ("bosch rexroth","ctrlx"),
+    "IA e automação": ("automatis","automation","robot","agentic","künstliche intelligenz",
+                       "artificial intelligence","inteligência artificial"),
+    "Mobilidade": ("mobility","mobilität","electric vehicle","elektroauto","brake","wasserstoff","hydrogen","adas"),
+    "Semicondutores e sensores": ("halbleiter","semiconductor","chip","sensor"),
+    "Fábricas e produção": ("fabrik","factory","production","fertigung","werk ","werke ","plant ",
+                            "braga","ovar","aveiro","produção"),
+    "Resultados e investimentos": ("umsatz","ergebnis","gewinn","revenue","investment","investimento",
+                                   "millionen","milliarden","resultados")
+}
+def bosch_topic_tags(title,summary=""):
+    t=f" {title} {summary} ".casefold()
+    return [tag for tag,terms in BOSCH_SIGNALS.items() if any(term in t for term in terms)]
+
 def parse_utc(value):
     try:
         d=datetime.fromisoformat(value.replace("Z","+00:00"))

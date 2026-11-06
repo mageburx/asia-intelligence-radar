@@ -5,7 +5,7 @@ from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from urllib.parse import urlencode,urlsplit
 import feedparser, requests
-from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant
+from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant,bosch_topic_tags
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
@@ -57,7 +57,7 @@ def fetch_source(session,source,now,max_entries=40):
             "source_type":"Comunicado oficial" if source.get("official") else "Imprensa / agregador",
             "source_id":source["id"],"publisher":publisher_name(entry,source),"url":link,
             "original_title":title,"original_summary":summary,"published_at":published,
-            "first_seen_at":now,"topics":topic_tags(title,summary),
+            "first_seen_at":now,"topics":list(dict.fromkeys(topic_tags(title,summary)+bosch_topic_tags(title,summary))) if source["country"]=="Bosch" else topic_tags(title,summary),
             "translation_status":"pending","translated_title":"","translated_summary":"",
             "translated_lang":"","last_translation_attempt_at":""})
     return rows
@@ -140,6 +140,9 @@ def main():
     if target not in {"pt","en"}: raise SystemExit("TARGET_LANG must be pt or en")
     sources=read_json(SOURCES,[])
     previous=read_json(DATA,[])
+    for article in previous:
+        if article.get("country")=="Bosch":
+            article["topics"]=list(dict.fromkeys(topic_tags(article.get("original_title",""),article.get("original_summary",""))+bosch_topic_tags(article.get("original_title",""),article.get("original_summary",""))))
     old_status=read_json(STATUS,{})
     index={a["id"]:a for a in previous}
     errors=[]; counts={}; added=0
