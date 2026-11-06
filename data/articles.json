@@ -1,5 +1,24 @@
 [
   {
+    "id": "fcb68d6f4efa684f9f77",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/06/chery-recalls-53882-vehicles-in-china-after-omoda-5-rear-axle-detaches-in-malaysia/",
+    "original_title": "Chery recalls 53,882 vehicles in China after Omoda 5 rear axle detaches in Malaysia",
+    "original_summary": "A rear axle trailing arm weld defect triggers Chery's 53,882-vehicle China recall after separate Omoda 5 axle incidents and recalls in Malaysia. The post Chery recalls 53,882 vehicles in China after Omoda 5 rear axle detaches in Malaysia appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-06T16:09:10+00:00",
+    "first_seen_at": "2026-11-06T16:56:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chery faz recall de 53.882 veículos na China após descolamento do eixo traseiro do Omoda 5 na Malásia",
+    "translated_summary": "Um defeito de solda do braço de reboque do eixo traseiro desencadeia o recall da China de 53.882 veículos da Chery após incidentes separados de Omoda de 5 eixos e recalls na Malásia. O post Chery faz o recall de 53.882 veículos na China após os destacamentos do eixo traseiro Omoda 5 na Malásia aparecerem pela primeira vez no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T16:56:35+00:00"
+  },
+  {
     "id": "51988c6e91ceb2c89c9c",
     "country": "China",
     "category": "Política",
@@ -3784,6 +3803,28 @@
     "translated_summary": "Em resposta aos resultados das eleições de meio de mandato dos EUA, há uma visão dentro do governo japonês de que o presidente Trump buscará resultados na diplomacia que provavelmente não serão restringidos pelo Congresso durante seus mais de dois anos restantes no cargo, e se haverá uma mudança na política diplomática no futuro. Nota...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T03:57:44+00:00"
+  },
+  {
+    "id": "0580ddaab0209ef0cad9",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "美国之音",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnh5TWV3Q3pXMW15alN3RG13TUFyS2JFQ2JpVFY1UkFWeXc4Yi1LcTJwX2RsWTFpNllwRWVSRUZvbDY5X05idDJ3QUVpNERZX3QwMWNtMmNGRVlJX3g3WXRlcEN1blBJQWs5LVJYanBOOVBNSkV4YnJvbm5iTmoxUldFNFlnTjJpekpxVE4tc3Q1UWxhM2FqdVduRHNFS2tvSkthVlZ6SGjSAasBQVVfeXFMTkNDcGZnUW5taVE1SWtZS2I2c24tNndFajZ6a1NPSExUWTdzaUVjdnZvUFZWdXVTUWhhOXlSWWpEdFdrc0FnT3VBdXNWQnhDZGxpWHIxczJKd053NFFQSTRtVG9oc3hPS2tFemNkV3EtS3VwQ3lGVTlPeURxRmRBM3BRaktFRTFRX2MwVTVfT3RQRUp4STNKV3JQQzNDN3JNUkhySzZoWmJnNUtv?oc=5",
+    "original_title": "国会易主会否导致特朗普对华政策受限？白宫回应：总统外交政策从未出于政治动机 - 美国之音",
+    "original_summary": "国会易主会否导致特朗普对华政策受限？白宫回应：总统外交政策从未出于政治动机 美国之音",
+    "published_at": "2026-11-04T18:13:17+00:00",
+    "first_seen_at": "2026-11-06T16:56:25+00:00",
+    "topics": [
+      "Geopolítica",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A negociação do Congresso levará a uma restrição à política de Trump em relação à China? Resposta da Casa Branca: a política externa presidencial nunca foi politicamente motivada - Voz da América",
+    "translated_summary": "A negociação do Congresso levará a uma restrição à política de Trump em relação à China? Resposta da Casa Branca: A política externa presidencial nunca teve motivação política Voz da América",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T16:56:32+00:00"
   },
   {
     "id": "12e79ee5dc1684213f02",
