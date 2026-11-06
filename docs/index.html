@@ -91,6 +91,19 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 @media(max-width:850px){.trends{grid-template-columns:repeat(2,minmax(0,1fr))}.countrygrid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:640px){.countrygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.wrap{padding:16px 15px 65px}.hero{margin:26px 0 24px}.picker{padding:15px;border-radius:16px}.countrygrid{gap:9px}.country-card{padding:13px 10px;gap:9px}.country-card[aria-pressed="true"]{padding:12px 9px}.flagemoji{font-size:23px}.countrycopy strong{font-size:16px}.countrycopy small{font-size:10px}.selection{width:18px;height:18px;font-size:12px}.categorygrid{gap:7px}.category{padding:12px 9px}.catname{font-size:12px}.catcount{font-size:10px}.metrics{gap:8px}.metric{padding:12px 10px}.metric .num{font-size:25px}.metric .name{font-size:10px}.trends,.articles{grid-template-columns:1fr}.filters{grid-template-columns:1fr}.area{margin-top:26px}.areahead h2{font-size:21px}}
 @media(max-width:375px){.countrygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.country-card{padding:12px}.country-card[aria-pressed="true"]{padding:11px}.categorygrid{grid-template-columns:1fr}.category{flex-direction:row;justify-content:space-between;align-items:center}}
+
+/* Independent intelligence view without mixing a company with the country list */
+.global-switch{display:flex;gap:9px;margin:22px 0 18px;flex-wrap:wrap}
+.global-tab{border:1px solid #3d5363;background:#152536;color:#b4c8d8;border-radius:12px;padding:13px 19px;min-height:46px;font-weight:750}
+.global-tab[aria-pressed="true"]{border-color:#66dbc5;background:#1c4c46;color:#edfff9}
+.bosch-picker{background:linear-gradient(140deg,#142b32,#101a28);border:1px solid #385454;border-radius:17px;padding:20px}
+.bosch-categorygrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.bosch-intro{margin:0 0 17px;color:#acbdce;font-size:13px;line-height:1.6}
+.bosch-category{min-height:61px;display:flex;justify-content:space-between;gap:8px;align-items:center;background:#122332;color:#d3e7e4;border:1px solid #36545c;border-radius:12px;padding:12px;text-align:left}
+.bosch-category[aria-pressed="true"]{border-color:#64dcc6;background:#1b4a43;color:#fff}
+.bosch-category small{color:#a9c7c7;font-size:11px;white-space:nowrap}
+[hidden]{display:none!important}
+@media(max-width:650px){.bosch-categorygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.bosch-category{flex-direction:column;align-items:flex-start;gap:4px}.global-tab{flex:1}}
 </style>
 </head>
 <body>
@@ -99,8 +112,12 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
   <div class="brand"><span class="brandmark">◎</span> ASIA INTELLIGENCE RADAR</div>
   <div class="live"><span class="dot"></span><span id="updated">A consultar última atualização…</span></div>
 </header>
-<div class="hero"><p class="eyebrow">Política e indústria automóvel</p><h1>O que está a acontecer na Ásia?</h1><p class="lead">Notícias da China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura, organizadas por país e tema. Tradução automática, fontes originais e sinais de cobertura em crescimento, atualizados de hora a hora.</p></div>
-<nav class="picker" aria-label="Escolher país e categoria">
+<div class="hero"><p class="eyebrow">Notícias globais · países e empresas</p><h1>O que está a acontecer na Ásia?</h1><p class="lead">Notícias da China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura e um radar dedicado à Bosch. Tudo organizado por área e tema. Tradução automática, fontes originais e sinais de cobertura em crescimento, atualizados de hora a hora.</p></div>
+<div class="global-switch" aria-label="Áreas do radar">
+  <button type="button" class="global-tab" data-view="countries" aria-pressed="true">🌍 Países</button>
+  <button type="button" class="global-tab" data-view="bosch" aria-pressed="false">⚙ Bosch Intelligence</button>
+</div>
+<nav class="picker" id="countries-view" aria-label="Escolher país e categoria">
   <div class="stephead"><span class="stepnum">1</span><h2>Escolhe o país</h2></div>
   <div class="countrygrid" id="countries" aria-label="Países disponíveis">
     <button type="button" class="country-card" data-country="China" aria-pressed="true"><span class="flagemoji" aria-hidden="true">🇨🇳</span><span class="countrycopy"><strong>China</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
@@ -119,6 +136,20 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
     <button type="button" class="category" data-category="Automóvel" aria-pressed="false"><span class="catname">🚗 Automóvel</span><span class="catcount" id="auto-count">—</span></button>
   </div>
 </nav>
+
+<section class="bosch-picker" id="bosch-view" hidden aria-label="Notícias da Bosch">
+ <div class="stephead"><span class="stepnum">B</span><h2>Bosch Intelligence · Mundial</h2></div>
+ <p class="bosch-intro">Comunicados oficiais e imprensa pública sobre o grupo Bosch. Inclui Bosch Mobility, Bosch Rexroth, fábricas, tecnologia, finanças, trabalhadores e Portugal. Atualização horária.</p>
+ <div class="bosch-categorygrid" id="bosch-categories">
+  <button class="bosch-category" type="button" data-bosch-category="" aria-pressed="true"><strong>Todas</strong><small data-count="bosch">Todos</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Estratégia" aria-pressed="false"><strong>Estratégia</strong><small data-count="bosch">Estratégia</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Mobilidade" aria-pressed="false"><strong>Mobilidade</strong><small data-count="bosch">Mobilidade</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Indústria" aria-pressed="false"><strong>Fábricas e produção</strong><small data-count="bosch">Indústria</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Tecnologia" aria-pressed="false"><strong>Tecnologia</strong><small data-count="bosch">Tecnologia</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Pessoas" aria-pressed="false"><strong>Trabalhadores</strong><small data-count="bosch">Pessoas</small></button>
+  <button class="bosch-category" type="button" data-bosch-category="Portugal" aria-pressed="false"><strong>Portugal / Braga</strong><small data-count="bosch">Portugal</small></button>
+ </div>
+</section>
 <div class="context"><div class="crumb" id="breadcrumb" aria-live="polite">China / Todas as notícias</div><span class="crumb" id="results-note">Dados provenientes de RSS público</span></div>
 <div class="metrics" id="metrics" aria-label="Resumo da seleção"></div>
 <section class="area" aria-labelledby="trends-title">
@@ -142,11 +173,12 @@ const $=id=>document.getElementById(id);
 const safe=value=>String(value??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt=s=>s?new Date(s).toLocaleString("pt-PT",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"}):"sem execução";
 const currentTime=Date.now();
-let state={country:"China",category:"",visible:12};
+let state={country:"China",category:"",visible:12,mode:"countries"};
 try {
  const q=new URLSearchParams(location.hash.slice(1));
- if(["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"].includes(q.get("country")))state.country=q.get("country");
- if(["","Política","Automóvel"].includes(q.get("category")))state.category=q.get("category");
+ if(["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Bosch"].includes(q.get("country")))state.country=q.get("country");
+ if(state.country==="Bosch")state.mode="bosch";
+ if((state.mode==="bosch"?["","Estratégia","Mobilidade","Indústria","Tecnologia","Pessoas","Portugal"]:["","Política","Automóvel"]).includes(q.get("category")))state.category=q.get("category");
 } catch(_){}
 function count24(country,category){
  if(category)return Number(p.counts24[country+"|"+category]||0);
@@ -167,6 +199,24 @@ function filteredArticles(){
  });
 }
 function drawNavigation(){
+ const bosch=state.mode==="bosch";
+ $("countries-view").hidden=bosch;
+ $("bosch-view").hidden=!bosch;
+ for(const btn of document.querySelectorAll("[data-view]"))
+   btn.setAttribute("aria-pressed",String(btn.dataset.view===state.mode));
+ for(const btn of document.querySelectorAll("[data-bosch-category]")){
+   const cat=btn.dataset.boschCategory;
+   const count=(p.articles||[]).filter(a=>{
+     if(a.country!=="Bosch"||(cat&&a.category!==cat))return false;
+     const age=currentTime-new Date(a.published_at).getTime();
+     return age>=0&&age<24*3600000;
+   }).length;
+   btn.setAttribute("aria-pressed",String(bosch&&state.category===cat));
+   const el=btn.querySelector("[data-count]");if(el)el.textContent=count+" · 24 h";
+ }
+ $("results-note").textContent=bosch?"Comunicados oficiais e notícias da imprensa":"Dados provenientes de RSS público";
+ $("search").placeholder=bosch?"Pesquisar Bosch, Braga, Rexroth, emprego…":"Pesquisar empresas, políticas, baterias…";
+
  for(const btn of document.querySelectorAll("[data-country]"))
    btn.setAttribute("aria-pressed",String(btn.dataset.country===state.country));
  for(const btn of document.querySelectorAll("[data-category]"))
@@ -229,11 +279,28 @@ function render(){
  drawTrends();
  drawArticles();
 }
+function changeView(mode){
+ if(mode===state.mode)return;
+ state.mode=mode;
+ state.country=mode==="bosch"?"Bosch":"China";
+ state.category="";
+ state.visible=12;
+ $("search").value="";
+ changeSelection(state.country,state.category);
+}
 function changeSelection(country,category){
- state.country=country;state.category=category;state.visible=12;
+ state.country=country;state.category=category;state.mode=country==="Bosch"?"bosch":"countries";state.visible=12;
  try {history.replaceState(null,"","#country="+encodeURIComponent(country)+"&category="+encodeURIComponent(category));}catch(_){}
  render();
 }
+document.querySelector(".global-switch").addEventListener("click",event=>{
+ const btn=event.target.closest("button[data-view]");
+ if(btn)changeView(btn.dataset.view);
+});
+$("bosch-categories").addEventListener("click",event=>{
+ const btn=event.target.closest("button[data-bosch-category]");
+ if(btn)changeSelection("Bosch",btn.dataset.boschCategory);
+});
 $("countries").addEventListener("click",event=>{
  const btn=event.target.closest("button[data-country]");
  if(btn)changeSelection(btn.dataset.country,state.category);

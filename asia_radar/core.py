@@ -61,6 +61,38 @@ def relevant_native_politics(title,summary):
 def topic_tags(title,summary=""):
     t=f" {title} {summary} ".casefold()
     return [tag for tag,words in TOPICS.items() if any(w.casefold() in t for w in words)]
+
+# Classification based on public headline wording only, not on confidential company data.
+BOSCH_CATEGORIES = {
+    "Portugal": ("braga","aveiro","ovar","portugal","portugues","português"),
+    "Pessoas": ("stellenabbau","arbeitsplatz","entlassung","betriebsrat","beschäftigt",
+                 "layoff","job cut","workforce","workers","hiring","recruit","trabalhador","despedimento","sindicat"),
+    "Indústria": ("rexroth","ctrlx","werk ","werke ","factory","plant ","production",
+                  "fertigung","fabrik","manufac","manufactur","logistic","automatis","industrial","indústria",
+                  "montagem","robotik","robótica","fornecedor"),
+    "Mobilidade": ("mobility","mobilität","automotive","autoindustrie","vehicle","fahrzeug","elektroauto",
+                   "e-mobility","powertrain","e-bike","brake","brems","motorização","hydrogen","wasserstoff",
+                   "antrieb","mobility aftermarket","adas"),
+    "Tecnologia": ("halbleiter","semiconductor","chip","sensor","software","artificial intelligence",
+                   "künstliche intelligenz","machine learning","ai ","ia ","tecnologia","forschung","robotics"),
+    "Estratégia": ("umsatz","gewinn","ergebnis","strategie","results","profit","investment",
+                   "investimento","acquisition","restructur","struktur","turnover","portfolio","growth")
+}
+def bosch_category(title, summary="", fallback="Estratégia"):
+    """Use headline first; fall back to the source theme if no strong match is visible."""
+    t=f" {title} ".casefold()
+    for cat, words in BOSCH_CATEGORIES.items():
+        if any(w in t for w in words):
+            return cat
+    return fallback
+
+def bosch_relevant(title, summary="", official=False):
+    """The official corporate feed is trusted as Bosch; search hits must name Bosch."""
+    if official:
+        return True
+    t=f"{title} {summary}".casefold()
+    return bool(re.search(r"\bbosch\b",t))
+
 def parse_utc(value):
     try:
         d=datetime.fromisoformat(value.replace("Z","+00:00"))

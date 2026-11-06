@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime,timedelta,timezone
-from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text
+from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant
 from asia_radar.report import make_payload
 from asia_radar.collector import detect_source_lang,feed_url,ROOT
 import json
@@ -41,6 +41,28 @@ class RadarTests(unittest.TestCase):
         for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"):
             self.assertIn(f"{country}|Política",p["counts24"])
             self.assertIn(f"{country}|Automóvel",p["counts24"])
+    def test_bosch_source_config(self):
+        sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
+        bosch=[s for s in sources if s["country"]=="Bosch"]
+        self.assertGreaterEqual(len(bosch),10)
+        self.assertEqual(len(set(s["id"] for s in bosch)),len(bosch))
+        self.assertTrue(any(s.get("official") and s["kind"]=="rss" for s in bosch))
+        self.assertEqual(set(s["category"] for s in bosch),
+                         {"Estratégia","Mobilidade","Indústria","Tecnologia","Pessoas","Portugal"})
+    def test_bosch_relevance(self):
+        self.assertTrue(bosch_relevant("Bosch builds a new factory"))
+        self.assertFalse(bosch_relevant("Random car company opens plant"))
+        self.assertTrue(bosch_relevant("Article on motors",official=True))
+    def test_bosch_categorization(self):
+        self.assertEqual(bosch_category("Bosch Rexroth expands ctrlX",fallback="Estratégia"),"Indústria")
+        self.assertEqual(bosch_category("Bosch in Braga announces expansion"),"Portugal")
+        self.assertEqual(bosch_category("Bosch workers face layoffs"),"Pessoas")
+    def test_bosch_german_language_detection(self):
+        self.assertEqual(detect_source_lang("Bosch stärkt sein Halbleitergeschäft","Bosch"),"de")
+    def test_bosch_dedupe_between_topics(self):
+        a=article_id("Bosch","Bosch","https://example.com/bosch", "Title")
+        b=article_id("Bosch","Bosch","https://example.com/bosch","Title")
+        self.assertEqual(a,b)
     def test_zero_history_dashboard(self):
         p=make_payload([],{},datetime.now(timezone.utc))
         self.assertEqual(p["articles"],[])

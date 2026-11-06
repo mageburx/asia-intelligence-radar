@@ -1,4 +1,4 @@
-# Asia Intelligence Radar — 7 países
+# Global Intelligence Radar — 7 países + Bosch Intelligence
 
 Bot **independente** de vigilância noticiosa: política e indústria automóvel (China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura), leitura horária de RSS público, traduções automáticas para português ou inglês e dashboard responsivo hospedável no GitHub Pages.
 
@@ -83,3 +83,10 @@ Alertas para acontecimentos específicos (por exemplo BYD, Toyota, baterias, tar
 ## Expansão de países (novembro de 2026)
 
 Acrescentados **Alemanha, Coreia do Sul, Taiwan, Índia e Singapura**, mantendo China e Japão. As duas categorias são **Política** e **Automóvel** para todos os sete países. As dez novas fontes são pesquisas de Google News com edição regional e termos orientados para cada mercado (não são jornais nativos de origem verificada); o histórico é preenchido a partir da primeira recolha. Detetar língua de origem por escrita é aproximado: a tradução pode ficar pendente devido às quotas gratuitas. Os novos países requerem até 48 horas de histórico para que o sinal deixe de ser preliminar.
+
+
+## Bosch Intelligence (novembro de 2026)
+
+Separador dedicado ao grupo Bosch, sem o misturar com as contagens dos sete países. Categorias: **Estratégia, Mobilidade, Indústria (incluindo Bosch Rexroth), Tecnologia, Pessoas, Portugal/Braga**. Recolhe o feed RSS do Bosch Media Service e pesquisas públicas no Google News em alemão, inglês e português, com intervalo horário herdado do workflow. O classificador tem regras simples de palavras-chave, a tradução é experimental e os títulos originais e URL permanecem guardados. Duplicados entre pesquisas Bosch que apontam para o mesmo URL são removidos. Os sinais de tendência dependem de acumular histórico e de fontes independentes. Não inclui conteúdos internos, pessoais ou restritos, nem recolhe artigos completos. 
+
+**RSS oficial**: https://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml (fonte corporativa; não é validação independente dos factos).

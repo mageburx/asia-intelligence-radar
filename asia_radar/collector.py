@@ -5,7 +5,7 @@ from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from urllib.parse import urlencode,urlsplit
 import feedparser, requests
-from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc
+from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
@@ -41,16 +41,20 @@ def fetch_source(session,source,now,max_entries=40):
     feed=feedparser.parse(resp.content)
     if not feed.entries and getattr(feed,"bozo",False): raise ValueError(f"Invalid RSS: {feed.bozo_exception}")
     rows=[]
-    for entry in list(feed.entries)[:max_entries]:
+    for entry in list(feed.entries)[:source.get("max_entries",max_entries)]:
         title=clean_text(entry.get("title",""))
         summary=clean_text(entry.get("summary",""))[:750]
         link=entry.get("link","")
         if not title or urlsplit(link).scheme not in {"http","https"}: continue
         if source.get("filter")=="politics" and not relevant_native_politics(title,summary): continue
+        if source["country"]=="Bosch" and not bosch_relevant(title,summary,source.get("official",False)): continue
         published=published_time(entry,now)
         if parse_utc(published)<datetime.now(timezone.utc)-timedelta(days=10): continue
-        rows.append({"id":article_id(source["country"],source["category"],link,title),
-            "country":source["country"],"category":source["category"],"source":source["name"],
+        category=bosch_category(title,summary,source["category"]) if source["country"]=="Bosch" else source["category"]
+        identity_category="Bosch" if source["country"]=="Bosch" else category
+        rows.append({"id":article_id(source["country"],identity_category,link,title),
+            "country":source["country"],"category":category,"source":source["name"],
+            "source_type":"Comunicado oficial" if source.get("official") else "Imprensa / agregador",
             "source_id":source["id"],"publisher":publisher_name(entry,source),"url":link,
             "original_title":title,"original_summary":summary,"published_at":published,
             "first_seen_at":now,"topics":topic_tags(title,summary),
@@ -67,16 +71,19 @@ def detect_source_lang(text,country):
     if re.search(r"[\u3400-\u9fff]",text):
         if country=="Japão": return "ja"
         return "zh-TW" if country=="Taiwan" else "zh-CN"
-    if country=="Alemanha" and (
+    if country in {"Alemanha","Bosch"} and (
         re.search(r"[äöüßÄÖÜ]",text) or
         re.search(r"\b(der|die|das|den|dem|und|für|mit|von|bei|eine|einer|eines|werden|deutschen|deutschland|bundesregierung|bundestag|autoindustrie|zulieferer)\b",text.lower())
     ): return "de"
+    if country=="Bosch":
+        pt_markers=re.findall(r"\b(?:para|com|uma|dos|das|não|trabalhadores|fábrica|produção|investimento|portuguesa|empresa|anuncia)\b",text.casefold())
+        if len(pt_markers)>=2: return "pt"
     return "en"
 
 def translate_one(text,target,country):
     if not text: return ""
     source=detect_source_lang(text,country)
-    if source=="en" and target=="en": return text
+    if source==target: return text
     key=os.getenv("DEEPL_API_KEY","").strip()
     if key:
         response=requests.post(os.getenv("DEEPL_API_URL","https://api-free.deepl.com/v2/translate"),
