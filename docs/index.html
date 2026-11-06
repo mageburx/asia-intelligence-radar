@@ -150,6 +150,29 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 @media(max-width:620px){.global-switch{gap:6px}.global-tab{min-height:52px;padding:8px 4px;gap:5px;font-size:11px;flex-direction:column}.bosch-logo-tab{width:73px;height:25px;padding:3px 4px}.bosch-logo-tab img{max-height:19px}.tab-symbol{font-size:18px}.archive-panel{padding:15px}.archive-filtergrid{grid-template-columns:1fr 1fr}.archive-filtergrid label:last-child{grid-column:1/-1}.archive-intro{gap:15px}.archive-download{width:100%;text-align:center}.selected-country-label{display:inline-block;font-size:11px;margin-left:0;margin-top:4px}.bosch-header{gap:12px}.bosch-logo-large{width:132px;height:48px}.archive-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:365px){.global-tab{font-size:10px}.archive-filtergrid{grid-template-columns:1fr}.archive-filtergrid label:last-child{grid-column:auto}}
 
+
+/* Temas secundários: acessíveis a pedido, depois das notícias */
+.signals-area{margin-top:24px}
+.signals-details{border:1px solid #2b3d4b;border-radius:13px;background:#101c29;overflow:hidden}
+.signals-details summary{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:62px;padding:13px 16px;cursor:pointer;list-style:none;user-select:none}
+.signals-details summary::-webkit-details-marker{display:none}
+.signals-details summary:hover{background:#182838}
+.signals-details summary:focus-visible{outline:3px solid #81e6d4;outline-offset:-3px}
+.signals-lead{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.signals-icon{display:grid;place-items:center;width:29px;height:29px;border-radius:9px;background:#193d3c;color:#80ead4;font-size:16px;font-weight:800}
+.signals-title{font-weight:740;font-size:14px;color:#d6e6eb}
+.signals-subtitle{font-size:11px;color:var(--muted)}
+.signals-chevron{font-size:22px;line-height:1;color:#95b6bb;transition:transform .18s}
+.signals-details[open] .signals-chevron{transform:rotate(180deg)}
+.signals-content{padding:2px 16px 17px;border-top:1px solid #293e4b}
+.signals-explainer{font-size:12px;line-height:1.6;color:var(--muted);margin:12px 0 14px}
+.signals-content .trends{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.signals-content .trend{padding:12px 14px;border:1px solid #2c4050;border-radius:10px;background:#112231}
+.signals-content .trendname{font-size:14px;margin:7px 0 8px;font-weight:650}
+.signals-metrics{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;color:#b5c8d5;font-size:11px}
+.signals-metrics strong{color:#e2eeec;font-weight:750}
+.signal-marker{display:inline-flex;align-items:center;gap:4px;color:#9be9d9;background:#173735;border:1px solid #2b6558;padding:3px 7px;border-radius:6px;font-size:10px;font-weight:700}
+@media(max-width:650px){.signals-content .trends{grid-template-columns:1fr}.signals-details summary{padding:12px}.signals-title{font-size:13px}.signals-subtitle{font-size:10px}.signals-content{padding:1px 11px 12px}}
 </style>
 </head>
 <body>
@@ -200,10 +223,6 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 <div id="live-view">
 <div class="context"><div class="crumb" id="breadcrumb" aria-live="polite">China / Todas as notícias</div><span class="crumb" id="results-note">Dados provenientes de RSS público</span></div>
 <div class="metrics" id="metrics" aria-label="Resumo da seleção"></div>
-<section class="area" aria-labelledby="trends-title">
- <div class="areahead"><div><h2 id="trends-title">Temas em destaque</h2><p>Comparação das últimas 24 h com as 24 h anteriores</p></div></div>
- <div class="trends" id="trends"></div>
-</section>
 <section class="area" aria-labelledby="news-title">
  <div class="areahead"><div><h2 id="news-title">Últimas notícias</h2><p id="listcount" aria-live="polite">A carregar notícias…</p></div>
 </div>
@@ -211,6 +230,19 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
  <div class="articles" id="articles"></div>
  <button class="more" id="more" type="button">Mostrar mais notícias</button>
 </section>
+<section class="signals-area" aria-label="Sinais e tendências de cobertura">
+  <details class="signals-details" id="signals-panel">
+    <summary>
+      <span class="signals-lead"><span class="signals-icon" aria-hidden="true">↗</span><span class="signals-title">Sinais e tendências</span><span class="signals-subtitle" id="signals-summary-count">A analisar menções</span></span>
+      <span class="signals-chevron" aria-hidden="true">⌄</span>
+    </summary>
+    <div class="signals-content">
+      <p class="signals-explainer">Menções nas últimas 24 horas comparadas com as 24 horas anteriores. São indicadores de cobertura jornalística, não de impacto económico nem de fiabilidade das notícias.</p>
+      <div class="trends" id="trends"></div>
+    </div>
+  </details>
+</section>
+
 </div>
 <section id="archive-view" class="archive-panel" hidden aria-labelledby="archive-title">
   <div class="archive-intro">
@@ -295,7 +327,7 @@ function articleCard(a){
  return '<article class="article"><div class="meta">'
    +countryBadge(a.country)
    +'<span class="pill category-pill">'+(icons[a.category]||"📰")+' '+safe(a.category)+'</span>'
-   +src+'<span>'+safe(a.publisher)+'</span><span>· '+safe(fmt(a.published_at))+'</span></div>'
+   +src+highlightedSignal(a)+'<span>'+safe(a.publisher)+'</span><span>· '+safe(fmt(a.published_at))+'</span></div>'
    +'<h3>'+safe(title)+'</h3>'
    +(excerpt?'<p class="excerpt">'+safe(excerpt).slice(0,420)+'</p>':"")
    +'<div class="topics">'+topics+'<span class="pill">'+(translated?"Tradução automática":"Original · tradução pendente")+'</span></div>'
@@ -356,13 +388,26 @@ function drawMetrics(){
  $("metrics").innerHTML=metrics.map(m=>'<div class="metric"><span class="name">'+safe(m[0])+'</span><span class="num">'+safe(m[1])+'</span></div>').join("");
 }
 function drawTrends(){
- const list=(p.trends||[]).filter(t=>t.country===state.country&&(!state.category||t.category===state.category)).slice(0,6);
+ const all=(p.trends||[]).filter(t=>t.country===state.country&&(!state.category||t.category===state.category));
+ const list=all.slice(0,6);
+ $("signals-summary-count").textContent=all.length?all.length+" temas acompanhados · últimas 24 h":"Sem sinais suficientes";
  $("trends").innerHTML=list.length?list.map(t=>{
-   const width=Math.min(100,Math.round(100*t.recent/Math.max(5,t.recent,t.previous)));
+   const growth=t.status==="Cobertura crescente"||t.status==="Tema emergente";
    const muted=t.status==="A monitorizar"||t.status==="Histórico inicial";
-   return '<div class="trend"><div class="trend-top"><span>'+safe(t.category)+'</span><span class="signal'+(muted?' quiet':'')+'">'+safe(t.status)+'</span></div><div class="trendname">'+safe(t.topic)+'</div><div class="progress"><div class="fill" style="width:'+width+'%"></div></div><div class="comparison"><span>Agora <strong>'+safe(t.recent)+'</strong></span><span>Antes <strong>'+safe(t.previous)+'</strong></span></div><div class="trend-top" style="margin-top:9px">'+safe(t.publishers)+' publicações diferentes</div></div>';
- }).join(""):'<div class="empty">Ainda não existem temas com cobertura suficiente nesta seleção.</div>';
+   return '<div class="trend"><div class="trend-top"><span>'+safe(t.category)+'</span>'
+    +'<span class="signal'+(muted?' quiet':'')+'">'+safe(t.status)+'</span></div>'
+    +'<div class="trendname">'+safe(t.topic)+'</div>'
+    +'<div class="signals-metrics"><span>24 h: <strong>'+safe(t.recent)+'</strong> · Anteriores: <strong>'+safe(t.previous)+'</strong></span><span>'+safe(t.publishers)+' fontes</span></div></div>';
+ }).join(""):'<div class="empty">Ainda não há temas com cobertura suficiente nesta seleção.</div>';
 }
+function highlightedSignal(article){
+ const matches=(p.trends||[]).filter(t=>t.country===article.country&&t.category===article.category
+   &&(t.status==="Tema emergente"||t.status==="Cobertura crescente")&&(article.topics||[]).includes(t.topic));
+ if(!matches.length)return "";
+ const t=matches[0];
+ return '<span class="signal-marker" title="Indicador de cobertura jornalística, não de impacto real">↗ '+safe(t.status)+'</span>';
+}
+
 function drawArticles(){
  const list=filteredArticles();
  $("listcount").textContent=list.length+" notícias encontradas · "+state.country+" / "+(state.category||"Todas as categorias");
@@ -435,11 +480,13 @@ function changeView(mode){
    state.category="";
  }
  state.mode=mode;state.visible=12;state.archiveVisible=14;
+ $("signals-panel").open=false;
  $("search").value="";$("source-scope").value="";
  syncHash();render();
 }
 function changeSelection(country,category){
  state.country=country;state.category=category;state.mode=country==="Bosch"?"bosch":"countries";state.visible=12;
+ $("signals-panel").open=false;
  syncHash();render();
 }
 function handleOriginal(event){

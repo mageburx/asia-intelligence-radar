@@ -102,3 +102,8 @@ O bot conserva, por data de publicação, as notícias dos **últimos 30 dias** 
 O dashboard tem agora três áreas independentes: **🌍 Países**, **Bosch Intelligence** (com logótipo identificativo) e **🗂 Arquivo**. Nas notícias, as bandeiras identificam os sete mercados e as categorias têm ícones específicos. A Bosch está identificada pelo logótipo e por ícones nas suas seis categorias. O logótipo é carregado de https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg (marca registada; utilização identificativa, sem afiliação).
 
 No separador Arquivo é possível pesquisar e filtrar por país/Bosch, categoria e período de 7, 14 ou 30 dias. A exportação CSV mantém-se **global** (todas as fontes, até 30 dias), independentemente dos filtros selecionados no navegador. O arquivo não é uma cópia permanente: a retenção do coletor continua limitada a 30 dias.
+
+
+## Interface de tendências discreta
+
+As notícias surgem antes dos sinais. A secção **Sinais e tendências** foi movida para o final da vista de notícias, fica recolhida por defeito com o elemento acessível HTML `details` e deixa de usar barras de progresso. Apresenta apenas temas, menções nas duas janelas de 24 horas, número de fontes e etiqueta de estado. Notícias associadas a **Tema emergente** ou **Cobertura crescente** podem receber um indicador discreto. Isto mede frequência de cobertura, **não** importância económica comprovada.

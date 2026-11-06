@@ -15,6 +15,17 @@ class DashboardStructureTests(unittest.TestCase):
         self.assertIn('id="archive-view"',self.doc)
         self.assertIn('id="archive-articles"',self.doc)
 
+    def test_trends_are_secondary_and_collapsed(self):
+        start=self.doc.index('<section class="area" aria-labelledby="news-title">')
+        signals=self.doc.index('<section class="signals-area"')
+        archive=self.doc.index('<section id="archive-view"') if '<section id="archive-view"' in self.doc else self.doc.index('<section id="archive-view"')
+        self.assertLess(start,signals)
+        self.assertLess(signals,archive)
+        self.assertIn('<details class="signals-details" id="signals-panel">',self.doc)
+        self.assertIn('id="signals-summary-count"',self.doc)
+        self.assertNotIn('class="progress"',self.doc)
+        self.assertNotIn('class="fill"',self.doc)
+        self.assertIn('function highlightedSignal(article)',self.doc)
     def test_archive_controls_and_export(self):
         for item in ("archive-country","archive-category","archive-days","archive-search","archive-more"):
             self.assertIn('id="'+item+'"',self.doc)
