@@ -107,3 +107,8 @@ No separador Arquivo é possível pesquisar e filtrar por país/Bosch, categoria
 ## Interface de tendências discreta
 
 As notícias surgem antes dos sinais. A secção **Sinais e tendências** foi movida para o final da vista de notícias, fica recolhida por defeito com o elemento acessível HTML `details` e deixa de usar barras de progresso. Apresenta apenas temas, menções nas duas janelas de 24 horas, número de fontes e etiqueta de estado. Notícias associadas a **Tema emergente** ou **Cobertura crescente** podem receber um indicador discreto. Isto mede frequência de cobertura, **não** importância económica comprovada.
+
+
+## Bandeiras nacionais
+
+As sete bandeiras usadas nos cartões e nas notícias são ficheiros SVG locais em `docs/assets/flags/`, independentes da renderização de emojis no sistema operativo e sem dependências de CDN. Ficheiros provenientes de [flag-icons](https://github.com/lipis/flag-icons) de Panayiotis Lipiridis, sob licença MIT (cópia em `docs/assets/flags/LICENSE`).

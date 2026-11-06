@@ -173,6 +173,13 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 .signals-metrics strong{color:#e2eeec;font-weight:750}
 .signal-marker{display:inline-flex;align-items:center;gap:4px;color:#9be9d9;background:#173735;border:1px solid #2b6558;padding:3px 7px;border-radius:6px;font-size:10px;font-weight:700}
 @media(max-width:650px){.signals-content .trends{grid-template-columns:1fr}.signals-details summary{padding:12px}.signals-title{font-size:13px}.signals-subtitle{font-size:10px}.signals-content{padding:1px 11px 12px}}
+
+/* Bundled national flags instead of platform-dependent emoji glyphs */
+.flag-image{display:block;width:34px;height:26px;object-fit:cover;border-radius:3px;flex:none;box-shadow:0 1px 3px #0005;outline:1px solid #ffffff36;outline-offset:-1px}
+.flag-mini-img{width:23px;height:17px;border-radius:2px;vertical-align:middle}
+.selected-country-label .flag-image{width:22px;height:16px;display:inline-block;vertical-align:-3px;margin-right:5px}
+.archive-listheading .flag-image{width:20px;height:15px;display:inline-block;vertical-align:-2px;margin-right:4px}
+@media(max-width:640px){.country-card .flag-image{width:29px;height:22px}}
 </style>
 </head>
 <body>
@@ -190,13 +197,13 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 <nav class="picker" id="countries-view" aria-label="Escolher país e categoria">
   <div class="stephead"><span class="stepnum">1</span><h2>Escolhe o país</h2></div>
   <div class="countrygrid" id="countries" aria-label="Países disponíveis">
-    <button type="button" class="country-card" data-country="China" aria-pressed="true"><span class="flagemoji" aria-hidden="true">🇨🇳</span><span class="countrycopy"><strong>China</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Japão" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇯🇵</span><span class="countrycopy"><strong>Japão</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Alemanha" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇩🇪</span><span class="countrycopy"><strong>Alemanha</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Coreia do Sul" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇰🇷</span><span class="countrycopy"><strong>Coreia do Sul</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Taiwan" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇹🇼</span><span class="countrycopy"><strong>Taiwan</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Índia" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇮🇳</span><span class="countrycopy"><strong>Índia</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Singapura" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇸🇬</span><span class="countrycopy"><strong>Singapura</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="China" aria-pressed="true"><img class="flag-image" src="assets/flags/cn.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>China</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Japão" aria-pressed="false"><img class="flag-image" src="assets/flags/jp.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Japão</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Alemanha" aria-pressed="false"><img class="flag-image" src="assets/flags/de.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Alemanha</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Coreia do Sul" aria-pressed="false"><img class="flag-image" src="assets/flags/kr.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Coreia do Sul</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Taiwan" aria-pressed="false"><img class="flag-image" src="assets/flags/tw.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Taiwan</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Índia" aria-pressed="false"><img class="flag-image" src="assets/flags/in.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Índia</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Singapura" aria-pressed="false"><img class="flag-image" src="assets/flags/sg.svg" alt="" width="34" height="26" decoding="async"><span class="countrycopy"><strong>Singapura</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
   </div>
   <div class="stepdivider"></div>
   <div class="stephead"><span class="stepnum">2</span><h2>Escolhe a categoria <span id="selected-country-label" class="selected-country-label">🇨🇳 China</span></h2></div>
@@ -253,13 +260,13 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
   <div class="metrics archive-stats" id="archive-metrics" aria-live="polite"></div>
   <div class="archive-filtergrid">
     <label>País ou empresa<select id="archive-country" aria-label="País ou empresa do arquivo"><option value="">🌐 Todos os países e Bosch</option>
-<option value="China">🇨🇳 China</option>
-<option value="Japão">🇯🇵 Japão</option>
-<option value="Alemanha">🇩🇪 Alemanha</option>
-<option value="Coreia do Sul">🇰🇷 Coreia do Sul</option>
-<option value="Taiwan">🇹🇼 Taiwan</option>
-<option value="Índia">🇮🇳 Índia</option>
-<option value="Singapura">🇸🇬 Singapura</option>
+<option value="China">China</option>
+<option value="Japão">Japão</option>
+<option value="Alemanha">Alemanha</option>
+<option value="Coreia do Sul">Coreia do Sul</option>
+<option value="Taiwan">Taiwan</option>
+<option value="Índia">Índia</option>
+<option value="Singapura">Singapura</option>
 <option value="Bosch">⚙ Bosch</option></select></label>
     <label>Categoria<select id="archive-category" aria-label="Categoria do arquivo"><option value="">Todas as categorias</option></select></label>
     <label>Período<select id="archive-days" aria-label="Período do arquivo"><option value="30" selected>Últimos 30 dias</option><option value="14">Últimos 14 dias</option><option value="7">Últimos 7 dias</option></select></label>
@@ -283,6 +290,11 @@ const currentTime=Date.now();
 const logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg";
 const countries=["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"];
 const flags={"China":"🇨🇳","Japão":"🇯🇵","Alemanha":"🇩🇪","Coreia do Sul":"🇰🇷","Taiwan":"🇹🇼","Índia":"🇮🇳","Singapura":"🇸🇬"};
+const flagCodes={"China":"cn","Japão":"jp","Alemanha":"de","Coreia do Sul":"kr","Taiwan":"tw","Índia":"in","Singapura":"sg"};
+function flagImage(country,klass="flag-mini-img"){
+ const code=flagCodes[country];
+ return code?'<img class="flag-image '+klass+'" src="assets/flags/'+code+'.svg" alt="" decoding="async" width="23" height="17">':"";
+}
 const categoriesByCountry=["Política","Automóvel"];
 const categoriesBosch=["Estratégia","Mobilidade","Indústria","Tecnologia","Pessoas","Portugal"];
 const icons={"Política":"🏛️","Automóvel":"🚗","Estratégia":"📈","Mobilidade":"🚘","Indústria":"🏭","Tecnologia":"💻","Pessoas":"👥","Portugal":"🇵🇹"};
@@ -312,8 +324,7 @@ function withinDays(article,days){
 }
 function visualFor(country){
  if(country==="Bosch")return '<span class="logo-mini"><img src="'+logo+'" alt="Bosch" width="64" height="14" loading="lazy"></span>';
- const flag=flags[country]||"🌐";
- return '<span class="flag-mini" role="img" aria-label="'+safe(country)+'">'+flag+'</span>';
+ return flagImage(country);
 }
 function countryBadge(country){
  return '<span class="source-badge">'+visualFor(country)+(country==="Bosch"?"":'<span>'+safe(country)+'</span>')+'</span>';
@@ -358,7 +369,7 @@ function drawNavigation(){
    const el=btn.querySelector("[data-count]");
    if(el)el.textContent=count+" · 24 h";
  }
- $("selected-country-label").textContent=(flags[state.country]||"🇨🇳")+" "+(countries.includes(state.country)?state.country:"China");
+ $("selected-country-label").innerHTML=flagImage(state.country)+" "+safe(countries.includes(state.country)?state.country:"China");
  $("all-count").textContent=count24(state.country,"")+" notícias · 24 h";
  $("politics-count").textContent=count24(state.country,"Política")+" notícias · 24 h";
  $("auto-count").textContent=count24(state.country,"Automóvel")+" notícias · 24 h";
@@ -448,7 +459,7 @@ function drawArchive(){
  const metrics=[["Notícias selecionadas",list.length],["Fontes diferentes",sources],["Traduções disponíveis",translated],["Países / empresa",groups]];
  $("archive-metrics").innerHTML=metrics.map(m=>'<div class="metric"><span class="name">'+safe(m[0])+'</span><span class="num">'+safe(m[1])+'</span></div>').join("");
  $("archive-listcount").textContent=list.length+" notícias arquivadas";
- $("archive-origin").textContent=(state.archiveCountry?((flags[state.archiveCountry]||"⚙")+" "+state.archiveCountry):"🌐 Todos os países e Bosch")+" · "+state.archiveDays+" dias";
+ $("archive-origin").innerHTML=(state.archiveCountry?(flagImage(state.archiveCountry)+" "+safe(state.archiveCountry)):"🌐 Todos os países e Bosch")+" · "+state.archiveDays+" dias";
  const part=list.slice(0,state.archiveVisible);
  $("archive-articles").innerHTML=part.length?part.map(articleCard).join(""):'<div class="empty">Não existem notícias arquivadas para estes critérios. Altera os filtros ou limpa a pesquisa.</div>';
  $("archive-more").hidden=state.archiveVisible>=list.length;

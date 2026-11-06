@@ -32,6 +32,21 @@ class DashboardStructureTests(unittest.TestCase):
         self.assertIn('href="arquivo-30-dias.csv"',self.doc)
         self.assertNotIn('id="archive-go"',self.doc)
 
+    def test_national_flags_are_local_svg_assets(self):
+        page=self.doc
+        country_codes={"China":"cn","Japão":"jp","Alemanha":"de","Coreia do Sul":"kr",
+                       "Taiwan":"tw","Índia":"in","Singapura":"sg"}
+        for country,code in country_codes.items():
+            self.assertIn('data-country="'+country+'"',page)
+            self.assertIn('src="assets/flags/'+code+'.svg"',page)
+            flag=ROOT/"docs"/"assets"/"flags"/(code+".svg")
+            self.assertTrue(flag.is_file(),str(flag))
+            self.assertIn("<svg",flag.read_text(encoding="utf-8"))
+        self.assertIn('function flagImage(country,klass=',page)
+        self.assertIn('return flagImage(country);',page)
+        self.assertNotIn('class="flagemoji"',page)
+        self.assertTrue((ROOT/"docs"/"assets"/"flags"/"LICENSE").exists())
+
     def test_countries_and_bosch_visuals(self):
         self.assertEqual(self.doc.count('class="country-card"'),7)
         for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"):
