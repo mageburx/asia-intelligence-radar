@@ -1,5 +1,182 @@
 [
   {
+    "id": "c15812b8e6b5aa52a94a",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71488",
+    "original_title": "「台湾有事」答弁からあすで1年 木原官房長官“立場変更ない”",
+    "original_summary": "いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁から7日で1年となることに関連し、木原官房長官は、台湾に関する日本の立場は1972年の日中共同声明から変更はないという認識を重ねて示しました。",
+    "published_at": "2026-11-06T03:43:55+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Secretário-Chefe do Gabinete Kihara \"Sem mudança de posição\" por um ano amanhã a partir da resposta de \"emergência de Taiwan\"",
+    "translated_summary": "Em conexão com o fato de que será um ano em sete dias do discurso da Dieta do Primeiro Ministro Takaichi sobre a chamada \"emergência de Taiwan\", o Secretário Chefe de Gabinete Kihara reiterou seu reconhecimento de que a posição do Japão sobre Taiwan não mudou desde a declaração conjunta Japão-China de 1972.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:23+00:00"
+  },
+  {
+    "id": "7d29f8f72aa7549fe5e4",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154268.html",
+    "original_title": "マツダ、海外生産拠点へ部品を供給する新物流拠点「マツダKDセンター」広島港出島地区に竣工",
+    "original_summary": "マツダは11月6日、広島港出島地区（広島市南区）に建設を進めていた物流拠点「マツダKDセンター」が竣工したと発表した。稼働開始は2027年1月を予定している。",
+    "published_at": "2026-11-06T03:41:15+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mazda conclui a conclusão do Mazda KD Center, uma nova base de distribuição que fornece peças para bases de produção no exterior, na área de Dejima do porto de Hiroshima",
+    "translated_summary": "No dia 6 de novembro, a Mazda anunciou a conclusão do Centro Mazda KD, uma base logística que estava em construção na área de Dejima, no Porto de Hiroshima (Minami-ku, cidade de Hiroshima). Está programado para entrar em operação em janeiro de 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:29+00:00"
+  },
+  {
+    "id": "ac08e71eb1d18adf30ba",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727156.shtml",
+    "original_title": "第六届中国新疆特色林果产品博览会参展企业270余家",
+    "original_summary": "中新网广州11月6日电 (记者 程景伟)由新疆维吾尔自治区人民政府和广东省人民政府共同主办的第六届中国新疆特色林果产品博览会新闻发布会6日在广州举行。据介绍，本届博览会定于11月13日至15日在广州广交会展馆C区16.2号馆举办。",
+    "published_at": "2026-11-06T03:34:34+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mais de 270 empresas participaram da 6ª China Xinjiang Special Fruit Products Expo",
+    "translated_summary": "Guangzhou, China (6 de novembro) (Repórter Cheng Jingwei) A conferência de imprensa da 6ª Exposição Especial de Produtos Florestais da China Xinjiang, co-organizada pelo Governo Popular da Região Autônoma Uigur de Xinjiang e pelo Governo Popular da Província de Guangdong, foi realizada em Guangzhou no dia 6. Segundo relatos, esta Expo será realizada no Salão 16.2, Área C, Salão de Exposições da Feira de Cantão de Guangzhou, de 13 a 15 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:13+00:00"
+  },
+  {
+    "id": "b42dd8c0fc13329c72c3",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727116.shtml",
+    "original_title": "国家发展改革委：“十五五”时期我国粮食安全有坚实保障",
+    "original_summary": "中新网11月6日电 国家发展改革委6日上午召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。经济贸易司副司长寇荣在会上介绍，国内粮食市场始终供应充足、运行平稳，“十五五”时期我国的粮食安全是有坚实保障的，总结起来主要有三个字，“稳、厚、足”。",
+    "published_at": "2026-11-06T03:31:40+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Comissão Nacional de Desenvolvimento e Reforma: a segurança alimentar da China está firmemente garantida durante o período do \"15º Plano Quinquenal\"",
+    "translated_summary": "China New Network, 6 de novembro (Xinhua). A Comissão Nacional de Desenvolvimento e Reforma realizou uma série de conferências de imprensa sobre o \"15º Plano Quinquenal\" na manhã do dia 6 para apresentar a situação relevante da construção de uma base de segurança segura. Kou Rong, vice-diretor do Departamento Econômico e Comercial, apresentou na reunião que o mercado interno de grãos sempre foi suficientemente abastecido e funcionando sem problemas. Durante o período do \"15º Plano Quinquenal\", a segurança alimentar da China foi solidamente garantida. Em resumo, há três palavras, \"estável, grosso e suficiente\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:17+00:00"
+  },
+  {
+    "id": "04fae8129094788c08e1",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727139.shtml",
+    "original_title": "全国已累计收购秋粮1亿吨",
+    "original_summary": "中新网11月6日电 国家发展改革委6日上午召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家粮食和物资储备局粮食储备司司长罗守全在会上介绍，秋粮收购开局平稳，东北地区陆续上量，全国已累计收购秋粮1亿吨，进度与上年基本持平。",
+    "published_at": "2026-11-06T03:20:29+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O país adquiriu um total de 100 milhões de toneladas de grãos de outono",
+    "translated_summary": "China New Network, 6 de novembro (Xinhua). A Comissão Nacional de Desenvolvimento e Reforma realizou uma série de conferências de imprensa sobre o \"15º Plano Quinquenal\" na manhã do dia 6 para apresentar a situação relevante da construção de uma base de segurança segura. Luo Shouquan, diretor do Departamento de Reserva de Grãos do Departamento Estadual de Reserva de Alimentos e Materiais, apresentou na reunião que a aquisição de grãos de outono começou sem problemas, e a região nordeste aumentou gradualmente, e o país adquiriu 100 milhões de toneladas de grãos de outono, e o progresso é basicamente o mesmo do ano anterior.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:20+00:00"
+  },
+  {
+    "id": "d59c308e34379a2c31ca",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71417",
+    "original_title": "13年ぶり沖縄政策協議会 高市首相“強い経済と基地負担軽減”",
+    "original_summary": "沖縄県の基地負担の軽減や振興について国と県が協議する「沖縄政策協議会」が13年ぶりに開かれ、高市総理大臣は、強い沖縄経済の実現に向けて後押しするとともに基地負担の軽減を目に見える形で実現できるよう力を…",
+    "published_at": "2026-11-06T03:14:56+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Pela primeira vez em 13 anos, o primeiro-ministro do Conselho Político de Okinawa, Takaichi \"Economia forte e redução da carga básica\"",
+    "translated_summary": "O \"Conselho Político de Okinawa\" foi realizado pela primeira vez em 13 anos para discutir a redução e promoção da carga básica da Prefeitura de Okinawa. O primeiro-ministro Takaichi promoveu a realização de uma forte economia de Okinawa e fez esforços para reduzir a carga básica de forma visível.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:26+00:00"
+  },
+  {
+    "id": "5a32defbbeb494843d42",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727126.shtml",
+    "original_title": "国家发展改革委：今冬供暖季能源供应总体能够满足需求",
+    "original_summary": "中新网11月6日电 国家发展改革委6日上午召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。经济运行调节局副局长唐瑱在会上表示，今冬供暖季能源供应总体能够满足需求，人民群众温暖过冬有保障。",
+    "published_at": "2026-11-06T03:12:07+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Comissão Nacional de Desenvolvimento e Reforma: A oferta geral de energia pode atender à demanda nesta estação de aquecimento de inverno",
+    "translated_summary": "China New Network, 6 de novembro (Xinhua). A Comissão Nacional de Desenvolvimento e Reforma realizou uma série de conferências de imprensa sobre o \"15º Plano Quinquenal\" na manhã do dia 6 para apresentar a situação relevante da construção de uma base de segurança segura. Tang Xi, vice-diretor do Departamento de Operação e Regulação Econômica, disse na reunião que o fornecimento de energia na estação de aquecimento neste inverno geralmente pode atender à demanda, e as pessoas estão quentes e garantidas para o inverno.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:07+00:00"
+  },
+  {
+    "id": "57c6723c24222c6d8ac4",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154244.html",
+    "original_title": "2026年10月の車名別新車ランキング、乗用車首位は「ヤリス」、軽自動車首位は「N-BOX」 乗用車トップ10に「ジムニー」「ランドクルーザー」がランクイン",
+    "original_summary": "日本自動車販売協会連合会と全国軽自動車協会連合会は11月6日、2026年10月の車名別新車販売台数ランキングを発表した。",
+    "published_at": "2026-11-06T03:09:00+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Novo carro classificado pelo nome do carro em outubro de 2026, \"Yaris\" é o primeiro carro de passageiros, \"N-BOX\" é o primeiro carro leve, \"Jimny\" e \"Land Cruiser\" estão classificados entre os 10 melhores carros de passageiros",
+    "translated_summary": "A Federação Japonesa de Associações de Vendas de Automóveis e a Federação Nacional de Associações de Veículos Leves anunciaram em 6 de novembro o ranking de vendas de carros novos por nome de carro em outubro de 2026.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:32+00:00"
+  },
+  {
+    "id": "fea13a72ad777d6e7f10",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727135.shtml",
+    "original_title": "习近平复信澳大利亚青年学生",
+    "original_summary": "新华社快讯：习近平复信澳大利亚青年学生。",
+    "published_at": "2026-11-06T03:05:56+00:00",
+    "first_seen_at": "2026-11-06T03:57:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Xi Jinping Fuxin jovens estudantes australianos",
+    "translated_summary": "Agência de Notícias Xinhua Flash: Xi Jinping fuxin jovens estudantes australianos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:10+00:00"
+  },
+  {
     "id": "a4395ead6dfabc438611",
     "country": "Japão",
     "category": "Política",
@@ -1670,11 +1847,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Toyota Revela Modelo de Conceito de Exploração Polar Específico da Caterpillar \"Snow Hunter\"",
+    "translated_summary": "A Toyota revelou seu modelo conceitual, o Snowhunter Concept, no SEMA Show 2026, realizado no Centro de Convenções de Las Vegas de 3 a 6 de novembro (horário local) nos Estados Unidos, assumindo áreas com fortes nevascas e corridas no interior.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:35+00:00"
   },
   {
     "id": "cc0bfb7fb1114cfa74fc",
@@ -1689,11 +1866,11 @@
     "published_at": "2026-11-04T21:23:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Coordenação do governo com o pacote de contramedidas “New Team Operations in Cyberattacks”",
+    "translated_summary": "Com violações de informações devido ao acesso não autorizado no horizonte, o governo está ajustando seu pacote de resposta a emergências esta semana para incluir o início antecipado das operações para novas equipes que respondem a ataques cibernéticos graves...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:38+00:00"
   },
   {
     "id": "f98dc8d727ecbed164ea",
@@ -1710,11 +1887,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Além do assento: quem influenciará a agenda da China no próximo Congresso dos EUA? - Voz da América",
+    "translated_summary": "Beyond the Seat: Who Will Influence the China Agenda of the Next U.S. Congress? voa",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:41+00:00"
   },
   {
     "id": "c879fe46bf033e93d00d",
@@ -1732,11 +1909,11 @@
       "Geopolítica",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A política externa do presidente Trump é monitorada de perto pelo governo japonês nas eleições de meio de mandato nos Estados Unidos",
+    "translated_summary": "Em resposta aos resultados das eleições de meio de mandato dos EUA, há uma visão dentro do governo japonês de que o presidente Trump buscará resultados na diplomacia que provavelmente não serão restringidos pelo Congresso durante seus mais de dois anos restantes no cargo, e se haverá uma mudança na política diplomática no futuro. Nota...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:44+00:00"
   },
   {
     "id": "12e79ee5dc1684213f02",
@@ -1753,11 +1930,11 @@
     "topics": [
       "Nissan"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O chefe de novo design da Nissan, Matthew Weaver, dará orientações no Japan Mobility Show 2027",
+    "translated_summary": "A Nissan Motor Co., Ltd. realizou uma mesa redonda em 4 de novembro com a presença de Matthew Weaver, que assumiu o cargo executivo responsável pelo design global em 1º de outubro, para falar sobre a direção futura do design da Nissan. No Japan Mobility Show em 2027, anunciou sua intenção de mostrar a direção futura do design com modelagem real.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:47+00:00"
   },
   {
     "id": "5e44a30a4b6537903d8f",
@@ -1772,11 +1949,11 @@
     "published_at": "2026-11-04T15:00:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Marumo Akiko's \"Detour Day\"] Para Oku-Nikko em busca de folhas de outono",
+    "translated_summary": "Fui a Oku-Nikko em busca de folhas de outono! A minha filha estava numa viagem escolar, por isso desta vez vou dar uma volta com o meu cão, o meu marido e duas pessoas + uma. No entanto, o tufão veio implacavelmente e choveu no primeiro dia. Na verdade, eu queria dar um passeio pelas Cataratas Kegon, Lago Chuzenji e outros lugares famosos, mas não consegui sair e aproveitei de dentro do carro. No entanto, também é bom correr enquanto observa a ponte do santuário e a superfície do lago molhada pela chuva. Acho que seria bom ter um carro num momento como este.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:50+00:00"
   },
   {
     "id": "73b1a3402b511b687fcc",
@@ -1791,11 +1968,11 @@
     "published_at": "2026-11-04T13:35:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Relações Exteriores da China \"Comunicando-se com países relevantes\" durante a Cúpula EUA-China-Rússia",
+    "translated_summary": "Sobre a possibilidade de uma reunião de cúpula entre os Estados Unidos, a China e a Rússia à margem da cúpula da Cooperação Econômica Ásia-Pacífico da APEC na China em novembro, um porta-voz do Ministério das Relações Exteriores da China disse: \"Manter contato com os países relevantes...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:53+00:00"
   },
   {
     "id": "dd3de14675524898f864",
@@ -1812,11 +1989,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "as eleições de meio de mandato nos Estados Unidos, o Partido Republicano, as câmaras alta e baixa da Câmara dos Deputados.",
+    "translated_summary": "O presidente Trump foi duramente julgado. As eleições de meio de mandato nos Estados Unidos garantiram que tanto o Senado quanto a Câmara dos Deputados terão a maioria do partido no poder e do Partido Republicano. O que o resultado da eleição trará para o Japão e para o mundo? Notícias U…",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:56+00:00"
   },
   {
     "id": "4201840a3c801fab8b0e",
@@ -1833,11 +2010,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Grupo de Estudo com Medidas de Segurança Mirai Participado por MPs da Oposição",
+    "translated_summary": "Em resposta ao vazamento contínuo de informações devido ao acesso não autorizado, a Equipe Mirai pediu aos membros do parlamento do partido no poder que realizassem uma sessão de estudo, e os participantes precisam considerar medidas para evitar que ataques cibernéticos em campos médicos e outros se espalhem...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:57:59+00:00"
   },
   {
     "id": "b53bb3f44c06c3474d01",
@@ -1852,11 +2029,11 @@
     "published_at": "2026-11-04T12:52:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Ministério da Fazenda “elevou o ônus das despesas médicas para pessoas com mais de 70 a 30% em princípio”",
+    "translated_summary": "As discussões no campo da previdência social foram realizadas no órgão consultivo do Ministro da Fazenda, do Conselho do Sistema Financeiro, etc., e o Ministério da Fazenda propôs que, a fim de reduzir o ônus dos prêmios de seguro para a geração atual, o ônus da janela para despesas médicas acima de 70 anos deveria ser aumentado de forma constante, visando 30% em princípio...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:02+00:00"
   },
   {
     "id": "a4d2e6b3c921bbc4ae80",
@@ -1873,11 +2050,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Doação da Takefu Agricultural Minister Public Works Order Company \"Tratada adequadamente após a confirmação do fato\"",
+    "translated_summary": "Gostaria de saber se o Ministro da Agricultura, Florestas e Pescas de Takebu sabe que a empresa que fez a doação recebeu uma ordem de projeto público na última eleição para a Câmara dos Deputados, é relatado que recebeu uma doação de uma empresa que contratou um projeto público em um país que é proibido pela Lei Eleitoral de Cargos Públicos...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:05+00:00"
   },
   {
     "id": "ce4016e439a22bfd4919",
@@ -1892,11 +2069,11 @@
     "published_at": "2026-11-04T12:24:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A NTT se tornará parceira oficial da McLaren Mastercard Formula 1 Team a partir de 2027",
+    "translated_summary": "A NTT e a McLaren Racing anunciaram em 4 de novembro que serão os parceiros oficiais da McLaren Mastercard Formula 1 Team por vários anos a partir da temporada 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:08+00:00"
   },
   {
     "id": "5b09f9eac8aec3146d2a",
@@ -1913,11 +2090,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A \"derrota histórica\" do presidente Trump é \"assustadora porque não sei o que ele fará\" Funcionários do governo japonês \"tentarão alcançar resultados na diplomacia\" Análise - dMenu News",
+    "translated_summary": "A \"derrota histórica\" do presidente Trump é \"assustadora sem saber o que ele fará\" Funcionários do governo japonês \"tentarão alcançar resultados na diplomacia\" Análise d Menu Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:11+00:00"
   },
   {
     "id": "814f5dedc3cd16821402",
@@ -1932,11 +2109,11 @@
     "published_at": "2026-11-04T12:02:06+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Projeto de Lei de Redução de Imposto de Consumo do Comitê de Finanças e Finanças da Câmara dos Deputados continuou a ser discutido pelo partido no poder no dia 6.",
+    "translated_summary": "Em relação ao projeto de lei sobre a redução do imposto de consumo de alimentos, o partido da oposição no poder concordou em pedir ao primeiro-ministro Takashi que participasse da Comissão de Finanças da Câmara dos Deputados no dia 6 para realizar uma sessão de perguntas e respostas, e continuará a discutir a alocação do tempo de interrogatório. O partido no poder também é...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:14+00:00"
   },
   {
     "id": "07c7f539a2bedde3a10d",
@@ -1953,11 +2130,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "CATL, Octopus Energy e Ampace fazem parceria para explorar o armazenamento de energia residencial europeu",
+    "translated_summary": "As 3 partes priorizarão mercados, incluindo Reino Unido, França e Espanha, para explorar soluções de armazenamento de energia para residências europeias. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:17+00:00"
   },
   {
     "id": "ff76664326edf495a9ea",
@@ -1972,11 +2149,11 @@
     "published_at": "2026-11-04T11:06:19+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Redução constante Discussão em direção à cultura de artigos da proposta de redução de 31 assentos no parlamento uigur",
+    "translated_summary": "Em relação à redução do número de membros da Câmara dos Deputados, autoridades do Partido Liberal Democrata, da Sociedade Japonesa de Restauração e do Partido Nacional Democrata discutiram e trocaram opiniões sobre o conteúdo do documento do acordo, como a redução de 31 assentos por representantes proporcionais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:20+00:00"
   },
   {
     "id": "b60f2665654ad27e0b35",
@@ -1991,11 +2168,11 @@
     "published_at": "2026-11-04T10:58:19+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Propostas como alterações legais para tornar obrigatória a exclusão de informações pessoais recebidas por acesso não autorizado",
+    "translated_summary": "Em meio à sucessão de vazamentos de informações devido ao acesso não autorizado, a Nippon Restoration Society propôs ao governo alterar a lei e considerar a obrigatoriedade de excluir informações pessoais que não são mais necessárias, o que atualmente está limitado a esforços.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:23+00:00"
   },
   {
     "id": "66012f2571d96dfd2027",
@@ -2012,11 +2189,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vendas no varejo de Nev na China em outubro caem 10% para 1,148 milhão, mostram dados preliminares da CPCA",
+    "translated_summary": "As vendas no varejo de Nev de passageiros em outubro aumentaram 6% em relação ao mês anterior, empurrando a taxa de penetração para um recorde de 67,8%. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:26+00:00"
   },
   {
     "id": "7e72818f04e32798d887",
@@ -2031,11 +2208,11 @@
     "published_at": "2026-11-04T10:51:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Antes de discutir a reforma do sistema tributário solicitada pelo Conselho Nacional de Governadores para corrigir a prevalência de tributos, etc.",
+    "translated_summary": "Antes que a discussão da reforma tributária no próximo ano fiscal se tornasse completa, o Conselho Nacional de Governadores pediu ao governo e ao PLD que garantissem que a diferença de receita tributária entre Tóquio e a região fosse corrigida.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:28+00:00"
   },
   {
     "id": "38e6a929b072651cc751",
@@ -2053,11 +2230,11 @@
       "Geopolítica",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Secretário Chefe de Gabinete Kihara \"Independentemente dos resultados das eleições intercalares dos EUA, a aliança Japão-EUA é a pedra angular\"",
+    "translated_summary": "Nas eleições de meio de mandato nos Estados Unidos, o secretário-chefe do gabinete, Kihara, disse em uma coletiva de imprensa à tarde: \"Independentemente do resultado desta eleição, a aliança Japão-EUA é a pedra angular da política externa e de segurança do Japão. Enquanto a situação internacional é turbulenta e cada vez mais incerta, um forte...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:31+00:00"
   },
   {
     "id": "315df8ee38f162bfccb4",
@@ -2072,11 +2249,11 @@
     "published_at": "2026-11-04T10:02:24+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng revela modelo pré-treinado GroundingPI, superando GPT-6 Astra em benchmarks de percepção",
+    "translated_summary": "Com uma escala de parâmetros de cerca de 4 bilhões, o GroundingPI superou o GPT-6 Astra da OpenAI em uma avaliação abrangente em 34 benchmarks de percepção pública. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:35+00:00"
   },
   {
     "id": "7c433f3fc5eefe6c184d",
@@ -2091,11 +2268,11 @@
     "published_at": "2026-11-04T09:50:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mudança de comentários do membro do conselho sobre o câncer uterino na eleição suplementar do conselheiro",
+    "translated_summary": "O representante do partido político Kamiya disse que era inapropriado que um membro do conselho do departamento executivo do partido dissesse em um discurso de rua que \"o câncer uterino faz parte de um resfriado\", e deixou claro que ele substituiu os membros do conselho no dia 4...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:37+00:00"
   },
   {
     "id": "6b97a72d36e9a784383a",
@@ -2112,11 +2289,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Projeto de lei de redução do imposto sobre o consumo \"votado na 6ª\" reforma civil \"primeiro-ministro responde julgamento de audiência\"",
+    "translated_summary": "Em relação ao projeto de lei sobre a redução do imposto de consumo de alimentos, o PLD e o presidente do Comitê de Contramedidas da Assembleia Nacional da Associação de Reforma Democrática se reuniram intermitentemente e concordaram em realizar uma sessão de perguntas e respostas com o comitê no dia 6 na presença do primeiro-ministro Takaichi. Por outro lado, os Liberais Democratas propuseram uma votação, enquanto os Democratas...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:40+00:00"
   },
   {
     "id": "10c7642a864790f8b8dc",
@@ -2131,11 +2308,11 @@
     "published_at": "2026-11-04T09:22:53+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nio realizará o dia tecnológico nio IN 2026 em 25 de novembro em Guangzhou com foco em IA",
+    "translated_summary": "A nio compartilhará seus insights sobre a construção de uma organização nativa de IA e revelará novos produtos de cockpit e direção assistida com IA. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:43+00:00"
   },
   {
     "id": "5e5c0c9d25ad0fc1dd81",
@@ -2152,11 +2329,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Comissão de Revisão Constitucional do Senado é realizada pela primeira vez na Dieta, e cada parte expressa suas opiniões",
+    "translated_summary": "A Comissão de Revisão Constitucional da Câmara dos Vereadores foi realizada pela primeira vez na atual Dieta, e todas as partes expressaram suas opiniões. Enquanto os Liberais Democratas exigiam que os rascunhos dos artigos fossem redigidos às pressas para revisão, os Constitucionais Democratas pediam um governo que fizesse uso da Constituição.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:46+00:00"
   },
   {
     "id": "f142562d3004e942ded2",
@@ -2173,11 +2350,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Primeiro-ministro Takaichi \"Esforços para libertar os repórteres do Hokkaido Shimbun\" Reunião com Muneo Suzuki",
+    "translated_summary": "Em relação à detenção de um repórter do Hokkaido Shimbun pelas agências de segurança russas, o primeiro-ministro Takashi expressou sua intenção de que Hokkaido se reunisse com um membro da Câmara dos Vereadores do Partido Liberal Democrático local, Muneo Suzuki, e se esforçasse para a libertação de repórteres através de canais diplomáticos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:49+00:00"
   },
   {
     "id": "3d3adac7cbab24ff522f",
@@ -2194,11 +2371,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Convocar as empresas a cooperar para fortalecer a base da indústria de defesa do Ministério da Defesa de Koizumi",
+    "translated_summary": "Antes da revisão dos três documentos relacionados à segurança, o Ministro da Defesa Koizumi, juntamente com o Ministro da Economia, Comércio e Indústria Akasawa, trocaram opiniões com empresas e organizações econômicas envolvidas na fabricação de equipamentos e pediram cooperação para fortalecer a base da indústria de defesa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:52+00:00"
   },
   {
     "id": "230315adf560b2c66d72",
@@ -2213,11 +2390,11 @@
     "published_at": "2026-11-04T09:01:53+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Campanha de presentes Kappa Sushi x Tomica, Tomica exclusiva \"Turley (movimento de pés e tesouras)\"",
+    "translated_summary": "Em 4 de novembro, a Kappa Creator colaborou com \"Tomica\" de Takara Tomy nas lojas Kappa Sushi em todo o país \"Kappa Sushi Campaign Tomica\"! Foi anunciado que a \"Campanha de Presentes\" de Kuruka começará em 5 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:55+00:00"
   },
   {
     "id": "979585702f6b59475a77",
@@ -2232,11 +2409,11 @@
     "published_at": "2026-11-04T08:40:10+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mitsubishi Motors exibirá “Outlander Diamond Trail Edition” na SEMA Show para lançamento no mercado norte-americano no início de 2027",
+    "translated_summary": "A Mitsubishi Motors anunciou em 4 de novembro que sua subsidiária nos EUA, a Mitsubishi Motors North America Inc. (MMNA), apresentou um carro personalizado da Diamond Trail Edition, um modelo off-road do crossover SUV Outlander, no SEMA Show (3 a 6 de novembro, hora local) em Las Vegas. O modelo está programado para entrar no mercado norte-americano no primeiro semestre de 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:58:58+00:00"
   },
   {
     "id": "e16d0a028e6d806974c2",
@@ -2251,11 +2428,11 @@
     "published_at": "2026-11-04T08:22:25+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Yamaha lança Nmax E, uma nova scooter elétrica com alcance de 104km, no Japão em 2027",
+    "translated_summary": "A Yamaha Motor anunciou as scooters elétricas Nmax E e Xenter E 125cc em 4 de novembro. Ambos os modelos foram exibidos na exposição de motocicletas EICMA 2026 em Milão, Itália, desde 3 de novembro, e a Nmax E está programada para ser lançada no Japão em 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:59:01+00:00"
   },
   {
     "id": "fbd53a2306a66a7d8146",
@@ -2272,11 +2449,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Buick Electra GS aparece no arquivamento regulatório da China, expandindo a linha Nev",
+    "translated_summary": "O sedan híbrido plug-in Electra GS apresenta um design fastback e um motor elétrico com um pico de potência de 165 kW (221 cv). Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T03:59:04+00:00"
   },
   {
     "id": "98c93a84b62cc983e279",
