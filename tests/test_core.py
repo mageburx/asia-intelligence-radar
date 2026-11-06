@@ -57,6 +57,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(bosch_category("Bosch Rexroth expands ctrlX",fallback="Estratégia"),"Indústria")
         self.assertEqual(bosch_category("Bosch in Braga announces expansion"),"Portugal")
         self.assertEqual(bosch_category("Bosch workers face layoffs"),"Pessoas")
+        self.assertEqual(bosch_category("Mitarbeitende von Bosch Rexroth beteiligen sich an Warnstreik"),"Pessoas")
     def test_bosch_german_language_detection(self):
         self.assertEqual(detect_source_lang("Bosch stärkt sein Halbleitergeschäft","Bosch"),"de")
     def test_bosch_dedupe_between_topics(self):

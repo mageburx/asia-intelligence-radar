@@ -158,7 +158,7 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
 </section>
 <section class="area" aria-labelledby="news-title">
  <div class="areahead"><div><h2 id="news-title">Últimas notícias</h2><p id="listcount" aria-live="polite">A carregar notícias…</p></div></div>
- <div class="filters"><input id="search" aria-label="Pesquisar notícias" placeholder="Pesquisar empresas, políticas, baterias…"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="720">Últimos 30 dias</option><option value="all">Todo o histórico</option></select></div>
+ <div class="filters"><select id="source-scope" aria-label="Origem das notícias Bosch" hidden><option value="">Todas as fontes</option><option value="Comunicado oficial">Só comunicados oficiais</option><option value="Imprensa / agregador">Só imprensa</option></select><input id="search" aria-label="Pesquisar notícias" placeholder="Pesquisar empresas, políticas, baterias…"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="720">Últimos 30 dias</option><option value="all">Todo o histórico</option></select></div>
  <div class="articles" id="articles"></div>
  <button class="more" id="more" type="button">Mostrar mais notícias</button>
 </section>
@@ -190,6 +190,7 @@ function activeArticles(){
 function filteredArticles(){
  const q=$("search").value.trim().toLocaleLowerCase(),period=$("period").value;
  return activeArticles().filter(a=>{
+   if(state.mode==="bosch"&&$("source-scope").value&&a.source_type!==$("source-scope").value)return false;
    if(period!=="all"){
      const age=currentTime-new Date(a.published_at).getTime();
      if(!Number.isFinite(age)||age<0||age>Number(period)*3600000)return false;
@@ -216,6 +217,7 @@ function drawNavigation(){
  }
  $("results-note").textContent=bosch?"Comunicados oficiais e notícias da imprensa":"Dados provenientes de RSS público";
  $("search").placeholder=bosch?"Pesquisar Bosch, Braga, Rexroth, emprego…":"Pesquisar empresas, políticas, baterias…";
+ $("source-scope").hidden=!bosch;
 
  for(const btn of document.querySelectorAll("[data-country]"))
    btn.setAttribute("aria-pressed",String(btn.dataset.country===state.country));
@@ -263,7 +265,7 @@ function drawArticles(){
   const excerpt=(translated&&a.translated_summary)?a.translated_summary:a.original_summary;
   const topics=(a.topics||[]).slice(0,4).map(t=>'<span class="topic">'+safe(t)+'</span>').join("");
   return '<article class="article">'
-     +'<div class="meta"><span class="pill">'+safe(a.category)+'</span><span>'+safe(a.publisher)+'</span><span>· '+safe(fmt(a.published_at))+'</span></div>'
+     +'<div class="meta"><span class="pill">'+safe(a.category)+'</span>'+(a.country==="Bosch"?'<span class="pill">'+safe(a.source_type==="Comunicado oficial"?"Fonte oficial":"Imprensa")+'</span>':'')+'<span>'+safe(a.publisher)+'</span><span>· '+safe(fmt(a.published_at))+'</span></div>'
      +'<h3>'+safe(title)+'</h3>'
      +(excerpt?'<p class="excerpt">'+safe(excerpt).slice(0,420)+'</p>':"")
      +'<div class="topics">'+topics+'<span class="pill">'+(translated?"Traduzido automaticamente":"Original · tradução pendente")+'</span></div>'
@@ -286,6 +288,7 @@ function changeView(mode){
  state.category="";
  state.visible=12;
  $("search").value="";
+ $("source-scope").value="";
  changeSelection(state.country,state.category);
 }
 function changeSelection(country,category){
@@ -311,6 +314,7 @@ $("categories").addEventListener("click",event=>{
 });
 $("search").addEventListener("input",()=>{state.visible=12;drawArticles()});
 $("period").addEventListener("change",()=>{state.visible=12;drawArticles()});
+$("source-scope").addEventListener("change",()=>{state.visible=12;drawArticles()});
 $("articles").addEventListener("click",event=>{
  const btn=event.target.closest("button[data-original]");
  if(!btn)return;

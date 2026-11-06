@@ -66,7 +66,7 @@ def topic_tags(title,summary=""):
 BOSCH_CATEGORIES = {
     "Portugal": ("braga","aveiro","ovar","portugal","portugues","português"),
     "Pessoas": ("stellenabbau","arbeitsplatz","entlassung","betriebsrat","beschäftigt",
-                 "layoff","job cut","workforce","workers","hiring","recruit","trabalhador","despedimento","sindicat"),
+                 "layoff","job cut","workforce","workers","hiring","recruit","trabalhador","despedimento","sindicat","warnstreik","streik","mitarbeit","tarifverhandlung"),
     "Indústria": ("rexroth","ctrlx","werk ","werke ","factory","plant ","production",
                   "fertigung","fabrik","manufac","manufactur","logistic","automatis","industrial","indústria",
                   "montagem","robotik","robótica","fornecedor"),
