@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#0b1220">
-<title>Asia Intelligence Radar — China & Japão</title>
+<title>Asia Intelligence Radar — 7 países</title>
 <style>
 :root{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#e8f0f8;background:#0b1220;--muted:#95a7b9;--line:#283649;--surface:#111d2c;--surface2:#162638;--accent:#64dcc6}
 *{box-sizing:border-box}
@@ -29,7 +29,7 @@ h1{font-size:clamp(33px,5.5vw,55px);line-height:1.07;letter-spacing:-.052em;marg
 .stephead{display:flex;align-items:center;gap:10px;margin-bottom:13px}
 .stepnum{width:24px;height:24px;display:grid;place-items:center;border:1px solid #315257;color:var(--accent);border-radius:8px;font-size:12px;font-weight:800}
 .stephead h2{margin:0;font-size:17px;letter-spacing:-.02em}
-.countrygrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.countrygrid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
 .country-card{display:flex;text-align:left;align-items:center;gap:14px;padding:17px;background:#101c2b;border:1px solid #344258;color:inherit;border-radius:14px;min-width:0;transition:border-color .16s,background .16s,transform .16s}
 .country-card:hover{border-color:#68baa9;background:#172a37}
 .country-card[aria-pressed="true"]{border:2px solid var(--accent);padding:16px;background:#163038}
@@ -88,9 +88,9 @@ input{width:100%;min-width:0}
 .empty{grid-column:1/-1;border:1px dashed #3b4b5e;border-radius:14px;padding:25px;color:var(--muted);font-size:13px}
 .note{margin-top:32px;padding:17px;border-left:3px solid var(--accent);border-radius:0 10px 10px 0;background:#122233;color:#b4c5d3;font-size:12px;line-height:1.7}
 footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
-@media(max-width:850px){.trends{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:640px){.wrap{padding:16px 15px 65px}.hero{margin:26px 0 24px}.picker{padding:15px;border-radius:16px}.countrygrid{gap:9px}.country-card{padding:13px 10px;gap:9px}.country-card[aria-pressed="true"]{padding:12px 9px}.flagemoji{font-size:23px}.countrycopy strong{font-size:16px}.countrycopy small{font-size:10px}.selection{width:18px;height:18px;font-size:12px}.categorygrid{gap:7px}.category{padding:12px 9px}.catname{font-size:12px}.catcount{font-size:10px}.metrics{gap:8px}.metric{padding:12px 10px}.metric .num{font-size:25px}.metric .name{font-size:10px}.trends,.articles{grid-template-columns:1fr}.filters{grid-template-columns:1fr}.area{margin-top:26px}.areahead h2{font-size:21px}}
-@media(max-width:375px){.countrygrid{grid-template-columns:1fr}.country-card{padding:12px}.country-card[aria-pressed="true"]{padding:11px}.categorygrid{grid-template-columns:1fr}.category{flex-direction:row;justify-content:space-between;align-items:center}}
+@media(max-width:850px){.trends{grid-template-columns:repeat(2,minmax(0,1fr))}.countrygrid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:640px){.countrygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.wrap{padding:16px 15px 65px}.hero{margin:26px 0 24px}.picker{padding:15px;border-radius:16px}.countrygrid{gap:9px}.country-card{padding:13px 10px;gap:9px}.country-card[aria-pressed="true"]{padding:12px 9px}.flagemoji{font-size:23px}.countrycopy strong{font-size:16px}.countrycopy small{font-size:10px}.selection{width:18px;height:18px;font-size:12px}.categorygrid{gap:7px}.category{padding:12px 9px}.catname{font-size:12px}.catcount{font-size:10px}.metrics{gap:8px}.metric{padding:12px 10px}.metric .num{font-size:25px}.metric .name{font-size:10px}.trends,.articles{grid-template-columns:1fr}.filters{grid-template-columns:1fr}.area{margin-top:26px}.areahead h2{font-size:21px}}
+@media(max-width:375px){.countrygrid{grid-template-columns:repeat(2,minmax(0,1fr))}.country-card{padding:12px}.country-card[aria-pressed="true"]{padding:11px}.categorygrid{grid-template-columns:1fr}.category{flex-direction:row;justify-content:space-between;align-items:center}}
 </style>
 </head>
 <body>
@@ -99,12 +99,17 @@ footer{font-size:11px;color:var(--muted);margin-top:32px;line-height:1.7}
   <div class="brand"><span class="brandmark">◎</span> ASIA INTELLIGENCE RADAR</div>
   <div class="live"><span class="dot"></span><span id="updated">A consultar última atualização…</span></div>
 </header>
-<div class="hero"><p class="eyebrow">Política e indústria automóvel</p><h1>O que está a acontecer na Ásia?</h1><p class="lead">Notícias da China e do Japão, organizadas por país e tema. Tradução automática, fontes originais e sinais de cobertura em crescimento, atualizados de hora a hora.</p></div>
+<div class="hero"><p class="eyebrow">Política e indústria automóvel</p><h1>O que está a acontecer na Ásia?</h1><p class="lead">Notícias da China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura, organizadas por país e tema. Tradução automática, fontes originais e sinais de cobertura em crescimento, atualizados de hora a hora.</p></div>
 <nav class="picker" aria-label="Escolher país e categoria">
   <div class="stephead"><span class="stepnum">1</span><h2>Escolhe o país</h2></div>
   <div class="countrygrid" id="countries" aria-label="Países disponíveis">
-    <button type="button" class="country-card" data-country="China" aria-pressed="true"><span class="flagemoji" aria-hidden="true">🇨🇳</span><span class="countrycopy"><strong>China</strong><small id="china-count">Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
-    <button type="button" class="country-card" data-country="Japão" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇯🇵</span><span class="countrycopy"><strong>Japão</strong><small id="japan-count">Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="China" aria-pressed="true"><span class="flagemoji" aria-hidden="true">🇨🇳</span><span class="countrycopy"><strong>China</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Japão" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇯🇵</span><span class="countrycopy"><strong>Japão</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Alemanha" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇩🇪</span><span class="countrycopy"><strong>Alemanha</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Coreia do Sul" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇰🇷</span><span class="countrycopy"><strong>Coreia do Sul</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Taiwan" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇹🇼</span><span class="countrycopy"><strong>Taiwan</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Índia" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇮🇳</span><span class="countrycopy"><strong>Índia</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
+    <button type="button" class="country-card" data-country="Singapura" aria-pressed="false"><span class="flagemoji" aria-hidden="true">🇸🇬</span><span class="countrycopy"><strong>Singapura</strong><small>Notícias nas últimas 24 h</small></span><span class="selection" aria-hidden="true">✓</span></button>
   </div>
   <div class="stepdivider"></div>
   <div class="stephead"><span class="stepnum">2</span><h2>Escolhe a categoria</h2></div>
@@ -140,7 +145,7 @@ const currentTime=Date.now();
 let state={country:"China",category:"",visible:12};
 try {
  const q=new URLSearchParams(location.hash.slice(1));
- if(["China","Japão"].includes(q.get("country")))state.country=q.get("country");
+ if(["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"].includes(q.get("country")))state.country=q.get("country");
  if(["","Política","Automóvel"].includes(q.get("category")))state.category=q.get("category");
 } catch(_){}
 function count24(country,category){
@@ -166,8 +171,10 @@ function drawNavigation(){
    btn.setAttribute("aria-pressed",String(btn.dataset.country===state.country));
  for(const btn of document.querySelectorAll("[data-category]"))
    btn.setAttribute("aria-pressed",String(btn.dataset.category===state.category));
- $("china-count").textContent=count24("China","")+" notícias · 24 h";
- $("japan-count").textContent=count24("Japão","")+" notícias · 24 h";
+ for(const btn of document.querySelectorAll("[data-country]")){
+   const small=btn.querySelector("small");
+   if(small)small.textContent=count24(btn.dataset.country,"")+" notícias · 24 h";
+ }
  $("all-count").textContent=count24(state.country,"")+" notícias · 24 h";
  $("politics-count").textContent=count24(state.country,"Política")+" notícias · 24 h";
  $("auto-count").textContent=count24(state.country,"Automóvel")+" notícias · 24 h";

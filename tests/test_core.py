@@ -2,6 +2,8 @@ import unittest
 from datetime import datetime,timedelta,timezone
 from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text
 from asia_radar.report import make_payload
+from asia_radar.collector import detect_source_lang,feed_url,ROOT
+import json
 class RadarTests(unittest.TestCase):
     def test_strip_markup(self):
         self.assertEqual(clean_text("<p>A &amp; B</p>"),"A & B")
@@ -21,6 +23,24 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(trend_data(articles,now)[0]["status"],"A monitorizar")
         articles[2]["publisher"]="Fonte B"
         self.assertEqual(trend_data(articles,now)[0]["status"],"Tema emergente")
+    def test_new_language_detection(self):
+        self.assertEqual(detect_source_lang("현대차 전기차","Coreia do Sul"),"ko")
+        self.assertEqual(detect_source_lang("台灣政府宣布政策","Taiwan"),"zh-TW")
+        self.assertEqual(detect_source_lang("Bundesregierung plant neue Regeln","Alemanha"),"de")
+        self.assertEqual(detect_source_lang("India auto manufacturing","Índia"),"en")
+    def test_seven_country_sources(self):
+        sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
+        countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"}
+        self.assertEqual(set(s["country"] for s in sources),countries)
+        for c in countries:
+            self.assertEqual(set(s["category"] for s in sources if s["country"]==c),{"Política","Automóvel"})
+        self.assertEqual(len(set(s["id"] for s in sources)),len(sources))
+        self.assertTrue(all(feed_url(s).startswith("https://") for s in sources))
+    def test_empty_counts_seven_markets(self):
+        p=make_payload([],{},datetime.now(timezone.utc))
+        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"):
+            self.assertIn(f"{country}|Política",p["counts24"])
+            self.assertIn(f"{country}|Automóvel",p["counts24"])
     def test_zero_history_dashboard(self):
         p=make_payload([],{},datetime.now(timezone.utc))
         self.assertEqual(p["articles"],[])

@@ -15,13 +15,22 @@ def make_payload(articles,status,now=None):
     now=now or datetime.now(timezone.utc)
     recent=[x for x in articles if timedelta(0)<=now-parse_utc(x.get("published_at",""))<timedelta(hours=24)]
     counts={}
-    for country in ("China","Japão"):
+    for country in ["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"]:
         for category in ("Política","Automóvel"):
             counts[f"{country}|{category}"]=sum(1 for a in recent if a.get("country")==country and a.get("category")==category)
     trends=trend_data(articles,now)
     first_run=status.get("first_run_at")
-    if first_run and now-parse_utc(first_run)<timedelta(hours=48):
-        for trend in trends: trend["status"]="Histórico inicial"
+    # New markets need their own 48-hour observation window, independent of the bot's original start.
+    country_first={}
+    for a in articles:
+        country=a.get("country")
+        seen=parse_utc(a.get("first_seen_at",""))
+        if country and (country not in country_first or seen<country_first[country]):
+            country_first[country]=seen
+    for trend in trends:
+        started=country_first.get(trend["country"])
+        if started and now-started<timedelta(hours=48):
+            trend["status"]="Histórico inicial"
     return {"articles":articles[:4500],"status":status,"trends":trends,"counts24":counts,
             "generated_at":now.isoformat(timespec="seconds")}
 def main():

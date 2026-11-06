@@ -59,10 +59,18 @@ def fetch_source(session,source,now,max_entries=40):
     return rows
 
 def detect_source_lang(text,country):
-    """Use script detection rather than the publication country (sources can be in English)."""
+    """Infer language from script, using country only to disambiguate Han characters and German."""
     import re
+    if re.search(r"[\uac00-\ud7a3]",text): return "ko"
+    if re.search(r"[\u0900-\u097f]",text): return "hi"
     if re.search(r"[\u3040-\u30ff]",text): return "ja"
-    if re.search(r"[\u3400-\u9fff]",text): return "ja" if country=="Japão" else "zh-CN"
+    if re.search(r"[\u3400-\u9fff]",text):
+        if country=="Japão": return "ja"
+        return "zh-TW" if country=="Taiwan" else "zh-CN"
+    if country=="Alemanha" and (
+        re.search(r"[äöüßÄÖÜ]",text) or
+        re.search(r"\b(der|die|das|den|dem|und|für|mit|von|bei|eine|einer|eines|werden|deutschen|deutschland|bundesregierung|bundestag|autoindustrie|zulieferer)\b",text.lower())
+    ): return "de"
     return "en"
 
 def translate_one(text,target,country):
@@ -73,7 +81,7 @@ def translate_one(text,target,country):
     if key:
         response=requests.post(os.getenv("DEEPL_API_URL","https://api-free.deepl.com/v2/translate"),
              data={"text":text[:4500],"target_lang":"PT-PT" if target=="pt" else "EN-GB",
-                   "source_lang":"JA" if source=="ja" else ("ZH" if source=="zh-CN" else "EN")},
+                   "source_lang":("ZH" if source.startswith("zh") else source.upper())},
              headers={"Authorization":f"DeepL-Auth-Key {key}"},timeout=20)
         response.raise_for_status()
         return response.json()["translations"][0]["text"]

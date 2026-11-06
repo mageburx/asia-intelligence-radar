@@ -32,24 +32,28 @@ def article_id(country,category,url,title):
     return hashlib.sha256(f"{country}|{category}|{base}".encode()).hexdigest()[:20]
 
 TOPICS={
- "Baterias":["battery","batteries","catl","lithium","solid-state","电池","固态","リチウム","全固体"],
- "Veículos elétricos":["ev ","evs","electric vehicle","electric car","新能源车","新能源汽车","电动车","電気自動車","bev","phev"],
- "Condução autónoma":["autonomous","self-driving","autopilot","自动驾驶","自動運転","无人驾驶"],
- "Tarifas e comércio":["tariff","export","import duty","trade war","关税","出口","贸易","関税","輸出","貿易"],
- "Indústria e produção":["factory","plant","production","manufacturing","投资","工厂","产能","制造","生産","工場","投資"],
- "Política industrial":["subsid","industrial policy","regulation","incentive","补贴","产业政策","监管","補助","産業政策","規制"],
- "Semicondutores":["semiconductor","chipmaking","semiconductors","半导体","芯片","半導体","チップ"],
+ "Baterias":["battery","batteries","catl","lithium","solid-state","电池","固态","リチウム","全固体","Batterie","Akkus","배터리","전고체","電池","बैटरी"],
+ "Veículos elétricos":["ev ","evs","electric vehicle","electric car","新能源车","新能源汽车","电动车","電気自動車","bev","phev","elektroauto","elektromobilität","전기차","電動車","इलेक्ट्रिक वाहन","electric mobility"],
+ "Condução autónoma":["autonomous","self-driving","autopilot","自动驾驶","自動運転","无人驾驶","autonomes fahren","자율주행","自動駕駛","autonomous mobility"],
+ "Tarifas e comércio":["tariff","export","import duty","trade war","关税","出口","贸易","関税","輸出","貿易","Zoll","Außenhandel","수출","관세","關稅","出口","आयात"],
+ "Indústria e produção":["factory","plant","production","manufacturing","投资","工厂","产能","制造","生産","工場","投資","Produktion","Fertigung","Werk","공장","생산","製造","工廠","manufacturing hub"],
+ "Política industrial":["subsid","industrial policy","regulation","incentive","补贴","产业政策","监管","補助","産業政策","規制","Förderung","Industriepolitik","보조금","산업정책","補助","產業政策"],
+ "Semicondutores":["semiconductor","chipmaking","semiconductors","半导体","芯片","半導体","チップ","Halbleiter","반도체","晶片","半導體","semiconductor"],
  "BYD":["byd","比亚迪","比亞迪"],
  "Toyota":["toyota","トヨタ","丰田","豐田"],
  "Honda":["honda","ホンダ","本田"],
  "Nissan":["nissan","日産","日产"],
- "Geopolítica":["diplomac","sanction","security","外交","制裁","安全保障"],
- "Eleições e governação":["election","parliament","cabinet","选举","国务院","人大","選挙","国会","内閣"]
+ "Geopolítica":["diplomac","sanction","security","外交","制裁","安全保障","Außenpolitik","외교","외교부","地緣政治"],
+ "Eleições e governação":["election","parliament","cabinet","选举","国务院","人大","選挙","国会","内閣","Bundestag","Bundesregierung","국회","정부","대통령","立法院","行政院","Lok Sabha","parliamentary"]
 }
 POLITICAL_WORDS=(
  "politic","parliament","minister","government","policy","diplomac","regulat","sanction","tariff","trade",
  "政治","政府","国务院","国会","政策","外交","选举","改革","关税","法规","习近平","总统","首相",
- "政権","選挙","国会","内閣","外交","規制","法案","総理","安全保障","関税"
+ "政権","選挙","国会","内閣","外交","規制","法案","総理","安全保障","関税",
+ "Bundesregierung","Bundestag","Bundeskanzler","Koalition","Gesetz","politisch","Wahl","Zoll",
+ "정부","국회","대통령","정책","선거","관세","외교","총리","법안",
+ "台灣","行政院","立法院","總統","政府","政策","選舉","關稅",
+ "सरकार","संसद","चुनाव","नीति"
 )
 def relevant_native_politics(title,summary):
     t=f"{title} {summary}".casefold()

@@ -92,5 +92,115 @@
     "locale": "ja",
     "gl": "JP",
     "ceid": "JP:ja"
+  },
+  {
+    "id": "de-politics",
+    "country": "Alemanha",
+    "category": "Política",
+    "name": "Google News · Deutschland – Politik",
+    "kind": "google",
+    "query": "Deutschland (Bundesregierung OR Bundestag OR Haushalt OR Außenpolitik) when:7d",
+    "locale": "de",
+    "gl": "DE",
+    "ceid": "DE:de"
+  },
+  {
+    "id": "de-auto",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "name": "Google News · Deutschland – Automobilindustrie",
+    "kind": "google",
+    "query": "Deutschland (Autoindustrie OR Volkswagen OR Mercedes OR BMW OR Elektroautos) when:7d",
+    "locale": "de",
+    "gl": "DE",
+    "ceid": "DE:de"
+  },
+  {
+    "id": "kr-politics",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "name": "Google News · 한국 – 정치",
+    "kind": "google",
+    "query": "대한민국 (정부 OR 국회 OR 정책 OR 외교) when:7d",
+    "locale": "ko",
+    "gl": "KR",
+    "ceid": "KR:ko"
+  },
+  {
+    "id": "kr-auto",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "name": "Google News · 한국 – 자동차",
+    "kind": "google",
+    "query": "한국 자동차 (현대차 OR 기아 OR 전기차 OR 배터리) when:7d",
+    "locale": "ko",
+    "gl": "KR",
+    "ceid": "KR:ko"
+  },
+  {
+    "id": "tw-politics",
+    "country": "Taiwan",
+    "category": "Política",
+    "name": "Google News · 台灣 – 政治",
+    "kind": "google",
+    "query": "台灣 (政府 OR 立法院 OR 政策 OR 外交) when:7d",
+    "locale": "zh-TW",
+    "gl": "TW",
+    "ceid": "TW:zh-Hant"
+  },
+  {
+    "id": "tw-auto",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "name": "Google News · 台灣 – 汽車產業",
+    "kind": "google",
+    "query": "台灣 (電動車 OR 汽車產業 OR 車用晶片 OR 汽車零件) when:7d",
+    "locale": "zh-TW",
+    "gl": "TW",
+    "ceid": "TW:zh-Hant"
+  },
+  {
+    "id": "in-politics",
+    "country": "Índia",
+    "category": "Política",
+    "name": "Google News · India – Politics",
+    "kind": "google",
+    "query": "India (government OR parliament OR cabinet OR trade policy) when:7d",
+    "locale": "en-IN",
+    "gl": "IN",
+    "ceid": "IN:en"
+  },
+  {
+    "id": "in-auto",
+    "country": "Índia",
+    "category": "Automóvel",
+    "name": "Google News · India – Automotive",
+    "kind": "google",
+    "query": "India (automotive OR electric vehicles OR car manufacturing OR EV batteries) when:7d",
+    "locale": "en-IN",
+    "gl": "IN",
+    "ceid": "IN:en"
+  },
+  {
+    "id": "sg-politics",
+    "country": "Singapura",
+    "category": "Política",
+    "name": "Google News · Singapore – Politics",
+    "kind": "google",
+    "query": "Singapore (government OR parliament OR trade policy OR legislation) when:7d",
+    "locale": "en-SG",
+    "gl": "SG",
+    "ceid": "SG:en"
+  },
+  {
+    "id": "sg-auto",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "name": "Google News · Singapore – Automotive",
+    "kind": "google",
+    "query": "Singapore (electric vehicles OR automotive industry OR autonomous vehicles OR EV charging) when:7d",
+    "locale": "en-SG",
+    "gl": "SG",
+    "ceid": "SG:en"
   }
 ]

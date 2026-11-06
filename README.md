@@ -1,10 +1,10 @@
-# Asia Intelligence Radar — China & Japão
+# Asia Intelligence Radar — 7 países
 
-Bot **independente** de vigilância noticiosa: política e indústria automóvel (China e Japão), leitura horária de RSS público, traduções automáticas para português ou inglês e dashboard responsivo hospedável no GitHub Pages.
+Bot **independente** de vigilância noticiosa: política e indústria automóvel (China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura), leitura horária de RSS público, traduções automáticas para português ou inglês e dashboard responsivo hospedável no GitHub Pages.
 
 ## O que faz
 
-- 10 fontes/consultas, incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS em chinês/japonês via Google News.
+- 20 fontes/consultas, incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
 - Deduplicação por URL/categoria/país; retenção de 60 dias. Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
@@ -51,7 +51,7 @@ $env:TARGET_LANG="en"; python -m asia_radar.collector
 
 ## Política de fontes, qualidade e limites
 
-- As pesquisas de RSS `Google News` são agregadores por idioma/país de consulta. **Não provam que o artigo foi publicado fisicamente na China/Japão.** Os feeds nativos dão uma ligação mais direta à imprensa local.
+- As pesquisas de RSS `Google News` são agregadores por idioma/país de consulta. **Não provam que o artigo foi publicado fisicamente nos países monitorizados.** Os feeds nativos dão uma ligação mais direta à imprensa local.
 - As contagens medem só cobertura das fontes escolhidas. Não são medidas de vendas, audiência, impacto económico ou factualidade; não identificam automaticamente quem iniciou uma tendência.
 - Nos primeiros 48 h de recolha, os sinais recebem a etiqueta `Histórico inicial`, pois ainda não há base comparativa suficiente.
 - As etiquetas `Tema emergente` e `Cobertura crescente` exigem várias menções recentes de pelo menos dois publicadores distintos; ainda assim, podem ser republicações/agências da mesma peça original.
@@ -68,7 +68,7 @@ $env:TARGET_LANG="en"; python -m asia_radar.collector
 asia_radar/core.py            # texto, tópicos, deduplicação e tendências
 asia_radar/collector.py       # RSS, histórico e traduções
 asia_radar/report.py          # relatório HTML offline
-config/sources.json           # 10 fontes e pesquisas
+config/sources.json           # 20 fontes e pesquisas
 .github/workflows/hourly.yml  # GitHub Actions / 1 hora
 data/articles.json            # notícias recolhidas (inicia vazio)
 data/status.json              # estado de saúde das fontes
@@ -79,3 +79,7 @@ tests/test_core.py            # testes sem rede
 ## Próximos passos recomendados
 
 Alertas para acontecimentos específicos (por exemplo BYD, Toyota, baterias, tarifas), agrupamento de várias notícias sobre o mesmo evento, deteção de novos termos e exportação de briefings diários. A versão inicial é intencionalmente simples, auditável e de baixo custo. As 10 fontes foram acessíveis na primeira execução; isto não garante que todos os artigos sejam relevantes ou que os fornecedores mantenham disponibilidade permanente.
+
+## Expansão de países (novembro de 2026)
+
+Acrescentados **Alemanha, Coreia do Sul, Taiwan, Índia e Singapura**, mantendo China e Japão. As duas categorias são **Política** e **Automóvel** para todos os sete países. As dez novas fontes são pesquisas de Google News com edição regional e termos orientados para cada mercado (não são jornais nativos de origem verificada); o histórico é preenchido a partir da primeira recolha. Detetar língua de origem por escrita é aproximado: a tradução pode ficar pendente devido às quotas gratuitas. Os novos países requerem até 48 horas de histórico para que o sinal deixe de ser preliminar.
