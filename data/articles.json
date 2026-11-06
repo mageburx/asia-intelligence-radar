@@ -1,5 +1,47 @@
 [
   {
+    "id": "8fd4fd2acf4fd567381b",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Joyn",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbW5yUmdKd3NyaXFoQU5rblZObVVhRHBuZDFUckVZSzJTNk83SXpISzBFa3VhUGdnUWx0WFh4TlJZRnRLcjJMS2NzS1ZmbHlSaGFkQkJDU3YwVDNTV0U5Z3R1YUpad3lMWm5XMFNYSXZEMVprWkduWU1UamlsR1lyQ0Fxa3FTYzMzMllmZldIYWREMGlzS1VBNmV0TE1Ma1B5MW1UVkJuM0d4TkYxRERKMUFIdHM5Slp1SUpfLUUzN2lvSzNhYUxub1dPTG9QWENEMDFjS3dZU2pNdVlaNUxDQjllbWs1WnA0bk53eDhn?oc=5",
+    "original_title": "Eishockey-WM: Bundesregierung stellt Turnier in Deutschland in Frage - Joyn",
+    "original_summary": "Eishockey-WM: Bundesregierung stellt Turnier in Deutschland in Frage Joyn",
+    "published_at": "2026-11-06T19:29:34+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Copa do Mundo de Hóquei no Gelo: Governo Federal questiona torneio na Alemanha - Joyn",
+    "translated_summary": "Copa do Mundo de Hóquei no Gelo: Governo Federal questiona torneio na Alemanha Joyn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:43+00:00"
+  },
+  {
+    "id": "be3c4937862193d39105",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjdFT3JEYkxmcWQ4OFhUeFBQWTZmVUNLU1BzbEVYZUNIejJNNF9iUlJ2cVJFTUlSdDdxMGlMOHpjcDYtTlBLVHU4VnNqcWJIdGZHelRCckpTYTRUdk5YZ3VxTEwxVjg3Q2pNNTljTnBKYnI3OTZuRU42ekpWVFhnRlpjWkRqVnVaYVJIcElLeE9pd3RHOU53ekVsZjVYbGhhd2pMWUZZbmw1cG5MOEdEdU12c3FJZ2pfWkJfSU1sV09PQTNWeUVCMw?oc=5",
+    "original_title": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000€ - SAPO",
+    "original_summary": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000€ SAPO",
+    "published_at": "2026-11-06T18:30:00+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 € - SAPO",
+    "translated_summary": "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 € SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:07+00:00"
+  },
+  {
     "id": "ef14b8920784f020f47b",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -843,6 +885,28 @@
     "translated_summary": "MB.DRIVE Assist Pro: Mercedes planeja lançar na Alemanha em 2027 ad-hoc-news.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T18:57:30+00:00"
+  },
+  {
+    "id": "694210c4312b28947089",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Merkur",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTdCUzd5dkdCWV9ybVgtMVpTZHo0NF84VDhLTzdJRHdWRmllcXJPa2ROOEg3Wk02UzROTlVnay00VDdhX25xR2pycWZBQ2pyMHVqdGZsZGVuR2VPV2V2X0ZBZE10U3hCQkZqVGZvbDNkTDRqQ18zLURqbkJiTTJPeHdrNWkyTG5YUDliT0FRbGZxclh4c3lkOTBQUi1sTW51ZjhMWjB3QldhZw?oc=5",
+    "original_title": "50-Prozent-Beteiligung: Bundesregierung will groß bei Panzer-Riesen einsteigen - Merkur",
+    "original_summary": "50-Prozent-Beteiligung: Bundesregierung will groß bei Panzer-Riesen einsteigen Merkur",
+    "published_at": "2026-11-06T13:25:17+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "50 por cento de participação: governo alemão quer ficar grande em gigantes de tanques - Mercury",
+    "translated_summary": "50 por cento de participação: governo alemão quer ficar grande em gigantes de tanques Mercury",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:46+00:00"
   },
   {
     "id": "4da0fed75106baa23949",
@@ -2817,6 +2881,26 @@
     "last_translation_attempt_at": "2026-11-06T19:23:57+00:00"
   },
   {
+    "id": "e4118ecc439f2f239640",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "鏡週刊Mirror Media",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRzQ4bUI0dnItX3NVUE03QWV5UU50ekRFdGFjS1BJWl9RcFptNTV1alZBdjQ4d1RuLUdtQlAwcUcxTVQ0dGRKUmdoVUJTYmlTOXBHTFp6ZG1oazJZ0gFiQVVfeXFMT0VWUGRJQmRZaDFTd0Q0ZkJmLWVQaEkyOEt6TTRfYlk1STQ4blNCZS1yQVlEN1pyYlRHemJHM1pVVnFKdFliRFlfY2ZvQkdCMW13Vkl3R1VfMVhXQTdlM1B1b1E?oc=5",
+    "original_title": "充電商機爆發 U-POWER正式登錄興櫃 - 鏡週刊Mirror Media",
+    "original_summary": "充電商機爆發 U-POWER正式登錄興櫃 鏡週刊Mirror Media",
+    "published_at": "2026-11-06T07:30:00+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Surto de oportunidade de carregamento U-POWER lançado oficialmente - MirrorWeek Mirror Media",
+    "translated_summary": "Oportunidade de carregamento Explosion U-POWER oficialmente listado na Emerging Mirror Weekly Mirror Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:54+00:00"
+  },
+  {
     "id": "7bb3a424bb234fdda2f5",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -4715,11 +4799,11 @@
     "published_at": "2026-11-05T21:11:08+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Respondendo à repressão transfronteiriça do Partido Comunista Chinês às contramedidas legais propostas pelo governo de Taiwan - New Tang Dynasty Television",
+    "translated_summary": "Em resposta à repressão transfronteiriça do Partido Comunista Chinês, o governo de Taiwan planeja revisar a lei para combater a estação de TV da Nova Dinastia Tang.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:10+00:00"
   },
   {
     "id": "6182f8eb3b85d104c3b2",
@@ -4796,11 +4880,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "51ª Reunião do Chefe de Gabinete Presidencial - Fotos | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "51ª Reunião do Chefe de Gabinete Presidencial - Fotos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:12+00:00"
   },
   {
     "id": "e7eb617efc2361316ea8",
@@ -4875,11 +4959,11 @@
     "published_at": "2026-11-05T19:01:51+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exposição Olímpica Funcional Internacional - Fotos | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "International Functional Olympic Team Works - Photos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:15+00:00"
   },
   {
     "id": "cc2c198f0d6d2bc9ca65",
@@ -4997,11 +5081,11 @@
     "published_at": "2026-11-05T18:14:38+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia conclui Oitava Revisão de Política Comercial da OMC, reafirma compromisso com comércio global baseado em regras - DD News",
+    "translated_summary": "Índia conclui Oitava Revisão de Política Comercial da OMC, reafirma compromisso com comércio global baseado em regras DD News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:18+00:00"
   },
   {
     "id": "8e9e9bad2cf71f2a8d47",
@@ -5016,11 +5100,11 @@
     "published_at": "2026-11-05T17:57:54+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reduzir a poluição será o maior desafio no futuro: Nitin Gadkari - ET Auto",
+    "translated_summary": "Reduzir a poluição será o maior desafio no futuro: Nitin Gadkari ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:20+00:00"
   },
   {
     "id": "b927619760a50db0a335",
@@ -5058,11 +5142,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "EcoG e Siemens fazem parceria para implementar uma nova geração de software de carregador de veículos elétricos - VEs carregados",
+    "translated_summary": "EcoG e Siemens fazem parceria para implementar uma nova geração de software de carregador de veículos elétricos VEs carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:22+00:00"
   },
   {
     "id": "29e989c88351703d8a0e",
@@ -5079,11 +5163,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como o RADOX® da HUBER+SUHNER atende às novas demandas de arquitetura de veículos elétricos - VEs carregados",
+    "translated_summary": "Como o RADOX® da HUBER+SUHNER atende às novas exigências da arquitetura de veículos elétricos carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:25+00:00"
   },
   {
     "id": "f81df1082041d2413671",
@@ -5098,11 +5182,11 @@
     "published_at": "2026-11-05T16:48:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Zoox da Amazon planeja expansão de testes da Robotaxi na Europa e na Ásia - Drive Tesla Canada",
+    "translated_summary": "Zoox da Amazon planeja expansão de testes da Robotaxi na Europa e na Ásia para impulsionar a Tesla no Canadá",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:27+00:00"
   },
   {
     "id": "6f90ce49eedc48a72d60",
@@ -5119,11 +5203,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O serviço postal belga tem 4.165 furgões elétricos em serviço - VEs carregados",
+    "translated_summary": "O serviço postal belga tem 4.165 furgões elétricos em serviço VEs carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:29+00:00"
   },
   {
     "id": "631841b6b7d0f0a1b6c2",
@@ -5279,11 +5363,11 @@
     "published_at": "2026-11-05T15:35:04+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BMW M 1000 RS: Limitiertes Hyper Naked Bike leistet 218 PS - Motorsport-Total.com",
+    "translated_summary": "BMW M 1000 RS: Bicicleta Limitiertes Hyper Naked leistet 218 PS Motorsport-Total.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:32+00:00"
   },
   {
     "id": "77b84b1cd45fe218fa6a",
@@ -5343,11 +5427,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Editorial] Os veículos elétricos do 2º ao 4º lugar da China atingem a Coreia, a inovação em detergentes e mão-de-obra deve se apressar - JoongAng Ilbo",
+    "translated_summary": "[Editorial] Carros elétricos chineses do 2º ao 4º lugar na Coreia, detergente e inovação laboral devem apressar JoongAng Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:34+00:00"
   },
   {
     "id": "a1498c8dd50894dfc691",
@@ -5401,11 +5485,11 @@
     "published_at": "2026-11-05T14:53:58+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O próximo carro é um robô... Hyundai · Toyota, Future Food Competition - ZDNet Korea",
+    "translated_summary": "Em seguida, robôs... Hyundai e Toyota competem por futuros alimentos ZDNet Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:37+00:00"
   },
   {
     "id": "c90ad272a639de11573e",
@@ -5441,11 +5525,11 @@
     "published_at": "2026-11-05T14:39:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercedes esgotada, superação da VW: o surpreendente dilema das montadoras alemãs - revista industrial",
+    "translated_summary": "Mercedes esgotada, superação da VW: o surpreendente dilema da montadora alemã Industriemagazin",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:39+00:00"
   },
   {
     "id": "6cdfd1b88200e32ba327",
@@ -5462,11 +5546,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "JBM Electric Vehicles lança Ecolife e12 em Singapura, tornando-se a primeira fabricante indiana de autocarros elétricos a entrar no mercado - Startup Pedia",
+    "translated_summary": "JBM Electric Vehicles lança Ecolife e12 em Singapura, tornando-se a primeira fabricante indiana de autocarros elétricos a entrar no mercado Startup Pedia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:42+00:00"
   },
   {
     "id": "cb5a7142a7a7700ad54d",
@@ -5490,6 +5574,28 @@
     "translated_summary": "Chefe do conselho de trabalhadores da Bosch sobre cortes de empregos planejados: voz \"Um verdadeiro martelo para Abstatt\"",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:21:30+00:00"
+  },
+  {
+    "id": "d5c75168b491fe987b06",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "蕃新聞",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fbDRYVlBORjFwTjlXQmo2S3pDZ0J5MHJSWWw4bzRPYUJhQjFhNHl3VEt0bTdZYVJLZG1BYnpZSUwwb2gxSzhoeTFVV1F0djE4dVE?oc=5",
+    "original_title": "浪漫賞花拿大獎！南投花卉嘉年華開幕 草屯民眾獨得BMW電動車 - 蕃新聞",
+    "original_summary": "浪漫賞花拿大獎！南投花卉嘉年華開幕 草屯民眾獨得BMW電動車 蕃新聞",
+    "published_at": "2026-11-05T14:22:41+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A visualização romântica de flores ganha o prémio! Carnaval das Flores de Nantou é inaugurado com veículo elétrico BMW dos moradores de Cao Tun - Notícias Brasileiras",
+    "translated_summary": "A visualização romântica de flores ganha o prémio! O Carnaval de Flores de Nantou abre, as pessoas de Cao Tun recebem notícias sobre carros elétricos da BMW",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:59+00:00"
   },
   {
     "id": "49d174c54743c4a09f04",
@@ -5549,11 +5655,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os carros elétricos aumentam na Alemanha mais um mês - SmartDroid",
+    "translated_summary": "Carros elétricos aumentam mais um mês na Alemanha SmartDroid",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:44+00:00"
   },
   {
     "id": "8c598691164d1e351f58",
@@ -5793,11 +5899,11 @@
     "published_at": "2026-11-05T13:03:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os formuladores de políticas e os tecnólogos devem projetar os serviços públicos juntos: PM Wong - The Straits Times",
+    "translated_summary": "Os formuladores de políticas e os tecnólogos devem projetar os serviços públicos juntos: PM Wong The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:47+00:00"
   },
   {
     "id": "e1689378489829597a66",
@@ -5814,11 +5920,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A visualização romântica de flores ganha o prémio! Inauguração do Carnaval de Flores de Nantou Moradores de Cao Tun Ganham Veículo Elétrico BMW - Boas Notícias de Taiwan",
+    "translated_summary": "A visualização romântica de flores ganha o prémio! Inauguração do Carnaval de Flores de Nantou Moradores de Cao Tun Ganham Veículo Elétrico BMW Taiwan Boas Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:49+00:00"
   },
   {
     "id": "4d3177e54dce977a661c",
@@ -5852,11 +5958,11 @@
     "published_at": "2026-11-05T12:52:36+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Respondendo à repressão transfronteiriça do Partido Comunista Chinês às leis e contramedidas propostas pelo governo de Taiwan - Televisão Ásia-Pacífico da Nova Dinastia Tang",
+    "translated_summary": "Em resposta à repressão transfronteiriça do Partido Comunista Chinês, o governo de Taiwan planeja revisar a lei para combater a Estação de Televisão Ásia-Pacífico da Nova Dinastia Tang",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:52+00:00"
   },
   {
     "id": "f4b69c271bf987062b19",
@@ -5891,11 +5997,11 @@
     "published_at": "2026-11-05T12:27:16+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "“Maior Crescimento, Minsaeng Mais Quente, Coreia Mais Forte” - K-empathy",
+    "translated_summary": "“Maior crescimento, vida mais quente, Coreia mais forte” K-empathy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:54+00:00"
   },
   {
     "id": "6467fde7c92303d12408",
@@ -6015,11 +6121,11 @@
     "published_at": "2026-11-05T11:43:31+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "US Midterm Results Marginally Positive for India, but Trade and Visa Risks Remain: CareEdge - Moneylife",
+    "translated_summary": "US Midterm Results Marginally Positive for India, but Trade and Visa Risks Remain: CareEdge Moneylife",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:57+00:00"
   },
   {
     "id": "11a7762e00e35fa1db01",
@@ -6036,11 +6142,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O revés das eleições de meio de mandato de Trump pode acelerar o acordo comercial Índia-EUA dentro de dois meses, diz o fundador, GTRI - The Economic Times",
+    "translated_summary": "O revés eleitoral de meio de mandato de Trump pode acelerar o acordo comercial Índia-EUA dentro de dois meses, diz o fundador, GTRI The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:59+00:00"
   },
   {
     "id": "996eea2f492205094444",
@@ -6075,11 +6181,11 @@
     "published_at": "2026-11-05T11:22:53+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Deutsche Bank AG: Nota de compra para ações da BMW - finanzen.ch",
+    "translated_summary": "Deutsche Bank AG: Comprar nota para BMW-Aktie finanzen.ch",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:02+00:00"
   },
   {
     "id": "245038044209961994a7",
@@ -6211,11 +6317,11 @@
     "published_at": "2026-11-05T10:34:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "DEUTSCHE BANK RESEARCH: BMW St \"buy\" - boerse.de - boerse.de",
+    "translated_summary": "DEUTSCHE BANK RESEARCH: BMW St \"buy\" - boerse.de boerse.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:04+00:00"
   },
   {
     "id": "07dc03eb74879c0a0465",
@@ -6230,11 +6336,11 @@
     "published_at": "2026-11-05T10:34:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Diwali bonanza: governo de Deli anuncia nova política de reabilitação de favelas, 5 famílias lakh para obter casas permanentes - https://www.indiagazette.com/",
+    "translated_summary": "Diwali bonanza: governo de Deli anuncia nova política de reabilitação de favelas, 5 famílias lakh para obter casas permanentes https://www.indiagazette.com/",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:06+00:00"
   },
   {
     "id": "d6e8b954ab84ab6f318b",
@@ -6251,11 +6357,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "É improvável que os prazos médios dos EUA aliviem as pressões comerciais e tarifárias de curto prazo sobre a Índia: classificações CareEdge - KNN Índia",
+    "translated_summary": "É improvável que os prazos médios dos EUA aliviem as pressões comerciais e tarifárias de curto prazo sobre a Índia: CareEdge Ratings KNN India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:09+00:00"
   },
   {
     "id": "5ecfd682f7f041cd867e",
@@ -6356,11 +6462,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleições intercalares nos EUA: um Congresso azul pode fortalecer a posição da Índia nas negociações comerciais com Trump? - Moneycontrol.com",
+    "translated_summary": "Eleições intercalares nos EUA: um Congresso azul pode fortalecer a posição da Índia nas negociações comerciais com Trump? Moneycontrol.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:11+00:00"
   },
   {
     "id": "cd9747a3e9f6654df1fc",
@@ -6378,11 +6484,11 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A segurança das baterias de veículos elétricos na Índia enfrenta um teste de aquecimento e carregamento - Urban Acres",
+    "translated_summary": "A segurança das baterias de veículos elétricos na Índia enfrenta um teste de calor e carregamento em áreas urbanas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:13+00:00"
   },
   {
     "id": "cf0b43d5eb3e79b27c64",
@@ -6420,11 +6526,11 @@
     "published_at": "2026-11-05T09:33:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Democratas assumem o controle do Congresso, espera-se que a política EUA-China mude para especialistas linha-dura: é mais provável que desafie Pequim na questão de Taiwan - saiba a notícia",
+    "translated_summary": "Democratas encarregados da política EUA-China no Congresso devem recorrer a especialistas duros: é mais provável que desafiem Pequim a conhecer as notícias sobre questões de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:16+00:00"
   },
   {
     "id": "a4963c0ed3c41bc52c73",
@@ -6441,11 +6547,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O revés de meio de mandato de Trump pode aliviar a pressão tarifária e dar à Índia maior espaço nas negociações comerciais - MillenniumPost",
+    "translated_summary": "O revés de meio de mandato de Trump pode aliviar a pressão tarifária e dar à Índia maior espaço nas negociações comerciais MillenniumPost",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:18+00:00"
   },
   {
     "id": "f7b718cea948811b317b",
@@ -6481,11 +6587,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Momento de Fabricação:Construindo uma Índia Autossuficiente - www.pib.gov.in",
+    "translated_summary": "Momento de Fabricação:Construindo uma Índia Autossuficiente www.pib.gov.in",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:57:20+00:00"
   },
   {
     "id": "d9ce37ce21b2375caf13",
@@ -7008,6 +7114,26 @@
     "translated_summary": "Bosch baut em Abstatt 750 Stellen bis 2029 ab ad-hoc-news.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:18:06+00:00"
+  },
+  {
+    "id": "a7cc779b6716f6dc6587",
+    "country": "Bosch",
+    "category": "Tecnologia",
+    "source": "Bosch · Tecnologia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-technology-de",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXIwZVNNYkFwSklGakFBdWJwS2JsVUZQanhEcVJjRDEzSGNDWW1wcnZwWVh1TWRIVVAzT1ltVDd3NEs5UHI1WDdYb21QM1hrbnFBT05fSTYtS25XMFBtcUdVSzFFaGV5Z2dVWDhhTkVnTTRDQVhjQVNfTUdtaG4tdWFiWjhENXA3VkE1eERIZkJrSmZ1OUlpLTVxVllQSXhxQXpyR2N2SUR0OXA0RG04OVh3M1RzNG5GZldvUGxEZ2xxRWI1RHhj?oc=5",
+    "original_title": "Bosch: Technologiekonzern streicht in Abstatt weitere 750 Arbeitsplätze - WirtschaftsWoche",
+    "original_summary": "Bosch: Technologiekonzern streicht in Abstatt weitere 750 Arbeitsplätze WirtschaftsWoche",
+    "published_at": "2026-11-05T07:12:29+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bosch: Grupo de tecnologia corta mais 750 empregos em Abstatt - WirtschaftsWoche",
+    "translated_summary": "Bosch: Grupo de tecnologia corta mais 750 empregos em Abstatt WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:04+00:00"
   },
   {
     "id": "7720befa4e759975f5da",
@@ -9467,6 +9593,29 @@
     "last_translation_attempt_at": "2026-11-06T03:58:14+00:00"
   },
   {
+    "id": "0a26411e7c0afa2f069c",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Lausitzer Rundschau",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSk9vaDAtUzY3UDNjb1c3QmRPOTVBaDJSLXI4WVllSHhiMGY5V3hPU01mUUdnaURMZGU0TE5OMlFoQ19rcEhPQW5NT0tJQ3kyWUdjMFZhbTdJcXpkWjhMZ3ZWQi1nSEw0MFA3eU10dUFFSzN3bmRlSGNDSlNQNnpBVmZfLTVTQ0ptV2FoSndHWEp6bmFpY1ZMSzd1UXBrb3J6aWVqR1hfUUd2UElmZ05yejAwM1RCSk1IMFJBbkVwWV8xWEZXT0NXYWMxdW05a2c5WHhr?oc=5",
+    "original_title": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa - Lausitzer Rundschau",
+    "original_summary": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa Lausitzer Rundschau",
+    "published_at": "2026-11-04T11:58:31+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Electromobilidade: Mercedes-Benz vende a sua rede de carregamento rápido na Europa - Lausitzer Rundschau",
+    "translated_summary": "Electromobilidade: Mercedes-Benz vende a sua rede de carregamento rápido na Europa Lausitzer Rundschau",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:51+00:00"
+  },
+  {
     "id": "f1c077f2afd4b1c35e4a",
     "country": "Índia",
     "category": "Política",
@@ -9999,6 +10148,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "a56988cd0012431f141f",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "Yahoo新聞",
+    "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOWGFXWVNQQjdzckRhQVlQeTBKakFlbHo0czktOHdOZjJRZExIa2ViV2U3RjRsMXRFZ0REa3M4ZVRCNmlxMUIyQTUzUzRDZkU5Z1VsOGVUa0w4S3l4aEpOcUxUMFA0QTR0bVpZWm1ueWR6TnJMemlkdFYzaHJzMVhVNUlTZmduWVp6STdOQm0zRWZmLTBmbkNDNmZDSnl3Uk5nM01scHpwTV94cDkwLVZveFVXVkVaOUJQa1dBSEFzakhiMjM5UUI1SWc3bXFEbUsxaC1adW9VbUhTa05jb0VFTWdnNzR3empVaE1RWll3Q0lub3F6dF9OcC1ZTGJ1eGp2cmg4enlpLVJFS0FHdWhBVXY0ZXA4QXdsU1IwYWdudkZZOTNpOV8wZHhkYlpFSkNwNEk5TmdXV1g3TEZmTmV0RnRmYnh3TlVUV2VDc2ZucVJFMVpMdmZLTzN4VTJ6b25TUEhkRU8xMUpLYmpBYzRMejh0STh1WnpNaWFISXRjNU5XTjdDaVJDUHdZSHlMZ0xMZkRBVkVBVWZOTE0?oc=5",
+    "original_title": "零碳永續論壇／鴻華先進笑談電動車是「佛系產品」！ 賣越多減碳越多 - Yahoo新聞",
+    "original_summary": "零碳永續論壇／鴻華先進笑談電動車是「佛系產品」！ 賣越多減碳越多 Yahoo新聞",
+    "published_at": "2026-11-04T09:26:00+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fórum de Sustentabilidade Zero Carbono/Honghua Advanced Laughs Sobre Veículos Elétricos como \"Produtos Budistas\"! Venda mais, corte mais - Yahoo News",
+    "translated_summary": "Fórum de Sustentabilidade Zero Carbono/Honghua Advanced Laughs Sobre Veículos Elétricos como \"Produtos Budistas\"! Vender mais Descarbonizar mais Yahoo News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:57+00:00"
   },
   {
     "id": "6b97a72d36e9a784383a",
@@ -11923,6 +12094,28 @@
     "last_translation_attempt_at": "2026-11-06T19:18:02+00:00"
   },
   {
+    "id": "641ebf47cc5c85925611",
+    "country": "Bosch",
+    "category": "Tecnologia",
+    "source": "Bosch · Tecnologia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-technology-de",
+    "publisher": "it-daily.net",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGY2Fmbzg5ZVVPdFFuQ0lmX0pIMTdLQ190T242Sk1ySHdrSS1hQzgyemt0TEhrMTVhWXNHYlp0RkY4RFE4b2ZkeEgwbUNfUzJJNEc0S2FmNElGTWQwejNzSjdPYThvWFN2bXdudi1RSWhwUG1DMzVz?oc=5",
+    "original_title": "Konzernumbau: Bosch gründet eigene Chip-Sparte - it-daily.net",
+    "original_summary": "Konzernumbau: Bosch gründet eigene Chip-Sparte it-daily.net",
+    "published_at": "2026-11-03T11:03:48+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [
+      "Semicondutores e sensores"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Reestruturação do grupo: Bosch estabelece sua própria divisão de chips - it-daily.net",
+    "translated_summary": "Reestruturação do grupo: Bosch estabelece sua própria divisão de chips it-daily.net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:56:02+00:00"
+  },
+  {
     "id": "7b4cccc293d9cf39424b",
     "country": "Bosch",
     "category": "Tecnologia",
@@ -12536,6 +12729,26 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "9f9443b8d002421ae878",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Automobilwoche",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjdlNjNJdjg2REo1b01xdHlubHktdHhFWkJkUUpWTXVrU1dqRXJUTUk5SEtzLWRmY0tmMURsLUhnQ0FuSEh3Sms3a2w4a0JmX1U5V2tGOW12WUQ5OHJXUk5pR0pBdkFlR0dGRXh5V19HVlJ0cUpNTFF6WUg0cHVxSGJyc2x0UW9OZXphbnkyOUI1cFhPa21RWWt4eEVfVHQ3?oc=5",
+    "original_title": "BMW-Deutschlandchef: „Die Ertragschancen verändern sich deutlich“ - Automobilwoche",
+    "original_summary": "BMW-Deutschlandchef: „Die Ertragschancen verändern sich deutlich“ Automobilwoche",
+    "published_at": "2026-11-03T05:39:00+00:00",
+    "first_seen_at": "2026-11-06T19:55:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chefe da BMW Alemanha: \"As oportunidades de ganhos estão mudando significativamente\" - Automobile Week",
+    "translated_summary": "Chefe da BMW Alemanha: \"As oportunidades de ganhos estão mudando significativamente\" Semana do Automóvel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T19:55:49+00:00"
   },
   {
     "id": "958f704537593e95d0a3",
