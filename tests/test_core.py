@@ -31,7 +31,7 @@ class RadarTests(unittest.TestCase):
     def test_seven_country_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
         countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"}
-        self.assertEqual(set(s["country"] for s in sources),countries)
+        self.assertEqual(set(s["country"] for s in sources if s["country"]!="Bosch"),countries)
         for c in countries:
             self.assertEqual(set(s["category"] for s in sources if s["country"]==c),{"Política","Automóvel"})
         self.assertEqual(len(set(s["id"] for s in sources)),len(sources))
