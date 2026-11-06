@@ -1,5 +1,163 @@
 [
   {
+    "id": "9378e36cd7871812d280",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
+    "original_title": "高市首相“日銀ETF追加売却益は新たな投資枠の財源に”",
+    "original_summary": "日銀が先月、ETF＝上場投資信託の市場への売却ペースを加速させると決めたことを受け、高市総理大臣は、売却益を経済成長の実現に向けた新たな投資枠の財源にあてたいという考えを示しました。",
+    "published_at": "2026-11-06T05:43:51+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Primeiro-Ministro Takaichi \"Os ganhos da venda adicional de ETFs do Banco do Japão serão usados como um recurso financeiro para o novo quadro de investimento\"",
+    "translated_summary": "Após a decisão do BoJ no mês passado de acelerar o ritmo das vendas de ETFs = fundos de investimento listados para o mercado, o primeiro-ministro Takaichi expressou seu desejo de usar o produto da venda como um recurso financeiro para uma nova estrutura de investimento para alcançar o crescimento econômico.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:02+00:00"
+  },
+  {
+    "id": "d6731facefd6f2efbbb9",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727190.shtml",
+    "original_title": "国家发展改革委：三方面举措推动中国饭碗主要装中国粮",
+    "original_summary": "中新网11月6日电 国家发展改革委6日上午召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家发展改革委农村经济司副司长呼和在会上表示，“十五五”时期，国家发展改革委将会同各地方和有关部门，以新一轮千亿斤粮食产能提升行动为牵引，夯实生产基础、细化增产路径、强化政策保障，做到中国饭碗主要装中国粮。",
+    "published_at": "2026-11-06T05:40:39+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Comissão Nacional de Desenvolvimento e Reforma: Iniciativa tripartida para promover tigelas de arroz chinesas cheias principalmente de comida chinesa",
+    "translated_summary": "China New Network, 6 de novembro (Xinhua). A Comissão Nacional de Desenvolvimento e Reforma realizou uma série de conferências de imprensa sobre o \"15º Plano Quinquenal\" na manhã do dia 6 para apresentar a situação relevante da construção de uma base de segurança segura. Hu He, vice-diretor do Departamento de Economia Rural da Comissão Nacional de Desenvolvimento e Reforma, disse na reunião que durante o período do \"15º Plano Quinquenal\", a Comissão Nacional de Desenvolvimento e Reforma trabalhará com departamentos locais e relevantes para fortalecer a base de produção, refinar o caminho de produção e fortalecer as garantias políticas, para que as tigelas de arroz da China sejam preenchidas principalmente com comida chinesa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:46+00:00"
+  },
+  {
+    "id": "4cc39a61d80278856f91",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71518",
+    "original_title": "拉致家族 “問題解決へ日朝首脳会談を” 自民拉致問題対策本部",
+    "original_summary": "北朝鮮による拉致被害者の家族が自民党の拉致問題対策本部の会合に出席し、問題の解決には日朝首脳会談が必要だとして、与党による政府の後押しを要請しました。",
+    "published_at": "2026-11-06T05:40:00+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Familiares raptados \"Cimeira Japão-RPDC para resolver o problema\" Sede da questão dos raptos civis",
+    "translated_summary": "Um membro da família de uma vítima de sequestro norte-coreana participou de uma reunião da sede de sequestro do PLD e instou o partido no poder a encorajar o governo a se reunir com os líderes japoneses e norte-coreanos para resolver a questão.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:05+00:00"
+  },
+  {
+    "id": "9fc063f36d2a4d86edde",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727183.shtml",
+    "original_title": "国家发展改革委：我国将加快建设一批国家级油气战略保障基地",
+    "original_summary": "中新网11月6日电 国家发展改革委6日上午召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家能源局发展规划司副司长葛炬在会上介绍，我国将加快建设一批国家级油气战略保障基地，坚持向深海、深地、非常规和老油气田要增量，推动原油产量稳中有升、天然气产量快速增长，让国内供应的底气更足。",
+    "published_at": "2026-11-06T05:30:46+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Comissão Nacional de Desenvolvimento e Reforma: a China acelerará a construção de várias bases nacionais de apoio estratégico de petróleo e gás",
+    "translated_summary": "China New Network, 6 de novembro (Xinhua). A Comissão Nacional de Desenvolvimento e Reforma realizou uma série de conferências de imprensa sobre o \"15º Plano Quinquenal\" na manhã do dia 6 para apresentar a situação relevante da construção de uma base de segurança segura. Ge Ju, vice-diretor do Departamento de Planejamento de Desenvolvimento da Administração Nacional de Energia, apresentou na reunião que a China acelerará a construção de várias bases de apoio estratégico de petróleo e gás em nível nacional, insistirá em aumentar a quantidade de campos de petróleo e gás de profundidade, não convencionais e antigos, promoverá um aumento constante na produção de petróleo bruto, um rápido crescimento na produção de gás natural e tornará o fornecimento doméstico de gás de fundo mais adequado.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:29+00:00"
+  },
+  {
+    "id": "1f32e7d56f1a09458591",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_id": "china-politics-search",
+    "publisher": "万维读者网",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WEhQdVMtYUZQa0E5SlRyMTBvQ0Q2OHZ6cy1QSTZGLW5pVG9jQ0lOYmZ1blUwOENZd1RRRjZvQjh4a0VZNHJZNFAza043aXNCQWVtT3hwMHJxNjdLTlFqMzM3ZXVvUQ?oc=5",
+    "original_title": "川普明显变弱 习近平怎么办 - 万维读者网",
+    "original_summary": "川普明显变弱 习近平怎么办 万维读者网",
+    "published_at": "2026-11-06T05:25:58+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "E quanto ao aparente enfraquecimento de Trump de Xi Jinping - Wanwei Reader Network",
+    "translated_summary": "Trump aparentemente está enfraquecendo o que fazer com a rede de leitores de Xi Jinping Wanwei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:57+00:00"
+  },
+  {
+    "id": "14be28c186d990b2c286",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/06/nio-ceo-warns-ever-heavier-cars/",
+    "original_title": "Nio CEO warns again on China's ever-heavier cars, says 20% more weight doubles road damage",
+    "original_summary": "William Li said some models pack batteries up to 120 kWh weighing 700 to 800 kg, and 1.2 times the weight does 2.07 times the damage to roads. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-06T05:16:45+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "CEO da nio alerta novamente sobre carros cada vez mais pesados da China, diz que 20% a mais de peso dobra danos na estrada",
+    "translated_summary": "William Li disse que alguns modelos carregam baterias de até 120 kWh, pesando de 700 a 800 kg, e 1,2 vezes o peso causa 2,07 vezes o dano às estradas. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:00+00:00"
+  },
+  {
+    "id": "cd80f8b7c309a47f58b1",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727179.shtml",
+    "original_title": "澳门中联办发言人：坚决支持特区司法机关依法宣判国安首案",
+    "original_summary": "中新社澳门11月6日电 中央人民政府驻澳门特别行政区联络办公室(简称“澳门中联办”)发言人6日表示，坚决支持澳门特区司法机关依法审理区锦新危害国家安全犯罪案件并作出公正裁决。",
+    "published_at": "2026-11-06T05:03:03+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Porta-voz do Gabinete de Ligação do Partido Comunista de Macau: Apoiar fortemente os órgãos judiciais da RAE ao pronunciarem o primeiro caso de segurança nacional de acordo com",
+    "translated_summary": "Macau, 6 nov (Xinhua) -- Um porta-voz do Gabinete de Ligação do Governo Popular Central na Região Administrativa Especial de Macau (doravante denominado \"Gabinete de Ligação de Macau\") disse no dia 6 que apoia firmemente os órgãos judiciais da Região Administrativa Especial de Macau no julgamento de casos de crimes contra a segurança nacional e na tomada de decisões justas de acordo com a lei.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:33+00:00"
+  },
+  {
+    "id": "e3fc37878bfb3660ee31",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727178.shtml",
+    "original_title": "北京出台首部聚焦生态涵养区的五年专项规划",
+    "original_summary": "中新社北京11月6日电 (记者 吕少威)《北京市“十五五”时期生态涵养区发展规划》(下称“规划”)6日发布，北京市发展和改革委员会介绍，这是北京首部聚焦生态涵养区的五年专项规划。按照规划目标，到2030年，生态涵养区优良水体比例不低于95%，森林覆盖率保持稳定。",
+    "published_at": "2026-11-06T05:02:25+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Pequim apresenta o primeiro plano especial quinquenal com foco em zonas de conservação ecológica",
+    "translated_summary": "Zhongxin News Agency, Beijing, November 6 (Reporter Lu Shaowei) \"Beijing\" 15th Five-Year \"period ecological conservation zone development plan\" (hereinafter referred to as the \"plan\") issued on the 6th, Beijing Municipal Development and Reform Commission introduced, this is the first Beijing focus on ecological conservation zone five-year special plan. De acordo com a meta de planejamento, até 2030, a proporção de corpos d 'água bons em áreas de conservação ecológica não será inferior a 95%, e a taxa de cobertura florestal permanecerá estável.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:36+00:00"
+  },
+  {
     "id": "0e881358dfbfe5a45279",
     "country": "China",
     "category": "Automóvel",
@@ -17,6 +175,46 @@
     "translated_summary": "A Lynk & Co lançará o SUV de sete lugares de 900L em 10 de novembro, com um perfil semelhante ao Range Rover, LiDAR montado no teto e um motor 2.0T de 160 kW. O SUV emblemático post Lynk & Co 900L estreia em 10 de novembro com corpo de 5.280 mm e estilo Range Rover apareceu primeiro no CarNewsChina.com .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T05:00:49+00:00"
+  },
+  {
+    "id": "06a1b5e8d4d9c412e6c0",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727176.shtml",
+    "original_title": "澳门特区政府：坚定支持司法机关依法裁决国安首案",
+    "original_summary": "中新社澳门11月6日电 澳门特区法院6日就首宗违反澳门《维护国家安全法》案件依法作出宣判，澳门特区政府对此表示尊重和支持。",
+    "published_at": "2026-11-06T04:59:30+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo da RAEM: apoia firmemente o poder judicial na decisão sobre o primeiro caso de Guo An de acordo com a lei",
+    "translated_summary": "Macau, 6 nov (Xinhua) -- O tribunal da Rae de Macau pronunciou-se sobre o primeiro caso de violação da Lei de Salvaguarda da Segurança Nacional de Macau, de acordo com a lei, em 6 de novembro, e o Governo da Rae de Macau expressou seu respeito e apoio a isso.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:02:38+00:00"
+  },
+  {
+    "id": "f8bebc56acd40e449a6b",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154332.html",
+    "original_title": "トヨタ、「タンドラ」一部改良モデルを今冬日本導入へ",
+    "original_summary": "トヨタ自動車は11月6日、米国で発表した「タンドラ」の一部改良モデルについて、日本でも全国のトヨタ車両販売店で今冬に発売予定であることを明らかにした。",
+    "published_at": "2026-11-06T04:52:09+00:00",
+    "first_seen_at": "2026-11-06T06:02:25+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota introduzirá modelo Tandora parcialmente melhorado no Japão neste inverno",
+    "translated_summary": "Em 6 de novembro, a Toyota Motor anunciou que alguns dos modelos melhorados do \"Tandora\" anunciados nos Estados Unidos serão lançados neste inverno nas concessionárias de veículos Toyota em todo o Japão.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:08+00:00"
   },
   {
     "id": "8cc75257b1ca9483db37",
@@ -3291,11 +3489,11 @@
     "published_at": "2026-11-02T07:35:32+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xpeng traz G9L para Hong Kong com trem de força de alcance estendido após o lançamento europeu",
+    "translated_summary": "O Xpeng G9L está disponível em Hong Kong apenas com um trem de força de tração nas quatro rodas extensor de alcance, a partir de HK$ 699.900 ($ 89.190). Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:11+00:00"
   },
   {
     "id": "80f1cd98e0d0bc0ba7a8",
@@ -3312,11 +3510,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Montadoras chinesas se dirigem a Pequim para conversas sobre cotas de exportação de híbridos da UE",
+    "translated_summary": "Várias montadoras estão competindo por alocações de exportação sob uma cota geral limitada. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:13+00:00"
   },
   {
     "id": "025fd206c51de1eae87f",
@@ -3331,11 +3529,11 @@
     "published_at": "2026-11-02T05:33:30+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Mega da Li Auto enfrenta a escassez de telas OLED da Samsung à medida que as entregas se recuperam",
+    "translated_summary": "Espera-se que o fornecimento de tela OLED da Samsung se recupere por volta do final do ano. A Li Auto usará temporariamente telas LCD do mesmo tamanho para manter as entregas dentro do cronograma. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:16+00:00"
   },
   {
     "id": "cca2caf9b962043f48ca",
@@ -3353,11 +3551,11 @@
       "Geopolítica",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Macroscópico: a \"proximidade com a China e a Coreia\" do Japão teme mudanças nas eleições de meio de mandato dos EUA e na diplomacia de Trump - Reuters",
+    "translated_summary": "Macroscópio: a \"proximidade com a China e a Coreia\" do Japão teme mudanças nas eleições de meio de mandato dos EUA e na diplomacia de Trump Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:18+00:00"
   },
   {
     "id": "6d12be7a36a2dda1ca7e",
@@ -3376,11 +3574,11 @@
       "Veículos elétricos",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Participação de mercado global de baterias EV em janeiro-setembro de 2026: CATL 39,1%, BYD 15,2%",
+    "translated_summary": "As 7 empresas chinesas no top 10 detinham uma participação combinada de 73,0% no mercado global de baterias para veículos elétricos, um aumento de 3,5 pontos percentuais em relação ao ano anterior. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:21+00:00"
   },
   {
     "id": "9d069763bc14787071e7",
@@ -3395,11 +3593,11 @@
     "published_at": "2026-11-01T14:07:00+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Roundup: entregas de outubro de 2026 pelas principais montadoras chinesas",
+    "translated_summary": "As entregas mensais da Xpeng superaram 50.000 pela primeira vez, enquanto a Nio e a Li Auto registraram quedas. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:23+00:00"
   },
   {
     "id": "cd7b3cf07ad74292c7dd",
@@ -3417,11 +3615,11 @@
       "Veículos elétricos",
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As vendas da Chery em outubro subiram 5,3%, com os NEVs atingindo recorde e as exportações superando 200.000 novamente",
+    "translated_summary": "O Grupo Chery vendeu 295.934 veículos em outubro, com exportações superiores a 200.000 pela terceira vez este ano. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:26+00:00"
   },
   {
     "id": "b2da71028b6d56544a2b",
@@ -3438,11 +3636,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Geely se aproxima do recorde mensal de vendas, pois as exportações continuam fortes",
+    "translated_summary": "A Geely Auto vendeu 310.183 veículos em outubro, apenas 245 abaixo do seu recorde mensal estabelecido em novembro passado. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:28+00:00"
   },
   {
     "id": "ac52413de2ccdf5ebf93",
@@ -3460,11 +3658,11 @@
       "Veículos elétricos",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As vendas da BYD aumentaram 11%, atingindo a máxima do acumulado do ano em outubro, com os BEVs chegando a 300.000 pela primeira vez",
+    "translated_summary": "A BYD vendeu 490.168 NEVs em outubro, marcando seu sexto mês consecutivo de crescimento ano a ano. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:31+00:00"
   },
   {
     "id": "eb7295442c52f7f59a2b",
@@ -3481,11 +3679,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As vendas da GWM em outubro caem 15,87%, apesar dos volumes recordes de NEV e no exterior",
+    "translated_summary": "As vendas de outubro totalizaram 120.374 veículos, marcando um terceiro declínio consecutivo em relação ao ano anterior e a queda mais acentuada deste ano. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:33+00:00"
   },
   {
     "id": "2e6ac72ff46f024b3aa2",
@@ -3500,10 +3698,10 @@
     "published_at": "2026-11-01T05:54:30+00:00",
     "first_seen_at": "2026-11-06T01:57:53+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Zeekr entrega 32.483 veículos em outubro, um aumento de 51,63% em relação ao ano anterior, mas encerrando uma série de recordes de 6 meses",
+    "translated_summary": "As entregas de outubro da Zeekr caíram 12,72% em relação a setembro, marcando a primeira queda sequencial desde janeiro. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T06:03:35+00:00"
   }
 ]
