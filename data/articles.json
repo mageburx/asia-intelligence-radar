@@ -434,6 +434,26 @@
     "last_translation_attempt_at": "2026-11-06T18:57:06+00:00"
   },
   {
+    "id": "a9c9113bcea1c54dab7e",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXlDZGxUc1RHLWNlSGZqejU2UVl2cHc0VXNQZzYxMHVNMEJxdUxOZjFUOTgzcnhNTlFFNVFCbXNiUEtsalpYSWtaUnlFSDV2R2EwUGI3eXFPYWoteW81UXdqYlpiU3VfdVlyVGVDQUoyMjF4VFM3d21jVGExaXZTZVpZWlVCMHdkNTRuWWFqZ0tVZzFqcjFkMmdlX0xnb3Boblk3XzJZVUx3RnFwbDQ0MEpuamExaktzeExfQUZhd1cydXFjWnltWA?oc=5",
+    "original_title": "Eishockey-WM: Regierung schaltet sich in Debatte um Russland-Teilnahme ein - T-Online",
+    "original_summary": "Eishockey-WM: Regierung schaltet sich in Debatte um Russland-Teilnahme ein T-Online",
+    "published_at": "2026-11-06T15:51:18+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Eishockey-WM: Regierung schaltet sich em Debatte um Russland-Teilnahme ein - T-Online",
+    "translated_summary": "Eishockey-WM: Regierung schaltet sich em Debatte um Russland-Teilnahme ein T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:38+00:00"
+  },
+  {
     "id": "51988c6e91ceb2c89c9c",
     "country": "China",
     "category": "Política",
@@ -549,6 +569,28 @@
     "translated_summary": "Beijing, 6 nov (Xinhua) -- A cerimônia de inauguração do Escritório da ONU-Habitat na China foi realizada em Beijing. O Secretário-Geral Adjunto das Nações Unidas e Diretor Executivo da ONU-Habitat, Rothbach, o Ministro da Habitação e Desenvolvimento Urbano-Rural, Ni Hong, fez um discurso e inaugurou a exposição. O Presidente da Assembleia Geral da ONU-Habitat e o Ministro da Habitação e Governo Local da Malásia, Ni Kemin, e o Coordenador Residente das Nações Unidas na China, Jasihang, participaram e fizeram um discurso.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T15:54:25+00:00"
+  },
+  {
+    "id": "34d29995914d998b19cc",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "WELT",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGN5Uk5odUVORWwzLURvU3Uyd3k1bWFRTndna1duOTVfbjhJU1cwVlB1U0tpZGFXeDV1Y2QtNGNsMHM1aTA4OG02ckQyYkpiNUVsR0Q1Z1JzUE1xb3VwT0hUZHFZVklMTHdBaGdKTnNIY01CNExzSHRQX1UzV3BwMmluaUNNYk5oV3BXQnBPWUJ1X1gzMHJBa3B0Q0gxZVk5TWFaVm9EQlo3bjVmLTJQeTZzUGc1QkxjYlMxTkJpRmFyRGx6bGZfM1RubHZfbmtULVRTLUxpOTlNVUxEUFhGQlphNA?oc=5",
+    "original_title": "Führerschein: Bundestag beschließt ersten Teil von Führerschein-Reform - WELT",
+    "original_summary": "Führerschein: Bundestag beschließt ersten Teil von Führerschein-Reform WELT",
+    "published_at": "2026-11-06T15:01:44+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Carta de condução: Bundestag adota a primeira parte da Reforma da Carta de Condução - MUNDO",
+    "translated_summary": "Carta de condução: Bundestag adota a primeira parte do MUNDO da Reforma da Carta de Condução",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:35+00:00"
   },
   {
     "id": "3d811b3b030c9aa66e35",
@@ -2468,6 +2510,29 @@
     "translated_summary": "Entrevista com o Sr. Sumanta Chaudhuri [Parte II] The Policy Edge",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:23:37+00:00"
+  },
+  {
+    "id": "c3dbde98374df98aeeaa",
+    "country": "Bosch",
+    "category": "Indústria",
+    "source": "Bosch Mobility · internacional",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-mobility-en",
+    "publisher": "Multibagg AI",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjEwSTFvNmRqTkhVRExhOV8xcmo2NnFLbGZhVExkMFJkcUFjVFVrUkRsMk9KcjRXUUctdTRGakJsdmRRQi1WSmJqazNhYkxSczl2NlJsUUxnRU51ZHpsSnozVjNid21lRmhRRVNVQU9ybzFzRlZhMnJnRFQ1ZFFoVUFoWklhN1JxeWFuM18yT1JNZ1lyMUpWUE5icGd3SXhMVllXb0dHZmR5Y2NSMnZR?oc=5",
+    "original_title": "Bosch Q3 forecast signals a 19% production drop from Q2 - Multibagg AI",
+    "original_summary": "Bosch Q3 forecast signals a 19% production drop from Q2 Multibagg AI",
+    "published_at": "2026-11-06T09:18:37+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Previsão Bosch Q3 sinaliza queda de 19% na produção em relação ao Q2 - Multibagg AI",
+    "translated_summary": "A previsão do terceiro trimestre da Bosch sinaliza uma queda de 19% na produção da Multibagg AI do segundo trimestre",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:50+00:00"
   },
   {
     "id": "5c13d319268dfd1b2cf7",
@@ -13422,6 +13487,28 @@
     "last_translation_attempt_at": "2026-11-06T19:55:49+00:00"
   },
   {
+    "id": "f183ba79b81c8dd63435",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "TVBS新聞網",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tLWpBUzZfUGhrczBzYWIyR1AtREV1Y2pkQWc5cGlxRkpQdHN2YjZQbi13VUxnRUc5OXJfUzhVczdtaDFBaFRUWkgwdHRkZw?oc=5",
+    "original_title": "台灣10月新車銷量退1成！特斯拉掛牌數暴跌剩16輛、Toyota包辦前三 - TVBS新聞網",
+    "original_summary": "台灣10月新車銷量退1成！特斯拉掛牌數暴跌剩16輛、Toyota包辦前三 TVBS新聞網",
+    "published_at": "2026-11-03T05:25:00+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As vendas de carros novos em Taiwan em outubro caíram 10%! Restam 16 listagens da Tesla, os três principais contratados da Toyota - TVBS News",
+    "translated_summary": "As vendas de carros novos em Taiwan em outubro caíram 10%! O número de listagens da Tesla despencou para 16, e a Toyota contratou as três principais redes de notícias da TVBS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:44+00:00"
+  },
+  {
     "id": "958f704537593e95d0a3",
     "country": "Japão",
     "category": "Política",
@@ -14285,6 +14372,26 @@
     "last_translation_attempt_at": "2026-11-06T22:29:17+00:00"
   },
   {
+    "id": "74b6a07de42763428efc",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTNVbGx6ZG9ZYUZwQlhicThDVmZnUFZQSkFfdGViZ2dWQ2llQ00zYTg2UUZZZWo3Y18ydDhfRkRKd18xR0JPZExwZzJHS3ViVTdleWRYOWpfbHRHRmFrdDV0N0JxUkQxTHJSQVlKeDhkQklGQ0w3bXRfM0JYQUhUZFJMTkJhamJBbnRRV2F1WEVLRVRKejlGdWJuLWdhek5GY3FzWlVHS0tHWUU?oc=5",
+    "original_title": "What China’s growth and development means for a multipolar world - Singapore Economic Development Board (EDB)",
+    "original_summary": "What China’s growth and development means for a multipolar world Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-02T08:00:00+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O que o crescimento e o desenvolvimento da China significam para um mundo multipolar - Singapore Economic Development Board (EDB)",
+    "translated_summary": "O que o crescimento e o desenvolvimento da China significam para um mundo multipolar Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:47+00:00"
+  },
+  {
     "id": "4d79dd0898d929626a71",
     "country": "Índia",
     "category": "Automóvel",
@@ -14466,6 +14573,26 @@
     "translated_summary": "Macroscópio: a \"proximidade com a China e a Coreia\" do Japão teme mudanças nas eleições de meio de mandato dos EUA e na diplomacia de Trump Reuters",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T06:03:18+00:00"
+  },
+  {
+    "id": "dc3e245471439e0b0812",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "地球黃金線",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nSkhuMFIzZmctSE02WEk3UnNRTWZtc1gtTFJwbmNzdC1kQ1lFaWltLU04dHVYbzVlUkx4RWF3bnpPUksyVGI4VXdKUk9IYmkzYlE?oc=5",
+    "original_title": "銷售戰報／2026年10月連假颱風上班日減少衝擊交車，台灣車市掛牌3.3萬輛規模縮水10.2% - 地球黃金線",
+    "original_summary": "銷售戰報／2026年10月連假颱風上班日減少衝擊交車，台灣車市掛牌3.3萬輛規模縮水10.2% 地球黃金線",
+    "published_at": "2026-11-02T04:10:00+00:00",
+    "first_seen_at": "2026-11-06T22:46:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Relatório de vendas/outubro de 2026, mesmo que o falso tufão vá para o trabalho, a entrega de impacto será reduzida, e o mercado automobilístico taiwanês listará 33 mil veículos, que encolherão 10,2% - linha dourada da Terra",
+    "translated_summary": "Relatório de vendas/Em outubro de 2026, mesmo no dia do falso tufão no trabalho, a entrega de impacto foi reduzida, e o mercado automobilístico taiwanês listou 33 mil veículos, encolhendo 10,2% do tamanho da linha dourada da Terra",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:41+00:00"
   },
   {
     "id": "5d2d7a45335175951165",
@@ -15139,11 +15266,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "H D Kumaraswamy insta a indústria automobilística a investir mais em componentes de veículos elétricos, software de veículos e tecnologia de hidrogênio - HT Auto",
+    "translated_summary": "H D Kumaraswamy insta a indústria automobilística a investir mais em componentes de veículos elétricos, software de veículos e tecnologia de hidrogênio HT Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:52+00:00"
   },
   {
     "id": "c1e8a3d43027b4140783",
@@ -15179,11 +15306,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A capital japonesa se conecta à tecnologia filipina de carregamento de veículos elétricos - BusinessMirror",
+    "translated_summary": "A capital japonesa se conecta à tecnologia filipina de carregamento de veículos elétricos BusinessMirror",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:55+00:00"
   },
   {
     "id": "fbb577c469a393bfc20a",
@@ -15201,11 +15328,11 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "ARAI revela laboratório de baterias de ₹ 55 crore, instalação de testes de powertrain EV - ET Auto",
+    "translated_summary": "ARAI revela laboratório de bateria de ₹ 55 crore, instalação de teste de powertrain de EV ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:46:57+00:00"
   },
   {
     "id": "a3073879aed26be6fd1c",
@@ -15220,11 +15347,11 @@
     "published_at": "2026-10-31T12:13:28+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Quem comprou, “vendeu mais de 20.000 unidades na Coreia” sprint de carros chineses… Boletim entre Hyundai e Kia - Economia de Seul",
+    "translated_summary": "Quem comprou, “vendeu mais de 20.000 unidades na Coreia” sprint de carros chineses… Boletim entre Hyundai e Kia Seoul Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:00+00:00"
   },
   {
     "id": "1718a5c5790cc3fb6538",
@@ -15262,11 +15389,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Repensando a produção de barramentos: 7 benefícios da fabricação otimizada com soldagem ultrassônica - VEs carregados",
+    "translated_summary": "Repensando a produção de barramentos: 7 benefícios da fabricação otimizada com soldagem ultrassônica VEs carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:03+00:00"
   },
   {
     "id": "dced628b5dfed33581a9",
@@ -15283,11 +15410,11 @@
     "topics": [
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BYD na China, 4º lugar na Coreia para carros importados... Hyundai, Kia, China Share 0,6% - Cheonji Ilbo",
+    "translated_summary": "BYD na China, 4º lugar na Coreia para carros importados... Hyundai, Kia, China 0,6% de participação Cheonji Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:05+00:00"
   },
   {
     "id": "181a40c97ae92bfd115e",
@@ -15305,11 +15432,11 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "4 estoques de baterias de veículos elétricos com planos de crescimento em 2027 - Equitymaster",
+    "translated_summary": "4 estoques de baterias de veículos elétricos com planos de crescimento em 2027 Equitymaster",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:08+00:00"
   },
   {
     "id": "c4b0a7e15b21e8af28be",
@@ -15326,11 +15453,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Veículos elétricos - Believ assume a operação dos carregadores de veículos elétricos de Brighton - Smart Cities World",
+    "translated_summary": "Veículos elétricos - Believ assume a operação dos carregadores de veículos elétricos de Brighton Smart Cities World",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:10+00:00"
   },
   {
     "id": "27bade3642f86904713a",
@@ -15345,11 +15472,11 @@
     "published_at": "2026-10-30T23:59:36+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Huang Jen-Hsun está cercado por suspeitos de espionagem terrestre! Os governos de Singapura e Taiwan também enviaram pessoas para supervisionar - Internacional - China Times News Network",
+    "translated_summary": "Huang Jen-Hsun está cercado por suspeitos de espionagem terrestre! Os governos de Singapura e Taiwan também enviaram supervisores - China Times International News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:13+00:00"
   },
   {
     "id": "58bbe35374c0d7d80e79",
@@ -15364,11 +15491,11 @@
     "published_at": "2026-10-30T23:26:38+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Huang Jen-Hsun está cercado por suspeitos espiões chineses! O WSJ revela que os governos de Singapura e Taiwan também enviaram pessoas para monitorá-los - NOWnews Today",
+    "translated_summary": "Huang Jen-Hsun está cercado por suspeitos espiões chineses! O WSJ revelou que os governos de Singapura e Taiwan também enviaram pessoas para monitorar o NOWnews.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:16+00:00"
   },
   {
     "id": "fe2036ea5cd32525b105",
@@ -15386,10 +15513,10 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Kumaraswamy insta a indústria automóvel a investir em tecnologias de veículos elétricos, baterias e hidrogénio - ET Auto",
+    "translated_summary": "Kumaraswamy insta a indústria automóvel a investir em tecnologias de VE, baterias e hidrogénio ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T22:47:18+00:00"
   }
 ]
