@@ -95,3 +95,10 @@ Separador dedicado ao grupo Bosch, sem o misturar com as contagens dos sete paí
 ## Arquivo de 30 dias
 
 O bot conserva, por data de publicação, as notícias dos **últimos 30 dias** de todos os países e da Bosch. O dashboard tem o filtro **Arquivo · últimos 30 dias**, o atalho **Consultar arquivo (30 dias)** e a exportação **CSV** (UTF-8 com BOM, separador `;`). As notícias anteriores ao período são excluídas do arquivo ativo na execução seguinte, mas podem continuar presentes no histórico de commits GitHub. O arquivo não recupera automaticamente notícias antigas que nunca tenham sido recolhidas.
+
+
+## Navegação visual e arquivo separado
+
+O dashboard tem agora três áreas independentes: **🌍 Países**, **Bosch Intelligence** (com logótipo identificativo) e **🗂 Arquivo**. Nas notícias, as bandeiras identificam os sete mercados e as categorias têm ícones específicos. A Bosch está identificada pelo logótipo e por ícones nas suas seis categorias. O logótipo é carregado de https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg (marca registada; utilização identificativa, sem afiliação).
+
+No separador Arquivo é possível pesquisar e filtrar por país/Bosch, categoria e período de 7, 14 ou 30 dias. A exportação CSV mantém-se **global** (todas as fontes, até 30 dias), independentemente dos filtros selecionados no navegador. O arquivo não é uma cópia permanente: a retenção do coletor continua limitada a 30 dias.
