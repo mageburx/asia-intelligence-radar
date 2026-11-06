@@ -1,0 +1,96 @@
+[
+  {
+    "id": "chinanews-politics",
+    "country": "China",
+    "category": "Política",
+    "name": "China News Service · China",
+    "kind": "rss",
+    "url": "https://www.chinanews.com.cn/rss/china.xml",
+    "filter": "politics"
+  },
+  {
+    "id": "chinanews-economy",
+    "country": "China",
+    "category": "Política",
+    "name": "China News Service · Economia e política",
+    "kind": "rss",
+    "url": "https://www.chinanews.com.cn/rss/finance.xml",
+    "filter": "politics"
+  },
+  {
+    "id": "china-politics-search",
+    "country": "China",
+    "category": "Política",
+    "name": "Google News · chinês",
+    "kind": "google",
+    "query": "中国 政府 政策 外交 贸易",
+    "locale": "zh-CN",
+    "gl": "CN",
+    "ceid": "CN:zh-Hans"
+  },
+  {
+    "id": "china-auto-carnewschina",
+    "country": "China",
+    "category": "Automóvel",
+    "name": "CarNewsChina",
+    "kind": "rss",
+    "url": "https://carnewschina.com/feed/"
+  },
+  {
+    "id": "china-auto-cnevpost",
+    "country": "China",
+    "category": "Automóvel",
+    "name": "CnEVPost",
+    "kind": "rss",
+    "url": "https://cnevpost.com/feed/"
+  },
+  {
+    "id": "china-auto-zh",
+    "country": "China",
+    "category": "Automóvel",
+    "name": "Google News · chinês",
+    "kind": "google",
+    "query": "中国 汽车 新能源汽车 电池 汽车产业",
+    "locale": "zh-CN",
+    "gl": "CN",
+    "ceid": "CN:zh-Hans"
+  },
+  {
+    "id": "japan-politics-nhk",
+    "country": "Japão",
+    "category": "Política",
+    "name": "NHK · política",
+    "kind": "rss",
+    "url": "https://www.nhk.or.jp/rss/news/cat4.xml"
+  },
+  {
+    "id": "japan-politics-search",
+    "country": "Japão",
+    "category": "Política",
+    "name": "Google News · japonês",
+    "kind": "google",
+    "query": "日本 政府 首相 国会 政策 外交",
+    "locale": "ja",
+    "gl": "JP",
+    "ceid": "JP:ja"
+  },
+  {
+    "id": "japan-auto-carwatch",
+    "country": "Japão",
+    "category": "Automóvel",
+    "name": "Car Watch · Impress",
+    "kind": "rss",
+    "url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf"
+  },
+  {
+    "id": "japan-auto-search",
+    "country": "Japão",
+    "category": "Automóvel",
+    "name": "Google News · japonês",
+    "kind": "google",
+    "query": "日本 自動車 電気自動車 トヨタ ホンダ 日産 電池",
+    "locale": "ja",
+    "gl": "JP",
+    "ceid": "JP:ja"
+  }
+]
