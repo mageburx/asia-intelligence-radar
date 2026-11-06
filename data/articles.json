@@ -12,11 +12,11 @@
     "published_at": "2026-11-06T18:23:09+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ação BMW: JPMorgan deixa o excesso de peso - Börse Express",
+    "translated_summary": "Ação da BMW: JPMorgan deixa o excesso de peso no Börse Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:54+00:00"
   },
   {
     "id": "7861e13d1c8d3edc277d",
@@ -33,11 +33,32 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "LAZ e EverCharge fazem parceria para expandir o carregamento de veículos elétricos em propriedades de apartamentos e condomínios - VEs carregados",
+    "translated_summary": "LAZ e EverCharge fazem parceria para expandir o carregamento de veículos elétricos em propriedades de apartamentos e condomínios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:57+00:00"
+  },
+  {
+    "id": "5ea15284f2a0c187ca99",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2IzWER1emtJMmd2VDl1ZmIzRHdROTVqWlBnUmRfT2JTSzR0Ykd0ZUFnc1I1bUt2UXMySUtRWElITDBiOVR0cHBxZnhCTnZ2V3h3TlQzZHQ0bFl1RHJOX1d3dHpiQVpaQ2F0aXJSaU5jYmRVTDVXV2h3eDVaeTc5Y05RRFNVRGpCcGowM21YRGUyWkRJT3pWVEtFcEd1MjNRZ0pNUHdmUTNqRUlrbEo2Qmh0X3pFQzVCMlRmRnd2VWFPdw?oc=5",
+    "original_title": "Kempower and EV-olution install 3 MW electric bus charging system for Québec transit agency - Charged EVs",
+    "original_summary": "Kempower and EV-olution install 3 MW electric bus charging system for Québec transit agency Charged EVs",
+    "published_at": "2026-11-06T18:04:43+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Kempower e EV-olution instalam sistema de carregamento de ônibus elétrico de 3 MW para a agência de trânsito do Quebec - VEs carregados",
+    "translated_summary": "A Kempower e a EV-olution instalam um sistema de carregamento de autocarros elétricos de 3 MW para os veículos elétricos carregados da agência de trânsito do Quebeque",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:52+00:00"
   },
   {
     "id": "ef62074679ca8fd14525",
@@ -54,11 +75,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A célula ENDOPACK da Infineon incorpora MOSFETs SiC de 1.200 V em PCBs de inversor de tração - VEs carregados",
+    "translated_summary": "A célula ENDOPACK da Infineon incorpora MOSFETs SiC de 1.200 V em veículos elétricos carregados com PCBs de inversor de tração",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:00+00:00"
   },
   {
     "id": "af50dba2261f9a981b8c",
@@ -75,11 +96,32 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos connosco a partir de 2027: a Xiaomi estabelece as bases para a Alemanha e a Europa - SmartDroid",
+    "translated_summary": "Carros elétricos connosco a partir de 2027: a Xiaomi estabelece as bases para o SmartDroid da Alemanha e da Europa",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:03+00:00"
+  },
+  {
+    "id": "ee6172b949b03a46e0f1",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_id": "sg-auto",
+    "publisher": "Automotive News",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnNGNabmRWVGUxZFhrbTg5dV9sVkVpYmlNdERxTEpyM2ZXbDRMTVBfd2E3QzdramFJSURRYnRjUUZoUnpWRW52N05za2p1bGF1Wi1oc3FVR2JTV0ZI?oc=5",
+    "original_title": "Global EV Report: The world electrifying at different speeds - Automotive News",
+    "original_summary": "Global EV Report: The world electrifying at different speeds Automotive News",
+    "published_at": "2026-11-06T16:39:24+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Relatório Global EV: O mundo eletrizante em diferentes velocidades - Automotive News",
+    "translated_summary": "Relatório Global de Veículos Elétricos: O mundo eletrizante em diferentes velocidades Notícias Automotivas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:49+00:00"
   },
   {
     "id": "7dda0358f470037bccb1",
@@ -155,11 +197,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mineração Urbana na Índia: A Oportunidade de Reciclagem de Baterias - Acres Urbanos",
+    "translated_summary": "Mineração Urbana na Índia: A Oportunidade de Reciclagem de Baterias em Acres Urbanos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:06+00:00"
   },
   {
     "id": "51988c6e91ceb2c89c9c",
@@ -195,11 +237,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Janela para ecrã! Mercedes-Benz anuncia “3 novas tecnologias em desenvolvimento” para um futuro mais estável para veículos elétricos - ETtoday",
+    "translated_summary": "Janela para ecrã! Mercedes-Benz anuncia \"3 novas tecnologias em desenvolvimento\" para uma nuvem de carros ETtoday mais estável para futuros veículos elétricos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:08+00:00"
   },
   {
     "id": "ba96dbccdfc7a65cfc3b",
@@ -233,11 +275,11 @@
     "published_at": "2026-11-06T15:29:33+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Aperto de mão dourado na BMW, ofensiva de trabalho na Tesla: até que ponto a indústria automobilística está realmente doente? - Berliner Zeitung",
+    "translated_summary": "Aperto de mão dourado na BMW, ofensiva de trabalho na Tesla: até que ponto a indústria automobilística está realmente doente? Berliner Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:11+00:00"
   },
   {
     "id": "9d1b755f23f282fa057d",
@@ -271,11 +313,11 @@
     "published_at": "2026-11-06T14:53:53+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Neuzulassungen im Oktober: Elektrischer Mercedes GLC schon auf Platz 3 - electrive.net",
+    "translated_summary": "Neuzulassungen im Oktober: Elektrischer Mercedes GLC schon auf Platz 3 electrive.net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:14+00:00"
   },
   {
     "id": "8adb654d6a8503a3ac5f",
@@ -292,11 +334,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Adeus Banyu! Taiwan não pode mais suportar deixar o Museu Guan Guan parar de apoiar a força vital das 38 bilhões de exportações para Taiwan? - Finanças gratuitas",
+    "translated_summary": "Adeus Banyu! Taiwan não pode mais suportar deixar o Museu Guan Guan parar de apoiar a força vital das 38 bilhões de exportações para Taiwan? Finanças gratuitas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:16+00:00"
   },
   {
     "id": "5befd3f1478a843cde83",
@@ -311,11 +353,11 @@
     "published_at": "2026-11-06T14:25:59+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cerimónia de Assinatura do Memorando de Entendimento de Timor-Leste - Fotos | Multimédia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Cerimónia de Assinatura do Memorando de Entendimento de Timor-Leste - Fotos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:19+00:00"
   },
   {
     "id": "5e503d5fa8875b15121f",
@@ -333,11 +375,11 @@
       "Baterias",
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Para onde vão os telemóveis, portáteis e baterias de veículos elétricos antigos após as atualizações festivas? A mineração urbana poderia recuperar Rs 1. - The Times of India",
+    "translated_summary": "Para onde vão os telemóveis, portáteis e baterias de veículos elétricos antigos após as atualizações festivas? A mineração urbana poderia recuperar Rs 1. The Times of India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:22+00:00"
   },
   {
     "id": "069ad72b1f4adf45d8b5",
@@ -474,11 +516,11 @@
     "published_at": "2026-11-06T13:59:17+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Governo planeja capacitar a TRAI para penalizar as operadoras de telecomunicações que desrespeitam as regras - ET Telecom",
+    "translated_summary": "O governo planeja capacitar a TRAI para penalizar as operadoras de telecomunicações que desrespeitam as regras da ET Telecom",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:25+00:00"
   },
   {
     "id": "dda64f3864d7f8cc5120",
@@ -601,6 +643,25 @@
     "last_translation_attempt_at": "2026-11-06T14:22:17+00:00"
   },
   {
+    "id": "f12d809f5dba754c443d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_id": "de-politics",
+    "publisher": "Mitteldeutsche Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXdGcmY4d0xUR1l2SnNYNm9IUVh4VDdFbWZYNkNGc0laV3AzcG9Oa1pMaEFZbTJpTFJwMDFyRDhSS05TLWJUWDJGNEhnRWZ2ZXVRSHE5d0RZZFNPOGVnXzI3VUlTdHlaQ2dLSEdjcjkyY2c0UTZQYVdUSWl2ZERjRlYzYXNPdU5LV3U4a1Z2c21mSFUx?oc=5",
+    "original_title": "WM in Deutschland in Gefahr: Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 - Mitteldeutsche Zeitung",
+    "original_summary": "WM in Deutschland in Gefahr: Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 Mitteldeutsche Zeitung",
+    "published_at": "2026-11-06T13:40:00+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Copa do Mundo na Alemanha em perigo: após decisão de Cas: Bund busca solução para a Copa do Mundo de hóquei no gelo de 2027 - Mitteldeutsche Zeitung",
+    "translated_summary": "Copa do Mundo na Alemanha em perigo: após decisão de Cas: Bund busca solução para a Copa do Mundo de hóquei no gelo de 2027 Mitteldeutsche Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:24+00:00"
+  },
+  {
     "id": "d974726ae69ec8e852b8",
     "country": "China",
     "category": "Política",
@@ -635,11 +696,11 @@
       "Veículos elétricos",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Caderno do jornalista] Carros elétricos invadindo o quarto, precisamos nos apressar para discutir o crédito fiscal do governo - Newsis",
+    "translated_summary": "[Caderno do jornalista] Carros elétricos invadem casa, discussão sobre crédito fiscal do governo deve apressar Newsis",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:27+00:00"
   },
   {
     "id": "e0fc277f831674d0b142",
@@ -734,11 +795,32 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MB.DRIVE Assist Pro: Mercedes planeja lançar na Alemanha em 2027 - ad-hoc-news.de",
+    "translated_summary": "MB.DRIVE Assist Pro: Mercedes planeja lançar na Alemanha em 2027 ad-hoc-news.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:30+00:00"
+  },
+  {
+    "id": "0c04f567dcccc4a92f6e",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3doX25tOTU2MUk5cmM2LXZKcUhpSEJ3c1NldzN5aEN4VDdsNGNUZ3ZzbkNOS1g2TU16dExHd2JOX2RtZkZ1R2lYRHo1OHdqWURnWnRfMjh0U0xJLWJ0R0ZtWGlBTVlmNVo1bjQ0UWdYc2c0MkN3VUVWeWN5YTFNcTNabVN2TklWNTRLaWQ5Z016Zw?oc=5",
+    "original_title": "Bundestag: Autobahn-Reform umstritten - neuer Schuldentopf? - DIE ZEIT",
+    "original_summary": "Bundestag: Autobahn-Reform umstritten - neuer Schuldentopf? DIE ZEIT",
+    "published_at": "2026-11-06T13:08:22+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bundestag: Reforma da autoestrada controversa - novo pote da dívida? - A HORA",
+    "translated_summary": "Bundestag: Reforma da autoestrada controversa - novo pote da dívida? A HORA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:21+00:00"
   },
   {
     "id": "53cddcd68f4cea5a028f",
@@ -816,11 +898,11 @@
     "published_at": "2026-11-06T12:49:32+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como as iniciativas governamentais e o impulso político estão fortalecendo a infraestrutura da Índia para a demanda festiva s.. - ET Government",
+    "translated_summary": "Como as iniciativas governamentais e o impulso político estão fortalecendo a infraestrutura da Índia para a demanda festiva.. ET Governo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:33+00:00"
   },
   {
     "id": "e6987933c9f5adf1e38c",
@@ -861,6 +943,25 @@
     "translated_summary": "Copa do Mundo de Hóquei no Gelo 2027: Governo Federal quer realizar torneio na Alemanha ad-hoc-news.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T18:38:22+00:00"
+  },
+  {
+    "id": "b30b3a8ad23bcb74dcc6",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_id": "sg-politics",
+    "publisher": "Impakter",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanFkbElkVlpXZXozUEx6NGlNVy0wakFpU3dWOUFzbUF0QjhlM3NoRkJtUzEwQ2NZb25MREtfQ0VtdlY2aHppVmh3czlkX2dMU0wxcXBnVkJNUHhlRHFiMkttUHZjWkV0UHJFWXFCd1BESlhpMEk0OXdPY1NIbFhQOHR4elg?oc=5",
+    "original_title": "Singapore Haze Bill Extends Liability to Supply Chains - Impakter",
+    "original_summary": "Singapore Haze Bill Extends Liability to Supply Chains Impakter",
+    "published_at": "2026-11-06T12:43:37+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Projeto de lei da Singapore Haze estende a responsabilidade às cadeias de suprimentos - Impakter",
+    "translated_summary": "Projeto de Lei da Haze de Singapura Estende a Responsabilidade ao Impakter das Cadeias de Suprimentos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:47+00:00"
   },
   {
     "id": "9c7be3bf5df660a54b76",
@@ -978,11 +1079,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A renúncia do presidente paraguaio Panya não foi aceita pelo Ministério das Relações Exteriores de Taiwan: a amizade não é afetada - arq Yaji",
+    "translated_summary": "A renúncia do presidente paraguaio Panya não foi aceita pelo Ministério das Relações Exteriores de Taiwan: a amizade não é afetada por Yaji",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:35+00:00"
   },
   {
     "id": "d565021c46050f220727",
@@ -1195,11 +1296,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério dos Negócios Estrangeiros: Encerramento da Presença de PNG-Taiwan para Retirada da Dignidade Nacional | Política - Agência Central de Notícias CNA",
+    "translated_summary": "Ministério dos Negócios Estrangeiros: Encerramento do gabinete PNG-Taiwan com base na dignidade nacional Retirada de pessoal | Centro Político CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:38+00:00"
   },
   {
     "id": "352988693a83ec3da086",
@@ -1256,11 +1357,11 @@
     "published_at": "2026-11-06T11:00:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Edição 219: Cingapura aprofunda a lei de neblina; Os pontos doces misturados do Sudeste Asiático - The Business Times",
+    "translated_summary": "Edição 219: Cingapura aprofunda a lei de neblina; Os pontos doces misturados do Sudeste Asiático The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:41+00:00"
   },
   {
     "id": "aba861a15c37b32436c6",
@@ -1296,11 +1397,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Investimento de 3 trilhões na Kia... \"Mudança da fábrica de Gwangju para o futuro\" - Economia da Coreia",
+    "translated_summary": "Investimento de 3 trilhões de Kia... \"Gwangju factory future car conversion\" Economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:43+00:00"
   },
   {
     "id": "10aa90d3e1eee75909e8",
@@ -1334,11 +1435,11 @@
     "published_at": "2026-11-06T10:41:34+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleições de meio de mandato nos EUA: o Partido Republicano perderá as duas casas do Parlamento e a política em relação à China e à venda de armas para Taiwan? - BBC",
+    "translated_summary": "Eleições de meio de mandato nos EUA: o Partido Republicano perderá as duas casas do Parlamento e a política em relação à China e à venda de armas para Taiwan? BBC",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:46+00:00"
   },
   {
     "id": "5be9e19a3a434704ec0a",
@@ -1355,11 +1456,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Banyu precisa evacuar novamente! O Ministério das Relações Exteriores tomou a iniciativa de fechar seus escritórios e encerrar a cooperação de ajuda de forma integral - Free Times",
+    "translated_summary": "Banyu precisa evacuar novamente! O Ministério das Relações Exteriores tomou a iniciativa de fechar o escritório e encerrar totalmente a cooperação de ajuda Free Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:49+00:00"
   },
   {
     "id": "1c14ee799ff6e7f0a8ae",
@@ -1374,11 +1475,11 @@
     "published_at": "2026-11-06T10:23:23+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Comunicado de Imprensa Conjunto de Timor-Leste - Fotos | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Comunicado de Imprensa Conjunto de Timor-Leste - Fotos | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:52+00:00"
   },
   {
     "id": "8a8f8e350dae8c0237f4",
@@ -1433,11 +1534,11 @@
     "published_at": "2026-11-06T10:13:53+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eu sou a corte deste mundo?! - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Eu sou a corte deste mundo?! - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:55+00:00"
   },
   {
     "id": "ddf8b720c8d5795c7eef",
@@ -1454,11 +1555,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Presidente Lee, “Expanding cooperation between Korea and East Timor... Developing as a companion for the future” - South Korea Policy Briefing",
+    "translated_summary": "Presidente Lee, \"Expanding Cooperation between Korea and East Timor... Developing as a Companion for the Future,\" South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:57:57+00:00"
   },
   {
     "id": "78611cb29b547e7f992e",
@@ -1492,11 +1593,11 @@
     "published_at": "2026-11-06T10:03:54+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os 10 melhores fabricantes de componentes automotivos da Índia em 2027 - Inventiva",
+    "translated_summary": "Top 10 Melhores Fabricantes de Componentes Automotivos na Índia em 2027 Inventiva",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:58:00+00:00"
   },
   {
     "id": "ea47162b368d6abb2add",
@@ -1511,11 +1612,11 @@
     "published_at": "2026-11-06T10:01:54+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Porque é que o Dia do Combate a Incêndios é a 9 de novembro? - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Porque é que o Dia do Combate a Incêndios é a 9 de novembro? - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:58:03+00:00"
   },
   {
     "id": "83f0592c093ef947953a",
@@ -1553,11 +1654,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O imposto climático da Europa corre o risco de abrir uma nova guerra comercial com a Índia na COP31 - Euronews.com",
+    "translated_summary": "O imposto climático da Europa corre o risco de abrir uma nova guerra comercial com a Índia na COP31 Euronews.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:58:05+00:00"
   },
   {
     "id": "6131cb4daa4ba5a7ee7d",
@@ -1593,11 +1694,33 @@
     "published_at": "2026-11-06T09:50:41+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Viagem de outono e inverno para Pingtung Agora, o governo do condado de Pingtung está se unindo à indústria local para estrear o emocionante evento de revezamento \"Taiwan International Travel Exhibition\" - letter media",
+    "translated_summary": "Viagem de outono e inverno para Pingtung Enquanto o governo do condado de Pingtung se junta à indústria local para estrear a \"Exposição Internacional de Viagens de Taiwan\" atividades emocionantes Transmita a carta de estréia da mídia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:58:08+00:00"
+  },
+  {
+    "id": "54301a3bced47e6780f8",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_id": "in-politics",
+    "publisher": "Livemint",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWVRZbF9QbHljSGhwbjJqUVZTSHc3NTJGM0lSMzBTY3VzYjBfbmlTSnBVUnFUSVZNMGdicGE5bkE3NktlYmthb1VlLU1uN1BMYUlicHExdUVhcjFsU2xZZVYyaVBRZ3R4a1F6VEx2RWRhMldIYVNORmdTYVhPcnNEVmE0QkZlVXNkbEJTMmJCa3V1SDgyMXlOU3c4RXlRT3UyRFNLdXBOTDhYMGpsTDhBYlZWamRJajdUcnM3dmhtaXlmcU95ZlFiM24wSEZmTEI2V3Y3Z0ZjRTNwd2NYckVpYTY4N0JhbUlDQnIyQU0za2c3V3pZM3o2VVBDanBnMEVsOEHSAYcCQVVfeXFMTVBRMnN3RzhIWnFmbVRCZ1hsTFhNS056cmt5cGRnQ2J2R29VVXFNMENsZXZ3dEdyTW9kSkxuTTBYYy0xel9JeVBaMFY0QWtMVHJ2ZnRWOThLRHdHNnE0MUw1Yi1VRDVhQUN3Mm04Qld2bXk4d0tCZ0lEbEtkMnFlZkpLQ282OVVXOGE1RmExeEd1Z2V5aWJqWlpkbmFJTVF0TzlkNEZ6VWZTQXRiNXNWQ0YyWjNmLXkyM3NITUFHbUhCdWU1MnU1dHVfcVF6d0x2X0Y3R04xQXZDQlJMbVFNM0hxOUN3aU42R3NucXppNWQyX24xUWx1Y2JTX04yNC0wZlJ0ajV3UUE?oc=5",
+    "original_title": "India-US trade deal: What midterm elections mean for trade policy, tariff and export sectors? Experts explain - Livemint",
+    "original_summary": "India-US trade deal: What midterm elections mean for trade policy, tariff and export sectors? Experts explain Livemint",
+    "published_at": "2026-11-06T09:50:41+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Acordo comercial Índia-EUA: O que as eleições de meio de mandato significam para os setores de política comercial, tarifas e exportação? Especialistas explicam - Livemint",
+    "translated_summary": "Acordo comercial Índia-EUA: o que as eleições intercalares significam para os setores de política comercial, tarifas e exportação? Especialistas explicam Livemint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:41+00:00"
   },
   {
     "id": "84c8d0d1761b6f58c5c2",
@@ -3386,6 +3509,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "5ec903fea910519f6111",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_id": "in-politics",
+    "publisher": "News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjVKZFE0YnIzTWR6YWJMOV9iVEUyR2tienVzZmtvck04S1RCcWNOQXNiYjRrR1MxVWtKZTBkU1RzQ25wRjFFUVY5SW9IYkRoTFFhOE54RmFjSl9PakFfZWtLT3I2aEZ5d0tOS3BXYlZYZjAzWDJQbndIS1Q4bmMtWF9yYnlJcW5TcTRwRDlLVGhaa1B6M2FqREQ2bnBZMHdVMzVWUGJmU3JaOWsySWVxaFhHS0xBXzh2VGtzYU9xbUZmdw?oc=5",
+    "original_title": "Govt relaxes passport and visa rules for several categories of foreign nationals residing in India - News On AIR",
+    "original_summary": "Govt relaxes passport and visa rules for several categories of foreign nationals residing in India News On AIR",
+    "published_at": "2026-11-06T02:50:55+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo relaxa regras de passaporte e visto para várias categorias de estrangeiros residentes na Índia - News On AIR",
+    "translated_summary": "O governo relaxa as regras de passaporte e visto para várias categorias de cidadãos estrangeiros residentes na Índia News On AIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:39+00:00"
+  },
+  {
     "id": "a4395ead6dfabc438611",
     "country": "Japão",
     "category": "Política",
@@ -4090,6 +4232,25 @@
     "last_translation_attempt_at": "2026-11-06T02:05:24+00:00"
   },
   {
+    "id": "80ac05c318ca692b1925",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_id": "tw-auto",
+    "publisher": "經貿透視雙周刊",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNWE4QUJYVWxFZG1PdTNaellISnJpNmZ2dUhCTE55QU1Ha25nM2hXcnNyS0xMU1psbWJYMXJ5QUVzYmcyU1ZiN1hXNkxjcGdGM1hudjZobHE5VGxFMnRFSGowYlBIMzZS?oc=5",
+    "original_title": "台灣精品攜21家企業亮相SEMA展 搶攻美國車用科技商機 - 經貿透視雙周刊",
+    "original_summary": "台灣精品攜21家企業亮相SEMA展 搶攻美國車用科技商機 經貿透視雙周刊",
+    "published_at": "2026-11-05T20:38:57+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Taiwan Boutique Traz 21 Empresas para a SEMA para Oportunidade de Tecnologia Automotiva dos EUA - Business Insight Quinzenal",
+    "translated_summary": "Taiwan Boutique Traz 21 Empresas para a Exposição SEMA para Impulsionar a Oportunidade de Negócios de Tecnologia Automotiva dos EUA Insight de Negócios Quinzenal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:36+00:00"
+  },
+  {
     "id": "650102ee49b5f838bf72",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -4168,6 +4329,27 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "cc2c198f0d6d2bc9ca65",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_id": "de-politics",
+    "publisher": "TAG24",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZWNKWFR3RUhQemVQaXljZ1cxR3E5dlFtdWVDN0J2NnZVTjItOGk5QUx3UkVLWUprZEdhaWxzTHF5QkRQdnFTZEp0MFVKbHd6dU1VUC0wamhVZkY1NUFycGJUZ2NwWDBQZEt0V2dmT1d4bVUyaF94eUtBaElCTUVkSnR0Sy0yLUR0NnBVaWhrUjdiNl9PTk02ak1WZkVuTS1WWUlyUGt0Ui14Ql9YUUE2cUQ2SWRZZUktRXVXVzFpLVVNOEZJSk54cmJqckszX1lwOTFjcW55ZFdTSmdaa0t4TUdMNW15R2RjXzF2LW05V0hKbVNqVll6Rg?oc=5",
+    "original_title": "Bundestag beschließt Videoüberwachung für Schlachthöfe: Deshalb verweigerte Opposition die Zustimmung - TAG24",
+    "original_summary": "Bundestag beschließt Videoüberwachung für Schlachthöfe: Deshalb verweigerte Opposition die Zustimmung TAG24",
+    "published_at": "2026-11-05T18:39:00+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bundestag adota videovigilância para frigoríficos: Portanto, oposição recusou consentimento - TAG24",
+    "translated_summary": "Bundestag decide sobre vigilância por vídeo para matadouros: Portanto, a oposição se recusou a aprovar o TAG24",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:27+00:00"
   },
   {
     "id": "3adf3687d519d8909497",
@@ -5892,6 +6074,25 @@
     "translated_summary": "A Xiaomi está a preparar-se para uma expansão do volante à direita em 2028 após a sua entrada planeada na Europa, com o recrutamento em Sydney a adicionar uma dimensão australiana. O post Xiaomi define o impulso global para a direção à direita em 2028, à medida que a contratação na Austrália começa, apareceu primeiro em CarNewsChina.com .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T02:56:27+00:00"
+  },
+  {
+    "id": "a9a6dd2e0cec37184e02",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAya09qeldJOTVXcTZsRFFkUlVYMFVDV3pVU3ZGTnBkLUltbUZoQTBaVE03MjVxZmNuck5xblVFVkM1Rnk4cmJ6R1JpdHdMcFJLTUU4NUl3WXFrU28td3ZPNXgxV1ByMmVEbGc?oc=5",
+    "original_title": "'안전한 오늘'이 있기까지…하반기 재난대응 안전한국훈련 - 대한민국 정책브리핑",
+    "original_summary": "'안전한 오늘'이 있기까지…하반기 재난대응 안전한국훈련 대한민국 정책브리핑",
+    "published_at": "2026-11-05T05:52:34+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Até 'Safe Today' … Treinamento de Resposta a Desastres na Coreia para o Segundo Semestre do Ano - Resumo de Políticas da Coreia do Sul",
+    "translated_summary": "Até 'Safe Today'... Treinamento de Política Coreana para Resposta a Desastres na Coreia Segura no Segundo Semestre do Ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:33+00:00"
   },
   {
     "id": "ef8f2138bb2c5cb08563",
@@ -8850,6 +9051,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "a5eed43f58fa2a7b7b54",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_id": "in-auto",
+    "publisher": "Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMmVvOU1RTkNUSHVaRjMyd3lDSlBmSTkwS2NoV01LYTV4VWZGTEc0LXVhMmdHcm0xcWFfWEhxcGlsZ1psWFZqUGoyMHNhbHlaOGJpN05qNnluWEJoRzN0TnMtRGxyZjFuU29LMVFIYThuWmgxalJmLVRBYnhUV09FaU9OTjluN0lGWUpZQnVwbV9xaVNaR215TlNTMUcwdlV5bzBjYjdGZ0ZkYm1CMUxUTnVqTEdROFFwOTQwdHJfd2NLQkVWcDVQV0tyNlFMa2NSZVZXeXppazZZT3JIbzRtVVI4U2lVMXNKTGJNSldKR0JGTnE0cGpTdGgzQTVjeW9HX0NfN1lVOA?oc=5",
+    "original_title": "India Approves USD-297 Million Critical Mineral Processing Scheme - Spherical Insights",
+    "original_summary": "India Approves USD-297 Million Critical Mineral Processing Scheme Spherical Insights",
+    "published_at": "2026-11-04T08:00:00+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia Aprova Esquema de Processamento Mineral Crítico de US $ 297 Milhões - Insights Esféricos",
+    "translated_summary": "Índia Aprova Insights Esféricos do Esquema de Processamento Mineral Crítico de US $ 297 Milhões",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:44+00:00"
+  },
+  {
     "id": "5db809b78a8553db13bc",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -11507,6 +11727,25 @@
     "translated_summary": "As 7 empresas chinesas no top 10 detinham uma participação combinada de 73,0% no mercado global de baterias para veículos elétricos, um aumento de 3,5 pontos percentuais em relação ao ano anterior. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T06:03:21+00:00"
+  },
+  {
+    "id": "ad1db3d181e767c61133",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YM1BkQmx6RDVDYml6TnpUUWF4UlJleGlqMmpfZ3RybHg4TWNkUm14ZzFMeFZlNlNvOUxCaEF6Q3RDNHc0TmU1TWk5NVRaNThMdXoxa3VHTlVmdnR3cW5BZElmcEstR0V4?oc=5",
+    "original_title": "생명을 살리는 심폐소생술! - 대한민국 정책브리핑",
+    "original_summary": "생명을 살리는 심폐소생술! 대한민국 정책브리핑",
+    "published_at": "2026-11-02T01:56:41+00:00",
+    "first_seen_at": "2026-11-06T18:56:10+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "CPR salva-vidas! - Resumo da política da Coreia do Sul",
+    "translated_summary": "CPR salva-vidas! Resumo da política da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T18:56:30+00:00"
   },
   {
     "id": "ef1dfa0568bcb1e05524",
