@@ -1,5 +1,45 @@
 [
   {
+    "id": "c58593f96a25bc383eca",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORWRVUE5VaGlyZDAwTk85T2Y1OEtCYkx4OXdtV3hxYkJuR2VKYkpPSVFRRHlsMld4aldqMzJ3aWNnVTgxVmFNaVFMdm5YVEFqcjhsUFpRS1ZVbE1MVUtjMzBXaU5LMUVub1ExSWU2SWZMUVI5OTBOYWplcDNfQ29ZVkVYcDhmZEhXckdwaFFRNk5wUTZvcHI1S0NFOEJKODNnZGpQWm92b3lCTVkya0k4a01rZURaNmVvNldkbkJYV25pSWdDN1QwaWZqZlEyMjF5M0E?oc=5",
+    "original_title": "VW, Mercedes und BMW: Wie die deutsche Autoindustrie in China scheitert - FAZ",
+    "original_summary": "VW, Mercedes und BMW: Wie die deutsche Autoindustrie in China scheitert FAZ",
+    "published_at": "2026-11-06T21:23:32+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "VW, Mercedes e BMW: Como a indústria automobilística alemã está falhando na China - faz",
+    "translated_summary": "VW, Mercedes e BMW: Como a indústria automobilística alemã está falhando na China faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:36+00:00"
+  },
+  {
+    "id": "6074892ab4a820d06344",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeW9uYU5NelFHVGMxaFo5QUcyMkhRYW5PdElfZFdOWFhsbzRwNEtHMldVVm84a2F0ejVMQnZBVEhTNTFET3gzTDVCY1BwOERVdFJXaFdXdXNFS0hBOUJxWXU3Zm9aTGlELUVMU3p0a2ZUOW9FMy1NZUFQZ2hMajVPdGwyX0E0dC0tbUwyVDdhYjRtaERpMEl0eGQ0M2FaV29WWjlaT3R2QjZyMFVPalZUTEotaUNyVFNYSFFyR3pSZEJWVU9E?oc=5",
+    "original_title": "Volkswagen im Umbruch: Ist Deutschland auf die neue Realität vorbereitet? - FAZ",
+    "original_summary": "Volkswagen im Umbruch: Ist Deutschland auf die neue Realität vorbereitet? FAZ",
+    "published_at": "2026-11-06T21:22:40+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Volkswagen em estado de agitação: a Alemanha está preparada para a nova realidade? - Frankfurter Allgemeine Zeitung",
+    "translated_summary": "Volkswagen em estado de agitação: a Alemanha está preparada para a nova realidade? faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:39+00:00"
+  },
+  {
     "id": "d3b3a967b53e847a4057",
     "country": "Japão",
     "category": "Política",
@@ -429,6 +469,26 @@
     "last_translation_attempt_at": "2026-11-06T18:57:11+00:00"
   },
   {
+    "id": "58daa64f08db729df589",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Estratégia e resultados (DE)",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-strategy-de",
+    "publisher": "aktien.news",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1gxSkYyTDlJby1DY2xnR0lNdFp1aEM0WTVDeVM0eGlQcG5JbFMxM1lKdkhsUmdJSU5YY0RCYUZXdnlmVGp2QW1pd1U1NkRuU1ZSOXFhUTdzT0RoaDNGdE54T25Xc2xTdWd0aC1aWFcxTVRIVHhjVmdwa1lXLVVjRFJfTlR2WGpIUWE5a0hZaDZndw?oc=5",
+    "original_title": "Bosch gründet Bo-Chain und will zwei bis drei Start-ups pro Jahr - aktien.news",
+    "original_summary": "Bosch gründet Bo-Chain und will zwei bis drei Start-ups pro Jahr aktien.news",
+    "published_at": "2026-11-06T15:12:07+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bosch funda a Bo-Chain e quer duas a três startups por ano - aktien.news",
+    "translated_summary": "Bosch funda a Bo-Chain e quer compartilhar de duas a três startups por ano.news",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:50+00:00"
+  },
+  {
     "id": "9d1b755f23f282fa057d",
     "country": "China",
     "category": "Política",
@@ -828,6 +888,26 @@
     "translated_summary": "Os governos considerarão emendas à Lei sobre “Defesa Cibernética Ativa” para aprimorar suas capacidades de coleta de informações de ataques cibernéticos. Espera-se que o foco seja se é possível obter informações de comunicação que não são permitidas pelas leis atuais e que são concluídas no Japão.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T14:22:17+00:00"
+  },
+  {
+    "id": "c33aa8a2b3035bfc819b",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "STERN.de",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeloxSjdtd0VKYnJPMTE3TThFb2trdDdQUzdZY1RmX1llbTl5SlNlRkFNa09GUm5UMlBDb3htZnNXWEZuSDF6ZmRNellpdXVsc3Y3ZGNxcVV4TzE3bnF3eGxxSVRRY3hvOGgyTTJzTENCbTg4M3FybEdqbWFoZE00WFVSV3FwQmJDR1FrZ1FXVy0zS2lSVGxUbnpTeDVmb2xNLWRMNnRoNGRJM1p3U3dseHdWNzZ1SjZweFgweVVJQ2xjYUNGU01MMy1nc3ZuYUFmMmphbGk3UmZ0aDJzd3pNY1E4ekN0TDVSSDNwOWZFTGttbXpWN3ZN?oc=5",
+    "original_title": "WM in Deutschland in Gefahr: Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 - STERN.de",
+    "original_summary": "WM in Deutschland in Gefahr: Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 STERN.de",
+    "published_at": "2026-11-06T13:40:35+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Campeonatos Mundiais na Alemanha em Perigo: Após a decisão da Cas: Bund está à procura de uma solução para o Campeonato Mundial de Hóquei no Gelo de 2027 - STERN.de",
+    "translated_summary": "Copa do Mundo na Alemanha em perigo: após o veredicto de Cas: Bund busca solução para a Copa do Mundo de Hóquei no Gelo 2027 STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:33+00:00"
   },
   {
     "id": "f12d809f5dba754c443d",
@@ -2467,6 +2547,29 @@
     "translated_summary": "Bosch Limited BOSCHLTD Stock Split Bonus Issue Q2 FY27 Kalkine Índia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:18:22+00:00"
+  },
+  {
+    "id": "92cb603fce49cb60590e",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch Media Service · Oficial",
+    "source_type": "Comunicado oficial",
+    "source_id": "bosch-official-de",
+    "publisher": "Bosch Media Service · Oficial",
+    "url": "https://www.bosch-presse.de/pressportal/de/de/wenn-jedes-gramm-zaehlt-bosch-motorsport-und-das-bosch-additive-solution-center-liefern-leichtbau-aus-dem-metall-3d-druck-fuer-die-rennstrecke-287104.html",
+    "original_title": "Wenn jedes Gramm zählt: Bosch Motorsport und das Bosch Additive Solution Center liefern Leichtbau aus dem Metall-3D-Druck für die Rennstrecke",
+    "original_summary": "Die Kooperation beschleunigt die Bauteilentwicklung für den professionellen Rennsport durch modernste additive Fertigungsverfahren",
+    "published_at": "2026-11-06T09:00:00+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Quando cada grama conta: a Bosch Motorsport e o Bosch Additive Solution Center oferecem uma construção leve a partir da impressão 3D em metal para a pista de corrida",
+    "translated_summary": "A cooperação acelera o desenvolvimento de componentes para corridas profissionais por meio de processos de fabricação de aditivos de última geração",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:47+00:00"
   },
   {
     "id": "58ab7d3a6ba45a6ba50b",
@@ -5721,6 +5824,28 @@
     "translated_summary": "Em seguida, robôs... Hyundai e Toyota competem por futuros alimentos ZDNet Coreia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:56:37+00:00"
+  },
+  {
+    "id": "5c6c2886185a875b87c7",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Deutscher Bundestag",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNNkNMZ0h0bEk0RjMxUWwweDBRWDV1eE56bnhxMUxXa0NXOGo3US1sTTJ0Z2QzNkVqcjNCZElVdWIzTDJ1MG56T3lXbEYzR0VUb0lwS2NfdUhEVEVDZk02dElVWXBUb0wxZlJwVE5pYUN0MXM?oc=5",
+    "original_title": "54. Sitzung - nichtöffentliche Ausschussberatung - Deutscher Bundestag",
+    "original_summary": "54. Sitzung - nichtöffentliche Ausschussberatung Deutscher Bundestag",
+    "published_at": "2026-11-05T14:49:29+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "54ª reunião - deliberação DA Comissão não pública - Bundestag alemão",
+    "translated_summary": "54ª reunião - deliberação da comissão não pública do Bundestag alemão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:29+00:00"
   },
   {
     "id": "c90ad272a639de11573e",
@@ -9518,11 +9643,11 @@
     "published_at": "2026-11-04T13:54:25+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Perdas de médio prazo provavelmente não amenizarão a posição comercial de Trump em relação à Índia: especialistas - ETV Bharat",
+    "translated_summary": "Perdas de médio prazo provavelmente não amenizarão a posição comercial de Trump em relação à Índia: especialistas da ETV Bharat",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:56+00:00"
   },
   {
     "id": "3560564f249ff1234199",
@@ -9539,11 +9664,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Parlamento do Reino Unido corre o risco de \"fracasso catastrófico\" devido ao atraso na renovação - Yahoo News Singapore",
+    "translated_summary": "Parlamento do Reino Unido corre o risco de \"fracasso catastrófico\" devido ao atraso na renovação Yahoo News Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:58+00:00"
   },
   {
     "id": "368f887e74f59c2fd6c4",
@@ -9560,11 +9685,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Números de registro de veículos: os carros elétricos continuam em alta demanda na Alemanha - Saarbrücker Zeitung",
+    "translated_summary": "Números de registro de carros: os carros elétricos continuam em alta demanda na Alemanha Saarbrücker Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:01+00:00"
   },
   {
     "id": "8cddf31a530ac0d2ace5",
@@ -9579,11 +9704,11 @@
     "published_at": "2026-11-04T13:37:44+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Asahi Dench Scientific Research entrou no mercado no dia 13 para expandir a escala do serviço de carregamento de ultra-alta velocidade U-POWER - Free Times",
+    "translated_summary": "A Asahi Dench Scientific Research entrou no mercado no dia 13 para expandir a escala dos serviços de carregamento de ultra-alta velocidade U-POWER.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:04+00:00"
   },
   {
     "id": "73b1a3402b511b687fcc",
@@ -9659,11 +9784,11 @@
     "published_at": "2026-11-04T13:18:42+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A perda de médio prazo de Trump pode acelerar o acordo comercial com a Índia - Rediff MoneyWiz",
+    "translated_summary": "A perda de médio prazo de Trump pode acelerar o acordo comercial com a Índia Rediff MoneyWiz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:07+00:00"
   },
   {
     "id": "b53bb3f44c06c3474d01",
@@ -9737,11 +9862,11 @@
     "published_at": "2026-11-04T12:22:30+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "2ª Cerimónia de Abertura do Grande Festival da Coreia - Fotos | Multimédia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "2ª Cerimónia de Abertura do Grande Festival da Coreia - Fotos | Multimedia Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:09+00:00"
   },
   {
     "id": "5b09f9eac8aec3146d2a",
@@ -9777,11 +9902,11 @@
     "published_at": "2026-11-04T12:13:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O governo de Taiwan é atacado 2,8 milhões de vezes por dia por atacantes cibernéticos Yi Jing para revelar as 3 principais estratégias de proteção de segurança da informação - Epoch Times",
+    "translated_summary": "O governo taiwanês é atacado por 2,8 milhões de ataques cibernéticos todos os dias, revelando a era das três principais estratégias de proteção de segurança da informação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:12+00:00"
   },
   {
     "id": "591b4b25e8a8b679dd73",
@@ -9798,11 +9923,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "- Por que a Índia deveria depender dos outros? ': PM Modi anuncia impulso de lítio de Rs 2.814 crore - NewsDrum",
+    "translated_summary": "- Por que a Índia deveria depender dos outros? ': PM Modi anuncia Rs 2.814 crore lítio empurrar NewsDrum",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:15+00:00"
   },
   {
     "id": "814f5dedc3cd16821402",
@@ -9882,11 +10007,11 @@
     "published_at": "2026-11-04T11:31:48+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Derrota de meio de mandato de Trump: boas notícias ou novos problemas para o acordo comercial da Índia? - The Indian Express",
+    "translated_summary": "Derrota de meio de mandato de Trump: boas notícias ou novos problemas para o acordo comercial da Índia? The Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:17+00:00"
   },
   {
     "id": "07c7f539a2bedde3a10d",
@@ -9924,11 +10049,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A derrota de Trump no meio do ano aumenta as esperanças de alívio tarifário, mas a Índia ainda enfrenta riscos comerciais - explicam especialistas - Business Today",
+    "translated_summary": "A derrota de Trump no meio do ano aumenta as esperanças de alívio tarifário, mas a Índia ainda enfrenta riscos comerciais - explicam especialistas da Business Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:20+00:00"
   },
   {
     "id": "a37fe13a95bb53f9e9aa",
@@ -9943,11 +10068,11 @@
     "published_at": "2026-11-04T11:09:58+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Oposição do Sri Lanka se manifesta contra leis terroristas mais duras - Yahoo News Singapura",
+    "translated_summary": "Oposição do Sri Lanka se manifesta contra leis terroristas mais duras Yahoo News Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:22+00:00"
   },
   {
     "id": "1845366901ed54357096",
@@ -9962,11 +10087,11 @@
     "published_at": "2026-11-04T11:09:55+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Verbas rescisórias na indústria automobilística alemã: até 650.000 euros para partida antecipada - T-Online",
+    "translated_summary": "Verbas rescisórias na indústria automobilística alemã: até 650.000 euros para a saída antecipada da T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:25+00:00"
   },
   {
     "id": "ff76664326edf495a9ea",
@@ -10000,11 +10125,11 @@
     "published_at": "2026-11-04T11:04:34+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Trump enfraquecido pode aliviar a pressão dos EUA sobre a Índia nas negociações comerciais, mas a incerteza persistirá - BusinessLine",
+    "translated_summary": "Trump enfraquecido pode aliviar a pressão dos EUA sobre a Índia nas negociações comerciais, mas a incerteza para persistir BusinessLine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:28+00:00"
   },
   {
     "id": "5a40dc36fbdbad6d37f8",
@@ -10060,11 +10185,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Acordo comercial Índia-EUA: GJEPC espera que o resultado das eleições de meio de mandato dos EUA não atrapalhe as negociações da BTA - Fortune India",
+    "translated_summary": "Acordo comercial Índia-EUA: GJEPC espera que o resultado das eleições de meio de mandato dos EUA não atrapalhe as negociações da BTA Fortune India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:30+00:00"
   },
   {
     "id": "66012f2571d96dfd2027",
@@ -10121,11 +10246,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "JBM Electric Vehicles lança autocarro urbano Ecolife e12 em Singapura - ET Auto",
+    "translated_summary": "JBM Electric Vehicles lança autocarro urbano Ecolife e12 em Singapura ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:33+00:00"
   },
   {
     "id": "38e6a929b072651cc751",
@@ -10162,11 +10287,11 @@
     "published_at": "2026-11-04T10:18:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fórum de Sustentabilidade Zero Carbono/Honghua Avançado: Faça da força de fabricação de automóveis de Taiwan uma força para a transformação global líquida zero! - Mirror Weekly Mirror Media",
+    "translated_summary": "Fórum de Sustentabilidade Zero Carbono/Honghua Avançado: Faça da força de fabricação de automóveis de Taiwan uma força para a transformação global líquida zero! Mirror Weekly Mirror Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:35+00:00"
   },
   {
     "id": "71335cb0305fb2f3eea5",
@@ -10184,11 +10309,11 @@
       "Tarifas e comércio",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleições intercalares dos EUA têm impacto na Índia: negociações comerciais mais rápidas e tarifas mais altas são prováveis - The Hindu",
+    "translated_summary": "Eleições intercalares dos EUA afetam a Índia: negociações comerciais mais rápidas e tarifas mais altas provavelmente The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:38+00:00"
   },
   {
     "id": "2ebbd4298384584c0403",
@@ -10260,11 +10385,11 @@
     "published_at": "2026-11-04T09:52:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lucro da BMW diminui - cortes de empregos se expandem - Onetz",
+    "translated_summary": "Lucro da BMW diminui - cortes de empregos expandem Onetz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:41+00:00"
   },
   {
     "id": "f61cc264170196b74d77",
@@ -10281,11 +10406,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "U-POWER chega oficialmente na próxima semana com US $ 100 milhões investidos, US $ 2,5 milhões ganhos - TechNews",
+    "translated_summary": "U-POWER lança oficialmente a TechNews na próxima semana depois de investir US $ 100 milhões e ganhar apenas US $ 2,5 milhões",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:43+00:00"
   },
   {
     "id": "7c433f3fc5eefe6c184d",
@@ -10319,11 +10444,11 @@
     "published_at": "2026-11-04T09:48:48+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia vê algum alívio comercial, novos riscos após a varredura democrata - Bloomberg.com",
+    "translated_summary": "Índia vê algum alívio comercial, novos riscos após a varredura democrata Bloomberg.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:46+00:00"
   },
   {
     "id": "b6f0659dc95e603cc630",
@@ -10360,11 +10485,11 @@
     "published_at": "2026-11-04T09:31:18+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A receita da Servotech Renewable Q2 aumenta 57%, o lucro consolidado salta para Rs 9,75Cr - BW Auto World",
+    "translated_summary": "A receita da Servotech Renewable Q2 aumenta 57%, o lucro consolidado salta para Rs 9,75 Cr BW Auto World",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:48+00:00"
   },
   {
     "id": "b1cc23c2260c82b63267",
@@ -10379,11 +10504,11 @@
     "published_at": "2026-11-04T09:30:33+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia enfrenta nova incerteza comercial após ganhos de meio de mandato dos democratas nos EUA - Moneycontrol.com",
+    "translated_summary": "A Índia enfrenta novas incertezas comerciais após os ganhos de médio prazo dos democratas no US Moneycontrol.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:51+00:00"
   },
   {
     "id": "54f6c45e36703f29ae6e",
@@ -10398,11 +10523,11 @@
     "published_at": "2026-11-04T09:30:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Apenas 2,5 milhões de receita das 100 milhões de estações de queima! A margem de lucro bruto da U-POWER aumentou 16% nos últimos 3 anos, então por que a \"taxa de ocupação de 12%\" se tornou a chave para realizá-la? - Era digital",
+    "translated_summary": "Apenas 2,5 milhões de receita das 100 milhões de estações de queima! A margem de lucro bruto da U-POWER aumentou 16% nos últimos 3 anos, então por que a \"taxa de ocupação de 12%\" se tornou a chave para realizá-la? Era digital",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:53+00:00"
   },
   {
     "id": "8b5d1583b8d2a7692361",
@@ -10419,11 +10544,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fórum de Sustentabilidade Zero Carbono/Honghua Advanced Laughs Sobre Veículos Elétricos como \"Produtos Budistas\"! Venda mais, reduza mais - Mirror Weekly Mirror Media",
+    "translated_summary": "Fórum de Sustentabilidade Zero Carbono/Honghua Advanced Laughs Sobre Veículos Elétricos como \"Produtos Budistas\"! Vender mais Descarbonizar mais Mirror Weekly Mirror Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:56+00:00"
   },
   {
     "id": "a56988cd0012431f141f",
@@ -10483,11 +10608,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Segundo carro elétrico da Maruti Suzuki a estrear em 2027: pode ser um novo MPV - CarLelo",
+    "translated_summary": "Segundo carro elétrico da Maruti Suzuki a estrear em 2027: pode ser um novo MPV CarLelo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:32:59+00:00"
   },
   {
     "id": "10c7642a864790f8b8dc",
@@ -10605,11 +10730,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "De 1.870.000 Mercedes CLAs! Contra-ataque de mudança da plataforma BMW iX3, pode sacudir a Tesla? | Embaralhamento de Veículos Elétricos: Como Escolher o Próximo? - Yahoo - Moto",
+    "translated_summary": "De 1.870.000 Mercedes CLAs! Contra-ataque de mudança da plataforma BMW iX3, pode sacudir a Tesla? | Embaralhamento de Veículos Elétricos: Como Escolher o Próximo? Yahoo - Motos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:01+00:00"
   },
   {
     "id": "66a52b7aa3d46fe7c3dc",
@@ -10626,11 +10751,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Congresso dos EUA reorganiza a política de Taiwan? Scholar reveals key: diplomatic team must strike - Freedom Times",
+    "translated_summary": "O Congresso dos EUA reorganiza a política de Taiwan? Scholar Reveals Key: Diplomatic Team Must Hit The Freedom Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:04+00:00"
   },
   {
     "id": "9267f2a97c628e75047c",
@@ -10645,11 +10770,11 @@
     "published_at": "2026-11-04T08:41:00+00:00",
     "first_seen_at": "2026-11-06T18:36:56+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Washington's Midterm Polls: Wither India's trade deal and economic risks? - The Statesman",
+    "translated_summary": "Washington's Midterm Polls: Wither India's trade deal and economic risks? The Statesman",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:06+00:00"
   },
   {
     "id": "979585702f6b59475a77",
@@ -10709,11 +10834,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "HizonSun expande a fabricação de carregadores de veículos elétricos OEM e ODM para marcas globais - EIN NEWS",
+    "translated_summary": "HizonSun Expande Fabricação de Carregadores de Veículos Elétricos OEM e ODM para Marcas Globais EIN NEWS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:09+00:00"
   },
   {
     "id": "f6257664895ae8a568b1",
@@ -10730,11 +10855,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Registro Republicado pelo Estado do Presidente da Turquia - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Diário Republicado pelo Estado do Presidente da Turquia - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:11+00:00"
   },
   {
     "id": "e16d0a028e6d806974c2",
@@ -10772,11 +10897,11 @@
       "Tarifas e comércio",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Preocupado com a erosão de 2,2 trilhões de exportações de carros coreanos em 2030 na ofensiva de carros elétricos da China, Han Kyung-hyup diz que \"o crédito fiscal de produção doméstica deve ser aplicado\" - Business Post",
+    "translated_summary": "Ofensiva de carros elétricos da China preocupa a erosão de 2,2 trilhões de exportações de automóveis coreanos em 2030, Han Kyung-hyup \"Crédito fiscal de produção doméstica deve ser aplicado\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:33:14+00:00"
   },
   {
     "id": "e7270d768c4b59012f28",
@@ -11134,6 +11259,26 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "6200b15fb80162871107",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Heidenheimer Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWQwV0FmV3dTLWZUVVIyMi1UUXVBMVBnYVhJNnc3TUdXTXlDa2E3d253QlpDa3pvQ0RNUGVBV2NnRWwwN0NiQUIxQ0gtOTZhTWxwTDBJd25kNWJGemhjX3BiTk9QbFA4RXlpT2o5d3NVbHh3c1hfNFpnZHM0MUsxOE9LQnVMVkRndmJCRlozZXZxNVls?oc=5",
+    "original_title": "Gewinn von BMW schrumpft - und es wird noch schlimmer - Heidenheimer Zeitung",
+    "original_summary": "Gewinn von BMW schrumpft - und es wird noch schlimmer Heidenheimer Zeitung",
+    "published_at": "2026-11-04T06:31:00+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Lucro da BMW diminui - e piora - Heidenheimer Zeitung",
+    "translated_summary": "Lucro da BMW diminui - e piora Heidenheimer Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:42+00:00"
   },
   {
     "id": "28f0324a0b55da87fded",
@@ -12811,6 +12956,26 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "b58070543da8eee92c1d",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnNGbm5tS1pzUlBLblJ0dXNDZHk0bV9IVXFOTmM4YkF1aFpZSmphTkIzN0MwdGR5YV9oUVAyV0E1TFJuMHQ1RWNyQmFTbmpwMGh3V01PSUtBY0VfVXg2S0tJQm9uQldyT0F6aEtvRDhySHVTTEF5SFhVUjROZGJ2dG5EblJlMllHWlFGY0k1bEdhWjFKSFd2MHYza2VsbkZDQnc?oc=5",
+    "original_title": "How Singapore has become a leading force in tech innovation - Singapore Economic Development Board (EDB)",
+    "original_summary": "How Singapore has become a leading force in tech innovation Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-03T08:00:00+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Como Singapura se tornou uma força líder em inovação tecnológica - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Como Singapura se tornou uma força líder em inovação tecnológica Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:45+00:00"
+  },
+  {
     "id": "e1d42d7220bf45b7d847",
     "country": "Singapura",
     "category": "Política",
@@ -14114,6 +14279,29 @@
     "translated_summary": "Macroscópio: a \"proximidade com a China e a Coreia\" do Japão teme mudanças nas eleições de meio de mandato dos EUA e na diplomacia de Trump Reuters",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T06:03:18+00:00"
+  },
+  {
+    "id": "5d2d7a45335175951165",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Main-Post",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaFRqWVRHTFJuRHRmdWI1amN4OXYwTnZzWTV3MjVlZXVSd0duVV9BTmVjaEw4ZWdWd1NmQ3VrNHUtdmhsdjJZTU8xRHZMRWZ6RGx1SkxXRFFXS2V0akVVM2VTQk8xdEZHb0xWS0NmX2s3RWpMeGd4OFplbHpNNi1FQkFsdUdTVFVWTXFHQzhzdzNKOXpDVnQxSUk5LUdnZURoUnc4aG1SNWltNGRZTXkxX3R5aXk5cGduZFJWRTBsTWV4dDN1TDZZVmY1aWwtTEg0RkpmbXdnSUFEUW03RVlRS0xXLTBUT254Vm56V1NVMUhER19VdVBMTW1DNElHUjF6Z3c?oc=5",
+    "original_title": "Königsberg: Warnstreik in Königsberg: Beschäftigte der Fränkischen, Bosch Rexroth und Elso gehen auf die Straße - Main-Post",
+    "original_summary": "Königsberg: Warnstreik in Königsberg: Beschäftigte der Fränkischen, Bosch Rexroth und Elso gehen auf die Straße Main-Post",
+    "published_at": "2026-11-02T04:00:00+00:00",
+    "first_seen_at": "2026-11-06T21:31:16+00:00",
+    "topics": [
+      "Emprego e reorganização",
+      "Bosch Rexroth"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Königsberg: Greve de advertência em Königsberg: funcionários da Francônia, Bosch Rexroth e Elso saem às ruas - Main-Post",
+    "translated_summary": "Königsberg: Greve de advertência em Königsberg: funcionários da Francônia, Bosch Rexroth e Elso tomam a estrada do Posto Principal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-06T21:31:53+00:00"
   },
   {
     "id": "6d12be7a36a2dda1ca7e",
