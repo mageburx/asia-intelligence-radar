@@ -1,5 +1,69 @@
 [
   {
+    "id": "4d22d1cb2dc23969ca34",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnNFekZPMWlZZXNGcWZKcTZKQUdVcEgzRnJTSDBwQ0FTaUtVWVB4Y1NxMUNnQ0lyNUdMVDJaeVRnT09EbS1na1JyNXA0ZUdYZVpydE5BbWFELWt3SDRhejZJR1dpQWI4NC1ZaGVVUjFpSnlRTEJKNkJwWEFlUVpqSWVLcWcxSmM1a1dra2s4UjVZSm5tY3J1RlFRcGY0cHVkZzNDMkk5ZUo5bUtVcElzdg?oc=5",
+    "original_title": "12 Euro pro Schachtel? Bundestag beschließt höhere Tabaksteuer - Panorama - SZ.de - SZ.de",
+    "original_summary": "12 Euro pro Schachtel? Bundestag beschließt höhere Tabaksteuer - Panorama - SZ.de SZ.de",
+    "published_at": "2026-11-07T15:17:38+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "12 euros por caixa? Bundestag adota maior imposto sobre o tabaco - Panorama - SZ.de - SZ.de",
+    "translated_summary": "12 euros por caixa? Bundestag adota maior imposto sobre o tabaco - Panorama - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:51+00:00"
+  },
+  {
+    "id": "7968dafc0aa2a83ba5be",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/07/byd-yangwang-altior-debuts-with-rolls-royce-style-coach-doors-and-5-5-metre-body/",
+    "original_title": "BYD Yangwang Altior debuts with Rolls-Royce-style coach doors and 5.5-metre body",
+    "original_summary": "BYD's Yangwang Altior debuts in Abu Dhabi with near-90-degree coach doors, an integrated umbrella holder and a four-seat luxury cabin. The post BYD Yangwang Altior debuts with Rolls-Royce-style coach doors and 5.5-metre body appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-07T15:06:35+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BYD Yangwang Altior estreia com portas estilo Rolls-Royce e carroceria de 5,5 metros",
+    "translated_summary": "Yangwang Altior, da BYD, estreia em Abu Dhabi com portas de ônibus de quase 90 graus, um porta-chuva integrado e uma cabine de luxo de quatro lugares. O post BYD Yangwang Altior estreia com portas de ônibus estilo Rolls-Royce e corpo de 5,5 metros apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:42+00:00"
+  },
+  {
+    "id": "cb7758871022c6ce1630",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "A Bola",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTJzb1NOang4QW5kOUVHWC1TOGVXWHBWSWYxald5SXQxRnljcVpEVkJ5bzJhOGVOVExsQ2x5dThtM3ByMU5KN2d4dHNfWklDSzNKM3B2ZUI4dC1CX1lkd1d3bl9xT2xrZUlLZHV4Z2l2bWtRYkxTNnp5QnJrRmlrUmg5SHY0NDhxanl6NmlONFRHdTk2Z2tkNjl6eVUtOWRMNmh5MzFDczd3V2dpVFE?oc=5",
+    "original_title": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» - A Bola",
+    "original_summary": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» A Bola",
+    "published_at": "2026-11-07T14:55:00+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» - A Bola",
+    "translated_summary": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» A Bola",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:44:05+00:00"
+  },
+  {
     "id": "e2a9802104b0a1937777",
     "country": "Bosch",
     "category": "Pessoas",
@@ -62,6 +126,50 @@
     "translated_summary": "Uma década depois de hospedar um Barack Obama politicamente prejudicado em uma cúpula do Grupo dos 20 (G20) em Hangzhou, a China está se preparando para receber outro presidente dos EUA para uma reunião multilateral: Donald Trump. Após a perda dos republicanos de ambas as câmaras do Congresso dos EUA nas eleições de meio de mandato na terça-feira – uma dificuldade que atingiu profundamente os estados historicamente vermelhos – Trump deve se encontrar com o presidente chinês Xi Jinping em duas semanas na",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T14:47:21+00:00"
+  },
+  {
+    "id": "634fd92e38b5233a6464",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "日刊スポーツ",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZy1KejVMZVNCbUMwNWdnZTBvYzZ1Z0tibFlreHozME1PdnhqYU1YNElXVUdJSDdyQmIyNi01Nlc5S1NoVkh6SkhFVEpVbFVQU3FOY0RKbm5ZbjBJclJKbVdaN2w5dU9hNGxKazdYbWXSAXhBVV95cUxPLUZDWEowRENXQUVfd1FJVllqMExLYmQ1S3R1V0Zsdy1xNlJjQklXSjdKdlFUOHZrSTJndEw4MVdMMlV5UFRhSkZBcWZ6WlJMdG9fZHc5ZEcwcEFOY1lYVk1uM29tV2NyY3NKZEQxazFQaEFxanhybUw?oc=5",
+    "original_title": "【社会人野球】東京ガス、東芝、ホンダが日本選手権８強入り - 日刊スポーツ",
+    "original_summary": "【社会人野球】東京ガス、東芝、ホンダが日本選手権８強入り 日刊スポーツ",
+    "published_at": "2026-11-07T13:58:13+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Beisebol Adulto] Tokyo Gas, Toshiba e Honda entram no Top 8 do Campeonato Japonês - Nikkan Sports",
+    "translated_summary": "[Beisebol adulto] Tokyo Gas, Toshiba e Honda entram no Top 8 Daily Sports do Campeonato do Japão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:45+00:00"
+  },
+  {
+    "id": "336268c457bfa49b6a96",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "klimareporter°",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90S2V1cGs2TGQ5QnJxb04yX0RFNmNwemdXLVpHSmgxTWw0NDJ0ZGJqaVNtVkJNY1J2QXdiVzJnXzBIZUUtMnhrUHg5YnhuWkUtMDhqaG1YTHYzTkJmMm43SlRaMDh4OXU5Mm9VZVpCRGZJNzFKOUs4eg?oc=5",
+    "original_title": "\"Elektroautos machen den Strom billig\" - klimareporter°",
+    "original_summary": "\"Elektroautos machen den Strom billig\" klimareporter°",
+    "published_at": "2026-11-07T13:54:42+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Carros elétricos barateiam a eletricidade\" - klimareporter°",
+    "translated_summary": "\"Carros elétricos barateiam a eletricidade\" repórter climático °",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:54+00:00"
   },
   {
     "id": "000f1264e955d92c1a63",
@@ -1599,6 +1707,28 @@
     "last_translation_attempt_at": "2026-11-07T05:52:10+00:00"
   },
   {
+    "id": "31608b0320921568cbbb",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中央社 CNA",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HZVNQU3VOdHhWVjdDVmUwRU9kWWNHMW4xSXNNaVFXOFY0WGdOekdLM2RYclBLR01LWTVjcjV3ZDNfSHlDQzZjcVdRLW83cUxHbEtYWGE3MndjX2dIa0lj?oc=5",
+    "original_title": "外媒團來訪 外交部：盼各國支持台灣入CPTPP - 中央社 CNA",
+    "original_summary": "外媒團來訪 外交部：盼各國支持台灣入CPTPP 中央社 CNA",
+    "published_at": "2026-11-07T02:54:00+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Delegação de Mídia Estrangeira Visita o Ministério das Relações Exteriores: Olhando para os Países para Apoiar a Entrada de Taiwan no CPTPP - Agência Central de Notícias CNA",
+    "translated_summary": "Delegação dos Meios de Comunicação Estrangeiros Visita o Ministério dos Negócios Estrangeiros: Olhando para os Países para Apoiar a Entrada de Taiwan na Agência Central de Notícias do CPTPP CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:44:03+00:00"
+  },
+  {
     "id": "1d4ed5290d533f0d2141",
     "country": "Índia",
     "category": "Política",
@@ -1828,6 +1958,28 @@
     "translated_summary": "A primeira-ministra japonesa, Sanae Takaichi, enfrentou uma reação online depois de escrever um post nas redes sociais celebrando a caligrafia shodo do Japão sem mencionar suas raízes chinesas. Na quinta-feira, a Unesco divulgou as indicações deste ano para inclusão em sua Lista Representativa do Patrimônio Cultural Imaterial da Humanidade. As 59 indicações submetidas à consideração para a lista do órgão cultural da ONU incluem culinária chinesa, a tradicional jota mus da Espanha",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:02:51+00:00"
+  },
+  {
+    "id": "e37ab5be3a9d2cf00ca5",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SaUQwRDZpUnI5aFVNeWZlTUx6WWVNT1k4RE9fTWxYVzJ2MFZWd3gtYkdmQ0hOMHA0N2diMXNnZEpic2xuV0hfbnprOVVFRmZZLWxSWll2X1pCRERpVWYxcQ?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-07T00:32:06+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:48+00:00"
   },
   {
     "id": "1e938b7a5d969f0c7a1a",
@@ -9382,6 +9534,26 @@
     "last_translation_attempt_at": "2026-11-07T01:46:18+00:00"
   },
   {
+    "id": "5270224dc91ffd42d6df",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BYUlTUDBXYTBnNGZrVkV4M1ZhVHBJVS1zRU04QS0xYmNPWkI1Si1xSHdQSlJMQlY1ZG1MTGhzaU1na1I3QTJhTmFiOUJENExn?oc=5",
+    "original_title": "포천시, 제23회 대한민국 평생학습대상 ‘대상’ 수상 - 문화일보",
+    "original_summary": "포천시, 제23회 대한민국 평생학습대상 ‘대상’ 수상 문화일보",
+    "published_at": "2026-11-05T21:56:22+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A cidade de Pocheon ganha o \"Grande Prémio\" no 23º Prémio de Aprendizagem ao Longo da Vida da Coreia - Culture Ilbo",
+    "translated_summary": "Pocheon-si, 23º Grande Prémio de Aprendizagem ao Longo da Vida da Coreia \"Grande Prémio\" Cultura Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:44:00+00:00"
+  },
+  {
     "id": "7fb6c550c67bbcb84537",
     "country": "Bosch",
     "category": "Portugal",
@@ -16660,6 +16832,26 @@
     "translated_summary": "U-POWER lança oficialmente a TechNews na próxima semana depois de investir US $ 100 milhões e ganhar apenas US $ 2,5 milhões",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:32:43+00:00"
+  },
+  {
+    "id": "4b1054e8d1fdbded097a",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "inFranken.de",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3dGOW14Yk9kUkNZdVNVeTRiSm9KNVJ1aFVIektDejhmdjNwZ1NLUjBkdy1KbWxfY20zOWUxSWlFS29MTUpIQjJkLUJ5MkxrWFdJR0hsUjJPNnF6RnlLN0RNQi1Vc1FMRjV3TmQ3cHd4aFRDbU1xSkxLNXRUVXFOUm1kbWtWVGpEaHd0QjhPOEhPTFdQd2JyalpETE9veHEtR2c?oc=5",
+    "original_title": "Gewinn von BMW schrumpft - Jobabbau wird ausgeweitet - inFranken.de",
+    "original_summary": "Gewinn von BMW schrumpft - Jobabbau wird ausgeweitet inFranken.de",
+    "published_at": "2026-11-04T09:51:00+00:00",
+    "first_seen_at": "2026-11-07T15:43:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os lucros da BMW estão a diminuir - os cortes de empregos estão a ser expandidos - inFranken.de",
+    "translated_summary": "O lucro da BMW está diminuindo - os cortes de empregos estão sendo expandidos emFranken.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T15:43:57+00:00"
   },
   {
     "id": "7c433f3fc5eefe6c184d",
