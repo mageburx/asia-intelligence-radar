@@ -8241,6 +8241,28 @@
     "last_translation_attempt_at": "2026-11-06T02:05:35+00:00"
   },
   {
+    "id": "23a3cd55e53cbb845136",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0piYWNkWE9waGN3MUZvVXV0c3BWRWpmdjRMeXVtX0tobFNqdXFTeUFMTGp6b3V4QjhCN3hfYVNtVlNUcjcwZk9lOVBzNl8xSUtDZ2ExbFlYc2xqemxUb0FiM29ZUkJNVUdkLXBqeUh0MVVCMVBqMEdxZFA5MDJrWFdPYno1SnNJRC1sR3VSa25sS3ZP?oc=5",
+    "original_title": "Pflege und Führerschein: Bundestag berät über Reformpläne - ZDFheute",
+    "original_summary": "Pflege und Führerschein: Bundestag berät über Reformpläne ZDFheute",
+    "published_at": "2026-11-05T14:01:00+00:00",
+    "first_seen_at": "2026-11-07T01:59:45+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Cuidados e carteira de motorista: Bundestag aconselha sobre planos de reforma - ZDFheute",
+    "translated_summary": "Cuidados e carteira de motorista: Bundestag aconselha sobre planos de reforma ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:06+00:00"
+  },
+  {
     "id": "469e7651c1049f82754b",
     "country": "China",
     "category": "Política",
@@ -14350,11 +14372,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Epsilon lança material de ânodo de silício-grafite, tem como alvo uma faixa de EV até 30% maior",
+    "translated_summary": "O material Epsil recém-lançado tem uma capacidade reversível de 600–650 mAh/g e é projetado para suportar taxas de carregamento de 1C–5C, permanecendo compatível com as linhas de produção de células de bateria existentes.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:11+00:00"
   },
   {
     "id": "5db809b78a8553db13bc",
@@ -14415,11 +14437,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vendas de veículos importados saltam 29,3% em outubro com forte demanda de veículos elétricos",
+    "translated_summary": "As vendas de veículos importados na Coreia do Sul aumentaram 29,3% em outubro em relação ao ano anterior, impulsionadas pela demanda robusta por veículos elétricos (VEs), mostraram dados da indústria na quarta-feira. Os novos registros aumentaram para 31.117 unidades no mês passado, de 24.064 no ano anterior, de acordo com a Associação de Importadores e Distribuidores de Automóveis da Coreia (KAIDA). Os três carros importados mais vendidos foram o Tesla Model Y Premium, o Mercedes-Benz E200 e o Tesla Model",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:15+00:00"
   },
   {
     "id": "9210723bebed6d43e477",
@@ -15023,6 +15045,28 @@
     "last_translation_attempt_at": "2026-11-06T23:12:19+00:00"
   },
   {
+    "id": "1cdabcdaafca38df4613",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lX0Q2dlFBSWVUVEdWX2ZYUVFjUnVUdzhERXVKU2Q2QXpGVFpKUWZpQnFURVlYR3NSMEpUYUpoaURhRUJfVzRtdGdITmJsVVJtY2xRa2N3?oc=5",
+    "original_title": "타이어부터 배터리·열관리 총출동…한국앤컴퍼니, 북미 애프터마켓 공략 - 지디넷코리아",
+    "original_summary": "타이어부터 배터리·열관리 총출동…한국앤컴퍼니, 북미 애프터마켓 공략 지디넷코리아",
+    "published_at": "2026-11-04T04:21:32+00:00",
+    "first_seen_at": "2026-11-07T01:59:45+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Total de Pneus para Bateria e Gerenciamento de Calor... Coreia e Alvos da Empresa no Mercado de Pós-Venda Norte-Americano - ZDNet Coreia",
+    "translated_summary": "De pneus a bateria e gerenciamento de calor Total de saída... A Korea & Company tem como alvo o mercado de reposição norte-americano ZDNet Korea",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:09+00:00"
+  },
+  {
     "id": "787f7e325b9e55fdae80",
     "country": "Bosch",
     "category": "Indústria",
@@ -15281,11 +15325,11 @@
     "published_at": "2026-11-04T02:55:17+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lucro líquido da Minda Corporation no segundo trimestre salta 69% para ₹ 143 crore, receita aumenta 43%",
+    "translated_summary": "Os produtos relacionados a veículos elétricos representam 35% dos ganhos de novos pedidos; o lucro líquido do H1 aumenta 133% para ₹ 349 crore.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:18+00:00"
   },
   {
     "id": "bedb3f51143a5f127a82",
@@ -15301,11 +15345,11 @@
     "published_at": "2026-11-04T02:50:44+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O lucro líquido da ASK Automotive no segundo trimestre aumenta 27% para ₹ 102 crore, a receita salta 47,5%",
+    "translated_summary": "A empresa registra receita trimestral recorde, EBITDA e lucro após impostos no segundo trimestre do ano fiscal de 2017; o lucro líquido do primeiro semestre aumenta 28% para ₹ 187 crore.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:20+00:00"
   },
   {
     "id": "373749afa89f84ea3fc0",
@@ -15633,11 +15677,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Sitzung des Nationalen Sicherheitsrates em novembro de 2026",
+    "translated_summary": "O porta-voz do Governo Federal, Stefan Kornelius, disse:",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:23+00:00"
   },
   {
     "id": "a6fc05fe2a3ec3520ba8",
@@ -15779,11 +15823,11 @@
       "Veículos elétricos",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A BorgWarner garante vários pedidos de eMotor na China para veículos elétricos e programas híbridos",
+    "translated_summary": "Os três prémios empresariais abrangem aplicações de veículos de autonomia alargada, elétricos a bateria e híbridos, com produção prevista para começar entre 2027 e 2028.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:25+00:00"
   },
   {
     "id": "439b6695721fa5d370d1",
@@ -16360,11 +16404,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Deputados europeus na Conferência Interparlamentar sobre a Política Externa e de Segurança Comum em Dublin",
+    "translated_summary": "Uma delegação de três membros do Bundestag participará na Conferência Interparlamentar sobre a Política Externa e de Segurança Comum e a Política Comum de Segurança e Defesa (IPC PESC/PCSD) de 4 a 6 de novembro, para a qual o Parlamento irlandês convidou para Dublim. Além das prioridades e estratégias da PESC e da PCSD, trata do ataque da Rússia à Ucrânia, da resposta da Europa à escalada",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:28+00:00"
   },
   {
     "id": "daee06d25781518e56ba",
@@ -16788,11 +16832,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
+    "translation_status": "translated",
+    "translated_title": "Foto: Presidente do Bundestag Julia Klöckner recebe o Rei Tupou VI e a Rainha Nanasipau ’u de Tonga",
     "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:31+00:00"
   },
   {
     "id": "8a22218767053221feea",
@@ -17336,11 +17380,11 @@
     "published_at": "2026-11-02T16:48:25+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lucro líquido da Amara Raja cai 45% para ₹ 152 crore no segundo trimestre",
+    "translated_summary": "A receita consolidada de operações da empresa aumentou 18,5% ano a ano, para ₹ 4.108,71 crore no segundo trimestre do ano fiscal de 2017.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:33+00:00"
   },
   {
     "id": "53b0f0aec94ea72b4f3f",
@@ -17626,11 +17670,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 começa a entrega - Veículo Elétrico DDCAR",
+    "translated_summary": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 inicia entrega de veículos elétricos DDCAR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:36+00:00"
   },
   {
     "id": "1110c82be1be1209d184",
@@ -18085,11 +18129,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Acreditação anual 2027 para relatórios político-parlamentares do Bundestag alemão",
+    "translated_summary": "De agora até sexta-feira, 11 de dezembro de 2026, os representantes da mídia podem solicitar o credenciamento anual de 2027 para relatórios político-parlamentares permanentes do Bundestag alemão. O credenciamento anual de 2026 é válido até o final de fevereiro de 2027. O pré-requisito para a concessão de uma acreditação anual é, em princípio, a prova de relatórios constantes do Bundestag alemão (confirmação de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:39+00:00"
   },
   {
     "id": "9e9f90d072f31f0ad073",
@@ -18169,11 +18213,11 @@
     "topics": [
       "Honda"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Maxop Engineering compra participação majoritária na Faith Automation",
+    "translated_summary": "Tem receitas de cerca de ₹ 300 crore. Seus clientes incluem Honda, Mahindra & Mahindra e Stellantis. A equipa fundadora da empresa, liderada por Nilesh Pandhare e seis dos seus colegas, trabalhou anteriormente na empresa italiana Comau, que fazia parte da Stellantis.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:42+00:00"
   },
   {
     "id": "b46df816de38554a42b2",
@@ -18746,11 +18790,11 @@
     "published_at": "2026-11-01T07:04:41+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Sona Comstar aumentará os investimentos anuais para além de ₹ 600 crore à medida que expande as capacidades",
+    "translated_summary": "A fabricante de componentes automotivos está aumentando os gastos em P&D, capacidade e novas tecnologias; garantiu pedidos no valor de ₹ 3.600 crore no segundo trimestre do ano fiscal de 2017 e comercializou três novos produtos durante o trimestre.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:45+00:00"
   },
   {
     "id": "47add40f41064426914e",
@@ -19217,11 +19261,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministro de Estado Weimer apoia a conversão de Kampnagel com até 60 milhões de euros: \"O que está acontecendo em Kampnagel é realmente de classe mundial\"",
+    "translated_summary": "O Ministro de Estado da Cultura Wolfram Weimer participou hoje na cerimónia oficial de abertura de terra para a expansão e renovação da International Production House Kampnagel em Hamburgo. A BKM apoia as medidas de construção com até 60 milhões de euros em financiamento. Ministro de Estado da Cultura Weimer: \"Kampnagel é o maior projeto de construção de subvenções da minha casa este ano. E isso é particularmente merecido, porque este lugar teve excelentes",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:48+00:00"
   },
   {
     "id": "427ce165ce82c876015d",
@@ -19239,11 +19283,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Visita do presidente lituano Gitanas Nausėda a Berlim",
+    "translated_summary": "O vice-porta-voz do Governo Federal, Sebastian Hille, anuncia:",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:51+00:00"
   },
   {
     "id": "061112eadc5454fd176e",
@@ -19261,11 +19305,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
+    "translation_status": "translated",
+    "translated_title": "Nomeação fotográfica: Presidente do Bundestag Julia Klöckner recebe o Presidente da República da Lituânia, Gitanas Nausėda",
     "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:54+00:00"
   },
   {
     "id": "5e13c9a2f066ef33153f",
@@ -19281,11 +19325,11 @@
     "published_at": "2026-10-30T02:54:29+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Wheels India espera que o crescimento continue no segundo semestre",
+    "translated_summary": "Na frente doméstica, automóveis de passageiros, camiões e tractores beneficiaram de condições de mercado favoráveis.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:56+00:00"
   },
   {
     "id": "29774a3b771309644ace",
@@ -19301,11 +19345,11 @@
     "published_at": "2026-10-29T14:04:11+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bundeskanzler Merz zum UE-Canadá-Gipfel:",
+    "translated_summary": "\"Com a cimeira, a União Europeia e o Canadá estão a estabelecer uma \"Aliança para o Futuro\". Nós, europeus, não só estamos a abrir um capítulo completamente novo nas relações com um dos nossos aliados mais próximos, como também estamos a entrar numa ligação única com um parceiro fora da UE. Esse movimento é baseado em valores compartilhados e uma base profunda de confiança que nos conecta em um mundo cada vez mais incerto.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:00:59+00:00"
   },
   {
     "id": "b2d893661317b2dacc14",
@@ -19323,11 +19367,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Chanceler Federal Friedrich Merz comenta a saída da Presidente do BCE Christine Lagarde:",
+    "translated_summary": "\"Christine Lagarde liderou o Banco Central Europeu soberanamente em tempos difíceis. A estabilidade do euro e a independência do banco central estavam em boas mãos com ela. Em nome do Governo Federal, gostaria de agradecer a Christine Lagarde por isso. Inicia-se agora o processo de ocupação previsto no Tratado da UE, que completaremos com os Chefes de Estado e de Governo da zona euro até ao final do ano.”",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:01:02+00:00"
   },
   {
     "id": "e9854f68075387598ff4",
@@ -19345,11 +19389,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lucro da Sundaram Fasteners H1 sobe 12% para ₹ 310 cr com maior receita",
+    "translated_summary": "Estimulada pela demanda favorável dos clientes, a empresa registrou exportações de ₹ 530,95 crore no trimestre encerrado em 30 de setembro de 2026, contra ₹ 338,02 crore no período de julho a setembro do ano anterior, marcando um crescimento de 57%, disse a empresa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:01:05+00:00"
   },
   {
     "id": "5066349cb35e08880613",
@@ -19365,11 +19409,11 @@
     "published_at": "2026-10-28T18:04:20+00:00",
     "first_seen_at": "2026-11-06T23:10:46+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Uno Minda lança subwoofer sob o assento com potência de 200W RMS a ₹ 13.999",
+    "translated_summary": "O subwoofer ativo de 10 polegadas possui controles de graves ajustáveis e um design sob o assento para preservar o espaço da bagageira.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:01:07+00:00"
   },
   {
     "id": "200a1a9cc093193e0698",
@@ -19387,11 +19431,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Moriroku Technology India conclui expansão da fábrica de Kaharani no Rajastão com novas instalações de moldagem e pintura em larga escala",
+    "translated_summary": "Os novos edifícios de produção estão equipados com uma linha de pintura robótica de última geração e uma máquina de moldagem por injeção elétrica de 3.500 toneladas, aumentando a capacidade de produção da MTI em aproximadamente 30%.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:01:10+00:00"
   },
   {
     "id": "039600c3f4c1fc5c88bc",
@@ -19409,10 +19453,10 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Audiências públicas e reuniões de comissões na semana da reunião de 2 a 6 de novembro",
+    "translated_summary": "Segunda-feira, 2 de novembro de 2026 12h30: Comissão de Assuntos Econômicos e Energia - Expansão da energia eólica no mar (Paul-Löbe-Haus, sala de reuniões 4 600) 13h30: Comissão de Defesa – Lei de Aceleração da Infraestrutura das Forças Armadas Federais (Paul-Löbe-Haus, sala de reuniões 2 600) 14h00: Comissão do Trabalho e Assuntos Sociais - Fortalecimento da negociação coletiva (Paul-Löbe-Haus, sala de reuniões E 200) 14h00: Comissão de Inquérito \"Reavaliação da pandemia do coronavírus e lições para",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:01:13+00:00"
   }
 ]
