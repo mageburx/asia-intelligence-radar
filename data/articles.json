@@ -1,5 +1,69 @@
 [
   {
+    "id": "e2a9802104b0a1937777",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Anwalt.de",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGhoRHFXcUwtdngtelI0dlZnYWVJbXB5TW5xOTBaQ3BkRnZ5a0ZOOGpsSGpVMGxybEFNOVhWTXA5dTJqYUF4d1NBLTR5QXJwODJ2VTBtbEZJQm9ESTg5Rk5OSF9feWJqZWZkalR2SWVTRzlCQ1BvdUloMXJNdGttQ2x1Rk1nblZHSHB6WlRnQTRXSDFQWER3VDFUeTBxbFZGUmIyOFRJOEJtYjB1M1lTdW5Xd0UzNHJhMWNaMWUycTl3dDgzdFBMYVQxRFFXTkRaOVlqRkRVeWVtZHIwSGJDSU9Ecm5VWlhpWTlmTw?oc=5",
+    "original_title": "Bosch baut in Abstatt weitere 750 Stellen ab – Kündigung, Abfindung und Sozialplan: Was Arbeitnehmern jetzt hilft - Anwalt.de",
+    "original_summary": "Bosch baut in Abstatt weitere 750 Stellen ab – Kündigung, Abfindung und Sozialplan: Was Arbeitnehmern jetzt hilft Anwalt.de",
+    "published_at": "2026-11-07T14:19:31+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bosch corta mais 750 postos de trabalho na Abstatt – Plano de desligamento, desligamento e demissão: O que ajuda os funcionários agora - Anwalt.de",
+    "translated_summary": "Bosch corta mais 750 empregos em Abstatt – plano de demissão, desligamento e demissão: o que agora ajuda os funcionários da Anwalt.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:18+00:00"
+  },
+  {
+    "id": "155f7eeb1f27bd0f9cc8",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/07/byd-fang-cheng-bao-confirms-tai-6-formula-sl-2027/",
+    "original_title": "BYD Fang Cheng Bao confirms Tai 6 model, Formula SL expected in 2027",
+    "original_summary": "The Tai 6 was mentioned for the first time by an executive at Fang Cheng Bao, but no details were disclosed. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-07T14:05:40+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BYD Fang Cheng Bao confirma modelo Tai 6, Fórmula SL esperada em 2027",
+    "translated_summary": "O Tai 6 foi mencionado pela primeira vez por um executivo da Fang Cheng Bao, mas nenhum detalhe foi divulgado. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:06+00:00"
+  },
+  {
+    "id": "59c6b5b3317882658e06",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president",
+    "original_title": "History repeats in Shenzhen? China hosts another lame-duck US president",
+    "original_summary": "A decade after hosting a politically hobbled Barack Obama at a Group of 20 (G20) summit in Hangzhou, China is preparing to welcome another “lame-duck” US president for a multilateral gathering: Donald Trump. Following the Republicans’ loss of both chambers of the US Congress in the midterm elections on Tuesday – a drubbing that reached deep into historically red states – Trump is expected to meet Chinese President Xi Jinping in two weeks on the sidelines of the Asia-Pacific Economic Cooperation...",
+    "published_at": "2026-11-07T14:00:08+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A história se repete em Shenzhen? China recebe outro presidente coxo dos EUA",
+    "translated_summary": "Uma década depois de hospedar um Barack Obama politicamente prejudicado em uma cúpula do Grupo dos 20 (G20) em Hangzhou, a China está se preparando para receber outro presidente dos EUA para uma reunião multilateral: Donald Trump. Após a perda dos republicanos de ambas as câmaras do Congresso dos EUA nas eleições de meio de mandato na terça-feira – uma dificuldade que atingiu profundamente os estados historicamente vermelhos – Trump deve se encontrar com o presidente chinês Xi Jinping em duas semanas na",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:21+00:00"
+  },
+  {
     "id": "000f1264e955d92c1a63",
     "country": "Japão",
     "category": "Automóvel",
@@ -460,6 +524,29 @@
     "translated_summary": "VW-Marken sind gerade nicht \"vernetzt\" genug: BMW als beste deutsche Automarke nur auf Platz 10 SmartDroid",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T10:47:48+00:00"
+  },
+  {
+    "id": "902b07a8fecb9565e984",
+    "country": "Japão",
+    "category": "Política",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-search",
+    "publisher": "産経ニュース",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXQTRBNkFPWHRPV1lUYzBwRmVBY3FKNC1PRUdma1FzZ3lrOHNmY0F5S2haeXNHNUpUR1NUX01BbFM3NUFPSU5UZGIwNllYY0Q4THN4QkhjNjNldXNCeDk1cjFELVpNTnVEUU1ZOW01WW5uOTR1a0E?oc=5",
+    "original_title": "呼び捨てで首相個人を非難 やまぬ中国の対日圧力、「外交カード」のレアアース輸出調整も - 産経ニュース",
+    "original_summary": "呼び捨てで首相個人を非難 やまぬ中国の対日圧力、「外交カード」のレアアース輸出調整も 産経ニュース",
+    "published_at": "2026-11-07T10:00:00+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A pressão da China sobre o Japão para não culpar pessoalmente o primeiro-ministro pelo abandono e o ajuste das exportações de terras raras de \"cartões diplomáticos\" - Sankei News",
+    "translated_summary": "Não posso culpar o primeiro-ministro pessoalmente pela pressão da China sobre o Japão, e o ajuste de exportação de terras raras do \"cartão diplomático\" também é Sankei News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:09+00:00"
   },
   {
     "id": "73ad5df64a0257c0605c",
@@ -7464,6 +7551,28 @@
     "translated_summary": "Toyota apresentará Tandora parcialmente melhorada ao Japão neste inverno - Car Watch",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T23:11:51+00:00"
+  },
+  {
+    "id": "e780488238e3254cf825",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TbDUtTjR0MldxMUlGbWRzZkZWaTg1WjhZMVpHLVBBLVFFemZJTU9jc0FnRk1WaTgxV2lFcU4wa1NoVDk2LV9PMVRqREd3eWxrZXFpNklsbFducTRkR3ZDMmVsYjh4NFBvSjVpeHF3ZnlsNk4yTmFOVi10Mnp2dVE?oc=5",
+    "original_title": "トヨタ、「タンドラ」一部改良モデルを今冬日本導入へ（Car Watch） - Yahoo!ニュース",
+    "original_summary": "トヨタ、「タンドラ」一部改良モデルを今冬日本導入へ（Car Watch） Yahoo!ニュース",
+    "published_at": "2026-11-06T04:52:00+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota apresentará Tandora parcialmente melhorada ao Japão neste inverno (relógio de carro) - Yahoo! News",
+    "translated_summary": "Toyota apresentará Tandora parcialmente melhorada ao Japão neste inverno (relógio de carro) Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:12+00:00"
   },
   {
     "id": "5f3d85f1ab67916ec2f0",
@@ -16472,6 +16581,26 @@
     "translated_summary": "Com uma escala de parâmetros de cerca de 4 bilhões, o GroundingPI superou o GPT-6 Astra da OpenAI em uma avaliação abrangente em 34 benchmarks de percepção pública. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T03:58:35+00:00"
+  },
+  {
+    "id": "403d66048de076527dbb",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pU2ZCQkhWMDN2Q1ZkeEM3WkFVdFE3c0VmWXZuVl9jQ0lLQzlrRlVOc0t2OXk4UHh1NVdRNXhSWXctNEhDSzBfNkFISDEtbnlIWnFKQ0gycUhyT01HR0Ixbm5TMi1xUGVM?oc=5",
+    "original_title": "안전한 어선, 함께 만들어갑니다! - 대한민국 정책브리핑",
+    "original_summary": "안전한 어선, 함께 만들어갑니다! 대한민국 정책브리핑",
+    "published_at": "2026-11-04T09:59:23+00:00",
+    "first_seen_at": "2026-11-07T14:46:47+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Safe Fishing Boats Together! - South Korea Policy Briefing",
+    "translated_summary": "Barco de Pesca Seguro, Juntos Construímos! Resumo da Política da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T14:47:15+00:00"
   },
   {
     "id": "9e7f8546da16dc0ceb58",
