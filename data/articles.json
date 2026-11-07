@@ -1,5 +1,47 @@
 [
   {
+    "id": "067864fdabed36143612",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/drought-inflation-put-brakes-on-auto-sales-registrations-dip-18-during-dhanteras-at-pune-rto/135628907",
+    "original_title": "Drought & inflation put brakes on auto sales; registrations dip 18% during Dhanteras at Pune RTO",
+    "original_summary": "A two-wheeler dealer attributed the slowdown partly to rising vehicle costs. “Higher steel and aluminium prices, coupled with geopolitical uncertainties, have pushed up vehicle prices, while pressure on household budgets may be affecting buying decisions,” the representative said.",
+    "published_at": "2026-11-07T06:40:39+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Seca e inflação freiam as vendas de automóveis; os registros caem 18% durante Dhanteras no Pune RTO",
+    "translated_summary": "Um concessionário de duas rodas atribuiu a desaceleração em parte ao aumento dos custos dos veículos. \"Os preços mais altos do aço e do alumínio, juntamente com as incertezas geopolíticas, elevaram os preços dos veículos, enquanto a pressão sobre os orçamentos das famílias pode estar afetando as decisões de compra\", disse o representante.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:55+00:00"
+  },
+  {
+    "id": "ecb87cf48d516c9fe8cb",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "風傳媒",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TcjZpa1hScG5iNHMtNFJxb0hpeGhLZ3E1UGhkT0liUFpMWWdFQ0UzOUlZZlN4eTk5RE5taUxjUXdEckZ0X3RmR09QVXpTZw?oc=5",
+    "original_title": "憂夜長夢多？台灣主動裁撤駐巴紐代表處 外交官員曝內幕：有預先向友盟溝通 | 鍾秉哲 | 新聞 - 風傳媒",
+    "original_summary": "憂夜長夢多？台灣主動裁撤駐巴紐代表處 外交官員曝內幕：有預先向友盟溝通 | 鍾秉哲 | 新聞 風傳媒",
+    "published_at": "2026-11-07T05:56:00+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Pesadelos demais? A demissão proativa de Taiwan de funcionários diplomáticos da missão Panau revela conhecimento privilegiado: comunicação avançada aos aliados | Zhong Bingzhe | Notícias - Mídia Eólica",
+    "translated_summary": "Pesadelos demais? A demissão proativa de Taiwan de funcionários diplomáticos na missão de Panau revela conhecimento privilegiado: comunicação avançada a amigos e aliados | Zhong Bingzhe | Mídia de notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:38+00:00"
+  },
+  {
     "id": "f93acdae68d85bc46b7a",
     "country": "Bosch",
     "category": "Estratégia",
@@ -42,6 +84,46 @@
     "translated_summary": "Taiwan fecha seu escritório de representação em Papua Nova Guiné: Wang Dingyu disse que a imprecisão dos estudantes diplomáticos é parar as transfusões de sangue UDN",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T05:52:33+00:00"
+  },
+  {
+    "id": "e5f9c39a63f22b1bff0a",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Global business",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-strategy-en",
+    "publisher": "MarketsMojo",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMjhQNzZyQWtlem5rOVU2anZSMjEtUnU2c3Ixek96SERGWlhSN3lObWZMUVJCZENTdjdfSmV2dVI2aGRiQ2Q2NDdtT1htdjA5RE1tblBzT2ZGazJ3V3pCaFZnc3ItU3JhUmdtTERwNkMxMlJnNVFZNlUxcjd6M1JBTW9QcGdCbmRCRjRKWHJnZl9UN1lEdUpJMk1odHlZbHI1Zld5dGtEcDBGUXJSQkpjYmFfeklMcnNITmxoUGJDSnN4WGlieVN2XzBkMnZ2eHo3VlE5Z191cnNyaWR5cXFGVldB?oc=5",
+    "original_title": "Bosch Ltd. Q2 FY2027: Premium Auto Component Maker Delivers Stellar Growth Amid Strong Demand - MarketsMojo",
+    "original_summary": "Bosch Ltd. Q2 FY2027: Premium Auto Component Maker Delivers Stellar Growth Amid Strong Demand MarketsMojo",
+    "published_at": "2026-11-07T05:34:16+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bosch Ltd. Q2 FY2027: Fabricante de componentes automotivos premium oferece crescimento estelar em meio à forte demanda - MarketsMojo",
+    "translated_summary": "Bosch Ltd. Q2 FY2027: Fabricante de componentes automotivos premium oferece crescimento estelar em meio a mercados de forte demandaMojo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:52+00:00"
+  },
+  {
+    "id": "254977ecb7cb0af9aa25",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "鉅亨網",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vVlpVYmc2akF3RUJuNjBQOVV3Ujc4OGJ0OEVmdkQ2T2FsQUR0bHpyWnVMVlNVMVFSZDlJZ0ZvZ0xJWDdtY1Ayc094YjVEMUk?oc=5",
+    "original_title": "AI賣壓席捲亞洲！台灣限空令、南韓鬆綁融資規定 政府出手穩市 - 鉅亨網",
+    "original_summary": "AI賣壓席捲亞洲！台灣限空令、南韓鬆綁融資規定 政府出手穩市 鉅亨網",
+    "published_at": "2026-11-07T05:30:05+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A IA está a varrer a Ásia! Ordem de Restrição de Espaço Vazio de Taiwan, Afrouxamento dos Regulamentos de Financiamento de Ligação da Coreia do Sul e Estabilização da Cidade pelo Governo - Chu Heng Net",
+    "translated_summary": "A IA está a varrer a Ásia! Ordem de Restrição de Espaço Vazio de Taiwan, Afrouxamento dos Regulamentos de Financiamento de Ligação da Coreia do Sul e Estabilização do Governo da Rede Kuo Heng",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:41+00:00"
   },
   {
     "id": "cec81f5c2712b6187947",
@@ -4688,6 +4770,28 @@
     "last_translation_attempt_at": "2026-11-06T19:17:15+00:00"
   },
   {
+    "id": "d1a150ebd8116a332d19",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "京报网",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MTjY0cEJleE9Sc09YN0pyVVpkaFktc3hISHY5NGZJb1hHM1E0cm9YeEl5R0twcm1wU2JPbnF5dC1tMzF5cmxpQngtSkhyV1JsbklzNGdCaXdlaHJ1WkE?oc=5",
+    "original_title": "外交部：中国始终是非洲国家最可信任、最可依赖的伙伴 - 京报网",
+    "original_summary": "外交部：中国始终是非洲国家最可信任、最可依赖的伙伴 京报网",
+    "published_at": "2026-11-06T07:45:57+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ministério dos Negócios Estrangeiros: a China sempre foi o parceiro mais confiável para os países africanos - Beijing News",
+    "translated_summary": "Ministério dos Negócios Estrangeiros: a China sempre foi o parceiro mais confiável dos países africanos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:26+00:00"
+  },
+  {
     "id": "21160b72b9309aec02fc",
     "country": "China",
     "category": "Automóvel",
@@ -8269,6 +8373,26 @@
     "last_translation_attempt_at": "2026-11-07T01:46:22+00:00"
   },
   {
+    "id": "142bfacefeb8c67fe6cd",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFFMTDdpTVZsdmpuYmViTUhSQm1hLTVDVWdJbFZRUnZHM1prTkQzX0czdU9pZzA3UFBjdlBWQUhaUnJYNTFsZGRkT1p1V0pSU3lUZ2tFR3M2bzUwSDF2NkRaYUZiSXN4dzR4cmRyVFJFM0E3UU16RFF0eDVtbUw3blYxLWpoS3pSd2xGTDc3YlNoR3dJLWZwZlZ5My0zQ0JBQmpuajZzOUE5dW1yWDN1RUFBUjJVbWtNRkY5SDJRYW5odW1uSE1UWDVJMUR6aFpwLVpHbNIB1AFBVV95cUxOUFFMTDdpTVZsdmpuYmViTUhSQm1hLTVDVWdJbFZRUnZHM1prTkQzX0czdU9pZzA3UFBjdlBWQUhaUnJYNTFsZGRkT1p1V0pSU3lUZ2tFR3M2bzUwSDF2NkRaYUZiSXN4dzR4cmRyVFJFM0E3UU16RFF0eDVtbUw3blYxLWpoS3pSd2xGTDc3YlNoR3dJLWZwZlZ5My0zQ0JBQmpuajZzOUE5dW1yWDN1RUFBUjJVbWtNRkY5SDJRYW5odW1uSE1UWDVJMUR6aFpwLVpHbA?oc=5",
+    "original_title": "Reducing pollution will be biggest challenge in future: Nitin Gadkari - ET Auto",
+    "original_summary": "Reducing pollution will be biggest challenge in future: Nitin Gadkari ET Auto",
+    "published_at": "2026-11-05T17:57:54+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Reduzir a poluição será o maior desafio no futuro: Nitin Gadkari - ET Auto",
+    "translated_summary": "Reduzir a poluição será o maior desafio no futuro: Nitin Gadkari ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:49+00:00"
+  },
+  {
     "id": "a97a2f020d304ee699f2",
     "country": "Índia",
     "category": "Automóvel",
@@ -9695,6 +9819,29 @@
     "last_translation_attempt_at": "2026-11-06T19:18:32+00:00"
   },
   {
+    "id": "f8e1c1dcab29111dd674",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Spiegel",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPXzd0X2wtTWF5RGdsbEhjYk9oUUFjSHVTdlVXRWVfRUJibGhOaTJfT2VWaEswZ2x2OHlVeWRkYWlMZjAyM0ZQeGhiTGJoOTd1Y21qNlZSZWx4RDYwdm1FclB1dFVpWjMtd3RWNlFhUFhnSFhZdmFTUjZUWm84dG1rTFNXeUxCSmYtSWNodzNvV2F1VEVycU90NGlVc0dvVE5ELVFrcjM4VXBobVA5SGtVZnMzSUxBcHU5eHBQUTNPOGhqOUg5S3RjaXNyTDB1RnctNEtDQjNDUXJqZGpxRTFuNUNJcEljdw?oc=5",
+    "original_title": "(S+) Prepper Staat: Bundesregierung plant Milliarden für neue Krisenvorsorge - Spiegel",
+    "original_summary": "(S+) Prepper Staat: Bundesregierung plant Milliarden für neue Krisenvorsorge Spiegel",
+    "published_at": "2026-11-05T12:00:00+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "(S+) Estado Preparador: Governo Federal planeja bilhões para preparação para novas crises - Spiegel",
+    "translated_summary": "(S+) Estado Preparador: Governo Federal planeja bilhões para preparação para novas crises Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:30+00:00"
+  },
+  {
     "id": "d7db635e81d100460f54",
     "country": "Bosch",
     "category": "Pessoas",
@@ -10036,6 +10183,26 @@
     "translated_summary": "Diwali bonanza: governo de Deli anuncia nova política de reabilitação de favelas, 5 famílias lakh para obter casas permanentes https://www.indiagazette.com/",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:57:06+00:00"
+  },
+  {
+    "id": "09f55ec46b70688658ba",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Presseportal",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wRHBnMjh2N1R0dlc4ekdiMlBEQ2JfZ3liZmtOQkM5QzFZb25leFBFZlNkOFlvb0p4aXd2aFd1cGdqRlVwOU05MGJlb1ljcXlTUEhReFMtSjc?oc=5",
+    "original_title": "EU-Haushalt: Save the Children warnt vor Sparpolitik auf Kosten von Kindern - Presseportal",
+    "original_summary": "EU-Haushalt: Save the Children warnt vor Sparpolitik auf Kosten von Kindern Presseportal",
+    "published_at": "2026-11-05T10:32:11+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento da UE: Save the Children alerta contra políticas de austeridade em detrimento das crianças - Portal da imprensa",
+    "translated_summary": "Orçamento da UE: Save the Children alerta contra políticas de austeridade em detrimento das crianças",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:33+00:00"
   },
   {
     "id": "d6e8b954ab84ab6f318b",
@@ -11847,6 +12014,28 @@
     "translated_summary": "Impacto dos resultados das eleições intercalares dos EUA no acordo comercial Índia-EUA: especialistas descodificam como a perda de Trump afetará grandes investimentos Livemint",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T20:53:54+00:00"
+  },
+  {
+    "id": "e18172c88d14f4443cd1",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Livemint",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONGRoU2p4T3g4MFk3T3pHVF9mWDI3ZkhXOTRqZnVGTU00NU5uczF4VHlEU0pkNFk4VzJiTWx0MzFoMGt5emVCQm0yaE5na05DTHpEWXd1SUZTODR5VFgwTHpwY2tHRGk4WlJrTDhtbkJibUhmM1dfTjZObVU4Q2dfNmlVekFUSXFSZWRjS1AzTW5ERTlKRDFDYWdYeHJna3ZJUnNSLVQ2aUU4MjhDNkJRc2xocjBzRFdxV0lXTklMVWQzME16S29femhNWXZfeGt0akRXNGx5U2JQVVdWZ0Jsa2o4dHI4SEZVLUcxSU5XbDU3SjdTTmxERTNqSldVQlBoRkhfNUZsaFNRa0JvQkwtamgzUVAxUQ?oc=5",
+    "original_title": "US Midterm Elections results impact on India-US trade deal: Experts decode how Trump's loss will affect big investments - Livemint",
+    "original_summary": "US Midterm Elections results impact on India-US trade deal: Experts decode how Trump's loss will affect big investments Livemint",
+    "published_at": "2026-11-05T04:06:16+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Impacto dos resultados das eleições intercalares dos EUA no acordo comercial Índia-EUA: especialistas descodificam como a perda de Trump afetará grandes investimentos - Livemint",
+    "translated_summary": "Impacto dos resultados das eleições intercalares dos EUA no acordo comercial Índia-EUA: especialistas descodificam como a perda de Trump afetará grandes investimentos Livemint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:46+00:00"
   },
   {
     "id": "8f1ea1640919a91bad7a",
@@ -14927,6 +15116,26 @@
     "last_translation_attempt_at": "2026-11-07T01:02:37+00:00"
   },
   {
+    "id": "13e14c7a85a7c4e1e87a",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Automobilwoche",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkw0NEJCWVZ2Z2VCanZWZGdEQ0Nyc29QcXVySEs1dldqaXFzaS1nWHFaVmFiWFhQRDR3dUtrWnJHY0RmREZKU1lFSFU2cVc3VTVKWVJOSFIydkxORkx3REZELWNucF9iVy1EZ2pmQ25ET0kyb29hcjItcHdaX1NMRGQ2cjloY3JiLWRsTHFzd2hjbUl2ZzFaM1M2dTZ5WF93RVIwdTRBcw?oc=5",
+    "original_title": "BMW-Krise in China: Jetzt werden Stellen gestrichen - Automobilwoche",
+    "original_summary": "BMW-Krise in China: Jetzt werden Stellen gestrichen Automobilwoche",
+    "published_at": "2026-11-04T08:59:00+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Crise da BMW na China: empregos estão a ser cortados - Automotive Week",
+    "translated_summary": "Crise da BMW na China: empregos estão a ser cortados na Semana do Automóvel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:35+00:00"
+  },
+  {
     "id": "9e3fa519bfa2a74d65f1",
     "country": "Singapura",
     "category": "Política",
@@ -15174,6 +15383,28 @@
     "translated_summary": "\"Invasões\" de carros elétricos chineses Xiaofeng em grande escala entrou na tendência esportiva da corporação coreana \"Chunqiu Chinese era\"",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T02:53:44+00:00"
+  },
+  {
+    "id": "aaa2c1795deddc5c8870",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcVB3THlJU25nT3JLS1JRcThfXzEyZGtVbUNrb2s3c1BfR01SSTgwWkdZX2piczlaSE1tX0pwdkx2MjkzS29BQWgybHZtSGo4Uy03UVQ3RFJTZ9IBX0FVX3lxTFBaOU5CNG1IQmEwcTUzbGxhVE1PU0kxMFBleTBlRnhLZ0lEN1l4dEdBTENnNGdJMmJabTk1cWdEMHRmNzRnRHRxRmM1dVJxVkhDSzdnM1BialQxekFDUzZj?oc=5",
+    "original_title": "旭電馳科研擬13日登錄興櫃 布局電動車超高速充電 - 經濟日報",
+    "original_summary": "旭電馳科研擬13日登錄興櫃 布局電動車超高速充電 經濟日報",
+    "published_at": "2026-11-04T08:10:04+00:00",
+    "first_seen_at": "2026-11-07T07:00:07+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Asahi Dench Scientific Research Plans to Log in to the Emerging Market on the 13th Layout Electric Vehicles Ultrafast Charging - Economic Daily",
+    "translated_summary": "Asahi Dench Scientific Research Plans to Log in to the Emerging Market on the 13th Layout of Electric Vehicle Superfast Charging Economy Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T07:00:44+00:00"
   },
   {
     "id": "d2613794a1c82dedfaef",
