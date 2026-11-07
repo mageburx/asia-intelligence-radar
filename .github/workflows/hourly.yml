@@ -34,14 +34,35 @@ jobs:
       - name: Gerar dashboard
         if: always()
         run: python -m asia_radar.report
-      - name: Guardar histórico
+      - name: Guardar histórico sem conflitos
         if: always()
         run: |
+          set -e
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/articles.json data/status.json docs/index.html docs/arquivo-30-dias.csv
-          if ! git diff --cached --quiet; then
+          # Keep the collected snapshot outside the checkout before refreshing main.
+          snapshot="$(mktemp -d)"
+          cp data/articles.json "$snapshot/articles.json"
+          cp data/status.json "$snapshot/status.json"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            # Merge by article ID, not by line-based Git conflicts.
+            python -m asia_radar.reconcile "$snapshot/articles.json" "$snapshot/status.json"
+            # Regenerate page/CSV from the latest template and the merged data.
+            python -m asia_radar.report
+            git add data/articles.json data/status.json docs/index.html docs/arquivo-30-dias.csv
+            if git diff --cached --quiet; then
+              echo 'No new data to publish'
+              exit 0
+            fi
             git commit -m 'data: update Asia Intelligence Radar'
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+            if git push origin HEAD:main; then
+              echo 'Published current snapshot'
+              exit 0
+            fi
+            echo "Remote moved during publication; retry $attempt/3"
+            sleep 3
+          done
+          echo 'Failed to publish after three retries' >&2
+          exit 1
