@@ -1,5 +1,92 @@
 [
   {
+    "id": "8ad0692df6b2466b9e38",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728105.shtml",
+    "original_title": "学习新语｜习近平总书记殷切寄语新闻工作者",
+    "original_summary": "党的新闻舆论工作是党的一项重要工作，是治国理政、定国安邦的大事。习近平总书记始终高度重视党的新闻舆论工作，关心关爱广大新闻工作者。11月8日中国记者节之际，一起重温总书记对新闻工作者的殷殷嘱托，牢记使命，永远向前。",
+    "published_at": "2026-11-07T12:32:32+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aprender uma nova língua | O secretário-geral Xi Jinping envia uma mensagem calorosa aos jornalistas",
+    "translated_summary": "O trabalho de imprensa e opinião pública do Partido é um trabalho importante do Partido, e é um evento importante no governo do país e no estabelecimento de uma Anbang. O secretário-geral Xi Jinping sempre atribuiu grande importância ao trabalho de notícias e opinião pública do partido e se preocupou com a maioria dos jornalistas. Por ocasião do Dia dos Jornalistas da China, em 8 de novembro, revisitaremos os convites do secretário-geral para jornalistas, lembraremos a missão e sempre seguiremos em frente.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:23+00:00"
+  },
+  {
+    "id": "1759f06c7353bf4fc933",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728104.shtml",
+    "original_title": "第一观察｜总书记投下庄严一票，率先垂范践行民主",
+    "original_summary": "11月6日是北京市区和乡镇两级人大代表换届选举投票日。习近平总书记在西城区中南海选区怀仁堂投票站参加区人大代表的选举投票。",
+    "published_at": "2026-11-07T12:20:41+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Primeira observação | Secretário Geral vota solenemente e assume a liderança na prática da democracia",
+    "translated_summary": "6 de novembro é o dia de votação para a reeleição de deputados para os congressos populares nos níveis urbano e municipal em Pequim. O Secretário-Geral Xi Jinping participou na eleição de deputados para o congresso popular distrital na assembleia de voto de Huairentang, no círculo eleitoral de Zhongnanhai, no distrito de Xicheng.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:26+00:00"
+  },
+  {
+    "id": "0c7d64b0de9b2cf55e85",
+    "country": "Bosch",
+    "category": "Indústria",
+    "source": "Bosch · Fábricas e produção",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-manufacturing-de",
+    "publisher": "Gmünder Tagespost",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPekc0UkI0czNnS21CTjV4X0N1N3dsN0RTUENCcUN2d09JSWM4XzlYeGtfejJpbkM3Y0RZeHNna1NiOVU5U3hlbjFkdnF3YU9NTDk0WEpNdlZqR1pxbHNLQ0RSb1J4b2J5R285TUZXeHdyZU5DYmF1bVd6QjVMR2RnemtkeVhUYmZFT2JYTFBKcWNfNzA1cmJ0Vnc5NGxHS21kanNSMkNQV0tZZEg3NVExV01ETlNjUl9kbFFIV0RxWVF6SUhvUFBlQVBrNXp6YWswUkRJSzE4bl9pX1VOTF9jSDNlc28zQlNCX3c?oc=5",
+    "original_title": "Richard Arnold: Was sich Gmünds Oberbürgermeister fürs Bosch-Werk II wünscht - Gmünder Tagespost",
+    "original_summary": "Richard Arnold: Was sich Gmünds Oberbürgermeister fürs Bosch-Werk II wünscht Gmünder Tagespost",
+    "published_at": "2026-11-07T12:02:58+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Richard Arnold: O que o prefeito de Gmünd deseja para a Bosch Plant II - Gmünder Tagespost",
+    "translated_summary": "Richard Arnold: O que o prefeito de Gmünd deseja para Bosch Plant II Gmünder Tagespost",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:53+00:00"
+  },
+  {
+    "id": "435a7ccbea45338fbf7d",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "公視新聞",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UMV9ONXNOTzRRSkJjM1BBbnNpdVdOM3J1eGpqa3NlbmpSdGlzTGU1OW1aUExwSWVfVWExYXNNazAxcjdmSlZLT3BjQQ?oc=5",
+    "original_title": "20261107 公視晚間新聞 完整版（無網路版權內容除外）｜不滿巴紐施壓我主動關閉駐處 陸委會批中共打壓台灣外交 - 公視新聞",
+    "original_summary": "20261107 公視晚間新聞 完整版（無網路版權內容除外）｜不滿巴紐施壓我主動關閉駐處 陸委會批中共打壓台灣外交 公視新聞",
+    "published_at": "2026-11-07T11:55:31+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "20261107 Public Television Evening News Full Version (Except No Internet Copyright Content) | Insatisfeito com a pressão de Panyu, tomei a iniciativa de fechar o comitê de campo e aprovar a supressão da diplomacia de Taiwan pelo PCC - Public Television News",
+    "translated_summary": "20261107 Public Television Evening News Versão Completa (Exceto Sem Conteúdo de Direitos Autorais na Internet) | Descontente com a pressão de Panyu, tomei a iniciativa de fechar o Comitê de Terras da República Popular da China para suprimir a Diplomacia de Taiwan Public Television News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:46+00:00"
+  },
+  {
     "id": "a4486789cf45631fff18",
     "country": "China",
     "category": "Política",
@@ -184,6 +271,28 @@
     "translated_summary": "Xangai, 7 de novembro (Fan Yubin) - Um simpósio sobre \"Nova Gravidade nas Cidades: Renovação Urbana, Economia da Juventude e Sinergia do Delta do Rio Yangtze, Moldando uma Nova Ecologia para o Desenvolvimento de Alta Qualidade no 15º Plano Quinquenal\" foi realizado em Xangai em 6 de novembro. Mais de 100 representantes de departamentos governamentais, universidades e instituições de pesquisa, empresas e outros campos se reuniram para realizar intercâmbios aprofundados sobre o caminho prático e as tendências futuras de renovação urbana, economia da juventude e desenvolvimento coordenado do Delta do Rio Yangtze.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T10:47:32+00:00"
+  },
+  {
+    "id": "a86b28b562bebcbea11f",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdWhkV2ZnMnpLWHBFZHlTZWdqVUxFRkdISnlrM2FMZUhGVkZpTFMtdWtZbkdpRGUySTBzczNHbzV1QndQX0R0czdmUTNqVUdnbzZtUzRya2g2VU9wS2doZUJ2VnRuU0hMQ0pYTkdsb1QxRGxMRXVyaWlZT0ZXU19qSnZxVFQ4WHd0RVhpOXZJZWRoVC10Ykk3cHZVb0JpVmxUa0JrUDVHcGhWLVNNVHB0VGcwT2pER1ZiWm1JZ2RiOXJiQ3JwUTlzd0h2VjRhR1I4THpyamNhQVUybVZwZTVJUnJNVFc0UHc3T2FuZU8yb9IB7wFBVV95cUxNdWhkV2ZnMnpLWHBFZHlTZWdqVUxFRkdISnlrM2FMZUhGVkZpTFMtdWtZbkdpRGUySTBzczNHbzV1QndQX0R0czdmUTNqVUdnbzZtUzRya2g2VU9wS2doZUJ2VnRuU0hMQ0pYTkdsb1QxRGxMRXVyaWlZT0ZXU19qSnZxVFQ4WHd0RVhpOXZJZWRoVC10Ykk3cHZVb0JpVmxUa0JrUDVHcGhWLVNNVHB0VGcwT2pER1ZiWm1JZ2RiOXJiQ3JwUTlzd0h2VjRhR1I4THpyamNhQVUybVZwZTVJUnJNVFc0UHc3T2FuZU8ybw?oc=5",
+    "original_title": "Force Motors to launch Traveller EVs in Q1 2027, electric ambulance in pipeline - ET Auto",
+    "original_summary": "Force Motors to launch Traveller EVs in Q1 2027, electric ambulance in pipeline ET Auto",
+    "published_at": "2026-11-07T10:15:23+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Force Motors para lançar Traveller EVs no primeiro trimestre de 2027, ambulância elétrica em pipeline - ET Auto",
+    "translated_summary": "Forçar a Motors a lançar Traveller EVs no primeiro trimestre de 2027, ambulância elétrica na tubulação ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:51+00:00"
   },
   {
     "id": "03e6369a392038d80baf",
@@ -515,6 +624,26 @@
     "translated_summary": "A próxima conversa EUA-China sobre inteligência artificial deve começar com uma pergunta simples: os dois governos realmente entendem a rapidez com que as capacidades da IA estão melhorando? Antes de decidir o que fazer com a tecnologia, Washington e Pequim precisam de uma maneira comum de medir seu progresso. O presidente chinês Xi Jinping e o presidente dos EUA, Donald Trump, devem se reunir em Shenzhen em breve, e a IA deve permanecer no topo de sua agenda. Sua contínua",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T08:56:52+00:00"
+  },
+  {
+    "id": "90db2ff32d08ed3c9eda",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RZ1F3MlNNZUd2R0hlQ2JDQXRMWW1LZVVzMjhjMGtDZk52T3B0TnIwNjNwcXFHM3I2R2NFWXJqTktlc01TeWJFc1YzSmdyMHhxTi1aUW93bU50dXVITElnMDN1U1A5cjg3WGxud3I0MA?oc=5",
+    "original_title": "Volkswagen: Hilft jetzt nur ein Lohnverzicht? - DIE ZEIT",
+    "original_summary": "Volkswagen: Hilft jetzt nur ein Lohnverzicht? DIE ZEIT",
+    "published_at": "2026-11-07T08:13:26+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Volkswagen: Apenas uma renúncia de salários ajuda agora? - TEMPO",
+    "translated_summary": "Volkswagen: Apenas uma renúncia de salários ajuda agora? TEMPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:32+00:00"
   },
   {
     "id": "83483a5df5096620a4f7",
@@ -6684,6 +6813,26 @@
     "last_translation_attempt_at": "2026-11-06T19:24:13+00:00"
   },
   {
+    "id": "bcd7b172f1b6ab6539ee",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wdWdJUmZCOXBKaGdpVklTbEcyRU5KbEFPMGc5cnpJSmxSNFJOV1hMLWZWVko4RVdXY0ZlV2lCck5vejJ0TTlSS0laNmYtZlJrcG5venhYTXVBLWs?oc=5",
+    "original_title": "군포시, '제8회 대한민국 솔라리그' 정책성과 부문 장관상 수상 - 연합뉴스",
+    "original_summary": "군포시, '제8회 대한민국 솔라리그' 정책성과 부문 장관상 수상 연합뉴스",
+    "published_at": "2026-11-06T06:09:21+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Gunpo City ganha o Prémio do Ministro para a Realização de Políticas na 8ª República da Coreia Solarig - Yonhap News",
+    "translated_summary": "Gunpo City ganha o Prêmio do Ministro por Realização de Políticas na 8ª República da Coreia Solarig Yonhap News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:35+00:00"
+  },
+  {
     "id": "e60020a13013d42045c5",
     "country": "China",
     "category": "Política",
@@ -8869,6 +9018,26 @@
     "last_translation_attempt_at": "2026-11-06T02:05:22+00:00"
   },
   {
+    "id": "31ffea7ca60b15e41857",
+    "country": "Japão",
+    "category": "Política",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-search",
+    "publisher": "Infoseek",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GT3VvVU5rbUI3WTVEWTctTE1zYXhRblRoeEJXeFJhUnh6NXd3aTVSQUxTZWpwTUtQbDhGcXJfeTFfY25wQ081YllVTzVSbzVXNG1lTDRobTJqVzNqLXFudkFfVE9hQmc2ZDA3MmdzZ2Y?oc=5",
+    "original_title": "｢トランプ惨敗｣で高市首相に迫る試練､米中ロの頭越し\"大胆ディール\"で日本だけがG7で孤立する\"悪夢シナリオ\" - Infoseek",
+    "original_summary": "｢トランプ惨敗｣で高市首相に迫る試練､米中ロの頭越し\"大胆ディール\"で日本だけがG7で孤立する\"悪夢シナリオ\" Infoseek",
+    "published_at": "2026-11-05T22:15:00+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Desafios ao primeiro-ministro Takaichi em \"Trump's Disastrous Defeat\", \"Nightmare Scenario\" em que apenas o Japão está isolado no G7 com um \"acordo ousado\" sobre as cabeças dos Estados Unidos, China e Rússia - Infoseek",
+    "translated_summary": "Desafios ao primeiro-ministro Takaichi em \"Trump's Disastrous Defeat\", \"Nightmare Scenario\" Infoseek onde apenas o Japão está isolado no G7 com um \"Bold Deal\" sobre as cabeças dos Estados Unidos, China e Rússia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:29+00:00"
+  },
+  {
     "id": "95d6b1a5f4a4eb69c3c8",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -9540,6 +9709,28 @@
     "translated_summary": "O serviço postal belga tem 4.165 furgões elétricos em serviço VEs carregados",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:56:29+00:00"
+  },
+  {
+    "id": "bbf93a75e0cd405edb82",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "INDIA New England News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaVoyZlgzRDlJMjJoLWo3N2U3blRZU1YwdXFORHh6cW8xT3NmLW50SkJ3QUdhbmRUYUtjcmRKcWFuem5QZk5Yb0hrTnVkMk54ejRwRmt2NTktRFRPZVVxR2J2dTBCUW9tRlNHdGppTVk1UzV4NWZ2NktCeVg3UEdNQ0lGYlo2Y2xacml2LVNVOWpGMVNLNTJfc09RNzMweTVHTS1CbmpzLVA1YTE5S1ZoM3p5REdLdmpNUzJSbnNGcVk2WUxTMmc?oc=5",
+    "original_title": "India Faces Less Pressure to Finalize U.S. Trade Deal Following Midterm Elections, Emkay Global Says - INDIA New England News",
+    "original_summary": "India Faces Less Pressure to Finalize U.S. Trade Deal Following Midterm Elections, Emkay Global Says INDIA New England News",
+    "published_at": "2026-11-05T16:22:15+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia enfrenta menos pressão para finalizar o acordo comercial com os EUA após as eleições de meio de mandato, diz a Emkay Global - INDIA New England News",
+    "translated_summary": "A Índia enfrenta menos pressão para finalizar o acordo comercial com os EUA após as eleições de meio de mandato, diz a Emkay Global INDIA New England News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:48+00:00"
   },
   {
     "id": "631841b6b7d0f0a1b6c2",
@@ -11439,6 +11630,28 @@
     "translated_summary": "O mercado de veículos elétricos da Índia cresce 74,7% à medida que os registros de carros de outubro caem Multibagg AI",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T11:45:28+00:00"
+  },
+  {
+    "id": "d0c67cd309739c53b805",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mYWNNSEF4UjRCY01LSEg5cndKRjliWVJ1YldzT2lmOXN3NGc0QkQ4T1FwV2dKOEozVm40a2tMLU8tQlU5ZUtWdi1HTFFLbHZiWkVoTExoTWNYNFlaak1LSmgtOEoyRlVwMlE?oc=5",
+    "original_title": "트럼프-민주당-주 정부 ‘권력 분점’…한국 정부·기업 대응 난도↑ - 한겨레",
+    "original_summary": "트럼프-민주당-주 정부 ‘권력 분점’…한국 정부·기업 대응 난도↑ 한겨레",
+    "published_at": "2026-11-05T09:57:00+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Trump-Democrat-State Government ‘Power Sharing’ … Difficulties with South Korea's Government and Business Response↑ - Hankyoreh",
+    "translated_summary": "Trump-Democrata-Governo do Estado ‘Compartilhamento de Poder’... Dificuldades com o Governo da Coreia e Resposta Empresarial↑ Hankyoreh",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:38+00:00"
   },
   {
     "id": "a8055f06f3280f5447fd",
@@ -18298,6 +18511,29 @@
     "last_translation_attempt_at": "2026-11-06T23:12:16+00:00"
   },
   {
+    "id": "9e8fc0788fc8cc2a68ee",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabTVlRUw2OUxUcURqNXJYeUNaMnVNRzkxS3hIcHBYbEZmMkdMWXlPSUZSc003ODVYWlhzbE11M25jSzZJcGNVWXdCY2pGOTdDNE1OS2U2UHE5Z9IBX0FVX3lxTE1FMENFQXp4QUNrNTg4clhydmtmdEFOYVRSMjJvcVBwLVRJRU9WbUJPZzhiUVNrd0hiLVhtYVhpQTNJcXBjaHY4YkVvTXB5c3hkSElQel91WUE0RDZza0ZR?oc=5",
+    "original_title": "석 달 만에 ‘전기차 세액공제’ 다시 꺼낸 정부…세금으로 중국차 막을 수 있나 - 경향신문",
+    "original_summary": "석 달 만에 ‘전기차 세액공제’ 다시 꺼낸 정부…세금으로 중국차 막을 수 있나 경향신문",
+    "published_at": "2026-11-03T21:00:00+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governo Recupera ‘Crédito Fiscal de Veículos Elétricos’ em Três Meses... Os Impostos Podem Impedir Carros Chineses? - Kyunghyang Shinmun",
+    "translated_summary": "Governo Recupera ‘Crédito Fiscal de Veículos Elétricos’ em Três Meses... Os Impostos Podem Impedir Carros Chineses? Kyunghyang Shinmun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:40+00:00"
+  },
+  {
     "id": "1889873c138cebf72e86",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -21582,6 +21818,26 @@
     "translated_summary": "Tata Punch.EV se torna o primeiro carro elétrico a ultrapassar 5.000 vendas mensais Mark Cartoq",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:29:58+00:00"
+  },
+  {
+    "id": "456717dce434930b3d9c",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTWl4MjhDZ21mbHNTT1dXVGkxQ3VPeVcyOTZ2Um1TUmJvT1Z0c3ZaUV9sN29kNzRNdFNKZW5oZDczcURhY2JLal9uRng1bHhNeTFDY3N3bFBwQQ?oc=5",
+    "original_title": "현대차, 美하이브리드·신차·금융으로 '중국차 반란'에 맞선다 - 파이낸셜뉴스",
+    "original_summary": "현대차, 美하이브리드·신차·금융으로 '중국차 반란'에 맞선다 파이낸셜뉴스",
+    "published_at": "2026-11-01T09:16:31+00:00",
+    "first_seen_at": "2026-11-07T12:54:04+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Hyundai confronta 'rebelião de carros chineses' com híbrido dos EUA, carro novo e finanças - Notícias Financeiras",
+    "translated_summary": "Hyundai vai combater 'rebelião de carros chineses' com híbrido dos EUA, carro novo, finanças Notícias Financeiras",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T12:54:43+00:00"
   },
   {
     "id": "7ef6c1e8d79191627a52",
