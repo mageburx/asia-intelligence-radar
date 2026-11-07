@@ -20,6 +20,48 @@
     "last_translation_attempt_at": "2026-11-07T16:46:15+00:00"
   },
   {
+    "id": "50b022b73a51aba06355",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261108de72266",
+    "original_title": "【地震】政府が官邸連絡室設置 愛知県で震度5強を受けて",
+    "original_summary": "愛知県で震度5強の揺れを観測した地震を受けて、政府は午前1時7分に総理大臣官邸の危機管理センターに官邸連絡室を設置し、情報の収集や被害の確認などにあたっています。",
+    "published_at": "2026-11-07T17:03:00+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "[Terremoto] O governo montou uma sala de ligação para residências oficiais na província de Aichi e recebeu uma intensidade sísmica de",
+    "translated_summary": "Em resposta a um sismo com uma intensidade sísmica de 5 na Prefeitura de Aichi, o governo criou um escritório de ligação no centro de gestão de crises da residência oficial do Primeiro-Ministro às 1h07 para recolher informações e confirmar os danos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:03+00:00"
+  },
+  {
+    "id": "7ebf271a23237b5832c1",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "ARYnews.tv",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVZRdzRxZ2tvUWtjWnAyY2tFT1M0bTlHRnduZTJoVE9ZTnNDSzRjWncxc2xYbUZURFlkcmVQdy1vN1FMeFk4bjcwSVFHQzVoV0JHZlVwRXJWWEFrX1VOcGVIbmFoejJWcUh0cEJ5ZTBGYVhSbnlZMkJnTmJaejBLWkpKNkVmQW1tb2c?oc=5",
+    "original_title": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports - ARYnews.tv",
+    "original_summary": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports ARYnews.tv",
+    "published_at": "2026-11-07T16:48:45+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Paquistão revela ‘Nova Política Automóvel’, visa $ 6 bilhões em exportações de veículos - ARYnews.tv",
+    "translated_summary": "Paquistão revela ‘Nova Política Automóvel’, visa $ 6 bilhões em exportações de veículos ARYnews.tv",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:25+00:00"
+  },
+  {
     "id": "0c386a9aaaeac1be1e53",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -58,6 +100,26 @@
     "translated_summary": "\"Vorsprung durch Technik\" foi uma vez: o desastre na China da VW, Audi, Mercedes e CO.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T16:46:00+00:00"
+  },
+  {
+    "id": "e389897bdb6251224c22",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Ludwigsburger Kreiszeitung",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNjlCenhlMU5vZjJKSnhkUk1PdnpyQThHakNxOU9XaXRLTnh6ZTJuZ25CMGRTTDNYT01OUkRNWUhPQ1VsV1d0M0dHNTcycXZWUVdwYjBtNGFFT2k0UVJFajlQa1pYTnlxMnJ3eEh2dWJYYTlCcUdfMWppX3FIZjF1cXIwNnAyYXdDQndINUpLS1B5bERIa2EzUFczZzZheW85ejdXZnU2dkVHZ1c1TGh4Nmd6aGpTX0p3ejNPOS1OeXgyTFYzVUpTdUVVS1NjM1VCUGJiNG5idEM?oc=5",
+    "original_title": "Bosch in Schwieberdingen: Eine Zukunft zwischen Hoffnung und Jobverlust - Ludwigsburger Kreiszeitung",
+    "original_summary": "Bosch in Schwieberdingen: Eine Zukunft zwischen Hoffnung und Jobverlust Ludwigsburger Kreiszeitung",
+    "published_at": "2026-11-07T15:51:53+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bosch em Schwieberdingen: Um futuro entre a esperança e a perda de emprego - Ludwigsburger Kreiszeitung",
+    "translated_summary": "Bosch em Schwieberdingen: Um futuro entre a esperança e a perda de emprego Ludwigsburger Kreiszeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:27+00:00"
   },
   {
     "id": "f7f82af7ff4f10aa7313",
@@ -524,6 +586,26 @@
     "translated_summary": "Estudiosos revelam a intenção da China de coagir o Japão a dominar a rede de notícias Apollo da Ásia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T11:45:13+00:00"
+  },
+  {
+    "id": "549beaf588a8ff5c9aa3",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "East Asia Forum",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzk1c3g0WHVGWm1DRVFSZFdrNWZSSHg4THlhV2o4S1pKVDRFVkloNTVCdzdDOUdZekIwUU9IZ0tJaDVSRXdtb2ZTdmhsXzgteFpELV91eml2aEZvYUZqWlJjcDIzQ20yc0s2ZEtGT2ZqcW1DMWJSZUpUTW5hbjUtRVZDSXU0RDhzZ19Eby01d3VFd3JFUThV?oc=5",
+    "original_title": "Singapore’s economic anxieties test its social cohesion - East Asia Forum",
+    "original_summary": "Singapore’s economic anxieties test its social cohesion East Asia Forum",
+    "published_at": "2026-11-07T11:00:38+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As ansiedades económicas de Singapura testam a sua coesão social - Fórum do Leste Asiático",
+    "translated_summary": "As ansiedades económicas de Singapura testam a sua coesão social Fórum da Ásia Oriental",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:20+00:00"
   },
   {
     "id": "90202267661bb03872e1",
@@ -2104,6 +2186,28 @@
     "translated_summary": "A primeira-ministra japonesa, Sanae Takaichi, enfrentou uma reação online depois de escrever um post nas redes sociais celebrando a caligrafia shodo do Japão sem mencionar suas raízes chinesas. Na quinta-feira, a Unesco divulgou as indicações deste ano para inclusão em sua Lista Representativa do Patrimônio Cultural Imaterial da Humanidade. As 59 indicações submetidas à consideração para a lista do órgão cultural da ONU incluem culinária chinesa, a tradicional jota mus da Espanha",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:02:51+00:00"
+  },
+  {
+    "id": "895146d512899cad5dfb",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tSDEzTFlQRUYzcDlENUxvbzZsOHA1RDZiOE44OVJoMlpoaEsxUmFRcXdsQmJlNmI2X0l4Q1U1VjFmSmtZUUY4UWFSaWk4WmVNSkkxUmlybkJlRkU4bzFBREZ3?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-07T00:33:43+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:06+00:00"
   },
   {
     "id": "e37ab5be3a9d2cf00ca5",
@@ -4856,6 +4960,28 @@
     "last_translation_attempt_at": "2026-11-06T17:52:59+00:00"
   },
   {
+    "id": "0adf0f325c6ac4ea7f93",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "中华人民共和国外交部",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR3VYNXZDNVpReXBHM0NYaGUzdHhXbTJSYmtEWTdaUG4wLXRrMUZlSllrMm5jbHR2ZjZITEdkdTBlM0ljeGFYXzRKS3Z1ZWpjY0N6N0JxZFR4bGIwdnVRWnlsdW1sSTNsck4taE1icTBWc0xQV1E?oc=5",
+    "original_title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+    "original_summary": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 中华人民共和国外交部",
+    "published_at": "2026-11-06T11:03:00+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conferência de imprensa regular do porta-voz do Ministério das Relações Exteriores, Guo Jiakun, em 6 de novembro de 2026_Ministério das Relações Exteriores da República Popular da China - Ministério das Relações Exteriores da República Popular da China",
+    "translated_summary": "Conferência de imprensa regular do porta-voz do Ministério das Relações Exteriores, Guo Jiakun, em 6 de novembro de 2026_Ministério das Relações Exteriores da República Popular da China Ministério das Relações Exteriores da República Popular da China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:40:59+00:00"
+  },
+  {
     "id": "8d76f8cbfa3d98eaf497",
     "country": "Singapura",
     "category": "Política",
@@ -6348,6 +6474,26 @@
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T15:54:37+00:00",
     "translation_error": "RuntimeError"
+  },
+  {
+    "id": "5a41dc43a7518a51ca0c",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSThEZ1Q5a1VNUmpqTlFTQWxLT1ZfMVpXTzM0bXd5VkVXbXJUcVU4NEZnTTI0WEZBV0xtX1c5aEt4cFYxVmdKMW5EVGJnQzlYMHBWV1BJdERVN1Z4SnVlYmpaNzVpcWRTVlE?oc=5",
+    "original_title": "한·튀르키예 양해각서 체결식 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "한·튀르키예 양해각서 체결식 - 포토 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-06T07:58:46+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Cerimónia do Memorando de Entendimento Coreia-Turquia - Fotos | Multimédia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Cerimónia do Memorando de Entendimento Coreia-Turquia - Fotos | Multimedia Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:14+00:00"
   },
   {
     "id": "4ae6c3a99afeeb0e2878",
@@ -9471,6 +9617,28 @@
     "translated_summary": "SEUL, 6 de novembro (Yonhap) - O vice-ministro das Relações Exteriores, Chung Eui-hae, se reuniu com um...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:46:13+00:00"
+  },
+  {
+    "id": "af26bf01da073876577c",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "한국NGO신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93UFBaYlVGOUtCNzg0M1hGUUFmSzRmdmFOVVhtOGplV1h3WWM3cUFqSko2V1AxUFZXLTdNaE0wUGVBUFZDSnAxcVFTM3dhbGtqNlNiZmkyUnpRZkVBaDd0RUdwSEtmUGFs?oc=5",
+    "original_title": "COP31 앞둔 시민사회 “기후위기 책임 회피 말라”…한국 정부에 8대 전환 촉구 - 한국NGO신문",
+    "original_summary": "COP31 앞둔 시민사회 “기후위기 책임 회피 말라”…한국 정부에 8대 전환 촉구 한국NGO신문",
+    "published_at": "2026-11-05T23:11:29+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "COP31 Ahead of Civil Society “Don 't Avoid Responsibility in the Climate Crisis” … Korean Government Urges Eighth Transition - Jornal da ONG",
+    "translated_summary": "COP31 À frente da sociedade civil “Não evite a responsabilidade na crise climática” … Jornais de ONGs coreanas exortando o governo coreano a fazer 8 grandes transições",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:17+00:00"
   },
   {
     "id": "bbcbd8b4d8d41cfa5d0b",
@@ -14052,6 +14220,26 @@
     "last_translation_attempt_at": "2026-11-06T20:53:42+00:00"
   },
   {
+    "id": "6f35ff4041bbc1dcf61b",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpc0U3T0JubVdpUHJxMno2M2dOZVZHTTBjRk1HQ3I3UUdoaktvZ25Nd1JYOC04ZTZ2QmNVcXNzU2lqNndYUmd2RkFOM3lfSlRZMnRMZmhkd2IzQm54QWJfcDB4QkNXdFhyaFZIa2t3?oc=5",
+    "original_title": "청년 취업지원정책, 놓치지 않겠어! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "청년 취업지원정책, 놓치지 않겠어! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-05T04:39:48+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Política de apoio ao emprego juvenil, não vou perder! - Todos | Card/HanCut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Política de apoio ao emprego juvenil, não vou perder! - Todos | Card/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:12+00:00"
+  },
+  {
     "id": "abca90af67d69546572c",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -17926,6 +18114,28 @@
     "last_translation_attempt_at": "2026-11-07T01:53:01+00:00"
   },
   {
+    "id": "0664a17fd02a814c0d43",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "24auto.de",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmIxVXNfOEl2OXJPN1VJLXo3bmlFRVdPbkJtWVk2UlYtVUs4MHFtbEZjZjZIYUVDSnVwRHNWYUlKLUQ5RzF4aFZTT2ZuTll3ZmU4QUlCb1VMYXQyampwWDNCbFdGelgwOV9HVkNfZEt4Mk1nZlN0azhxb1lfakFaNFdzRVdNRmotRjdMNzJreGgwZi04M0E1bjZaMkEyTzZjMnQ3dEdGWV8?oc=5",
+    "original_title": "Ab 2027: BMW bringt teilautonomes Fahren für den Stadtverkehr - 24auto.de",
+    "original_summary": "Ab 2027: BMW bringt teilautonomes Fahren für den Stadtverkehr 24auto.de",
+    "published_at": "2026-11-04T07:55:00+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Condução autónoma"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A partir de 2027: BMW apresenta condução semi-autônoma para o tráfego da cidade - 24auto.de",
+    "translated_summary": "A partir de 2027: BMW apresenta condução semi-autônoma para o trânsito da cidade 24auto.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:09+00:00"
+  },
+  {
     "id": "4e24164e62f5f95c0330",
     "country": "Índia",
     "category": "Automóvel",
@@ -18150,6 +18360,28 @@
     "translated_summary": "Chá chinês visto com tarifas baixas... O governo, crédito fiscal EV ‘Manjiju’ Maeil Economia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:46:13+00:00"
+  },
+  {
+    "id": "8f8400d64e1ce4e75ab8",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "BW Auto World",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT09NelpQZXRhbDN2TV85amtYXzVUenU2cmwxMUtVZkhOdU52M083SUh6X2h0OVNkWHd2ZW01WEZxZWtRV1ZpZ3U1Zk82NzlPVWV0cENSU1EtdnVnQlpIeDBkZG13eElwc0hYcHVFSmkxVnNwUVpLSzNjejg4UFk5Zk44dVFaTDZrNGxiWnVnQTJxMlhaeVh2MkZ5U2Q?oc=5",
+    "original_title": "Bolt.Earth Opens 1.5 MW EV Charging Station In Vijayawada - BW Auto World",
+    "original_summary": "Bolt.Earth Opens 1.5 MW EV Charging Station In Vijayawada BW Auto World",
+    "published_at": "2026-11-04T06:36:03+00:00",
+    "first_seen_at": "2026-11-07T17:40:37+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bolt.Earth Abre Estação de Carregamento EV de 1,5 MW em Vijayawada - BW Auto World",
+    "translated_summary": "Bolt.Earth Abre Estação de Carregamento EV de 1,5 MW em Vijayawada BW Auto World",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T17:41:22+00:00"
   },
   {
     "id": "b8a5d91c655dc7fa82c7",
