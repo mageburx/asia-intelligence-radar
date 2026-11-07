@@ -1,5 +1,49 @@
 [
   {
+    "id": "f93acdae68d85bc46b7a",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Global business",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-strategy-en",
+    "publisher": "Indian Television Dot Com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmZNOHF2WDA0cnhWM1BxdDUwbTQxcmQ4MFVuaVlJZ1FzWUJSdXROUk1COXQ0MU5Ma0NCUnotMWJxYzVhVjJaSzZXaXlsY1ZGczhld1VLNHlsdXhlNWdEN3lYaC1ra3dqTDVsVTVUV0RxQzN0bTYzUjlaUFlRdVpvWEVWcjlsby1td18wRzUxUTU1NEJ3MnQ2cGZ5a0g?oc=5",
+    "original_title": "Bosch Q2 profit rises 19 per cent as revenue jumps 28 per cent - Indian Television Dot Com",
+    "original_summary": "Bosch Q2 profit rises 19 per cent as revenue jumps 28 per cent Indian Television Dot Com",
+    "published_at": "2026-11-07T05:50:19+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Resultados e investimentos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Lucro da Bosch no segundo trimestre sobe 19% com aumento de receita de 28% - Indian Television Dot Com",
+    "translated_summary": "Lucro da Bosch no segundo trimestre sobe 19% com aumento de receita de 28% na Indian Television Dot Com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:39+00:00"
+  },
+  {
+    "id": "517d075cc35c6cec6df0",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3QXM1cnV4bE5GdGlVcEZZNHM3NW1uYmRZTVdhaFMyVURwWHhWVHVWZy1FMUYxMy10R0xMajBOaU5SWEt3amRfbXAyOFp2X1Rz0gFWQVVfeXFMTUpLREYzTjVWYWFyVklQc283ODZ4Wm42NUx3NmlydnFkcEl5UGhMa3NEa09DUVpDS3R6amJhZFQzd2Z3VmZGbklxQXJCR0JNaXFLSTlLcWc?oc=5",
+    "original_title": "台灣關閉駐巴紐代表處 王定宇：稱外交生變不精確 是停止輸血 - UDN",
+    "original_summary": "台灣關閉駐巴紐代表處 王定宇：稱外交生變不精確 是停止輸血 UDN",
+    "published_at": "2026-11-07T05:35:58+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Taiwan fecha seu escritório de representação em Papua Nova Guiné, Wang Dingyu: Chamar estudantes diplomáticos de imprecisos é impedir transfusões de sangue - UDN",
+    "translated_summary": "Taiwan fecha seu escritório de representação em Papua Nova Guiné: Wang Dingyu disse que a imprecisão dos estudantes diplomáticos é parar as transfusões de sangue UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:33+00:00"
+  },
+  {
     "id": "cec81f5c2712b6187947",
     "country": "China",
     "category": "Automóvel",
@@ -18,6 +62,28 @@
     "translated_summary": "O Jetour R700 boxy apresenta o próximo grande SUV off-road da Chery, com uma caixa de armazenamento traseira octogonal e um link de plataforma relatado para o G700. O SUV Jetour R700 boxy da Chery para compartilhar a plataforma com 892-HP G700 para estrear em 27 de novembro apareceu primeiro no CarNewsChina.com .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T04:56:22+00:00"
+  },
+  {
+    "id": "e99b4fb7fc7de0f51381",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Componentes automóveis",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-components",
+    "publisher": "ETAuto · Componentes automóveis",
+    "url": "https://auto.economictimes.indiatimes.com/news/auto-components/auto-parts-manufacturer-op-mobility-to-set-up-more-plants-in-india/135626406",
+    "original_title": "Auto parts manufacturer OP mobility to set up more plants in India",
+    "original_summary": "The company has committed to invest about 300 million (₹3,180 crore) in India over the next couple of years.",
+    "published_at": "2026-11-07T04:27:38+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fabricante de autopeças OP Mobility instalará mais fábricas na Índia",
+    "translated_summary": "A empresa se comprometeu a investir cerca de 300 milhões (₹ 3.180 crore) na Índia nos próximos dois anos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:41+00:00"
   },
   {
     "id": "e214a1687d4e255aae9a",
@@ -60,6 +126,28 @@
     "translated_summary": "O único presidente amigável sul-americano de Taiwan renunciou! A turbulência financeira do Paraguai continua a queimar enquanto o Ministério das Relações Exteriores fala com o Yahoo News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T04:56:44+00:00"
+  },
+  {
+    "id": "0883feae4a1a1dcb9109",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "FTNN 新聞網",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FVXZfd2RNeEhDdWVaQWdpMHprNnpMTHNiMFVQQVRqTzRGNzJ6Zkt6ZDlNNmxHTXdkbk04RWtBOFFqSF9BT19OY3k2OA?oc=5",
+    "original_title": "台灣唯一南美友邦總統下台！巴拉圭金融風暴延燒 外交部說話了 - FTNN 新聞網",
+    "original_summary": "台灣唯一南美友邦總統下台！巴拉圭金融風暴延燒 外交部說話了 FTNN 新聞網",
+    "published_at": "2026-11-07T04:14:00+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O único presidente amigável sul-americano de Taiwan renunciou! Crise financeira no Paraguai se espalha e chancelaria fala - FTNN",
+    "translated_summary": "O único presidente amigável sul-americano de Taiwan renunciou! Crise financeira no Paraguai se espalha e Ministério das Relações Exteriores fala com FTNN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:31+00:00"
   },
   {
     "id": "1bec34de211eb28e9b98",
@@ -318,6 +406,26 @@
     "last_translation_attempt_at": "2026-11-07T03:54:30+00:00"
   },
   {
+    "id": "2bc3eb766dead1546861",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "e南洋",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kb2Z6SXJfMXhlUXR3cTdCelQ2cnFBaDNaeGlmMk1FS0MyTl90VC1VMDZhaU44MEY0dmZ3TzUtcDRRNEJsRHhMbjVuczB0NS1BdHhadjB3VFVYX0dtYkNudEpOOA?oc=5",
+    "original_title": "纽时曝黄仁勋身边有“中国女间谍” 英伟达回应了…… - e南洋",
+    "original_summary": "纽时曝黄仁勋身边有“中国女间谍” 英伟达回应了…… e南洋",
+    "published_at": "2026-11-07T02:54:21+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A \"espiã chinesa\" de Huang Renxun, Nvidia, respondeu... - e Nanyang",
+    "translated_summary": "New Times expôs que Huang Renxun tinha uma \"espiã chinesa\" Nvidia respondeu... e Nanyang",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:10+00:00"
+  },
+  {
     "id": "1d4ed5290d533f0d2141",
     "country": "Índia",
     "category": "Política",
@@ -398,6 +506,28 @@
     "translated_summary": "Beijing, 7 nov (Xinhua) -- A Quinta Sessão Plenária do 20º Comitê Central do PCCh decidiu que o 21º Congresso Nacional do PCCh seria realizado em Beijing no segundo semestre de 2027. Recentemente, o Comitê Central do PCC emitiu o Aviso sobre a Eleição de Deputados para o 21º Congresso Nacional do Partido Comunista da China, que fez uma implantação abrangente da eleição de deputados para o 21º Congresso Nacional. O Departamento de Organização Central realizou recentemente uma reunião para tomar providências específicas para este trabalho.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T02:53:29+00:00"
+  },
+  {
+    "id": "ad729eec6b55dfcc41f9",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLS1IRG45RlNkeEJ0VXlUZ3F0S1kyR1N2VDBEbjN5ZXdWUGVDQlRxbjY2QUlsRnp3TWRQNlJSa1p4b0dEZDVCMzVScGxaR25TQzFPRk5YUW91Ql9wTEZ6bDBiVGhMZk9IRGE0WE1sUmRwV0otMXJUSEY4a3JyNjBRcA?oc=5",
+    "original_title": "중국산+전기차+왜건…이 조합, 한국서 통할까? [아車차] - 이데일리",
+    "original_summary": "중국산+전기차+왜건…이 조합, 한국서 통할까? [아車차] 이데일리",
+    "published_at": "2026-11-07T02:00:06+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Carros chineses + elétricos + vagões... Essa combinação funciona na Coreia? [Ah Carro] - EDAILY",
+    "translated_summary": "Carros chineses + elétricos + vagões... Essa combinação funciona na Coreia? [Ah carro] EDAILY",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:28+00:00"
   },
   {
     "id": "9290985ec28b9ea98024",
@@ -3970,6 +4100,29 @@
     "last_translation_attempt_at": "2026-11-06T23:12:07+00:00"
   },
   {
+    "id": "d3465a2f3082f45725a4",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "www.goo-net.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlhvUWZRbUlHN2pHLXBJcmpSZDktNnQ4Y0JSckx3bkR6b3NrbDF5NkFwQjRvRlp1R01MT0U1cTRZYXVNNUZIZ0dndk5CU1Vic29MOHhYa2VYRGJRT0NCUjdxZEZJcEtqRlpvdUVvMkE0d2ItRUlfdnZXbGdLeVl4T1FYbw?oc=5",
+    "original_title": "米国生産の大型ピックアップ、トヨタ「タンドラ」タフさ増した新スタイルで日本へ - www.goo-net.com",
+    "original_summary": "米国生産の大型ピックアップ、トヨタ「タンドラ」タフさ増した新スタイルで日本へ www.goo-net.com",
+    "published_at": "2026-11-06T09:03:35+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota Tandora, uma grande picape fabricada nos EUA, chega ao Japão em um estilo novo e mais resistente - www.goo-net.com",
+    "translated_summary": "Toyota \"Tandora\", uma grande picape feita nos Estados Unidos, para o Japão em um estilo novo e mais resistente www.goo-net.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:13+00:00"
+  },
+  {
     "id": "92cb603fce49cb60590e",
     "country": "Bosch",
     "category": "Estratégia",
@@ -7019,6 +7172,26 @@
     "last_translation_attempt_at": "2026-11-06T02:05:16+00:00"
   },
   {
+    "id": "898b613ea8f0675c2123",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiaUF6dEtCUTJpX2pIeHVxVUVHV1NwVm9senBzZWtOejZhVjhPcy1ocGd1YUU1MHVlZlZJVjhsSE9pcXNJOE5kZ2JMVFJHUkc3OEZ5Vnh3cDAzTVNQVDJUNTlDR19mdkNWeHU2cw?oc=5",
+    "original_title": "니들이 피셋맛을 알어? (신)(구) 대결! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "니들이 피셋맛을 알어? (신)(구) 대결! - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-06T00:50:02+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Você conhece o sabor de fissuras? (Deus) (velho) Confronto! - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Você conhece o sabor de fissuras? (Deus) (velho) Confronto! - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:23+00:00"
+  },
+  {
     "id": "5d393e8e9a3ecc3d25f9",
     "country": "Japão",
     "category": "Automóvel",
@@ -7227,6 +7400,28 @@
     "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:01:57+00:00"
+  },
+  {
+    "id": "d7fd2fcc6e47505e4d5b",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBENVZCTnVzdEs3emxaUTFzRHB5TWIwSmo0MkFNeEhuY09oYjYtRy10MXJDRVQtQmN3S051WFBpczJMeE9scnJPV0lRN1NaZzZoS2tnd2dlVnNJdF8yUW5seF9zSk55VnNjSEY4Xw?oc=5",
+    "original_title": "대통령의Y 1회 [소통] - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "대통령의Y 1회 [소통] - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-06T00:14:09+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente Y Once [Comunicação] - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "President Y Once [Comunicação] - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:20+00:00"
   },
   {
     "id": "d46f40e2e2d5f84b9b6f",
@@ -18370,6 +18565,26 @@
     "last_translation_attempt_at": "2026-11-06T22:25:43+00:00"
   },
   {
+    "id": "920da353300570e89aae",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Global",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWJKeXVTY2lkd1pFYnNGdU5UV1piRm5jc09oYUxnWE84eDB1MDZyal9EVklsaVA4ZDBJTnNaX2g1SUFpUDFGUmhCR2UtSkJTR0xLYW5CeWh5enBWck15Nm53WXFnWnFacjNsT1hwOVB1Z2lIOG5vc1gwZUR2ZE83RWFISEN5a3V4VWhhZU1KaFlrNUFy?oc=5",
+    "original_title": "Mercedes-Benz Aktie: Deutsche Bank hält am Kaufen fest - Börse Global",
+    "original_summary": "Mercedes-Benz Aktie: Deutsche Bank hält am Kaufen fest Börse Global",
+    "published_at": "2026-11-02T14:33:21+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ação da Mercedes-Benz: Deutsche Bank adere à compra - Börse Global",
+    "translated_summary": "Ação da Mercedes-Benz: Deutsche Bank detém a Bolsa de Valores Global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:17+00:00"
+  },
+  {
     "id": "274570590b57907e3401",
     "country": "Bosch",
     "category": "Mobilidade",
@@ -18552,6 +18767,28 @@
     "translated_summary": "BMW com assistência ao condutor: autoestrada, país e cidade a partir de 2027",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T18:38:33+00:00"
+  },
+  {
+    "id": "37e40c32db0612ddb6da",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "Yahoo - 汽機車",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdGI1NkRIVXF6cjZUc1ZORm96SHhEeUFTUUY2b1pQYnF3cVZwcDJXNWt5WWp2OHFqQlBrYjJrT0pTOFFEdFZmVm1zYVNtMVBzVGJSYk1vckNvbmZPeFdVelpObUd0YkFKcXgtOU5rMEExS0RIYnYwVmQyaGUzdGV1cW9peUl0ZHlFX3Z3LWZGR0lPMlpIbzNVZ2ZtRUhjZ2JtX0U5WEtwYmd1TkZoVU5JT0t1SGtURVJKclkzUmp6d1dfYjdxd2JZVVlQc25wS0I5X1g2OUhKdmhHeVZVNDZMV3JSQ2FYdEdGQkZlVmY4UDYyMXhRd2tlMzRNeUpCRnJhMnpReXAxdUtqTzVVSkJEeS0tdzhGZXpHb3F0RHRockFYX2FTVUtaV1dDaw?oc=5",
+    "original_title": "2026 年十月台灣電動車銷售排行榜：Foxtron Cavira 奪冠，BMW iX3 開始交車了 - Yahoo - 汽機車",
+    "original_summary": "2026 年十月台灣電動車銷售排行榜：Foxtron Cavira 奪冠，BMW iX3 開始交車了 Yahoo - 汽機車",
+    "published_at": "2026-11-02T11:26:46+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 começa a entrega - Yahoo - Motos",
+    "translated_summary": "Outubro de 2026 Ranking de Vendas de Veículos Elétricos de Taiwan: Foxtron Cavira vence, BMW iX3 inicia entrega do Yahoo - Moto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:36+00:00"
   },
   {
     "id": "652cf32875fab7bdbd27",
@@ -19655,6 +19892,28 @@
     "translated_summary": "Tata Punch.EV se torna o primeiro carro elétrico a ultrapassar 5.000 vendas mensais Mark Cartoq",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:29:58+00:00"
+  },
+  {
+    "id": "7ef6c1e8d79191627a52",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUFdvNmZ4Mks5WE1CdldDdWh0YlB4QlZGMVJXdGVvbFdveHZ3YVpqb0ZFMTVzdmpuWUFRcnB0Y2YtV0ZqaE5QOW10SU1IMWNkU1HSAVNBVV95cUxQWFB3Skh6cndwbDJ1UFpsQ1puS2Q4UVN3cUsyYjJsYm5BdVJBY1RBNXlQb0ZsNjRRRmFGbVZKZmp3ZlVra19MTzRKMElfUzhLb01BNA?oc=5",
+    "original_title": "[단독] 창청자동차도 내년 국내 상륙…거세진 中전기차 공습 - 서울경제",
+    "original_summary": "[단독] 창청자동차도 내년 국내 상륙…거세진 中전기차 공습 서울경제",
+    "published_at": "2026-11-01T09:04:04+00:00",
+    "first_seen_at": "2026-11-07T05:51:49+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] A Changcheong Automobile também desembarcou na Coreia no próximo ano... Ataques aéreos de carros elétricos em meio à turbulência - Economia de Seul",
+    "translated_summary": "[Exclusivo] A Changcheong Automobile também desembarcou na Coreia no próximo ano... Ataques aéreos de veículos elétricos no meio da economia de Seul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T05:52:25+00:00"
   },
   {
     "id": "1126b5750081c40a9ea3",
