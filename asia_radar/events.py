@@ -5,8 +5,8 @@ No ML API or external network calls are required.
 """
 from __future__ import annotations
 
-import hashlib
 import re
+from difflib import SequenceMatcher
 import unicodedata
 from collections import defaultdict
 from datetime import timedelta
@@ -43,10 +43,10 @@ def headline_forms(article):
         normalized = unicodedata.normalize("NFKD", title.casefold())
         normalized = "".join(ch for ch in normalized if not unicodedata.combining(ch))
         words = [w for w in TOKEN.findall(normalized) if len(w) > 1 and w not in STOPWORDS]
-        words = set(words)
+        words = tuple(dict.fromkeys(words))
         if len(words) >= 3 and words not in forms:
             forms.append(words)
-        elif len(words) == 1 and len(next(iter(words))) >= 8 and words not in forms:
+        elif len(words) == 1 and len(words[0]) >= 8 and words not in forms:
             # An unsegmented CJK headline can match exactly, but never fuzzily.
             forms.append(words)
     return forms
@@ -64,9 +64,11 @@ def same_event(a_forms, b_forms):
             b_nums = {w for w in b if w.isdigit()}
             if a_nums != b_nums:
                 continue
-            shared = len(a & b)
-            union = len(a | b)
-            if shared >= 5 and shared / union >= .76 and shared / min(len(a), len(b)) >= .85:
+            shared = len(set(a) & set(b))
+            union = len(set(a) | set(b))
+            if (shared >= 5 and shared / union >= .76
+                    and shared / min(len(a), len(b)) >= .85
+                    and SequenceMatcher(None, a, b, autojunk=False).ratio() >= .75):
                 return True
     return False
 

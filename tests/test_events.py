@@ -19,6 +19,12 @@ def news(id, title, country="Alemanha", category="Automóvel", publisher="Fonte 
 
 
 class EventGroupingTests(unittest.TestCase):
+    def test_reordered_actors_not_silently_conflated(self):
+        a=news("a","Japan bans China imports after security review")
+        b=news("b","China bans Japan imports after security review")
+        g=group_events([a,b])
+        self.assertNotEqual(g[0]["event_id"],g[1]["event_id"])
+
     def test_same_story_different_publishers(self):
         rows=[
             news("a","Bosch opens new electric motor factory in Germany - The Herald",publisher="The Herald"),
