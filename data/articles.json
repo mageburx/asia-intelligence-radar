@@ -1,5 +1,112 @@
 [
   {
+    "id": "5036402a6b15499b8765",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "The Straits Times · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-straitstimes",
+    "publisher": "The Straits Times",
+    "url": "https://www.straitstimes.com/singapore/politics/former-senior-parliamentary-secretary-lee-yiok-seng-who-was-behind-housing-efforts-dies-at-87",
+    "original_title": "Former Senior Parliamentary Secretary Lee Yiok Seng, who was behind housing efforts, dies at 87",
+    "original_summary": "He was MP for Bukit Panjang from 1972 to 1991, and Sembawang GRC MP from 1991 to 1996.",
+    "published_at": "2026-11-07T03:49:25+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O ex-secretário parlamentar sênior Lee Yiok Seng, que estava por trás dos esforços habitacionais, morre aos 87 anos",
+    "translated_summary": "Foi deputado da Bukit Panjang de 1972 a 1991 e deputado da Sembawang GRC de 1991 a 1996.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:50+00:00"
+  },
+  {
+    "id": "b6ef6987e2f0a483f742",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/",
+    "original_title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
+    "original_summary": "Could a battery that uses air give EVs 2,000 km of range? CATL is researching lithium-air technology, but major engineering hurdles remain. The post CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range? appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-07T03:23:48+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A CATL está a explorar uma bateria de respiração de ar. Poderia dar aos VEs 2.000 km de alcance?",
+    "translated_summary": "Uma bateria que usa ar poderia dar aos VEs 2.000 km de alcance? A CATL está pesquisando a tecnologia de lítio-ar, mas grandes obstáculos de engenharia permanecem. O post CATL está explorando uma bateria de respiração de ar. Poderia dar aos VEs 2.000 km de alcance? apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:17+00:00"
+  },
+  {
+    "id": "c4c22d853432a523f1d3",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ldklrQm5qcVV1Zl85ZzhPWGJSdmFwVHRvS3d0eDYwQVgyWmR5N28zLW1PUWhabkRCaEY4bVY4aHBDd0UxNkZoQkdaSU5nZG5aYUVHNXQwOF9FZ9IBX0FVX3lxTE53LUlRZGpIcGhjeC1XNlZHaF92UjUyelNmZ00wZENOWm8xSV96NUhnYjZmSElkNmp1dGZId1hMUUFYT3NISVFKSndHaWY2cjJNQVFPZUFtSlJmOXE2WDZz?oc=5",
+    "original_title": "外媒團來訪 外交部：盼各國支持台灣入CPTPP - 經濟日報",
+    "original_summary": "外媒團來訪 外交部：盼各國支持台灣入CPTPP 經濟日報",
+    "published_at": "2026-11-07T03:00:53+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Delegação dos Meios de Comunicação Estrangeiros Visita o Ministério dos Negócios Estrangeiros: Aguardando os Países que Apoiam a Entrada de Taiwan no CPTPP - Economic Daily",
+    "translated_summary": "Delegação dos Meios de Comunicação Estrangeiros Visita o Ministério dos Negócios Estrangeiros: Olhando para os Países para Apoiar a Entrada de Taiwan no Diário Económico do CPTPP",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:30+00:00"
+  },
+  {
+    "id": "1d4ed5290d533f0d2141",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "electronics.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcHlfaUNZY1lGd2ZhYTNETFptSTZ0UWRmXzdFX05wYzhsRG5WYkRkbUhpVzhVV00yWERPQTdoY19kZEg1Y29lbGFDUjd3ZlpSR1VTYkY0bzdiT2FQS2tlMnk0eGVabFFVd1g0RjB4YmI2MlVNN2lfWHJtMTRRcmY5TF9GdG1DbS11SkZBejA5T3pRaWxoODdOSlRrNEpaSEhRTUFMMzY4VFBiLTdNNkFDY3g0OXBXYllfUDlGdVlZOGVTZTdXbjFJM0V6em5Dd0tCNEVJZldISms5UEkwS1kwVk9PSDlXOTVsMGQzOWQ4T19EZG94ZVg1TG5qWmhJZnlaNkNqblk1eTUzMkNLTmlHcHF3UdIBlwJBVV95cUxPRUE4QnhDMzZZTzhWdS00eGc1ZDhWU2l6WVBHYUZWR283cjhwbnJ2R1ZuYm5YOVpQd3VEMEJIVXVFRUVITVgwSjJhM1Nqbm0tRUhsa2NlQ2E0cGdxMGxrbUEtcWdfdWltU05wUEtoc002a0Zxd0dpTlM2YmVLMUdweVMzTkJDT1NfYmFPMkVud3BIVElaUXZ4cW56alJTeWhmVFJLMGJkd085WXphOExXdG80MmtDdkppb2pPbXFnMXRYdHZGcWpJNG5IQUxxZGhKU3FqRG5VVFA1ZHE2dnVDR0NjLXl6clJ6U0JRb2FiSkdHcVVISjIzUVlrdmJRMGNjS21RS29QNko4MWZMdElpb3RMaVVUODg?oc=5",
+    "original_title": "Semicon 2.0 to be successful if India attracts large equipment, chemicals & gases makers: Ashwini Vaishnaw - electronics.economictimes.indiatimes.com",
+    "original_summary": "Semicon 2.0 to be successful if India attracts large equipment, chemicals & gases makers: Ashwini Vaishnaw electronics.economictimes.indiatimes.com",
+    "published_at": "2026-11-07T02:37:28+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A SEMICON 2.0 será bem-sucedida se a Índia atrair grandes fabricantes de equipamentos, produtos químicos e gases: Ashwini Vaishnaw - electronics.economictimes.indiatimes.com",
+    "translated_summary": "A SEMICON 2.0 será bem-sucedida se a Índia atrair grandes fabricantes de equipamentos, produtos químicos e gases: Ashwini Vaishnaw electronics.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:33+00:00"
+  },
+  {
+    "id": "10291a7deab0cf2febd1",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "联合早报",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3R1MmlvME8weklINHhvMUNGdHdoc2lWbHg2RlJ5am9TSERyVFh0ZDRvUWczSi16YktCeHdlamYyTjBaVU1ndmZFQ08yVjdRa21NUk16SmtIZVFtS1AtT2Z2eTVRb3NJU29RMXhmSnE5Mkx1a1loaHlBWU5yU29EN2J2NVpJMERKR0htME9MQ2djQkh6T3BuWnUtY21kQkdjTWF4dGJTMDNDVmJ4bkRMVmtKXzcyc0ctWVdVdDlBc0ZqSHV2UXVkWHR2S2FmYjU5?oc=5",
+    "original_title": "Government to step up public education as Lianhe Zaobao poll finds gaps in understanding of nuclear energy - 联合早报",
+    "original_summary": "Government to step up public education as Lianhe Zaobao poll finds gaps in understanding of nuclear energy 联合早报",
+    "published_at": "2026-11-07T02:36:39+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O governo deve intensificar a educação pública à medida que a pesquisa Lianhe Zaobao encontra lacunas na compreensão da energia nuclear - United Morning Post",
+    "translated_summary": "O governo deve intensificar a educação pública à medida que a pesquisa Lianhe Zaobao encontra lacunas na compreensão da energia nuclear",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:40+00:00"
+  },
+  {
     "id": "cdcf9c4e9f58cfb6c39c",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -5748,6 +5855,28 @@
     "last_translation_attempt_at": "2026-11-06T23:12:13+00:00"
   },
   {
+    "id": "81c1043c4f58a285ec50",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "carview!",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1JTTXZSVTRKN3I5V1ZQNFAxLWljNlhMRzUxZm9oTG5NRXQ0dHJlY1oyRHpGLVpQS0UzUWdvN3dBR2JBYUw3cUoyQkFSdVQycXNjaWQ0MWpRaDRpVnFXM19qMERfNGVyRTR5RXpabU5fWktWUUFBZDZRYUx1bjZPbGJheEYxNloy?oc=5",
+    "original_title": "メルセデス・ベンツ日本、中古EV電池の残存性能を開示 不安解消してEV販売拡大へ（日刊自動車新聞） | 自動車情報・ニュース - carview!",
+    "original_summary": "メルセデス・ベンツ日本、中古EV電池の残存性能を開示 不安解消してEV販売拡大へ（日刊自動車新聞） | 自動車情報・ニュース carview!",
+    "published_at": "2026-11-06T03:24:00+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes-Benz Japão divulga o desempenho residual de baterias de veículos elétricos usadas, elimina a ansiedade e expande as vendas de veículos elétricos (Daily Automotive News) | Automotive Information & News - carview!",
+    "translated_summary": "A Mercedes-Benz Japão divulga o desempenho residual de baterias de veículos elétricos usadas, elimina a ansiedade e expande as vendas de veículos elétricos (Daily Automotive News) | Automotive Information & News carview!",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:19+00:00"
+  },
+  {
     "id": "04fae8129094788c08e1",
     "country": "China",
     "category": "Política",
@@ -6238,6 +6367,28 @@
     "translated_summary": "Em relação ao projeto de lei relativo à redução do imposto de consumo de gêneros alimentícios, o partido no poder votou na diretoria da Comissão de Finanças e Finanças da Câmara dos Deputados na manhã do dia 6 após questionamento no dia 6, e propôs ir à reunião plenária à tarde, enquanto o partido da oposição queria ouvir a resposta do primeiro-ministro Takashi...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T02:04:59+00:00"
+  },
+  {
+    "id": "f6974dc24be267ad867c",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Business Today",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR2h0RFJfMVZkdGZnWDFwWDE5ZmFNQU5TTTJDWkNNWENod2RqVGF5OEVKS2c4V2ZVVThZRUFxbHQzMTJWNGpKMlIwMEU5NkJSTEtmZTQ5QnZzaVl2TnpFUXp2VnJIQWJHTUJfWnBUanNIOXpULWxFWndKd2d6VWRMN3RWcFAwTktjU2l3eVFja25SNzdBSzNiRDBWV09tOGtxOEYycWl1QXBGU1BiZ184eUEzUmd4RThPTWVvOVRGNDdYNTFzcy1iaVM4eWFmaVFRWkw4V1ZPcGhScTQteVkzZFFQaDJIYkhxb3p1STN4SklMT1A0NWlj0gH8AUFVX3lxTE91SE1hTlZRaWtuU3pQWmZvMVFBekI4MjZ1S203SllaQzlzaTlHNTRjTmJROVJqclRDV0RvYklFSHJKT1F3emh6cV9ZWmFwOFNoQklQaXVNMWtLbnFXMFRjclp2ZUJhODZGbDcyODM0dnRCTXo4WUNtRmxDUlhxVm1NenFrb3FLX0dWS19BRTlEV3dicmNBRVJQbDRIdnhyRnBqYTBEbll1MVVoZzBfSVJZN0ZMRDhOQXpXZzZ2WElXYmJFRU9BSjBzYlhrQlBBUkVpd3NoUmZibTRQaHpGRnJnLURkNXR6bTZMZVRkNGtfT3VUa2lIN1BJZDdiOA?oc=5",
+    "original_title": "India-US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief? - Business Today",
+    "original_summary": "India-US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief? Business Today",
+    "published_at": "2026-11-06T01:50:07+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Acordo comercial Índia-EUA: Democratas podem desafiar as políticas tarifárias de Trump, mas os exportadores terão alívio? - Business Today",
+    "translated_summary": "Acordo comercial Índia-EUA: Democratas podem desafiar as políticas tarifárias de Trump, mas os exportadores terão alívio? Business Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:35+00:00"
   },
   {
     "id": "0e7e917a3325972ae6a1",
@@ -8905,6 +9056,26 @@
     "last_translation_attempt_at": "2026-11-06T19:56:54+00:00"
   },
   {
+    "id": "44116e76127efa2cc5dc",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "テレ朝NEWS",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DY3J5TDBKeEl3YlhUQnM0LVRFRlJaQkRnY2Uwc0psYVpiQUdaX29yRWRISGNPdmdaVkt5c3JkWkpfSEhTUldHYVJ1M1REMFk4d3FpcUIyYjlObEh5aWI0TzFYOXV0NzJyZ1lkRE83X19RT2c?oc=5",
+    "original_title": "日仏首脳会談 日本製EV排除など懸念伝達 高市総理大臣 - テレ朝NEWS",
+    "original_summary": "日仏首脳会談 日本製EV排除など懸念伝達 高市総理大臣 テレ朝NEWS",
+    "published_at": "2026-11-05T12:20:04+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Comunicação de preocupações como a exclusão de veículos elétricos fabricados no Japão na cimeira Japão-França Takashi Primeiro-Ministro - Telekom News",
+    "translated_summary": "Comunicação de preocupações como a exclusão de veículos elétricos fabricados no Japão na Cimeira Japão-França Notícias do primeiro-ministro Takashi Telekom",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:22+00:00"
+  },
+  {
     "id": "6467fde7c92303d12408",
     "country": "China",
     "category": "Automóvel",
@@ -10388,6 +10559,28 @@
     "last_translation_attempt_at": "2026-11-06T20:53:10+00:00"
   },
   {
+    "id": "78d8db57bf67eac7bec4",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "IndyStar",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hjSTdhbGhiemE1aExpZTBsUll3WEtrMklPQW9MQzQ5eDM5M0NUR1A5LTVaM0RwN0dUM1lndnR3S3VJNHZUaExzbHR4VlVPX2hadlRjck1MWlFUX2V6Rjk3Y3ZKVXpleWxLcXdrd3BfYi1EMDJtUlFkTzBudlVTeGF5d1p2OFZaMEVnMlljYkRPTDZmbG9pb1duYTNjWHE4SVRMeU1ZenVTb2M1azdIbV81Z1F3Yy1hVmpEV01rQlYtNC0xa0lCLVE2WkdWeW9vSjhLT1RLOHU?oc=5",
+    "original_title": "BEISIT: The Reliable Waterproof Connector Exporter from China with UL/cULus Certification - IndyStar",
+    "original_summary": "BEISIT: The Reliable Waterproof Connector Exporter from China with UL/cULus Certification IndyStar",
+    "published_at": "2026-11-05T06:19:16+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BEISIT: O Exportador de Conector Impermeável Confiável da China com Certificação UL/cULus - IndyStar",
+    "translated_summary": "BEISIT: O Exportador de Conector Impermeável Confiável da China com Certificação UL/cULus IndyStar",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:45+00:00"
+  },
+  {
     "id": "430a7a26d0deb865c6b9",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -11589,6 +11782,26 @@
     "translated_summary": "Uma sociedade segura sentida pelo povo - Todos | Cards/Hankut | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:24:17+00:00"
+  },
+  {
+    "id": "93392351f213142cc192",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMDRsNndNMUlHdkhRZE1ybk5iTF81WUpaM210ZDJmdHdIdjhrR0c1NnVlSDlQUmhRNzV3cGtyVVhpcWZxNHQ4eUo4eVdVbEtkQnltZjRUY1lfMGJzNHhzUTB3TUpnWkRWVm8xMWJwb1Z4ZW5Pam9B?oc=5",
+    "original_title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+    "original_summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
+    "published_at": "2026-11-05T01:30:00+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Briefing Diário Regular do Ministério da Defesa Nacional - Briefing de Política da Coreia do Sul",
+    "translated_summary": "Briefing Diário do Ministério da Defesa da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:25+00:00"
   },
   {
     "id": "b4e550b4974afb3d32f4",
@@ -14096,6 +14309,26 @@
     "last_translation_attempt_at": "2026-11-07T01:02:37+00:00"
   },
   {
+    "id": "9e3fa519bfa2a74d65f1",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "CNA",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLUFSMkJOaG01V3FpdFpxMGhfX0pVQ1ZrWnJsaXprQVcyOFJsZ1lfajhwRXM1NGVnZDYwT0R4SXNjMWFsNmZ5Sk10dXZKM3NXejVQaWRQMXh5VXJhY0ZObkhWa2hERHdaV1d3UkkwZDRiMThMcXhYRklmcHBmc0NnYzJQMlhVMUZVcjFSUHE1aVdHWkdrSFVOSDhNYjVXdmhfeDA3dTRzY3VXZEdNRXZISWlVX0lPTEtPX2g1WV93?oc=5",
+    "original_title": "'Absurd and novel': Shanmugam dismisses WP MP’s call to raise issues at Singapore’s meetings with foreign counterparts - CNA",
+    "original_summary": "'Absurd and novel': Shanmugam dismisses WP MP’s call to raise issues at Singapore’s meetings with foreign counterparts CNA",
+    "published_at": "2026-11-04T08:55:00+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "'Absurdo e novo': Shanmugam rejeita o apelo do WP MP para levantar questões nas reuniões de Singapura com homólogos estrangeiros - CNA",
+    "translated_summary": "'Absurdo e novo': Shanmugam rejeita o apelo do WP MP para levantar questões nas reuniões de Cingapura com as contrapartes estrangeiras da CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:38+00:00"
+  },
+  {
     "id": "fccb0059070b75c57e77",
     "country": "Japão",
     "category": "Automóvel",
@@ -14791,6 +15024,28 @@
     "translated_summary": "Lucro da BMW diminui - e piora Heidenheimer Zeitung",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:31:42+00:00"
+  },
+  {
+    "id": "f3f6718832d541a71412",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "기호일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uLWlXNFRsVzFZQlhqeHpTVEExbTRwV0I0Y1dNSnZoMTlzcVlrSFZtYTlpVENVRWJHY29TN05uU0Etbl9heThEdG5UbzZJRGdDOHpIS1lRcXZZRWZIMUQ1LVRyb25wNTZla2hTTDZzQQ?oc=5",
+    "original_title": "[편집국에서] 몰려오는 중국 전기차, 국내 업체 기술력 강화 필요 - 기호일보",
+    "original_summary": "[편집국에서] 몰려오는 중국 전기차, 국내 업체 기술력 강화 필요 기호일보",
+    "published_at": "2026-11-04T06:29:17+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Da redação] Carros elétricos chineses chegando, empresas nacionais precisam fortalecer sua tecnologia - Kumho Ilbo",
+    "translated_summary": "[From the Editorial Bureau] Veículos elétricos chineses chegando, as empresas domésticas precisam fortalecer sua tecnologia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:28+00:00"
   },
   {
     "id": "28f0324a0b55da87fded",
@@ -16001,6 +16256,28 @@
     "translated_summary": "Os três prémios empresariais abrangem aplicações de veículos de autonomia alargada, elétricos a bateria e híbridos, com produção prevista para começar entre 2027 e 2028.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T02:00:25+00:00"
+  },
+  {
+    "id": "6e4818247c10e295c3d4",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Badische Neueste Nachrichten",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0xvUVJUTU1VWlBtUFdpYUpBaEpSZTgwM1NLM1hhRzlkTWhScVJ0all1dERqSmRpNzhLNnJXQ1hkZzVGMnZVQWdERUtESEY5SlhYeEZ3bVJvZjF1alZyQ0laUEljVGJEVFprRW1NSEQtc3E0eW5HbVJRTW0xZ2tDSS1RQV9iMUo1TU5WMHhWbEN3Y1VtN3BvNUl4YS1lYzFxbHh1cHhXbklydw?oc=5",
+    "original_title": "Bei Schaeffler und Bosch gibt es keine gute Zukunft ohne gute Mitarbeiter - Badische Neueste Nachrichten",
+    "original_summary": "Bei Schaeffler und Bosch gibt es keine gute Zukunft ohne gute Mitarbeiter Badische Neueste Nachrichten",
+    "published_at": "2026-11-03T14:56:59+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Emprego e reorganização"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Na Schaeffler e Bosch, não há futuro bom sem bons funcionários - Badische Neueste Nachrichten",
+    "translated_summary": "Na Schaeffler e Bosch, não há futuro bom sem bons funcionários Badische Neueste Nachrichten",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:47+00:00"
   },
   {
     "id": "439b6695721fa5d370d1",
@@ -17644,6 +17921,28 @@
     "translated_summary": "Unidade Bosch de 2 kW traz o Cruise Control de motocicleta EV [2026] shattered.io",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:18:34+00:00"
+  },
+  {
+    "id": "a99a69179a24629cfb73",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhSOVdqWHFZU0VzOG0wREpIbnlEVXZoOW12Mm9WZ01xS1lMNmxJLW5majRMM0RHNVBMa1BlUFBNVE8ySkw5em5SeW50UVRDYlpBZ2Q1RDZpYVNvRTVlMFg3clJBSTFQYkd1YVc0NW5NQUgyUE1TTmZTMUhueTVIOTd3bXkxTmxHSVd5U1JFUHJoWEpvX004aFJLZU5RRTA?oc=5",
+    "original_title": "Ethiopia’s Improbable Leap to Electric Vehicles - Bloomberg.com",
+    "original_summary": "Ethiopia’s Improbable Leap to Electric Vehicles Bloomberg.com",
+    "published_at": "2026-11-02T14:21:10+00:00",
+    "first_seen_at": "2026-11-07T03:53:58+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O improvável salto da Etiópia para os veículos elétricos - Bloomberg.com",
+    "translated_summary": "O salto improvável da Etiópia para os veículos elétricos Bloomberg.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T03:54:43+00:00"
   },
   {
     "id": "8832b8e8cfdfd3158d7c",
