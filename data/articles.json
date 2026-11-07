@@ -1,5 +1,70 @@
 [
   {
+    "id": "cdcf9c4e9f58cfb6c39c",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261107001400315",
+    "original_title": "Labor minister urges tougher action on industrial accidents",
+    "original_summary": "SEOUL, Nov. 7 (Yonhap) -- Labor Minister Kim Young-hoon on Saturday called on of...",
+    "published_at": "2026-11-07T02:28:49+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ministro do Trabalho pede medidas mais duras contra acidentes industriais",
+    "translated_summary": "SEUL, 7 de novembro (Yonhap) - O ministro do Trabalho, Kim Young-hoon, pediu no sábado...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:49+00:00"
+  },
+  {
+    "id": "692c48275c758ae3ef46",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml",
+    "original_title": "中共中央发出通知 部署党的二十一大代表选举工作",
+    "original_summary": "新华社北京11月7日电#8195;党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安排。",
+    "published_at": "2026-11-07T02:07:56+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Comitê Central do Partido Comunista da China emitiu um aviso para implantar a eleição de deputados para o 21º Congresso Nacional",
+    "translated_summary": "Beijing, 7 nov (Xinhua) -- A Quinta Sessão Plenária do 20º Comitê Central do PCCh decidiu que o 21º Congresso Nacional do PCCh seria realizado em Beijing no segundo semestre de 2027. Recentemente, o Comitê Central do PCC emitiu o Aviso sobre a Eleição de Deputados para o 21º Congresso Nacional do Partido Comunista da China, que fez uma implantação abrangente da eleição de deputados para o 21º Congresso Nacional. O Departamento de Organização Central realizou recentemente uma reunião para tomar providências específicas para este trabalho.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:29+00:00"
+  },
+  {
+    "id": "9290985ec28b9ea98024",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Sustainable Japan",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWUhnTXNqRWhraGZHcENLSWQ2ZzhNVHJ6X1c1NnZJME5xM1VrbVVTMndycUNHNGtsSDRrcEFBalF1b0FmMHBfR1RQVWgtSk40U2xqRUFTWF9odlJsMV93dFZubUh6X25vY3M2SEdlNFozTTJw0gF6QVVfeXFMUHVxM2JqbGVlM041WXdxMVA3SGk2Mmc2UWZBUlVpR3puMVE4eEw5SHRXd1I2LWtzU1d3UWdNS1pJd3RCRml3NDYyRFQtejN6OExvZU11SDNSa1pnZHZla1VOSm5PSmR5Znl4X2tPMGV5ZUpkbnNWMDZWdVE?oc=5",
+    "original_title": "【日本】トヨタ、中国市場で苦戦。2027年から新型EVを順次投入へ。北米はHV増産 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
+    "original_summary": "【日本】トヨタ、中国市場で苦戦。2027年から新型EVを順次投入へ。北米はHV増産 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs Sustainable Japan",
+    "published_at": "2026-11-07T01:36:50+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Japão] A Toyota luta no mercado chinês. Novos EVs serão introduzidos sequencialmente a partir de 2027. América do Norte Aumenta a Produção de AT | Japão Sustentável | Sustentabilidade Global, Investimento ESG e ODS - Japão Sustentável",
+    "translated_summary": "[Japão] A Toyota luta no mercado chinês. Novos EVs serão introduzidos sequencialmente a partir de 2027. América do Norte Aumenta a Produção de AT | Japão Sustentável | Sustentabilidade Global, Investimento ESG e ODS Japão Sustentável",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:32+00:00"
+  },
+  {
     "id": "0ce5e41116aa2aac6b72",
     "country": "Índia",
     "category": "Automóvel",
@@ -376,6 +441,28 @@
     "translated_summary": "Alemanha: Verdes no Bundestag abertos a Aigner como Presidente Federal stol.it",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:14:24+00:00"
+  },
+  {
+    "id": "bc04de4c17d90b1f684e",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "ダイヤモンド・オンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wTEJNRVI3T3VITzVwVE9UdVhWNlRpY0VmYXlleE91X2FIbTFFRHJQWXZHQVh5MDY5czBXT1NRN3hDLTk3bFQ5TVYxYnY?oc=5",
+    "original_title": "「俺は終生、金持ちにはならない」日産の創始者・鮎川義介、信念に基づき大衆資本で大財閥に挑んだ日本型コングロマリットの祖《再配信》 - ダイヤモンド・オンライン",
+    "original_summary": "「俺は終生、金持ちにはならない」日産の創始者・鮎川義介、信念に基づき大衆資本で大財閥に挑んだ日本型コングロマリットの祖《再配信》 ダイヤモンド・オンライン",
+    "published_at": "2026-11-06T19:50:00+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Eu não serei rico para sempre\" Yoshisuke Ayukawa, fundador da Nissan, o fundador do conglomerado de estilo japonês que desafiou o grande conglomerado com capital de massa baseado na fé \"Redistribuição\" - Diamond Online",
+    "translated_summary": "\"Eu não serei rico para sempre\" Yoshisuke Ayukawa, fundador da Nissan, o fundador do conglomerado de estilo japonês que desafiou o grande conglomerado com capital de massa baseado na crença \"Redistribuição\" Diamond Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:35+00:00"
   },
   {
     "id": "8fd4fd2acf4fd567381b",
@@ -1367,6 +1454,26 @@
     "translated_summary": "Após o veredicto do Cas: Bund busca solução para a Copa do Mundo de hóquei no gelo de 2027 Vodafone ao vivo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:02:13+00:00"
+  },
+  {
+    "id": "9a0e6b2872493061e561",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Vodafone live",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNak5vVm1HT2tzNDdKSXNxV25oT2VtYlMyU1JGakhTUGhrWnM2QXNzOHhnT2l4OUNqd2swWDVkT2NuTi1QSWdlcjFNVDBJcUtVTlF3c1RkbENUOGNVZWZkVnA5T3MyVVRQVkZtTW52WGtjcF9LYmpUam1TZkgyanpBWjRzN0JUQlZHVlg2YzAzVEZLbkd4cUZMZnBrNWpRX3NEYS1KSy1jenBiNm8?oc=5",
+    "original_title": "Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 - Vodafone live",
+    "original_summary": "Nach Cas-Urteil: Bund sucht Lösung für Eishockey-WM 2027 Vodafone live",
+    "published_at": "2026-11-06T13:40:00+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Após o veredicto da Cas: Bund está à procura de uma solução para o Campeonato Mundial de Hóquei no Gelo de 2027 - Vodafone Live",
+    "translated_summary": "Após o veredicto do Cas: Bund busca solução para a Copa do Mundo de hóquei no gelo de 2027 Vodafone ao vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:38+00:00"
   },
   {
     "id": "d974726ae69ec8e852b8",
@@ -4044,6 +4151,28 @@
     "last_translation_attempt_at": "2026-11-06T19:23:52+00:00"
   },
   {
+    "id": "5c1f0550a13f0d33c006",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "DDCAR 電動車",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yQlF4N3gxaGxTQzU1dC1UcmNQSXAteFFiRFE1Z0VYd1ppdzgwcWFiSlZVWnZualV3aWY2N00wNkFsUTlhRGZ2bjMzQTY4TVE?oc=5",
+    "original_title": "特斯拉推新一波 Model Y 深度體驗專案，全台最熱賣純電休旅免費讓你開三天兩夜 - DDCAR 電動車",
+    "original_summary": "特斯拉推新一波 Model Y 深度體驗專案，全台最熱賣純電休旅免費讓你開三天兩夜 DDCAR 電動車",
+    "published_at": "2026-11-06T07:34:28+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Tesla lança uma nova onda de experiências aprofundadas do Modelo Y, permitindo-lhe conduzir durante três dias e duas noites gratuitamente - Veículo Elétrico DDCAR",
+    "translated_summary": "A Tesla lança uma nova onda de experiências aprofundadas do Modelo Y, permitindo-lhe conduzir um carro elétrico DDCAR durante três dias e duas noites gratuitamente",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:46+00:00"
+  },
+  {
     "id": "11be68103c0188cfe165",
     "country": "Índia",
     "category": "Automóvel",
@@ -4803,6 +4932,28 @@
     "translated_summary": "Recapitulação inesquecível dos benefícios do Cogpe! - Todos | Card/HanCut | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:24:22+00:00"
+  },
+  {
+    "id": "877639feaed6e7d4473e",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5heUZHMktkV0N0WGIxV0dVOE5QejZDMEFVV3RNbWNRNmlaa21qX2xoblJ1YjRpM3dNOEs3eEM5dDUtTS16SkJnbDBwRzBaNWZtR19aTlRoNHZTd29LYmIwZU9XdVVrTW010gFsQVVfeXFMT05FNjlmZmFkczBvWlFwSmtGd1p0UnRoeEVLbEtVVWRCSmxjQlF3UzFwY0NXbE1WejllcWZ1WXJHWE94QUdhSlpGbXNVaS1vdGxJdEZmZ2lQeUZqa1JjWGtOV0dCU1VSWnFFMm0z?oc=5",
+    "original_title": "[기아 EV 승부수] 김상대의 PV5, 유럽 판매 국내 추월 - 블로터",
+    "original_summary": "[기아 EV 승부수] 김상대의 PV5, 유럽 판매 국내 추월 블로터",
+    "published_at": "2026-11-06T06:21:10+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Vencedor do Kia EV] O PV5 de Kim Sang-dae ultrapassa as vendas domésticas na Europa - Blotter",
+    "translated_summary": "[Vencedor do Kia EV] PV5 de Kim Sang-dae, Blotter de ultrapassagem doméstico vendido na Europa",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:41+00:00"
   },
   {
     "id": "3b38f35affdda5f2b801",
@@ -14150,6 +14301,28 @@
     "translated_summary": "A Yamaha Motor anunciou as scooters elétricas Nmax E e Xenter E 125cc em 4 de novembro. Ambos os modelos foram exibidos na exposição de motocicletas EICMA 2026 em Milão, Itália, desde 3 de novembro, e a Nmax E está programada para ser lançada no Japão em 2027.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T03:59:01+00:00"
+  },
+  {
+    "id": "00b936c4fba9233c824a",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "스포츠경향",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qbFo0eDVPV1VlWXZqZGE1dllRMGZlZ0locURySm5HWlB0N0ttX0kzR0kxblJseDJIVFBESGdRRy1EMzJTTWZVOWt0VWpCUlg2TlVTdGNXcF9CRFcxckHSAWNBVV95cUxNRzI2aGVOSW5NSWQybUNtemROa1J6d1JpOGNwRWVLOUZfYlFpT25Nc3lGZGF1QU1yeE81b1ZMZ2ZmdUZvS0c4WWwtOW8tV1NVV1AxSUNNa25DbndxUGNZWEVhNkE?oc=5",
+    "original_title": "中 전기차 ‘습격’ 본격화 샤오펑 한국법인까지 들어왔다 ‘춘추 중국시대’ - 스포츠경향",
+    "original_summary": "中 전기차 ‘습격’ 본격화 샤오펑 한국법인까지 들어왔다 ‘춘추 중국시대’ 스포츠경향",
+    "published_at": "2026-11-04T08:21:00+00:00",
+    "first_seen_at": "2026-11-07T02:53:07+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Carro elétrico chinês ‘invade‘ Xiaofeng em grande escala até entrou na corporação coreana ‘era chinesa de Chunqiu’ - Tendências esportivas",
+    "translated_summary": "\"Invasões\" de carros elétricos chineses Xiaofeng em grande escala entrou na tendência esportiva da corporação coreana \"Chunqiu Chinese era\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T02:53:44+00:00"
   },
   {
     "id": "d2613794a1c82dedfaef",
