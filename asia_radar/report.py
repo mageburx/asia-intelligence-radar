@@ -4,6 +4,8 @@ import csv,json,re
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from .core import parse_utc,trend_data
+from .events import group_events, grouping_stats
+from .dashboard_upgrade import upgrade_dashboard
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
@@ -32,7 +34,9 @@ def make_payload(articles,status,now=None):
         started=country_first.get(trend["country"])
         if started and now-started<timedelta(hours=48):
             trend["status"]="Histórico inicial"
-    return {"articles":articles,"status":status,"trends":trends,"counts24":counts,
+    grouped=group_events(articles)
+    return {"articles":grouped,"status":status,"trends":trends,"counts24":counts,
+            "event_stats":grouping_stats(grouped),
             "generated_at":now.isoformat(timespec="seconds")}
 def safe_csv(value):
     """Avoid spreadsheet formula execution in untrusted RSS titles or excerpts."""
@@ -57,7 +61,7 @@ def main():
     export_archive_csv(articles)
     payload=json.dumps(make_payload(articles,status),ensure_ascii=False,separators=(",",":"))
     payload=payload.replace("<","\\u003c").replace(">","\\u003e").replace("&","\\u0026")
-    template=OUT.read_text(encoding="utf-8")
+    template=upgrade_dashboard(OUT.read_text(encoding="utf-8"))
     marker=r'(<script id="payload" type="application/json">).*?(</script>)'
     if not re.search(marker,template,re.S): raise RuntimeError("Missing dashboard payload marker")
     page=re.sub(marker,lambda m:m.group(1)+payload+m.group(2),template,count=1,flags=re.S)

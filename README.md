@@ -119,3 +119,11 @@ As sete bandeiras usadas nos cartões e nas notícias são ficheiros SVG locais 
 Acrescentadas 9 fontes RSS: Alemanha (Bundesregierung e Bundestag, fontes oficiais), Coreia do Sul (The Korea Herald Business e Yonhap National), Taiwan (Taipei Times), Índia (ETAuto Industry e Auto Components), Singapura (The Straits Times, secção Singapura) e China (South China Morning Post, secção China). A pesquisa Google News sobre automóveis do Japão foi ajustada para eliminar uma combinação demasiado restritiva de termos. 
 
 RSS de política generalistas são filtrados por vocabulário político; o feed multi-temático Business da Korea Herald é filtrado por vocabulário automóvel. Isto pode omitir artigos relevantes ou incluir falsos positivos. Cada fonte regista a sua contagem e eventuais falhas em `data/status.json`; o sucesso de ingestão, particularmente em sites com proteção anti-bot, deve ser confirmado nas execuções do GitHub Actions. Não são recolhidos artigos completos nem conteúdo sujeito a paywall.
+
+## Acontecimentos agrupados (novembro de 2026)
+
+A página mostra **um cartão por acontecimento identificado**. Quando há várias publicações semelhantes, o cartão apresenta o número de peças e fontes; um botão "Ver cobertura" expande os títulos e links individuais. O mesmo mecanismo aplica-se aos separadores Países, Bosch e Arquivo. A recolha, o JSON histórico e o CSV **não eliminam publicações**.
+
+A aproximação é deliberadamente conservadora, sem APIs pagas: compara URLs normalizados e títulos originais ou traduzidos com semelhança elevada, apenas dentro do mesmo país/categoria e de 48 horas. Não estabelece equivalência factual nem confirma que duas notícias sejam sobre o mesmo evento. Pode falhar duplicados escritos noutras línguas ou com títulos muito diferentes, em vez de os fundir erradamente. O indicador de fontes conta nomes de publicações distintos, não organizações editoriais independentes auditadas.
+
+Implementação: `asia_radar/events.py` calcula `event_id` apenas no JSON apresentado no dashboard. `asia_radar/dashboard_upgrade.py` instala de forma idempotente a interface na geração horária de `docs/index.html`. O JSON e CSV originais preservam cada artigo.

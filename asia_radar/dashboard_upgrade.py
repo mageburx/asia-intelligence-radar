@@ -6,8 +6,8 @@ the hourly report avoids replacing megabytes of historical news just to ship UI.
 from __future__ import annotations
 import re
 
-START = "<!-- EVENT_GROUPING_V1 -->"
-END = "<!-- /EVENT_GROUPING_V1 -->"
+START = "/* EVENT_GROUPING_V1 */"
+END = "/* /EVENT_GROUPING_V1 */"
 
 STYLE = """
 .event-group{min-width:0;display:flex;flex-direction:column;border-radius:14px}
@@ -103,7 +103,7 @@ def upgrade_dashboard(template):
         raise RuntimeError("Dashboard no longer has expected article render functions")
     if "</style>" not in template or "function archiveCategories(){" not in template:
         raise RuntimeError("Dashboard template structure changed unexpectedly")
-    updated = template.replace("</style>", START + "<style>" + STYLE + "</style>" + END + "</style>", 1)
+    updated = template.replace("</style>", START + STYLE + END + "</style>", 1)
     # Replace only the two functions by their following function anchors.
     live = re.compile(r'function drawArticles\(\)\{.*?\n\}(?=\nfunction archiveCategories\(\))', re.S)
     updated, n = live.subn(lambda _: HELPERS + LIVE.rstrip(), updated, count=1)
