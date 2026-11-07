@@ -20,6 +20,26 @@
     "last_translation_attempt_at": "2026-11-07T16:46:15+00:00"
   },
   {
+    "id": "22893451829c66d837a9",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Frankfurter Rundschau",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmx6MVRRbUJpT1BNYmVDT0tyVUhRR1RlTGxMOENsbjRfRXFPMGpjZ1RYZ1hTMmtqQUVwQmF1cmM1MHNvTGxSYzI0UGZLVWw1OTg4dGFETVBtSzZDRy03Vm1tekxnOVEtWjZaV3NuVHJ0dEczM3M2YkJ3OFJjODhLcEhEVFlUWk5UaUJnckRCNFgwNGdhQW4yeHE3ZFJ3QQ?oc=5",
+    "original_title": "Kamera-Überwachung im Schlachthof: Gesetz hat Lücken – „Tiere quasi vom Schutz ausgenommen“ - Frankfurter Rundschau",
+    "original_summary": "Kamera-Überwachung im Schlachthof: Gesetz hat Lücken – „Tiere quasi vom Schutz ausgenommen“ Frankfurter Rundschau",
+    "published_at": "2026-11-07T19:03:08+00:00",
+    "first_seen_at": "2026-11-07T19:46:00+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Vigilância de câmeras no abatedouro: lei tem lacunas – “animais praticamente excluídos da proteção” - Frankfurter Rundschau",
+    "translated_summary": "Vigilância de câmeras no abatedouro: a lei tem lacunas – “animais praticamente excluídos da proteção” Frankfurter Rundschau",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T19:46:20+00:00"
+  },
+  {
     "id": "b1cc91dfcf9ae1bc15c9",
     "country": "Taiwan",
     "category": "Política",
@@ -397,6 +417,29 @@
     "translated_summary": "Recentemente, o protecionismo comercial europeu contra a China continuou a aumentar, mas este ano, o número de empresas europeias participantes na Expo atingiu milhares, e a academia e a indústria europeias também fizeram diferentes vozes para se oporem ao protecionismo comercial. Rossi Yi, um economista britânico que veio à Expo para participar do Fórum Econômico Internacional de Xangai Hongqiao, acredita que: os problemas econômicos da Europa não são feitos na China. Enquanto alguns departamentos governamentais continuam a promover o protecionismo, as entidades industriais europeias começaram a se opor ao protecionismo.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T13:55:07+00:00"
+  },
+  {
+    "id": "81742163acc4a23bd1e3",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "CMoney",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eWJIT2dtbWRHaHU0VlNXb2daUVdlZ1NJaEZtTEx4dHJhYmpQd1MtTS00WjYxMGJPWHZ1WVVSandrNk9uOWo2ZXNzekNMNnVya1M3RktCVmU?oc=5",
+    "original_title": "美民主黨掌控國會難撼川普關稅政策！電動車補貼、AI監管成新焦點- 股市爆料同學會 - CMoney",
+    "original_summary": "美民主黨掌控國會難撼川普關稅政策！電動車補貼、AI監管成新焦點- 股市爆料同學會 CMoney",
+    "published_at": "2026-11-07T13:20:18+00:00",
+    "first_seen_at": "2026-11-07T19:46:00+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os democratas controlam as tarifas de Trump no Congresso! Subsídios a Veículos Elétricos, Novo Foco na Regulação de IA - Stock Market Reveal Alumni Association - CMoney",
+    "translated_summary": "Os democratas controlam as tarifas de Trump no Congresso! Subsídios de Veículos Elétricos, Regulamentação de IA Tornam-se Novo Foco - Mercado de Ações Revela Associação de Ex-Alunos CMoney",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T19:46:30+00:00"
   },
   {
     "id": "fc84f9d43c9344a677a3",
@@ -6455,6 +6498,26 @@
     "last_translation_attempt_at": "2026-11-06T09:00:26+00:00"
   },
   {
+    "id": "afba8a4daa0544101c4b",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "브릿지경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMbGlyVnBjU1pCWnJ6cGZDeGxUZGk2Z2NPeXBXTXpieGMzUWstTVJ3NHJWVVBVMVhlR2RhX28xS3p0TGpzLXh3VnowMFdsdVVQVWktWjM3TXh5UQ?oc=5",
+    "original_title": "군포시, 대한민국 솔라리그 정책성과 부문 장관상 수상 - 브릿지경제",
+    "original_summary": "군포시, 대한민국 솔라리그 정책성과 부문 장관상 수상 브릿지경제",
+    "published_at": "2026-11-06T08:06:00+00:00",
+    "first_seen_at": "2026-11-07T19:46:00+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Gunpo City Recebe o Prémio do Ministro pela Conquista de Políticas em Solarig, Coreia do Sul - Bridge Economy",
+    "translated_summary": "A cidade de Gunpo, na Coreia do Sul, ganhou o Prémio do Ministro para a Economia da Ponte de Conquista de Políticas da Solarig",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T19:46:27+00:00"
+  },
+  {
     "id": "bc31089867c9f630300e",
     "country": "China",
     "category": "Política",
@@ -10540,6 +10603,28 @@
     "translated_summary": "O Ministro Harsh Malhotra anunciou esforços contínuos para agilizar as transferências de propriedade de veículos usados em todos os estados. O Índice de Facilidade de Propriedade de Veículos destaca variações significativas nos tempos de transferência e nas taxas de imposto rodoviário entre os estados. Por exemplo, Andhra Pradesh normalmente conclui as transferências de RC dentro de 7 a 10 dias, em contraste com os mais de 30 dias de Uttar Pradesh.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:51:29+00:00"
+  },
+  {
+    "id": "05f1ea72a96f4b6abf92",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzA5cmJ6Q2VFaVExUjdjeGIyQXljS1FUZ2dQb3E4NWlfbEZUU1RpSnpvX0hxOHBmMVdEVjV5amdnSkJLdUVsYWQyQTNUODIyaDJONWxma1RraEtzX2MwUlM1azF4d2h2Z3EwVlY4ZnZmYjNxeXhHcjl3azVvem5fb0RCaDlwdmw3cF8yR2xjMmlzeUg1dkF4QVF3Z19qTnBCdF80YTdHUkppVWhkR1NRWGhEVHd4VmFwWUszTktIVVo1Q2pOZ1ln?oc=5",
+    "original_title": "Bundestag beschließt Videoüberwachung für Schlachthöfe - Onetz",
+    "original_summary": "Bundestag beschließt Videoüberwachung für Schlachthöfe Onetz",
+    "published_at": "2026-11-05T17:43:26+00:00",
+    "first_seen_at": "2026-11-07T19:46:00+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bundestag adota videovigilância para frigoríficos - Onetz",
+    "translated_summary": "Bundestag adota videovigilância para matadouros de Onetz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T19:46:24+00:00"
   },
   {
     "id": "b927619760a50db0a335",
@@ -16805,6 +16890,26 @@
     "translated_summary": "A receita relacionada a veículos elétricos cresce 130% ano a ano, representando 19% da receita consolidada; a receita do primeiro semestre aumenta 32% para ₹ 5.582 crore.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:52:53+00:00"
+  },
+  {
+    "id": "dbc3581fb792377b3670",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "SUPERMOTO8",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYaUxQYXhuWld6bm5nVVlvVzdfbDl5UDB3czlCdkcxeFJ4ZnBYLTllQllzSzBhTW44LXEydkUteG15ZjlCNkFrOXBBUE45Sno0aUZN?oc=5",
+    "original_title": "ANY LuV1 電動機車：14.7hp、100km 續航、120L 儲物空間，Pininfarina 操刀的通勤神器 - SUPERMOTO8",
+    "original_summary": "ANY LuV1 電動機車：14.7hp、100km 續航、120L 儲物空間，Pininfarina 操刀的通勤神器 SUPERMOTO8",
+    "published_at": "2026-11-04T11:46:46+00:00",
+    "first_seen_at": "2026-11-07T19:46:00+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Qualquer motocicleta elétrica LuV1: 14,7cv, alcance de 100km, espaço de armazenamento de 120L, artefato de transporte da Pininfarina - SUPERMOTO8",
+    "translated_summary": "Qualquer motocicleta elétrica LuV1: 14,7cv, alcance de 100km, espaço de armazenamento de 120L, SUPERMOTO8 de artefato suburbano da Pininfarina",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T19:46:32+00:00"
   },
   {
     "id": "ee17ac383ac8dd5a6a22",
