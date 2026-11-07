@@ -20,6 +20,50 @@
     "last_translation_attempt_at": "2026-11-07T16:46:15+00:00"
   },
   {
+    "id": "9103f1214055ac7d39ac",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ZUNEeGVnTGFsS2wwblhjS2hwUkFySmRtWTBvMjQ3WnNzc0dLYTRvdHo3X3lialU1Qzlrblg0OVVXclRQQUhZUDlfOUJZUG9mNDRLTW5JWjZKdjFv?oc=5",
+    "original_title": "[최연혁 교수의 정치분석] ③말과 권력: 78년 한국 국회 담론의 궤적 - 2편 - 뉴스핌",
+    "original_summary": "[최연혁 교수의 정치분석] ③말과 권력: 78년 한국 국회 담론의 궤적 - 2편 뉴스핌",
+    "published_at": "2026-11-07T22:05:00+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Análise Política do Professor Choi Yeon-hyuk] ③ Palavras e Poder: A Trajetória do Discurso da Assembleia Nacional Coreana em '78 - Parte 2 - Newsfim",
+    "translated_summary": "[Análise Política do Professor Choi Yeon-hyuk] ③ Palavras e Poder: A Trajetória do Discurso da Assembleia Nacional Coreana em 78 - Parte 2 Newspim",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:10+00:00"
+  },
+  {
+    "id": "feb7785e9e080f000fdd",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154613.html",
+    "original_title": "トヨタ、「GR GT3コンセプト」ついに実戦投入 開発陣の「今スーパーGTで走らせる意義」とは？",
+    "original_summary": "ルーキーレーシング（トヨタ自動車）は11月7日、栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された、スーパーGT第3戦「2026 AUTOBACS SUPER GT Round4 FUJI GT 300km RACE」に、新型マシン「32号車 ENEOS X PRIME GR GT3 concept」で参戦した。",
+    "published_at": "2026-11-07T22:00:00+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota, \"GR GT3 Concept\" Finalmente Qual é o \"significado de correr com o Super GT agora\" da equipe de desenvolvimento real?",
+    "translated_summary": "A Rookie Racing (Toyota Motor Corporation) participou na terceira ronda da Super GT \"2026 AUTOBACS Super GT Round 4 Fuji GT 300km race\", realizada em Motegi, um resort de mobilidade em Motegi-cho, Haga-gun, província de Tochigi, no dia 7 de novembro, com o novo carro \"No. 32 Eneos X Prime GR GT3 concept\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:01+00:00"
+  },
+  {
     "id": "0efe7b4b94e54738aee4",
     "country": "Taiwan",
     "category": "Política",
@@ -83,6 +127,29 @@
     "translated_summary": "[Consequências da indústria eleitoral] ② O ônus das tarifas de automóveis continuará... Os veículos elétricos são esperados Yonhap News Korean People's Center",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T21:42:12+00:00"
+  },
+  {
+    "id": "6ce56ddcc3cc31e0dac7",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tTnBJcTQwSURQZnVja3czd3NxQTZWQTduRXBVTEF6MFV4UDh6YkNpMUdTSjRnckxOb0NXM3NDWVlxT3Y0TmhOVTJfODItNUJrMTQzamRHTjRfV29hUjVpMNIBYEFVX3lxTE5tTnBJcTQwSURQZnVja3czd3NxQTZWQTduRXBVTEF6MFV4UDh6YkNpMUdTSjRnckxOb0NXM3NDWVlxT3Y0TmhOVTJfODItNUJrMTQzamRHTjRfV29hUjVpMA?oc=5",
+    "original_title": "[美선거 산업여파] ② 자동차 관세 부담 지속될 듯…전기차는 기대 - 연합뉴스",
+    "original_summary": "[美선거 산업여파] ② 자동차 관세 부담 지속될 듯…전기차는 기대 연합뉴스",
+    "published_at": "2026-11-07T20:31:21+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Eleição] ② Tarifas de automóveis provavelmente continuarão... Expectativas para veículos elétricos - Yonhap News",
+    "translated_summary": "[Consequências da indústria eleitoral] ② O ônus das tarifas de automóveis continuará... Veículos elétricos são esperados Yonhap News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:13+00:00"
   },
   {
     "id": "0ecf60dd27e62983aa5e",
@@ -1555,6 +1622,28 @@
     "last_translation_attempt_at": "2026-11-07T08:56:39+00:00"
   },
   {
+    "id": "cfc04459845ff3c54604",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "Newtalk新聞",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPSjhjdzJtOURYYTBKTXU3bm9BWTBERDlfREdtM0ZSZ0ZzbzhiYmprbG5hM2VvYjdoTTJocWRYdFRTWWktemcxTHlkM1hpT1dLekdWWHktclJBM3c?oc=5",
+    "original_title": "巴紐被迫撤館國民黨團：回歸務實外交、妥善處理兩岸關係| 政治 - Newtalk新聞",
+    "original_summary": "巴紐被迫撤館國民黨團：回歸務實外交、妥善處理兩岸關係| 政治 Newtalk新聞",
+    "published_at": "2026-11-07T06:51:09+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Banyu forçado a sair do grupo do KMT: retorno à diplomacia pragmática, tratamento adequado das relações entre os dois lados do Estreito | Política - Newtalk News",
+    "translated_summary": "Banyu forçado a deixar o Kuomintang: um retorno à diplomacia pragmática, tratamento adequado das relações entre os dois lados do Estreito | Political Newtalk News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:15+00:00"
+  },
+  {
     "id": "067864fdabed36143612",
     "country": "Índia",
     "category": "Automóvel",
@@ -1573,6 +1662,26 @@
     "translated_summary": "Um concessionário de duas rodas atribuiu a desaceleração em parte ao aumento dos custos dos veículos. \"Os preços mais altos do aço e do alumínio, juntamente com as incertezas geopolíticas, elevaram os preços dos veículos, enquanto a pressão sobre os orçamentos das famílias pode estar afetando as decisões de compra\", disse o representante.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T07:00:55+00:00"
+  },
+  {
+    "id": "ed098333c2e19e109e14",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Kapitalmarktexperten",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHRzZW5rdHc5X0NCOVNoTDJUUExnTTR3S05tTEZ4Qnhla2JQaDg5MExPazVlOEdpbmRYeWtqR2JjVXJybXpkU0QtVWRoWXhZdXVOMUNvZjBJTzVnclFsRmd2Z3NFTGxMcFhvcXowZy1PZllCNUZGNXVCSDE2a210dVFNdjhJQnA5M3dqblZ0X1dRZXYtckkzZG4ydw?oc=5",
+    "original_title": "Volkswagen Aktie: Deutsche Bank kappt Kursziel auf 100 Euro - Kapitalmarktexperten",
+    "original_summary": "Volkswagen Aktie: Deutsche Bank kappt Kursziel auf 100 Euro Kapitalmarktexperten",
+    "published_at": "2026-11-07T06:38:12+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Volkswagen Aktie: Deutsche Bank kappt Kursziel auf 100 Euro - Kapitalmarktexperten",
+    "translated_summary": "Volkswagen Aktie: Deutsche Bank kappt Kursziel auf 100 Euro Kapitalmarktexperten",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:07+00:00"
   },
   {
     "id": "7fdf9ab89e9002a0531d",
@@ -5617,6 +5726,28 @@
     "last_translation_attempt_at": "2026-11-06T10:07:17+00:00"
   },
   {
+    "id": "97460ee046d52a9954fd",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "QQ News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ZjlTazhtQlJBMVlUWnpBbzNvdHZRbTREWGJtNzAxOXJCR3Vad0M4MHdLS0p2T1dXYWdFdWtvTWRtRGR4bUp3bldXNlduZ1R1a0w5ZnN3?oc=5",
+    "original_title": "乌克兰专家批评本国外交政策：中国对乌克兰和平谈判失去兴趣，基辅也有责任 - QQ News",
+    "original_summary": "乌克兰专家批评本国外交政策：中国对乌克兰和平谈判失去兴趣，基辅也有责任 QQ News",
+    "published_at": "2026-11-06T10:00:00+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Especialistas ucranianos criticam política externa: China perde interesse em negociações de paz na Ucrânia, Kiev tem responsabilidades - QQ News",
+    "translated_summary": "Especialistas ucranianos criticam política externa: China perde interesse em negociações de paz na Ucrânia, Kiev também é responsável",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:42:58+00:00"
+  },
+  {
     "id": "f66317a30c153ae56c35",
     "country": "Índia",
     "category": "Política",
@@ -6358,6 +6489,26 @@
     "translated_summary": "A LG Electronics India está a diversificar-se para o negócio de soluções para veículos como parte da sua estratégia de crescimento. A empresa fabricará produtos automotivos na sua terceira fábrica em Sri City, Andhra Pradesh. Esta iniciativa visa aproveitar a crescente demanda por eletrônicos automotivos e soluções de mobilidade na Índia.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:45:24+00:00"
+  },
+  {
+    "id": "a8117ecca40913a8a649",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWldnRVFKRVJOSklXb3RHRlUxMlVJRmt6WEYxYU11NTk1REl1SktHazRtRzB2VXF5cFRXQzhWSlE5YkQ0cUVPbnVYcUJwVDZjQjVsZ2lPaC04WXZJS3pJdjVfMU9hQ3JCQVA4YW9BOWpDa0pvWE9EMW40VFdyRTlHSzliVjRRbzRjNzFxcGh0VDZpZU9OajhwOG9YUTNrRUNEQUFhSEdyY0RwVkFQRFFxTHg0QS1tWHk3NjRlTzdZOTFJOXBMQlhrdk9tTm1Ea0owd3VHQzFXbjFjVk95bXk4X2Y5cGc0amdNZkl5U2JVNNIB7wFBVV95cUxOWldnRVFKRVJOSklXb3RHRlUxMlVJRmt6WEYxYU11NTk1REl1SktHazRtRzB2VXF5cFRXQzhWSlE5YkQ0cUVPbnVYcUJwVDZjQjVsZ2lPaC04WXZJS3pJdjVfMU9hQ3JCQVA4YW9BOWpDa0pvWE9EMW40VFdyRTlHSzliVjRRbzRjNzFxcGh0VDZpZU9OajhwOG9YUTNrRUNEQUFhSEdyY0RwVkFQRFFxTHg0QS1tWHk3NjRlTzdZOTFJOXBMQlhrdk9tTm1Ea0owd3VHQzFXbjFjVk95bXk4X2Y5cGc0amdNZkl5U2JVNA?oc=5",
+    "original_title": "LG Electronics India to diversify into vehicle solutions business, seeks shareholders' nod - ET Auto",
+    "original_summary": "LG Electronics India to diversify into vehicle solutions business, seeks shareholders' nod ET Auto",
+    "published_at": "2026-11-06T08:36:48+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "LG Electronics India para diversificar em negócios de soluções de veículos, busca aprovação dos acionistas - ET Auto",
+    "translated_summary": "LG Electronics India para diversificar em negócios de soluções de veículos, procura aprovação dos acionistas da ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:18+00:00"
   },
   {
     "id": "8818113da52cc555dd69",
@@ -7589,6 +7740,26 @@
     "translated_summary": "Xangai, 6 de novembro (Zheng Yingying e Jiang Xiaowei) O 9º Fórum Econômico Internacional de Hongqiao · Hongqiao International Open Hub Construction Sub-Forum e a Conferência Hongqiao Hub de 2026 foram realizados no dia 6 no Centro Nacional de Convenções e Exposições (Xangai). A conferência foi co-patrocinada pelo Governo Popular Municipal de Xangai e pelo Ministério do Comércio da República Popular da China, e foi organizada pelo Comitê de Gestão do Distrito Comercial Central Internacional de Xangai Hongqiao. Com o tema \"Hub Aberto de classe mundial: Hongqiao Pivot of Enterprise Globalization\", a conferência explorou profundamente as novas oportunidades de globalização das empresas chinesas e o valor estratégico único do Hongqiao International Open Hub no ano do \"15º Plano Quinquenal\".",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T07:20:32+00:00"
+  },
+  {
+    "id": "734161d9094a6429c00f",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Fábricas e produção",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-manufacturing-de",
+    "publisher": "FLZ",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVjdHVXVpMTJ4XzQ4dGlndlQybW5YLXdRX1BlaXlXT2FYQURydllVdWNqa1k2ZFhHRjcwQmdFVHM3d3hfQTZES3RGeDdLVHhheWxzeVdMUEE4WnRtS1N4NU9nNlF6dlNtdThvc0ZyRFk4OGhuT0c0YlVxR1ZRRGJ5bzN0RnlLTE14ZzdqX3VBU2NJMFNwQmt2ZUVIQmYtRkQzM3h2UnFGWVlJN2xLVmF0R2hqY21udmhaS0JFNVlfS016QzBBcG9ILXVIUl9yek41TzZkM3dzM1pBdw?oc=5",
+    "original_title": "Große Umstrukturierung bei Bosch: Was bedeutet das für den Standort Ansbach? - FLZ",
+    "original_summary": "Große Umstrukturierung bei Bosch: Was bedeutet das für den Standort Ansbach? FLZ",
+    "published_at": "2026-11-06T06:54:00+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Grande reestruturação na Bosch: O que isso significa para a unidade de Ansbach? - FLZ",
+    "translated_summary": "Grande reestruturação na Bosch: O que isso significa para a unidade de Ansbach? FLZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:20+00:00"
   },
   {
     "id": "0804cf57f50fec40b605",
@@ -13731,6 +13902,28 @@
     "translated_summary": "O carregador de veículos elétricos U-POWER chega no dia 13 de novembro! 76% de crescimento de receita no ano passado e assistência na aquisição de ações automotivas tailandesas | Tang Kexin | A Taste of Lifestyle Media",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T11:45:24+00:00"
+  },
+  {
+    "id": "5cedfc18091e483bcb14",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "ｄメニューニュース",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qR285VW9Qc1B2RU5WMUJLUjlmWFpldDZtOVlSTVVfU1RZQkdtX0pVQ0RicUZBOXB4Qm1GRGFfTFBFT3V1MTFhM1lTbFYzQmVnZGc0blVMREVqWHE0N240MFhqc0hIWVRrbW45bVVzVEFJeEFhY0RUQmxB0gF6QVVfeXFMTmpHbzlVb1BzUHZFTlYxQktSOWZYWmV0Nm05WVJNVV9TVFlCR21fSlVDRGJxRkE5cHhCbUZEYV9MUEVPdXUxMWEzWVNsVjNCZWdkZzRuVUxERWpYcTQ3bjQwWGpzSEhZVGttbjltVXNUQUl4QWFjRFRCbEE?oc=5",
+    "original_title": "日産「エルグランド」が堂々受賞！2026〜2027日本自動車殿堂カーオブザイヤー - ｄメニューニュース",
+    "original_summary": "日産「エルグランド」が堂々受賞！2026〜2027日本自動車殿堂カーオブザイヤー ｄメニューニュース",
+    "published_at": "2026-11-05T07:44:00+00:00",
+    "first_seen_at": "2026-11-07T22:42:36+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Nissan El Grand ganha o grande prêmio! 2026-2027 Nippon Motor Hall of Fame Carro do Ano - dMenu News",
+    "translated_summary": "Nissan El Grand ganha grande prêmio! Menu Carro do Ano da Nippon Motor Hall of Fame 2026-2027",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-07T22:43:04+00:00"
   },
   {
     "id": "c9167525bfa7636b65ff",

@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-11-07T21:41:52+00:00",
+  "last_run": "2026-11-07T22:42:36+00:00",
   "first_run_at": "2026-11-06T01:57:53+00:00",
   "target_lang": "pt",
-  "articles_total": 1182,
+  "articles_total": 1191,
   "archive_days": 30,
-  "added": 7,
-  "translated_this_run": 7,
+  "added": 9,
+  "translated_this_run": 9,
   "translation_failed_this_run": 0,
   "sources_total": 41,
   "sources_ok": 41,
@@ -28,15 +28,15 @@
     "tw-politics": 40,
     "tw-auto": 25,
     "in-politics": 40,
-    "in-auto": 31,
+    "in-auto": 32,
     "sg-politics": 30,
-    "sg-auto": 32,
+    "sg-auto": 33,
     "bosch-official-de": 3,
     "bosch-strategy-de": 10,
     "bosch-strategy-en": 8,
     "bosch-mobility-de": 1,
     "bosch-mobility-en": 14,
-    "bosch-manufacturing-de": 14,
+    "bosch-manufacturing-de": 15,
     "bosch-rexroth-de": 2,
     "bosch-technology-de": 7,
     "bosch-technology-en": 4,
@@ -51,6 +51,6 @@
     "in-etauto-industry": 20,
     "in-etauto-components": 17,
     "sg-straitstimes": 1,
-    "china-scmp-china": 19
+    "china-scmp-china": 18
   }
 }
