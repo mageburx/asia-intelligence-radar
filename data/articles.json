@@ -1,5 +1,25 @@
 [
   {
+    "id": "f8b4aa774084b2a5f5e7",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Tech Xplore",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVNKbnJubGNSRFRIWTRlV2VieFdDakxNMzJEZ3RDdUFveHNtZXlzT1J5NkZzc0lrSUJOYldJWGdZT2VENlBuTEw0QkV4MVRKbWpZajMwYjNfU0ZvWVdQbzdCVUZpOW9pSjh4bm0xTFFDQmUzTzNJa0dkMzV4bkF3azNEUGs?oc=5",
+    "original_title": "Electric auto rickshaws reshape India's roads - Tech Xplore",
+    "original_summary": "Electric auto rickshaws reshape India's roads Tech Xplore",
+    "published_at": "2026-11-08T11:45:58+00:00",
+    "first_seen_at": "2026-11-08T12:55:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Riquixás elétricos remodelam as estradas da Índia - Tech Xplore",
+    "translated_summary": "Riquixás elétricos remodelam as estradas da Índia Tech Xplore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T12:55:41+00:00"
+  },
+  {
     "id": "4bda73f4d21cea223d31",
     "country": "China",
     "category": "Política",
@@ -20,6 +40,26 @@
     "translated_summary": "Ministério das Relações Exteriores das Filipinas condena comentários negativos de funcionários do governo contra a China, United Morning Post",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T11:45:23+00:00"
+  },
+  {
+    "id": "df15ca24c537f2efc41c",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728488.shtml",
+    "original_title": "潮州智能卫浴抱团出海 中马合作从“共识”迈向“落地”",
+    "original_summary": "中新网潮州11月8日电 (记者 陈楚红)记者8日从潮州工信部门获悉，中马智慧家居产业园建设座谈会近日在福州举行，由住房和城乡建设部科技与产业化发展中心主办，马来西亚房屋及地方政府部部长、联合国人居大会主席倪可敏，潮州市政府代表团，以及中马双方政府部门、产业园区和30余家企业代表约60人出席。",
+    "published_at": "2026-11-08T11:38:09+00:00",
+    "first_seen_at": "2026-11-08T12:55:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Cooperação sino-malaia do Grupo de Produtos Sanitários Inteligentes Chaozhou vai de \"Consenso\" para \"Desembarque\"",
+    "translated_summary": "Chaozhou, 8 de novembro (Repórter Chen Chuhong) O repórter soube pelo Departamento de Indústria e Informação de Chaozhou no dia 8 que o Simpósio sobre a Construção do Parque Industrial Smart Home China-Malásia foi realizado recentemente em Fuzhou e foi hospedado pelo Centro de Desenvolvimento de Ciência e Tecnologia e Industrialização do Ministério da Habitação e Desenvolvimento Urbano-Rural. O Ministro da Habitação e Governo Local da Malásia e o Presidente da Assembleia Geral da ONU Habitat, Ni Kemin, a delegação do Governo Municipal de Chaozhou, bem como representantes de departamentos governamentais, parques industriais e mais de 30 empresas de ambos os lados da China e da Malásia, participaram de cerca de 60 pessoas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T12:55:32+00:00"
   },
   {
     "id": "3d042765a154dbca93e5",
@@ -304,6 +344,28 @@
     "translated_summary": "SEUL, 8 de novembro (Yonhap) -- O primeiro-ministro Han Seong-sook disse no domingo que o governo...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T08:56:41+00:00"
+  },
+  {
+    "id": "cb83ec4633e37e3cf9db",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "환경포커스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BX3RyWlJpU1pITWlJUVhmQ0c2MUtxVHR6X0V1LTBtS3RsUXZ2QTBpM3BybEdyNWR5OG9FN0dfZzZfNVJlc1lTdkFnTzRrOEpMR3dJN1hyUHVrV1E4cTVsYVpPZw?oc=5",
+    "original_title": "국민과 함께 미래를 여는 「2026 국회 입법박람회」 성료 - 환경포커스",
+    "original_summary": "국민과 함께 미래를 여는 「2026 국회 입법박람회」 성료 환경포커스",
+    "published_at": "2026-11-08T08:39:32+00:00",
+    "first_seen_at": "2026-11-08T12:55:13+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "“Exposição Legislativa Congressional 2026” para abrir o futuro com o povo - Foco Ambiental",
+    "translated_summary": "“Exposição Legislativa Congressional 2026” que abre o futuro com o povo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T12:55:38+00:00"
   },
   {
     "id": "cb19ed55821399298827",
@@ -814,6 +876,26 @@
     "translated_summary": "Os riquixás elétricos remodelam as estradas da Índia The Straits Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T08:06:57+00:00"
+  },
+  {
+    "id": "453edb08b89aa434bca3",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzFrOTY5SGRWdzZSM0tBQndxbllFNjAxNkMxbXdGbUdWbEFMcjVHYjB0UmFabFJ5RTFVTlNybGpyMXgydEtZd3hvNWdZUE9fbWV0Q0M1WnVRWEdTSkN2MXpaSXMtUzB3cVRDa1lqb284YzhzRVlhVmJDYU1ncVl3Q3BYaDVZbEpkUHJKMVZHUjdJbW1NUjBBc3RpYmc4M012?oc=5",
+    "original_title": "BMW Aktie: Drei Analysehäuser kappen ihre Ziele - Börse Express",
+    "original_summary": "BMW Aktie: Drei Analysehäuser kappen ihre Ziele Börse Express",
+    "published_at": "2026-11-08T04:27:05+00:00",
+    "first_seen_at": "2026-11-08T12:55:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "BMW share: Três casas de análise reduziram suas metas - Börse Express",
+    "translated_summary": "Partilha BMW: Três casas de análise cortaram os seus alvos no Expresso Börse",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T12:55:36+00:00"
   },
   {
     "id": "dfd33bbc18ac45a14545",
