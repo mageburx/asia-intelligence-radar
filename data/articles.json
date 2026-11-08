@@ -1,5 +1,45 @@
 [
   {
+    "id": "039454e8680dffe4cb9b",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728428.shtml",
+    "original_title": "韩正访问格鲁吉亚",
+    "original_summary": "中新社北京11月8日电 当地时间11月6日至8日，应格鲁吉亚政府邀请，中国国家副主席韩正访问格鲁吉亚，在第比利斯分别会见格鲁吉亚总统卡韦拉什维利、总理科巴希泽。",
+    "published_at": "2026-11-08T10:34:16+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Han está de visita à Geórgia",
+    "translated_summary": "Beijing, 8 nov (Xinhua) -- Nos dias 6 e 8 de novembro, horário local, a convite do governo georgiano, o vice-presidente chinês Han Zheng visitou a Geórgia e se reuniu separadamente com o presidente georgiano Kavelashvili e o primeiro-ministro Kobashidze em Tbilisi.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:38+00:00"
+  },
+  {
+    "id": "cc5d4179cf83f3f05746",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由評論網",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44b182WlNXMW40cDdZNjhOWklSWE5ZeGp4bzVFMzZlbEpWbnNucWVqYTh0LWJoeGhXMktKZXlVRlI1N2xHdEZpZTN0N2VJV3R0QjV6TVp6RnEyN29mR1hMV0ZR0gFnQVVfeXFMTWJveV9EUU4wN1RQdVp6UVM3WEFNSmJocFlwd2Z5YjFvQVpSanctSjlQSW1DNDJFdE4wSXU2Y2l1al9fZkdfaElVWk81RkdhR3hQTC1sMWU1VmZPMFlOZ0pBUkMyN2E3UQ?oc=5",
+    "original_title": "「釜」看台灣》沖繩變天難解美軍犯罪 日「西南防衛」政策添變數 - 自由評論網",
+    "original_summary": "「釜」看台灣》沖繩變天難解美軍犯罪 日「西南防衛」政策添變數 自由評論網",
+    "published_at": "2026-11-08T10:00:00+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "\"Cauldron\" Watching Taiwan \"Okinawa's Difficult to Solve US Military Crime Day\" Southwest Defense \"Policy Variables - Free Review Network",
+    "translated_summary": "\"Caldeirão\" Assistir Taiwan \"Okinawa é difícil de resolver no Dia do Crime Militar dos EUA\" Defesa do Sudoeste \"Variáveis de Política Rede de Comentários Gratuitos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:53+00:00"
+  },
+  {
     "id": "2678b036056017843de1",
     "country": "Japão",
     "category": "Automóvel",
@@ -4558,6 +4598,26 @@
     "last_translation_attempt_at": "2026-11-07T10:48:05+00:00"
   },
   {
+    "id": "fd94b989596b40369011",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnZV91R0duTkRyRnp1NUtCa1dYbFRLQ1lrZGhCa1g4RXU1ZndKa1NTVDJzQm1OY1A4Q2tJYmMzTmtyazJ5eGdwMlA4X3QteTdQdnJrVkJtTXI0aXRoTk1xcHZlSkxqcXlP?oc=5",
+    "original_title": "병원비 때문에 시작된 남매의 눈치싸움 - 대한민국 정책브리핑",
+    "original_summary": "병원비 때문에 시작된 남매의 눈치싸움 대한민국 정책브리핑",
+    "published_at": "2026-11-06T18:34:39+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A altercação entre irmão e irmã começou devido a despesas hospitalares - South Korea Policy Briefing",
+    "translated_summary": "A altercação de irmão e irmã começou devido a despesas hospitalares Resumo da Política da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:47+00:00"
+  },
+  {
     "id": "785dd20bca0330b7610a",
     "country": "China",
     "category": "Política",
@@ -6835,6 +6895,28 @@
     "translated_summary": "Guoxuan High-Tech: From Product Going Sea to System Roots - International Practice of Power Battery Going Sea",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T11:56:32+00:00"
+  },
+  {
+    "id": "e26924283cdfd1174913",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "中华人民共和国驻蒙古国大使馆",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWWGVVSTV0elA0ZTZBdC1rMEVZTF9JSFVyUEV1aFVrYnRrVzVZeXVXVUdpY0F4TUREa25NX2NDU0gxaUo5UTFYdkFQb1c4N1FWRGFTRXNDUjZFT0VCWHVJVnU5QVhxTFYweHdGUWpLZVJNZWswX3c?oc=5",
+    "original_title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会 - 中华人民共和国驻蒙古国大使馆",
+    "original_summary": "2026年11月6日外交部发言人郭嘉昆主持例行记者会 中华人民共和国驻蒙古国大使馆",
+    "published_at": "2026-11-06T11:08:49+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "6 de novembro de 2026 O porta-voz do Ministério das Relações Exteriores, Guo Jiakun, realiza uma conferência de imprensa regular - Embaixada da República Popular da China na Mongólia",
+    "translated_summary": "6 de novembro de 2026 O porta-voz do Ministério das Relações Exteriores, Guo Jiakun, realiza uma conferência de imprensa regular na Embaixada da República Popular da China na Mongólia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:41+00:00"
   },
   {
     "id": "7dba42b8ff4a82bed01c",
@@ -19167,6 +19249,28 @@
     "last_translation_attempt_at": "2026-11-06T21:31:56+00:00"
   },
   {
+    "id": "bafb2f0df0ad7563b439",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2I2SUZCZWoxek44bWxhc1V6Q3JTOGhRaE55aVpmVjZCNnhhSzY0QUNDV2dTcHFIZV9WOGZ4MEN2a1B1aFl0NmRIYTFZc3RwdFlybWhoWmI0S29QRnN1dFp0WkdNUFRVY1E4MWY3Z0FlSXpSV3JWTzJFTS1SaEkzOWMwd1VTV0lOTUM0a0pBeTh4RzhYVVhob0g4TTNCcm9uOWpmQ1V5TFVZMkZrOWhrWmZ5cGV4Z2M?oc=5",
+    "original_title": "Elektroautos in Deutschland weiterhin stark gefragt - T-Online",
+    "original_summary": "Elektroautos in Deutschland weiterhin stark gefragt T-Online",
+    "published_at": "2026-11-04T13:52:00+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos continuam em alta demanda na Alemanha - T-Online",
+    "translated_summary": "Carros elétricos continuam em alta demanda na Alemanha T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:44+00:00"
+  },
+  {
     "id": "3560564f249ff1234199",
     "country": "Singapura",
     "category": "Política",
@@ -23707,6 +23811,28 @@
     "last_translation_attempt_at": "2026-11-06T22:24:54+00:00"
   },
   {
+    "id": "c883f295418b20986f1c",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5veFFkdjg3SE8zMVJISjNaalhpWlVGUk14SzNPd2xzQmloZ3JGbzhieGR6V2dtR0VJWlVyT1Q1Sk4ydlNrSzJjNl9BbEZKSHB0UUJONU93?oc=5",
+    "original_title": "중국 3,4위 전기차도 한국시장 노린다…더 거세질 ‘중국차 공습’ - 중앙일보",
+    "original_summary": "중국 3,4위 전기차도 한국시장 노린다…더 거세질 ‘중국차 공습’ 중앙일보",
+    "published_at": "2026-11-03T07:42:51+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O terceiro e quarto maior carro elétrico da China também é voltado para o mercado coreano… A castração de ‘ataques aéreos de carros chineses’ - JoongAng Ilbo",
+    "translated_summary": "O terceiro e quarto maior carro elétrico da China também é voltado para o mercado coreano... A castração de ‘ataques aéreos de carros chineses’ JoongAng Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:50+00:00"
+  },
+  {
     "id": "aa7be4a07c1a1d0a7d2a",
     "country": "Índia",
     "category": "Automóvel",
@@ -24110,6 +24236,26 @@
     "translated_summary": "As duas faces do comércio Índia-Vietname - rivais na América, parceiros em casa ThePrint",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:25:17+00:00"
+  },
+  {
+    "id": "c065f812569fa1727bb9",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ThePrint",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV090M2VjeDg3OUhNMjkyMHAyMElpekdXM1g2ckpZdG5oaTBTM3F2UXJ3Z1BCRzFyVWR4UmFnNW0xNFZwVEhKaUc1NlBtaEVBUXduNjZQM0NXSzVIZzNMSlpPUXl4eVhTM2xXTHF5VzBBLURndVl2dkZiYTdPdHFnNEFnd0dLdzdDS3JsNk4wbGxHek0?oc=5",
+    "original_title": "The two faces of India-Vietnam trade—rivals in America, partners at home - ThePrint",
+    "original_summary": "The two faces of India-Vietnam trade—rivals in America, partners at home ThePrint",
+    "published_at": "2026-11-03T02:36:29+00:00",
+    "first_seen_at": "2026-11-08T10:48:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As duas faces do comércio Índia-Vietname - rivais na América, parceiros em casa - ThePrint",
+    "translated_summary": "As duas faces do comércio Índia-Vietname - rivais na América, parceiros em casa ThePrint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T10:48:56+00:00"
   },
   {
     "id": "154d00f49c1c1a56cc41",
