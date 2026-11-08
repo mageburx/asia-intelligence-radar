@@ -1,5 +1,25 @@
 [
   {
+    "id": "ac1eb8b0f3c6eac50c24",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261108003200315",
+    "original_title": "PM vows to review support measures for firefighters",
+    "original_summary": "SEOUL, Nov. 8 (Yonhap) -- Prime Minister Han Seong-sook said Sunday the governme...",
+    "published_at": "2026-11-08T08:47:52+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "PM promete rever medidas de apoio aos bombeiros",
+    "translated_summary": "SEUL, 8 de novembro (Yonhap) -- O primeiro-ministro Han Seong-sook disse no domingo que o governo...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:41+00:00"
+  },
+  {
     "id": "cb19ed55821399298827",
     "country": "China",
     "category": "Política",
@@ -124,6 +144,26 @@
     "last_translation_attempt_at": "2026-11-08T07:03:12+00:00"
   },
   {
+    "id": "ae7194a9828bd80b7e42",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "OBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaEw4RGJBY3BuSTdVZDRmaVlKS2JfUTF6VmE3NVFRRGxkX211U0Zhdlp0NGdHR3p5T2RFcHIxWG9KNE1SQjl0UktHSmVSdFNLQmt1ZXYyYmF1TmpHS1ZPQ19DR2xTS1g2X1E?oc=5",
+    "original_title": "머스크의 태극기 자랑…테슬라, 한국 수입차 시장 장악 - OBC 뉴스",
+    "original_summary": "머스크의 태극기 자랑…테슬라, 한국 수입차 시장 장악 OBC 뉴스",
+    "published_at": "2026-11-08T06:47:36+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A polêmica de Musk se vangloria... Tesla assume o controle do mercado sul-coreano de carros importados - OBC News",
+    "translated_summary": "Musk's Taekwondo Orgulhoso... Tesla Assume o Controle do Mercado de Veículos de Importação da Coreia OBC News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:29+00:00"
+  },
+  {
     "id": "51757cbe1e7c3ca2c639",
     "country": "Índia",
     "category": "Automóvel",
@@ -224,6 +264,26 @@
     "translated_summary": "Delhi Excise Department Begins Implementing India-UK Trade Pact; Scotch Whisky Prices Expected to Fall in November Aabkari Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T08:06:54+00:00"
+  },
+  {
+    "id": "963508480fff57c1c334",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRXRVdllmSV9sQTFxcGFpRWNTNTN3OUcyaGFXUndhYWR3RWgwb1U5REF2b0J3M1lhS2RiYXlfdmk5ODJPMGZNOVhIYWw5OGlueUdMaVZBSXIxeUotaXBQYkZCd0hXemtGVlFaU1NkYmhxVXBET3I2bGt5TG5KdE9TZXNQVTRfYk1hVWtDWkp1Yl9CUWRtbW0wUmlRdkR3Z01NM0lDWDR3ZE1jaWJKcThJdDRfeExDekpiMXdOWWtON1FoZXlXek9qWmFqMnZlN1oyeEhkNEhMTG1KTzRBRnA3bTMtVzZGSjN1SFkxZ0dWV3TSAfABQVVfeXFMUEV0VXZZZklfbEExcXBhaUVjUzUzdzlHMmhhV1J3YWFkd0VoMG9VOURBdm9CdzNZYUtkYmF5X3ZpOTgyTzBmTTlYSGFsOThpbnlHTGlWQUlyMXlKLWlwUGJGQndIV3prRlZRWlNTZGJocVVwRE9yNmxreUxuSnRPU2VzUFU0X2JNYVVrQ1pKdWJfQlFkbW1tMFJpUXZEd2dNTTNJQ1g0d2RNY2liSnE4SXQ0X3hMQ3pKYjF3TllrTjdRaGV5V3pPalphajJ2ZTdaMnhIZDRITExtSk80QUZwN20zLVc2RkozdUhZMWdHVld0?oc=5",
+    "original_title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year - ET Auto",
+    "original_summary": "Tesla to add Cybertruck shift to clear orders before dismantling line next year ET Auto",
+    "published_at": "2026-11-08T06:34:26+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tesla adicionará turno Cybertruck para limpar pedidos antes da linha de desmontagem no próximo ano - ET Auto",
+    "translated_summary": "Tesla adicionará turno Cybertruck para limpar pedidos antes da linha de desmontagem no próximo ano ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:38+00:00"
   },
   {
     "id": "38715193113626d8da93",
@@ -1898,6 +1958,28 @@
     "translated_summary": "6 de novembro é o dia de votação para a reeleição de deputados para os congressos populares nos níveis urbano e municipal em Pequim. O Secretário-Geral Xi Jinping participou na eleição de deputados para o congresso popular distrital na assembleia de voto de Huairentang, no círculo eleitoral de Zhongnanhai, no distrito de Xicheng.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T12:54:26+00:00"
+  },
+  {
+    "id": "09d2ac75f50dd276caff",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "三立新聞網SETN.com",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwa0kySk9QRTZYdHAwZVBMdk94MEhzRnlNZXFPWUFSZTZuYlB4NkFwRzRwcTVJVFJuLXdnamFtRWlKYVd6Z0FXUdIBTEFVX3lxTE56Q0d3aE44eEZHRmUxUi1mU1FLeFhjaTloOU51WmhiTndlZ1A1Q29GTTNMQkhZdjZ6THVXd2g3dkx5YkxwbVdiS041bUs?oc=5",
+    "original_title": "阿提哈德航空廣播喊「中國台灣」 外交部出手了：已要求更正、道歉！ - 三立新聞網SETN.com",
+    "original_summary": "阿提哈德航空廣播喊「中國台灣」 外交部出手了：已要求更正、道歉！ 三立新聞網SETN.com",
+    "published_at": "2026-11-07T12:09:56+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Rádio Etihad Airways gritou \"Taiwan, China\" Ministério das Relações Exteriores: Solicitado Correção, Desculpas! - Sanli News Network SETN.com",
+    "translated_summary": "A Rádio Etihad Airways gritou \"Taiwan, China\" Ministério das Relações Exteriores: Solicitado Correção, Desculpas! Sanli News Network SETN.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:32+00:00"
   },
   {
     "id": "0c7d64b0de9b2cf55e85",
@@ -4033,6 +4115,29 @@
     "translated_summary": "[Análise Política do Professor Choi Yeon-hyuk] ① Palavras e Poder: A Trajetória do Discurso da Assembleia Nacional Coreana em 78 - Parte 2 Newspim",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T10:47:53+00:00"
+  },
+  {
+    "id": "a6192d42e2cf3d9ee4b7",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "뉴시안",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQmotR2xhS1BnUmtOQktZRlpyc1hESnF2djFiLVhPcnFMSFQySXkyNG43bTNpMmtUV3hUUTY3dFFuSVplSl83V1JwMUNHSzJrVDNtMjNsYzhzMmx5R2psdGpRUXlOaUloTnFwTA?oc=5",
+    "original_title": "[긴급진단 ㅣ K-전기차 현주소②] 중국 전기차 공세 거세진다…K-자동차 수출전선 흔들 - 뉴시안",
+    "original_summary": "[긴급진단 ㅣ K-전기차 현주소②] 중국 전기차 공세 거세진다…K-자동차 수출전선 흔들 뉴시안",
+    "published_at": "2026-11-06T21:51:01+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Diagnóstico de Emergência do Endereço Atual do Veículo Elétrico K ②] A Ofensiva do Carro Elétrico da China Ganha Força... Frente de Exportação do K-Car - Novo Xian",
+    "translated_summary": "[Diagnóstico de Emergência do Endereço Atual do Veículo Elétrico K ②] A Ofensiva do Carro Elétrico da China Fica Forte... Frente de Exportação do Carro K Balançando o Novo Xian",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:26+00:00"
   },
   {
     "id": "3280410c0896da2a4d1a",
@@ -21376,6 +21481,26 @@
     "last_translation_attempt_at": "2026-11-06T05:01:11+00:00"
   },
   {
+    "id": "e1f665786ea0f2b37557",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "U-CAR新聞",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWS1iTGVCenJYSmdWaWIzc2JST2ZLZEFpS3oteVV2VmdSNVE2eFFocDFKZDc5SG9PN0ZncDUwZFVrU1lMd183bThHM0lnRTlkVUVZSGd0WQ?oc=5",
+    "original_title": "[U-EV]新增自動停車、露營模式與中文介面，第一線傳台灣福斯商旅2027年式ID.Buzz產品調整 - U-CAR新聞",
+    "original_summary": "[U-EV]新增自動停車、露營模式與中文介面，第一線傳台灣福斯商旅2027年式ID.Buzz產品調整 U-CAR新聞",
+    "published_at": "2026-11-04T05:24:31+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "[U-EV] Estacionamento automático, modo camping e interface chinesa adicionados, primeira linha de Taiwan Fox Business Travel 2027 ID.Buzz ajuste de produto - U-CAR News",
+    "translated_summary": "[U-EV] Adicionado estacionamento automático, modo camping e interface chinesa, a primeira linha de Taiwan Fox Business Travel 2027 ID.Buzz product adjustment U-CAR news",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:35+00:00"
+  },
+  {
     "id": "9f53b627a955b14a4471",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -23583,6 +23708,26 @@
     "translated_summary": "\"Tudo isso vai funcionar na China\"... carros elétricos chineses, BYD e Ziker, seguidos por Xiaofeng, o jornal diário de desembarque da Coreia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T05:54:23+00:00"
+  },
+  {
+    "id": "9e6567110aea84069068",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PM3hqUDgyZTY0N0RDUk9Lb1FnYVRyQnBsU1NtaXQtOWRVb3NIWXFkMFlVMVZ1NDl4N0JfdGNZeVdFVU5NXzAyWlB2S0VtbDBNdW9uX2FTRjRTZ0NWbUJOQTZDam94bnBqdjRoSg?oc=5",
+    "original_title": "김장재료 수급안정대책 발표…640억 원 투입, 최대 50% 할인 - 대한민국 정책브리핑",
+    "original_summary": "김장재료 수급안정대책 발표…640억 원 투입, 최대 50% 할인 대한민국 정책브리핑",
+    "published_at": "2026-11-03T05:58:39+00:00",
+    "first_seen_at": "2026-11-08T08:56:06+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Kim Jang Material Supply and Stability Measures Announced… KRW 64 billion input, up to 50% discount - South Korea Policy Briefing",
+    "translated_summary": "Kim Jang Material Supply and Stability Measures Announced… KRW 64 billion input, up to 50% discount South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T08:56:23+00:00"
   },
   {
     "id": "da97aa471dd59eff8d73",
