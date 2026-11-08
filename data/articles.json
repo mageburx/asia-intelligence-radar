@@ -40,6 +40,70 @@
     "last_translation_attempt_at": "2026-11-08T16:44:47+00:00"
   },
   {
+    "id": "1cfbdc9b24e3217548cf",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/08/byd-da-tang-gets-mismatched-front-rear-wheels-in-assembly-mishap-sparking-safety-concerns/",
+    "original_title": "BYD Da Tang gets mismatched front & rear wheels in assembly mishap, sparking safety concerns",
+    "original_summary": "Impacted SUVs get the wider rear rims on the front, and narrower front rims on the back, potentially affecting handling and safety. The post BYD Da Tang gets mismatched front & rear wheels in assembly mishap, sparking safety concerns appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-08T21:34:31+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BYD Da Tang recebe rodas dianteiras e traseiras incompatíveis em acidente de montagem, provocando preocupações de segurança",
+    "translated_summary": "Os SUVs impactados obtêm os aros traseiros mais largos na frente e os aros dianteiros mais estreitos na parte traseira, afetando potencialmente o manuseio e a segurança. O post BYD Da Tang recebe rodas dianteiras e traseiras incompatíveis em acidente de montagem, provocando preocupações de segurança que apareceram primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:04+00:00"
+  },
+  {
+    "id": "9a3a87775145df14dc9e",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pYnFwd05qRUFHaGQzYkQ5X2NRZURnck8wOHluQ2RlbW1zNGNvSHduUXFIalFZM3dOS25UYXlqbm5vbTd6NHAzY1NFU29ueFI5cHc?oc=5",
+    "original_title": "현대차·기아 전기차 10월에 두배 팔렸다…EV5 판매 '껑충' - 매일경제 마켓",
+    "original_summary": "현대차·기아 전기차 10월에 두배 팔렸다…EV5 판매 '껑충' 매일경제 마켓",
+    "published_at": "2026-11-08T21:15:00+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os veículos elétricos Hyundai e Kia foram vendidos duas vezes em outubro... Vendas EV5 'Lip Chung' - Maeil Economy Market",
+    "translated_summary": "Veículos elétricos Hyundai e Kia foram vendidos duas vezes em outubro... Vendas EV5 'Leap Chung' Maeil Economy Market",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:18+00:00"
+  },
+  {
+    "id": "1aab2b3cad61cab4085e",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmVFOUtzTjNjZzZEelQtZ0J3Z0tvdExXTmNNWGJKQTJsdTduUERaTHlGWHVjNDNBNlBWS0hFck5JOUdRVFVlTkVCcnNBcGFIcy1DaktOcVJyODdPcE5wRTBRQnh3NVd1M2JMaDBYbWpUdlF1UVJXYXdjMjhRdk5IQkNST0xnXzZobktjbw?oc=5",
+    "original_title": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag - ZDFheute",
+    "original_summary": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag ZDFheute",
+    "published_at": "2026-11-08T20:57:24+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ativistas hasteiam bandeira palestina em frente ao Reichstag - ZDFheute",
+    "translated_summary": "Ativistas hasteiam bandeira palestina em frente ao Reichstag ZDFHoje",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:15+00:00"
+  },
+  {
     "id": "1989870d0d229022563e",
     "country": "Japão",
     "category": "Política",
@@ -2339,6 +2403,28 @@
     "translated_summary": "A Rússia poderá jogar na Alemanha na Copa do Mundo de Hóquei no Gelo de 2027? De acordo com o CAS sim, o governo federal diz não Nacionale",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T02:09:14+00:00"
+  },
+  {
+    "id": "cfea4b10e7fffb0d0844",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NT3c3aFRFcGI1VURqUEE0c2dKYTl1OUxTYkJaem5zYUFCWW52eTRUSU9ob0ZoQUlSTEgwb1JLOEk0Y1JtUHhheFdhZ0ZwRzRfcnRZZkJSbHVFWVB0UUUzWGlB?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-08T00:13:23+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:07+00:00"
   },
   {
     "id": "04fe8d173efac8b8620c",
@@ -5292,6 +5378,28 @@
     "last_translation_attempt_at": "2026-11-08T18:49:37+00:00"
   },
   {
+    "id": "87ca5d7f3780753eba63",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlQkNpbEwyUnFTQ29HREw3V0JGWml3N3FGTTZWMlJmdDFCbjdZRUs5cmdfYi1qMS1pQ0FKR0VzV216ZHk0aTNSaHItX2FZZmRNaXMyZU0yVkROS0ZFUlB3d2lB?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-07T00:38:27+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:10+00:00"
+  },
+  {
     "id": "895146d512899cad5dfb",
     "country": "Japão",
     "category": "Automóvel",
@@ -5312,6 +5420,28 @@
     "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T17:41:06+00:00"
+  },
+  {
+    "id": "db4ca08e9878824ad5f6",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aS3J6WGh4WG9kSVRxc3dCV3F3LUo3Yl82S1NXRmJTQThOa3JCUXZqb050NEItM0dVTHV6YTZmT29uUTNQSThNRkNkakdJdjRqV0pjUTVJUXdxWnFCRkxSZG13?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-07T00:33:00+00:00",
+    "first_seen_at": "2026-11-08T21:41:45+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T21:42:13+00:00"
   },
   {
     "id": "e37ab5be3a9d2cf00ca5",
