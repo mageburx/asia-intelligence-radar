@@ -1,5 +1,90 @@
 [
   {
+    "id": "2c4f58aeb34438156abb",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261108000700320",
+    "original_title": "S. Korea reviewing plan to expand label-free mandate to foreign-produced bottled water",
+    "original_summary": "SEOUL, Nov. 8 (Yonhap) -- The government is reportedly reviewing plans to expand...",
+    "published_at": "2026-11-08T00:59:21+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Coreia do Sul revisa plano para expandir mandato sem rótulos para água engarrafada produzida no exterior",
+    "translated_summary": "SEUL, 8 de novembro (Yonhap) - O governo está revisando os planos de expansão...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:59+00:00"
+  },
+  {
+    "id": "98328e8e8d993a9dd2c4",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
+    "original_title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
+    "original_summary": "イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…",
+    "published_at": "2026-11-08T00:50:41+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O segundo partido de Israel, Eisenkot, para pedir um gabinete",
+    "translated_summary": "Em Israel, o líder do partido da oposição, que se tornou o segundo partido nas eleições gerais anteriores, Eisenkot, que reuniu mais nomeações do que o primeiro-ministro Netanyahu, deverá ser convidado a formar o gabinete do próximo governo. Enquanto isso, o primeiro-ministro Netanyahu cortou as forças da oposição na tentativa de retornar ao poder...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:31+00:00"
+  },
+  {
+    "id": "b7183874d1ce879ea645",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml",
+    "original_title": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+    "original_summary": "中新网上海11月8日电 (记者 陈静)作为第九届中国国际进口博览会杨浦区重点活动之一，上海杨浦区人民政府与老挝工贸部外贸司合作备忘录签约仪式暨第二届“聚焦长三角·投资新老挝”推介会7日在沪举行。",
+    "published_at": "2026-11-08T00:33:15+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "(9ª CIIE) Shanghai Yangpu e Laos se unem para promover trocas comerciais",
+    "translated_summary": "Xangai, 8 de novembro (Repórter Chen Jing) Como uma das principais atividades do Distrito de Yangpu da 9ª Exposição Internacional de Importação da China, a cerimônia de assinatura do Memorando de Cooperação entre o Governo Popular do Distrito de Yangpu de Xangai e o Departamento de Comércio Exterior do Ministério da Indústria e Comércio do Laos e a segunda reunião de promoção \"Foco no Delta do Rio Yangtze · Investimento no Novo Laos\" foram realizadas em Xangai no dia 7.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:24+00:00"
+  },
+  {
+    "id": "340c4ea713c36db29611",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154609.html",
+    "original_title": "ダンロップ、スーパーGTを戦う64号車「Modulo HRC PRELUDE-GT」が特別カラーで挑む第3戦もてぎで3戦連続ポール獲得＆決勝2位",
+    "original_summary": "スーパーGT第3戦「2026 AUTOBACS SUPER GT Round3 MOTEGI GT 250km RACE」が、11月7日に栃木県芳賀郡茂木町にあるモビリティリゾートもてぎにて開催された。",
+    "published_at": "2026-11-08T00:30:00+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Dunlop vence a 3ª pole consecutiva na 3ª Rodada com uma cor especial no Super GT No. 64 módulo HRC PRELUDE-GT e termina em 2º na final",
+    "translated_summary": "Super GT Round 3 \"2026 AUTOBACS super GT Round 3 Motegi GT 250km race\" foi realizada no dia 7 de novembro no Motegi Mobility Resort na cidade de Motegi, condado de Haga, província de Tochigi.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:35+00:00"
+  },
+  {
     "id": "04fe8d173efac8b8620c",
     "country": "Taiwan",
     "category": "Política",
@@ -18,6 +103,28 @@
     "translated_summary": "",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T16:46:15+00:00"
+  },
+  {
+    "id": "644402cde8d966dd595c",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中時新聞網",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUl9hT045V0tFOXZqVXhVNmdpTmJPclZUdElqY0stOU1wZUNjNDl6QjlmVnpvNXdFUV9Cd0xZMzctMVVWQUFSZzhldkVReHlyZ25kbVgtc1VrLXg2clFsSWFEYzVvMDVlY0hiemFB?oc=5",
+    "original_title": "立陶宛議員轟「台灣」設處是蠢事 還翻出我「金錢外交」遭洗錢舊案 - 中時新聞網",
+    "original_summary": "立陶宛議員轟「台灣」設處是蠢事 還翻出我「金錢外交」遭洗錢舊案 中時新聞網",
+    "published_at": "2026-11-07T23:42:11+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Parlamentares lituanos bombardearam o escritório de \"Taiwan\" com estupidez e revelaram meu antigo caso de \"diplomacia do dinheiro\" sendo lavado - Rede de Notícias Zhongshi",
+    "translated_summary": "Os parlamentares lituanos se gabaram de que \"Taiwan\" era uma coisa tola de se criar e também descobriram que minha \"diplomacia do dinheiro\" foi lavada no antigo Case News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:51+00:00"
   },
   {
     "id": "9103f1214055ac7d39ac",
@@ -62,6 +169,28 @@
     "translated_summary": "A Rookie Racing (Toyota Motor Corporation) participou na terceira ronda da Super GT \"2026 AUTOBACS Super GT Round 4 Fuji GT 300km race\", realizada em Motegi, um resort de mobilidade em Motegi-cho, Haga-gun, província de Tochigi, no dia 7 de novembro, com o novo carro \"No. 32 Eneos X Prime GR GT3 concept\".",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T22:43:01+00:00"
+  },
+  {
+    "id": "abaa5fdb393b54cefdb2",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "JBpress",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcTdxSWVnSkV5VEJIRFpUTzNFRl9LcEs1SEljTXlXVzRaN2t6Rm9kRlJteDVUSUN1X1RCSVg5TEw2eFBic3p3dGYwbW1TS2d6RVkzS3Vn?oc=5",
+    "original_title": "トヨタも本格参入、ロボットタクシーは2030年代前半に普及するのか？日本が乗り越えるべき2つの課題 - JBpress",
+    "original_summary": "トヨタも本格参入、ロボットタクシーは2030年代前半に普及するのか？日本が乗り越えるべき2つの課題 JBpress",
+    "published_at": "2026-11-07T21:00:00+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Toyota também entrou em grande escala, os táxis-robôs se tornarão populares na primeira metade da década de 2030? Dois desafios para o Japão superar - JBpress",
+    "translated_summary": "A Toyota também entrou em grande escala, os táxis-robôs se tornarão populares na primeira metade da década de 2030? Dois desafios para o Japão superar a JBpress",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:42+00:00"
   },
   {
     "id": "0efe7b4b94e54738aee4",
@@ -150,6 +279,26 @@
     "translated_summary": "[Consequências da indústria eleitoral] ② O ônus das tarifas de automóveis continuará... Veículos elétricos são esperados Yonhap News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T22:43:13+00:00"
+  },
+  {
+    "id": "e1a2292139e7345124c0",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW8yTG5hczlQbFJjQzVqTlp0cDB0RFhCYXc1QlpZN2xYeUZPM19VOVRScjFMQmJwUkZIMG5ybFNtQkV4aUQ2RUdId1JLbEtleWVEOHhkRm1IWFBFNXFuQmdYWXF1SmlIT1hnMEE0VzV5V19IMFR3VnJSaE8tbTZXbVhwTFlJTWJyZGdJcm5vLTFxZzFidmxFY1JB?oc=5",
+    "original_title": "Eishockey-WM mit Russen? IIHF prüft Optionen, DEB will Tempo - Onetz",
+    "original_summary": "Eishockey-WM mit Russen? IIHF prüft Optionen, DEB will Tempo Onetz",
+    "published_at": "2026-11-07T19:08:00+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Copa do Mundo de Hóquei no Gelo com Russos? IIHF examina opções, DEB quer tempo - Onetz",
+    "translated_summary": "Copa do Mundo de Hóquei no Gelo com os russos? A IIHF examina as opções, DEB quer o Tempo Onetz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:45+00:00"
   },
   {
     "id": "0ecf60dd27e62983aa5e",
@@ -2129,6 +2278,28 @@
     "translated_summary": "Foi deputado da Bukit Panjang de 1972 a 1991 e deputado da Sembawang GRC de 1991 a 1996.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T03:54:50+00:00"
+  },
+  {
+    "id": "754ea5ee33f7536f5390",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG5vUHhJbHE0ZGlQaHJseGNwRWpqWUtTdnNiS2psdFZ0Nkd0SFdxSzBHYnBrcVI4V1p6MFJjbThodnpKQk12M05TRHJWa2pCUlppaGMtcnpXcVFKbTFteDIzaEJrczlOY2p5OUJDeE9UOUUzVmNKUlpEQUM3QUxCdHh5Slg2RlBfVGdBZjdmUlFUZ09NRHYxWDVYamMyT2lqOVFSQnlTQnFjeGNLX3RHT3VmYVR2NmhTYVNWTTdSdzFEVlhxUms3UHBaQVBMelVFa2J3U2w0aTY?oc=5",
+    "original_title": "Former senior parliamentary secretary Lee Yiok Seng, who was behind housing efforts, dies at 87 - The Straits Times",
+    "original_summary": "Former senior parliamentary secretary Lee Yiok Seng, who was behind housing efforts, dies at 87 The Straits Times",
+    "published_at": "2026-11-07T03:49:00+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O ex-secretário parlamentar sênior Lee Yiok Seng, que estava por trás dos esforços habitacionais, morre aos 87 anos - The Straits Times",
+    "translated_summary": "O ex-secretário parlamentar sênior Lee Yiok Seng, que estava por trás dos esforços habitacionais, morre aos 87 anos no The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:54+00:00"
   },
   {
     "id": "227a458261f74264930f",
@@ -7118,6 +7289,28 @@
     "last_translation_attempt_at": "2026-11-06T10:07:51+00:00"
   },
   {
+    "id": "b404917f1646776a86f7",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hSDQ1YnlHRU1mTlU5TlhOXzFxSENwRGl0NUpSa3lKUjdRaFVraFlZZE04RnBmeF9OSG04T2tCRUltX0xJWnlvdEczYWVFaGxRWjVSN0d2S2RpOVN6MDFSMFQ4Si03Vm5fZ1d0Qw?oc=5",
+    "original_title": "トヨタ、米国産ピックアップトラック「タンドラ」を今冬全国発売 - 日本経済新聞",
+    "original_summary": "トヨタ、米国産ピックアップトラック「タンドラ」を今冬全国発売 日本経済新聞",
+    "published_at": "2026-11-06T07:37:14+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota lançará pick-up Tandora fabricada nos EUA em todo o país neste inverno - Nikkei",
+    "translated_summary": "Toyota lançará pick-up Tandora fabricada nos EUA em todo o país neste inverno",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:39+00:00"
+  },
+  {
     "id": "b6ca1da8e67fa3320da8",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -11420,6 +11613,29 @@
     "translated_summary": "Bosch streicht in Abstatt weitere 750 Empregos Badische Zeitung",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:21:24+00:00"
+  },
+  {
+    "id": "6ab43edbf23757a9973a",
+    "country": "Bosch",
+    "category": "Indústria",
+    "source": "Bosch · Chips, IA e software",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-technology-en",
+    "publisher": "Design News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2VUd0RKT0ZVM1VNNmMtSkZvYnlrOWF0VDhHam5MeVhEMk40QlU3WWhkMzBjcmMwTGdWb2REcjhTY1dZTW1vWll2WTU2R3NDeVN4UHVuQnNRS2ZYS2F5NkRVR1NmWmI4c3lfY1hUVUpPcjd6dnhUc1FTQ1JIRkIyUElwSzVROTdDTktJZi1UTTZ3WFo5cU9QT2pBYjVmZnVSSEVEUUNSeEhXRDRCZmpV?oc=5",
+    "original_title": "MVTec, Bosch Rexroth, & Bosch Manufacturing Unite for Vision Integration - Design News",
+    "original_summary": "MVTec, Bosch Rexroth, & Bosch Manufacturing Unite for Vision Integration Design News",
+    "published_at": "2026-11-05T15:46:31+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Bosch Rexroth"
+    ],
+    "translation_status": "translated",
+    "translated_title": "MVTec, Bosch Rexroth e Bosch Manufacturing Unite para integração de visão - Design News",
+    "translated_summary": "MVTec, Bosch Rexroth e Bosch Manufacturing Unite for Vision Integration Design Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:57+00:00"
   },
   {
     "id": "2591600246de4a4d663d",
@@ -16716,6 +16932,29 @@
     "translated_summary": "Bosch Central Gateway na EICMA 2026 visa proteger motocicletas conectadas de ataques cibernéticos Motorcycle Sports",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T19:22:17+00:00"
+  },
+  {
+    "id": "ddb9b2f8ec7f41f5fc30",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "财联社电报",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80UGItMWZjVGhVcmw2SS04ZTBfRmRfcEpUUnJ2R1MtWmtsN0JWbTBNZlNuVE9vbkw0aDFGZnZvVGl6bkJKZ2c?oc=5",
+    "original_title": "海外研选日报1105 | ING：民主党掌控国会或加剧政治僵局 科技监管趋严 - 财联社电报",
+    "original_summary": "海外研选日报1105 | ING：民主党掌控国会或加剧政治僵局 科技监管趋严 财联社电报",
+    "published_at": "2026-11-04T17:34:00+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Política industrial",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Overseas Research and Election Daily 1105 | ing: Os democratas assumem o controle do Congresso ou exacerbam o impasse político à medida que a regulamentação tecnológica se aperta - Finance Associated Press Telegram",
+    "translated_summary": "Overseas Research and Election Daily 1105 | ing: Democratas assumem o controle do Congresso ou exacerbam impasse político Regulamentação tecnológica fica mais dura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:28+00:00"
   },
   {
     "id": "b9be238a743e67d81aa2",
@@ -23985,6 +24224,28 @@
     "translated_summary": "China supera Ministério das Relações Exteriores de Taiwan com convite informal da APEC: protesto estrito contra o Freedom Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T22:30:03+00:00"
+  },
+  {
+    "id": "427ceefe355ef76f41dd",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBck8xd3JBR1JCOWpVSFBOVmVHOF9Ma0lLcFNvdmNoWGozT0VfS1F6cUJOSmpxZm1LU3c0R3o3SEZ5dDZkdGg3YktidmUwdF9SNUxQLUNKWTJ6V1ZnM2pqeXpCTWh5cFgwT1E?oc=5",
+    "original_title": "中國用非正式APEC邀請函矮化台灣外交部：嚴正抗議- 政治 - 自由時報",
+    "original_summary": "中國用非正式APEC邀請函矮化台灣外交部：嚴正抗議- 政治 自由時報",
+    "published_at": "2026-11-01T07:05:18+00:00",
+    "first_seen_at": "2026-11-08T01:08:05+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "China supera Ministério das Relações Exteriores de Taiwan com convite informal da APEC: protesto estrito - política - tempos livres",
+    "translated_summary": "China supera Ministério das Relações Exteriores de Taiwan com convite informal da APEC: protesto estrito - tempos de liberdade política",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-08T01:08:48+00:00"
   },
   {
     "id": "03caca8009f30a236be9",
