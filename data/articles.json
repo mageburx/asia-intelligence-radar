@@ -64,6 +64,51 @@
     "last_translation_attempt_at": "2026-11-09T17:15:01+00:00"
   },
   {
+    "id": "8ee47ade5d4cf98f7fc8",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFdSUHRjWWZJdkMwdlIyak16SnkwTTlYMVhnT2FkZHFzTHcwM1hpWGVXcDJGd0FYSWhBbHdkalZOMzZnYXJtLU5tMmlpa2VtZHBaTFU0RGpVR2JwbFNuV2o2QVBsSUM2OENsNlJ3bHhDN0FqaTZkTExGbFZJd0ZQMVl6LTR6VTJZOEgtVTgwV2twRmlMVEsxdDhsbFpqX1dCWW5hcG4tdlE?oc=5",
+    "original_title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab - DIE ZEIT",
+    "original_summary": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab DIE ZEIT",
+    "published_at": "2026-11-09T19:08:36+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Candidata a Presidente: Ilse Aigner rejeita convite do GRUPO PARLAMENTAR AfD - TIME",
+    "translated_summary": "Candidata à eleição presidencial federal: Ilse Aigner rejeita convite do grupo parlamentar AfD",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:34+00:00"
+  },
+  {
+    "id": "70634b4fd42534d10a39",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmpCVU9qanF2UlFlQ0FYSmlKN1F2c21ia2RkeW03VUtscmFUM0ZLLXRkWVdaNHZiRnRpZGpYN2ZfdmllcnZiX0d0b2U4akpUeGx1YWdLVjdueW1LYTVsYWlnOFB0M1d3NURvbGVtZzBMWHhwM3lIUlA3azJ5VTVKMFcyMlkzTFpTMUNNMkl3?oc=5",
+    "original_title": "UK startup turns spent EV batteries into 400 kW fast charger, avoids grid upgrades - Interesting Engineering",
+    "original_summary": "UK startup turns spent EV batteries into 400 kW fast charger, avoids grid upgrades Interesting Engineering",
+    "published_at": "2026-11-09T19:06:00+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Startup do Reino Unido transforma baterias de VE gastas em carregador rápido de 400 kW, evita atualizações da rede - Engenharia Interessante",
+    "translated_summary": "Startup do Reino Unido transforma baterias de VE gastas em carregador rápido de 400 kW, evita atualizações de rede Engenharia Interessante",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:45+00:00"
+  },
+  {
     "id": "1f3f7356ff0d11ce3451",
     "country": "Índia",
     "category": "Política",
@@ -84,6 +129,28 @@
     "translated_summary": "Odisha Cabinet approves proposal for ₹ 4,708-crore pumped storage project | India News Hindustan Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T18:59:13+00:00"
+  },
+  {
+    "id": "e78f922eaa0c13473ffe",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ250ZTlzWGpCX01MSVdyLVdwcEI4THBFRWh2N1ljNEpHbW4zOWt3LXBTWEY0SEZBVjlLcll2UzFoOVpCa3FlUnRPUkNJbUJrTFNhTkFFaWxrSUd0TklxVmFaNmxabm5mVnVTM0JSNmpBaWVuY1hHMURhOUlUUFBqeUUyLTMtTkFhN3lHLTBUT3VoSm4wcExoV05XVGVoZ3U0ZVZ5dTBHYlh6ZDk2TTVidUFtVXRlc2E2ZGIwOTltMm43eG95RW1NQlNwU1oyWmRhS1Jj0gHYAUFVX3lxTE5TMjZfTlg1c2NHTHJoRjNmckFPMnBYR1hJM3VpY25OR2NaVGhvVFEzTnlHc3VCWW5BbjY2TkRnTGh1MF95VUxQeGQ2ZFpRNXdSdFptTXkyVW40SWh2bGpBejdWX2RlTG1NRkFGbVB0Tm1iV3BHQTVfUDB4bVVJNWprUk96akhGVkVkTDlhZkd0VUItUUZzZ0twa1l0WWd3OW1KQVd5aDkxY3JMdGEtd0ctZmZyUGFjQ2oyR3UxMW5KVGV0MTB6UWdKRjlYVXNwT3Z1akgzNFNscQ?oc=5",
+    "original_title": "Odisha cabinet approves proposal for ₹4,708-crore pumped storage project | India News - Hindustan Times",
+    "original_summary": "Odisha cabinet approves proposal for ₹4,708-crore pumped storage project | India News Hindustan Times",
+    "published_at": "2026-11-09T18:46:59+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Odisha Cabinet approves proposal for ₹ 4,708-crore pumped storage project | India News - Hindustan Times",
+    "translated_summary": "Odisha Cabinet approves proposal for ₹ 4,708-crore pumped storage project | India News Hindustan Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:43+00:00"
   },
   {
     "id": "7dc473ad058760c36aa2",
@@ -263,6 +330,28 @@
     "translated_summary": "Fraikin vende 15 camiões elétricos Mercedes à distribuidora de alimentos do Reino Unido Charged EVs",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T17:14:54+00:00"
+  },
+  {
+    "id": "7c7f689c5cea28b02cdf",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Tagesspiegel",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeGx1ZF9vZ3c4SVNZeXhrME5UUkgwcW5SclNPYnl4a3J6OXNzdFYwNnl4ZDhtd3hxeHpEV0pWQ0Z4ZzVJNGQ4VmVBZTFkRnlINGYwMTJRV05IdE1nYllVOHJ6R2FRQ3NPcWsyVkZyeloyN2Y3dmdBcUh0YWI3a2xfdTJPdW8xTUZsRGt2eUphR0hybzZGdU9FWXRuUWtyUk1sTVZkbU04SWR6b0w1Z1ZDaDdYX0xLOHdYZDBNZ0ZfYnZmcFFZcWkxcXFPYUprSndkeDl4cE9vaHFUS3RQU3pVbF83QXR6VmpqZk5hTjIyMjc3cjVUeXpsa3IwMzQ?oc=5",
+    "original_title": "Plötzlich weht die Palästina-Flagge vor dem Bundestag Politik und Polizei sprechen sich nach Aktion für mehr Schutz aus - Tagesspiegel",
+    "original_summary": "Plötzlich weht die Palästina-Flagge vor dem Bundestag Politik und Polizei sprechen sich nach Aktion für mehr Schutz aus Tagesspiegel",
+    "published_at": "2026-11-09T16:23:28+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "De repente, a bandeira da Palestina tremula em frente ao Bundestag Política e a polícia pede mais proteção após a ação - Tagesspiegel",
+    "translated_summary": "De repente, a bandeira da Palestina tremula em frente ao Bundestag. A política e a polícia se manifestam após a ação por mais proteção contra Tagesspiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:31+00:00"
   },
   {
     "id": "87905e1a82ecba48d8d7",
@@ -1420,6 +1509,26 @@
     "translated_summary": "Mercedes: GLC elétrico \"experimentando demanda excepcionalmente alta\" ecomento.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T11:03:11+00:00"
+  },
+  {
+    "id": "2f50c014df53fea02e56",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Business Insider Deutschland",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXNhaExhTG83ODlUMmVrelJ2OW44ckgtRHl5ZlpRRmFZZTVwdzhZb3dIY21PWno0Y0lxbkNGLTVfXzRab2J1UUtfVEtXR3NKY3gtWURTcEhGNUw0SEloMi1CUWJyQVZKcVd0WDB2YXJxUjg2WWJxN1dGMngxWWZ6NXlGRkx3UEs3bzJWbHFQa0JDRVkwenpaQVh0VnY1UlR4WWg1dUI4UVVreHljMVE?oc=5",
+    "original_title": "Das sind die 5 beliebtesten und meistverkauften E-Autos des Jahres - Business Insider Deutschland",
+    "original_summary": "Das sind die 5 beliebtesten und meistverkauften E-Autos des Jahres Business Insider Deutschland",
+    "published_at": "2026-11-09T09:42:20+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Estes são os 5 carros elétricos mais populares e mais vendidos do ano - Business Insider Germany",
+    "translated_summary": "Estes são os 5 carros elétricos mais populares e mais vendidos do ano Business Insider Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:37+00:00"
   },
   {
     "id": "316414c0d9f57a887040",
@@ -7169,6 +7278,26 @@
     "translated_summary": "Promoção para carros elétricos: Os potes do prémio de compra de carros elétricos estarão vazios em breve? WirtschaftsWoche",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T16:44:29+00:00"
+  },
+  {
+    "id": "4740fa242b10a03ee955",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "三立新聞網SETN.com",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fcXNZY0E4bmd3QXVVblFoUnpkSGR0akZSQlJCSjgxUjJqejEweE1zTGFTR09wRTduMWVGWTl3cmdsTVVpSWpDNtIBTEFVX3lxTE5VdDVHU0N4aldhQnNOX1NXTnM5R3ZYMzhIRV82aW5nNHVRbjhXMEI0akVWc1RQYlREQzZQS1JVOEd2WUZVdXJ6RGZwSGI?oc=5",
+    "original_title": "台灣充電龍頭掛牌！EVOASIS成首家興櫃充電營運商 - 三立新聞網SETN.com",
+    "original_summary": "台灣充電龍頭掛牌！EVOASIS成首家興櫃充電營運商 三立新聞網SETN.com",
+    "published_at": "2026-11-08T15:46:40+00:00",
+    "first_seen_at": "2026-11-09T19:59:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Um carregador taiwanês está disponível! EVOASIS se torna a primeira operadora de carregamento emergente - Sanli News Network SETN.com",
+    "translated_summary": "Um carregador taiwanês está disponível! EVOASIS torna-se o primeiro operador de carregamento emergente Sanli News Network SETN.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T19:59:40+00:00"
   },
   {
     "id": "3659e0f26ed45d334da9",
