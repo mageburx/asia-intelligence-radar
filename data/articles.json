@@ -1,5 +1,153 @@
 [
   {
+    "id": "ee6e18c96d3cc7ef1086",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728957.shtml",
+    "original_title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央政法委宣讲",
+    "original_summary": "新华社北京11月9日电 中央宣讲团成员、中共中央政治局委员、中央政法委书记陈文清11月9日在中央政法委宣讲党的二十届五中全会精神。",
+    "published_at": "2026-11-09T11:39:03+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aprenda a implementar o espírito da Quinta Sessão Plenária do Vigésimo Comitê Central do Partido Comunista da China O Grupo Central de Propaganda pregou no Comitê Central Político e Jurídico",
+    "translated_summary": "Pequim, 9 nov (Xinhua) -- Chen Wenqing, membro do Grupo Central de Propaganda, membro do Birô Político do Comitê Central do Partido Comunista da China e Secretário do Comitê Político e Jurídico do Comitê Central do Partido Comunista da China, pregou o espírito da Quinta Sessão Plenária do 20º Comitê Central do PCC no Comitê Político e Jurídico do",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:09+00:00"
+  },
+  {
+    "id": "c339d71b843646022cf6",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/09/xiaomi-deliveries-oct-2026-erevs-half-total/",
+    "original_title": "Xiaomi delivers 50,168 cars in October as EREVs account for over half of total",
+    "original_summary": "October deliveries rose 3.11% year-on-year and 25.37% sequentially to a year-to-date high, just 44 vehicles short of the all-time record. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-09T11:22:18+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Xiaomi entrega 50.168 carros em outubro, já que os EREVs respondem por mais da metade do total",
+    "translated_summary": "As entregas de outubro aumentaram 3,11% em relação ao ano anterior e 25,37% sequencialmente para uma alta no acumulado do ano, apenas 44 veículos abaixo do recorde histórico. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:20+00:00"
+  },
+  {
+    "id": "85ae7138cde427b25c86",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/09/byd-offices-raided-over-allegations-ti7-suv-copied-the-land-rover-defender/",
+    "original_title": "BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender",
+    "original_summary": "Jaguar LandRover is not happy about BYD (Fang Cheng Bao) Ti7 design. The post BYD offices raided over allegations Ti7 SUV copied the Land Rover Defender appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-09T11:22:02+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Escritórios da BYD invadiram alegações de que o SUV Ti7 copiou o Land Rover Defender",
+    "translated_summary": "A Jaguar LandRover não está feliz com o design BYD (Fang Cheng Bao) Ti7. Os escritórios da BYD fizeram buscas por alegações de que o SUV Ti7 copiou o Land Rover Defender apareceu primeiro no CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:17+00:00"
+  },
+  {
+    "id": "9f6c67bf5d692f61b4d9",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Berliner Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1h5V05QNlZsVzh1RVdOWlJsYl9NQVJzemx0dHBZSmhRd2ljU1BjUHBjZ0tvOTl0QVFVN0RNaDNLVjIxOWtCU2JsZmFyNWkwTmhWZzZVY00tbmZHTTZLMDZodnRkLXhyZF9FaXZXSko2RmlkTktYd1RrRlk0cHZRY1NqVmdyNy1waU5MVVI5VEliTnk5Q1Ayd1NTRlBhbnNxV1NCREpQNF9hUUE3Y3JScHlROElzNllHMDRENWc1bmpjb20xMjQ1N08wNFdVNi05RFdsMFZ6X21VeEludVE?oc=5",
+    "original_title": "Rohstoffe für Deutschland: BMW plant Handelshaus – was bekannt ist - Berliner Zeitung",
+    "original_summary": "Rohstoffe für Deutschland: BMW plant Handelshaus – was bekannt ist Berliner Zeitung",
+    "published_at": "2026-11-09T11:16:29+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Matérias-primas para a Alemanha: BMW planeja trading house – o que é conhecido - Berliner Zeitung",
+    "translated_summary": "Matérias-primas para a Alemanha: BMW planeja trading house – o que se sabe é Berliner Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:26+00:00"
+  },
+  {
+    "id": "486c1a3480ecf2e5d06f",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373818/why-manilas-call-softer-tone-will-not-ease-south-china-sea-tensions-beijing",
+    "original_title": "Why Manila’s call for softer tone will not ease South China Sea tensions with Beijing",
+    "original_summary": "Manila’s efforts to strike a more conciliatory tone towards Beijing are unlikely to ease tensions in the contested South China Sea, a Chinese analyst has cautioned. This was because the Philippine foreign ministry held minimal influence over actual maritime policy and enforcement operations, the South China Sea researcher said. The assessment follows a rare public rebuke issued on Sunday by the Philippine ministry, cautioning officials against inflammatory rhetoric directed at China and calling...",
+    "published_at": "2026-11-09T11:15:11+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Por que o pedido de Manila por um tom mais suave não aliviará as tensões do Mar da China Meridional com Pequim",
+    "translated_summary": "É improvável que os esforços de Manila para adotar um tom mais conciliatório em relação a Pequim aliviem as tensões no disputado Mar do Sul da China, alertou um analista chinês. Isso ocorreu porque o Ministério das Relações Exteriores das Filipinas tinha uma influência mínima sobre a política marítima real e as operações de fiscalização, disse o pesquisador do Mar da China Meridional. A avaliação segue uma rara repreensão pública emitida no domingo pelo ministério filipino, alertando as autoridades contra",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:47+00:00"
+  },
+  {
+    "id": "9ce1088188b807827973",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlhxNTdaWTA3b2lNZXB2NmRhb3Y1bVB2ZFE2MU9od0Y3V05sSjdtdE5PMy1YVXVYYnZ4dXNUbk5mWkxRNkJQNkM5MVNoV1NZV3hDQllsSkh0R1NaSl9ITkhCNlNBbTZSZGRKU1J6MjBNXzBEZlhEVVRlUUI4dmZNejVLVTlNd3AzQjQyV2QxOVdaWUxFOFVV0gGXAUFVX3lxTE81NE5UREZhQXc5TTRIN2JGd0lHRWFBMnp1ZjAySjZlSUJyZDY0Y1JmWDdLMG9sYzkzUllBVnIyejM1cWZlSG5nQnFzd0FUc0FlS19wYlBOVlFqeWlDdm1iQ1VGczVIa3RtaGlGN1MzNG5PT1dFUFd6YkpwaG8zLTJ4OEZlOHJ0X1NIdDd5WEtyajVRdjByZzg?oc=5",
+    "original_title": "Ostbeauftragte Kaiser sieht Demokratie im Osten unter Druck - DW.com",
+    "original_summary": "Ostbeauftragte Kaiser sieht Demokratie im Osten unter Druck DW.com",
+    "published_at": "2026-11-09T11:06:59+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ostbeauftragte Kaiser sieht Demokratie im Osten unter Druck - DW.com",
+    "translated_summary": "Ostbeauftragte Kaiser sieht Demokratie im Osten unter Druck DW.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:24+00:00"
+  },
+  {
+    "id": "631099808d3a61bd80ee",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729003.shtml",
+    "original_title": "发展新质生产力要守牢实体经济根基",
+    "original_summary": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家数据发展研究院副院长、研究员姜江的署名文章《守牢这一根基》。 新质生产力是创新起主导作用，核心标志是全要素生产率大幅提升，实现路径是技术革命性突破、生产要素创新性配置、产业深度转型升级。要把着力点放在实体经济上，在建设现代化产业体系、实现产业体系整体跃升的过程中，推进科技创新和产业创新深度融合；在生产力变革、生产关系创新的过程中，加快实体经济智能化、绿色化、融合化进程，更好支持高质量发展。",
+    "published_at": "2026-11-09T11:06:08+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Para desenvolver uma nova produtividade, devemos manter firmemente os alicerces da economia real.",
+    "translated_summary": "Nota do editor: Desenvolver uma nova produtividade de qualidade é um requisito inerente e um foco importante para promover o desenvolvimento de alta qualidade. Recentemente, o Comitê Central do PCC e o Conselho de Estado emitiram os Pareceres sobre o Desenvolvimento de Nova Produtividade para fazer implementações sistemáticas para acelerar o desenvolvimento de nova produtividade. Sanlihe lançou uma série de interpretações de especialistas autorizados para explicar a conotação política e a percepção da tendência geral de desenvolvimento. Hoje, Jiang Jiang, vice-presidente do Instituto Nacional de Desenvolvimento de Dados e pesquisador, publicou o artigo assinado \"Protegendo esta Fundação\". A nova produtividade de qualidade desempenha um papel de liderança na inovação. O símbolo central é o aumento substancial da produtividade total dos fatores. O caminho de realização é um avanço tecnológico revolucionário, a alocação inovadora de fatores de produção e a profunda transformação e atualização da indústria. É necessário focar na economia real, promover a profunda integração da inovação científica e tecnológica e da inovação industrial no processo de construção de um sistema industrial moderno e alcançar o salto geral do sistema industrial; no processo de reforma da produtividade e inovação da relação de produção, acelerar o processo de inteligentização, ecologização e integração da economia real e apoiar melhor o desenvolvimento de alta qualidade.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:13+00:00"
+  },
+  {
     "id": "ae80fae89736f7590b85",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -40,6 +188,28 @@
     "last_translation_attempt_at": "2026-11-09T11:03:45+00:00"
   },
   {
+    "id": "382a215ff35e601e415d",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/chinas-car-exports-surge-68-in-october-as-domestic-sales-slump-for-12th-straight-month/135678964",
+    "original_title": "China's car exports surge 68% in October as domestic sales slump for 12th straight month",
+    "original_summary": "October marked a pivotal moment for China's automotive industry, with exports of passenger vehicles surging over sixty-eight percent. Yet, domestically, the sector struggled, witnessing a troubling twenty-seven percent drop in sales, extending a twelve-month decline. Optimism surrounds the Middle East for export expansion next year, even as uncertainty looms.",
+    "published_at": "2026-11-09T10:31:44+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Exportações de automóveis da China sobem 68% em outubro, com queda nas vendas domésticas pelo 12º mês consecutivo",
+    "translated_summary": "Outubro marcou um momento crucial para a indústria automotiva da China, com as exportações de veículos de passageiros subindo mais de 68%. No entanto, internamente, o setor enfrentou dificuldades, testemunhando uma queda preocupante de vinte e sete por cento nas vendas, estendendo um declínio de doze meses. O otimismo envolve o Oriente Médio para a expansão das exportações no próximo ano, mesmo quando a incerteza se aproxima.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:44+00:00"
+  },
+  {
     "id": "0569d57ba7e99310bd16",
     "country": "Japão",
     "category": "Política",
@@ -58,6 +228,30 @@
     "translated_summary": "O primeiro-ministro Gaoshi reuniu-se com o líder supremo vietnamita Tho Lam, secretário-geral do Partido Comunista, na noite do dia 9, e acumulou cooperação concreta entre os dois países para alcançar um \"Indo-Pacífico livre e aberto\" evoluído, e elevou as relações entre os dois países a um novo patamar...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T11:02:41+00:00"
+  },
+  {
+    "id": "b266ec158f48e340340f",
+    "country": "Bosch",
+    "category": "Indústria",
+    "source": "Bosch · Fábricas e produção",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-manufacturing-de",
+    "publisher": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlVFYlJuS2dlN3kzOF9RczBGWXJ3NUdWYUQzZGpSeUpWUlZ6c3c4cUtveE1Vb1pQQmt1dUhDM2tHM3Y3NkxvU0ZfaEQ3akNaQlVXZkVWSVlENzZjdVM3MXV3ZFkzWmkwemlQSlpYX0lzaEtOZnQ4QlEzeWVsck03S2t5aVFzWEp5LTJuUkJEYU9jU3lWRFEwUWZSX2ZrQnlmWE1kS0hpdUZBcWc0?oc=5",
+    "original_title": "Bosch Rexroth präsentiert auf der VIMF Bac Ninh 2026 Lösungen für Fabrikautomation und Konnektivität. - Vietnam.vn",
+    "original_summary": "Bosch Rexroth präsentiert auf der VIMF Bac Ninh 2026 Lösungen für Fabrikautomation und Konnektivität. Vietnam.vn",
+    "published_at": "2026-11-09T10:17:57+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [
+      "Bosch Rexroth",
+      "IA e automação",
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch Rexroth apresenta soluções de automação e conectividade de fábrica na VIMF Bac Ninh 2026. - Vietnam.vn",
+    "translated_summary": "Bosch Rexroth apresenta soluções para automação e conectividade de fábrica na VIMF Bac Ninh 2026. Vietnam.vn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:41+00:00"
   },
   {
     "id": "46f4d2cc050df466bfa7",
@@ -1008,11 +1202,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "DGFT abre pedidos de cota de importação de veículos sob o FTA Índia-Reino Unido",
+    "translated_summary": "A Índia abriu o processo de solicitação de cotas de importação de veículos para 2027 sob o pacto comercial Índia-Reino Unido, dando às empresas elegíveis uma rota para reduzir os impostos sobre carros de passageiros e veículos de transporte. O sistema de cotas permanece central em como o acordo funcionará na prática, com volumes, regras de elegibilidade e preços todos vinculados ao mecanismo de cotas tarifárias.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:50+00:00"
   },
   {
     "id": "96a1bbccfd4c77a34d03",
@@ -1073,11 +1267,11 @@
     "published_at": "2026-11-09T07:48:13+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Coreia do Sul dá um salto para o principal reduto da transformação digital oceânica global - Hoho Ilbo",
+    "translated_summary": "A Coreia do Sul marca um salto como um centro importante para a transformação digital marítima global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:54+00:00"
   },
   {
     "id": "4e7eb42f042020991186",
@@ -1093,11 +1287,11 @@
     "published_at": "2026-11-09T07:47:17+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Veículos motorizados e autopeças lideram as coletas de GST da Keralam com contribuição de ₹ 3.840 crore",
+    "translated_summary": "Veículos motorizados e autopeças geraram a maior receita de GST em Keralam em ₹ 3.840 crore em abril-setembro do ano fiscal de 2017, enquanto o ouro registrou o maior faturamento de ₹ 32.500 crore.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:57+00:00"
   },
   {
     "id": "a82a45a544fbbb02b2bb",
@@ -1221,11 +1415,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O pastor caminha na frente diplomática. Fala por Taiwan. Embaixador-geral: Bushing, Dalí - Revista Taiwan Panorama",
+    "translated_summary": "O pastor caminha na frente diplomática. Fala por Taiwan. Embaixador-geral: Bushing Dali Taiwan Panorama Magazine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:00+00:00"
   },
   {
     "id": "9c9f02a12e0dcb29e66a",
@@ -1285,11 +1479,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A BorgWarner embala três pedidos de turbocompressores do líder global de powertrain",
+    "translated_summary": "Os contratos abrangem um turbocompressor de geometria variável (VTG) e dois turbocompressores wastegate para plataformas de gasolina de veículos leves na América do Sul e Europa, com produção prevista para começar em 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:03+00:00"
   },
   {
     "id": "0e1aaffddc45a7a750c8",
@@ -1866,6 +2060,26 @@
     "last_translation_attempt_at": "2026-11-09T07:32:25+00:00"
   },
   {
+    "id": "fc4266e613c65f56669d",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0JsRGpUd0ZsWWtRallCNUFMTVZ4c2pOR25fYkIwRXJfYjRnUW1UbGlKd1lUMGdqMTAxY2FIck00Vi1jeDVXUTJzRXhFR3B5UkpJemtFMlZrdXNGQ2JmLXI2MHo5YXFLcGdWZzdreDBVUWVsa2wxSG0xa2Y2cEFWUmtyQTFOY3N2TW82TjlqQWlsVTI4X3hMS3k4MWgyQlY2VGFtbA?oc=5",
+    "original_title": "BMW Aktie: Cashflow-Prognose trotz Umbau bestätigt - Börse Express",
+    "original_summary": "BMW Aktie: Cashflow-Prognose trotz Umbau bestätigt Börse Express",
+    "published_at": "2026-11-09T06:47:06+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Participação BMW: previsão de fluxo de caixa confirmada apesar da conversão - Börse Express",
+    "translated_summary": "Participação da BMW: previsão de fluxo de caixa apesar da conversão confirma Börse Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:32+00:00"
+  },
+  {
     "id": "b72cc9321a86af6d2072",
     "country": "China",
     "category": "Política",
@@ -2139,11 +2353,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "“500 Milhões de Carros Elétricos a 628km” … Rolls-Royce Lança Spectre Series II - ZIPKOREA",
+    "translated_summary": "“500 Milhões de Carros Elétricos a 628km” … Rolls-Royce Lança Série Spectre II Zippy Korea",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:06+00:00"
   },
   {
     "id": "8a0810dd74e22380c26d",
@@ -2224,11 +2438,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "V2L Explicada: Carros elétricos que podem alimentar eletrodomésticos na Índia - CarAndBike",
+    "translated_summary": "V2L Explicada: Carros Elétricos que Podem Alimentar Eletrodomésticos na Índia CarAndBike",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:09+00:00"
   },
   {
     "id": "16445ae21aa68dcfd3c1",
@@ -2461,11 +2675,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea & Company desacelera o lucro do terceiro trimestre no método de equivalência patrimonial 'Half-Total' e no negócio de baterias - Blotter",
+    "translated_summary": "Korea & Company, Third Quarter Operating Profit 'Half-Total' Equity Method Profit · Battery Business Slow Blotter",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:12+00:00"
   },
   {
     "id": "904164bc2f60323f938f",
@@ -2631,11 +2845,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Presidente \"O governo será 119 de combate a incêndios\" … Promessa de melhorar a expansão da mão de obra e tratamento - Newspim",
+    "translated_summary": "Presidente \"O governo será 119 de combate a incêndios\" … Promessa de melhorar a expansão e tratamento da mão de obra Newspim",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:14+00:00"
   },
   {
     "id": "530e2b691ac043da60ba",
@@ -4851,11 +5065,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "VE de entrada ‘Bonanza’ … As vendas de VE da Hyundai e da Kia duplicaram em outubro - Newsroad",
+    "translated_summary": "Veículo elétrico de nível básico ‘Bonanza’... As vendas de veículos elétricos Hyundai e Kia dobraram em outubro Newsload",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:17+00:00"
   },
   {
     "id": "4c30a6981d7cb9024bcb",
@@ -5006,6 +5220,26 @@
     "translated_summary": "Buchanan me pediu para me retirar do Departamento de Estado dos EUA: China ameaça Taiwan Outro exemplo do Freedom Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T23:42:17+00:00"
+  },
+  {
+    "id": "116a0ebe78a223ee7f08",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNMlZUWUhHd1Q1MGVES0xJc0IxSnFJMVFoUnZFYUhwdFBHQzZGdHNKNDZsVG5DYVBoMUI2QWRONGJYdktFQkNRZWkteDYwUFFfWS1WNDVIVWhuOXRu0gFiQVVfeXFMTXFuaU1vVWNpZ21Qd1JmYXZaX2dlWlJVSXI1T3BCei1kNFRwbWJ3UWt2VDk3TEJXRDk3NlBEMk9kWnJfcFNrZmZGSHliMUhmMVJnN2NYSFF1aG91MFZlc1ZId1E?oc=5",
+    "original_title": "無國界記者︰泰媒新聞自主遭中削弱 恐淪北京附庸 - 自由時報",
+    "original_summary": "無國界記者︰泰媒新聞自主遭中削弱 恐淪北京附庸 自由時報",
+    "published_at": "2026-11-08T21:30:00+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Repórteres Sem Fronteiras: a autonomia da mídia tailandesa foi enfraquecida e os vassalos de Pequim foram corrompidos - Liberty Times",
+    "translated_summary": "Repórter Sem Fronteiras: A independência das notícias da mídia tailandesa foi enfraquecida e corrompida Beijing Vassal Freedom Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:38+00:00"
   },
   {
     "id": "9a3a87775145df14dc9e",
@@ -5548,11 +5782,11 @@
     "published_at": "2026-11-08T15:00:07+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Repórteres Sem Fronteiras adverte que a pressão chinesa prejudica a liberdade de imprensa tailandesa, ameaça vassalos chineses - Free Times",
+    "translated_summary": "Repórteres Sem Fronteiras alerta: pressão chinesa mina a liberdade de imprensa tailandesa teme o vassalo chinês Free Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:19+00:00"
   },
   {
     "id": "f2a21e81dbc72fff0397",
@@ -6339,6 +6573,26 @@
     "last_translation_attempt_at": "2026-11-08T17:41:48+00:00"
   },
   {
+    "id": "685009339714b978c4c2",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUIzVXE4LWp0LXhDY18tWXZMZjN4VGtDRndXdzhpd1ZrbmtwNUZEY1hJVnlVajVNTGdsUkdBb0czSnBNSl8tcWRNenJwUFBvUFZ1ekJldWZ6UkI0NnhmU1NueWJ5ckZqdThTeUJhZkR3eFBUb3RxY0dyRnpMTExydmdaNURvLUsyc1pDYmpCM3NKN3V0ZGdDOW1KYTRkNTF5dHAxWkZON015d195?oc=5",
+    "original_title": "Mercedes-Benz Aktie: Sustainability Update am 10. November - Börse Express",
+    "original_summary": "Mercedes-Benz Aktie: Sustainability Update am 10. November Börse Express",
+    "published_at": "2026-11-08T10:43:07+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz share: Atualização de sustentabilidade em 10 de novembro - Börse Express",
+    "translated_summary": "Mercedes-Benz share: Atualização de sustentabilidade em 10 de novembro Stock Exchange Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:29+00:00"
+  },
+  {
     "id": "039454e8680dffe4cb9b",
     "country": "China",
     "category": "Política",
@@ -6441,6 +6695,26 @@
     "translated_summary": "Presidente “O governo da República da Coreia terá 119 de combate a incêndios” … Promessa de segurança da tripulação de campo Herald economy Americas edition",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T02:58:31+00:00"
+  },
+  {
+    "id": "49ae9ba2c857e6edd438",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVByeU84Um1OV2lkOEpjX3NSNUFrblNvdnd5NkZwdU15RUZtcjBmTC1PbG1hWEtJQTRUcmppNTV1eFk1QnJpcFJKc0FNMlg5UzR5MVp2ejRiT292UHNHWFdBV2NPcDRKNmxKV21SbWFtaWNMbFFxVTVzZ3Nza21FT3M4eGw0RXpfTXVjTldOZUxxYV9JLW0wTFE4TzlCXzFxaFpLOGM1ZHZSMTR6Zk5WaVdNZjROLXFjRFNha0k1ZUdZQQ?oc=5",
+    "original_title": "Volkswagen Aktie: JPMorgan senkt Kursziel auf 85 Euro - ad-hoc-news.de",
+    "original_summary": "Volkswagen Aktie: JPMorgan senkt Kursziel auf 85 Euro ad-hoc-news.de",
+    "published_at": "2026-11-08T09:30:56+00:00",
+    "first_seen_at": "2026-11-09T11:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Volkswagen Aktie: JPMorgan senkt Kursziel auf 85 Euro - ad-hoc-news.de",
+    "translated_summary": "Volkswagen Aktie: JPMorgan senkt Kursziel auf 85 Euro ad-hoc-news.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:00:35+00:00"
   },
   {
     "id": "2678b036056017843de1",
@@ -7783,11 +8057,11 @@
     "published_at": "2026-11-08T01:28:57+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Muhurat Trading 2026: Verifique horários, regras de liquidação, cronograma de mercado para NSE, BSE, MCX - Moneycontrol.com",
+    "translated_summary": "Muhurat Trading 2026: Verifique horários, regras de liquidação, cronograma de mercado para NSE, BSE, MCX Moneycontrol.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:22+00:00"
   },
   {
     "id": "3e901b2109518af225df",
@@ -10499,11 +10773,11 @@
     "published_at": "2026-11-07T05:00:45+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cartas ao editor: Trump ainda mantém considerável autoridade sobre comércio e política externa - Telegraph India",
+    "translated_summary": "Cartas ao editor: Trump ainda mantém considerável autoridade sobre comércio e política externa Telegraph India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:24+00:00"
   },
   {
     "id": "cec81f5c2712b6187947",
@@ -17756,11 +18030,11 @@
     "published_at": "2026-11-06T05:20:33+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lawrence Wong: A tecnologia deve ser parceira na formulação de políticas e na solução de desafios políticos, não apenas uma ferramenta de implementação",
+    "translated_summary": "Lawrence Wong: A tecnologia deve ser parceira na formulação de políticas e na solução de desafios políticos, não apenas uma ferramenta de implementação",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:27+00:00"
   },
   {
     "id": "14be28c186d990b2c286",
@@ -19237,11 +19511,11 @@
     "published_at": "2026-11-06T01:34:07+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura lança rede para coordenar ajuda governamental e comunitária a Gaza - United Morning Post",
+    "translated_summary": "Singapura lança rede para coordenar ajuda governamental e comunitária para o Gaza Joint Morning Post",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:30+00:00"
   },
   {
     "id": "b14dc17300e84fa61096",
@@ -21458,11 +21732,11 @@
     "published_at": "2026-11-05T14:56:59+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "IISD Trade and Sustainability Review, novembro de 2026 - Instituto Internacional para o Desenvolvimento Sustentável",
+    "translated_summary": "IISD Trade and Sustainability Review, novembro de 2026 Instituto Internacional para o Desenvolvimento Sustentável",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:32+00:00"
   },
   {
     "id": "4cfdb4e63b66fcd4cd41",
@@ -27019,11 +27293,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vilnius vai implantar 161 autocarros elétricos e a hidrogénio - VEs carregados",
+    "translated_summary": "Vilnius vai implantar 161 autocarros elétricos e a hidrogénio VEs carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:35+00:00"
   },
   {
     "id": "2581bdb30a3b8b62d1e1",
@@ -32120,11 +32394,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura acelera a IA para garantir o futuro da força de trabalho; aloca S$ 500 milhões para hardware avançado - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Singapura acelera a IA para garantir o futuro da força de trabalho; aloca S$ 500 milhões para hardware avançado do Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:38+00:00"
   },
   {
     "id": "3b7a2d851644873be848",
@@ -32140,11 +32414,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Aproveitar oportunidades para Singapura em IA - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Aproveitar as oportunidades para Singapura na AI Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:41+00:00"
   },
   {
     "id": "fe4419a886c6f933df7f",
@@ -32160,11 +32434,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Meta lança novas iniciativas de requalificação digital para reforçar o seu programa de 2022 - Singapore Economic Development Board (EDB)",
+    "translated_summary": "A Meta lança novas iniciativas de requalificação digital para reforçar o seu programa de 2022, o Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:43+00:00"
   },
   {
     "id": "1e31f94e16257667f17c",
@@ -32180,11 +32454,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cingapura pode se tornar o centro de tecnologia climática do mundo? - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Cingapura pode se tornar o centro de tecnologia climática do mundo? Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:46+00:00"
   },
   {
     "id": "d5eb2279f387c248da62",
@@ -32200,11 +32474,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-09T09:17:17+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Acordo de economia digital com Singapura e Coreia do Sul para impulsionar o comércio online e parcerias - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Acordo de economia digital de tinta entre Singapura e Coreia do Sul para impulsionar o comércio online, parcerias Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T12:01:49+00:00"
   },
   {
     "id": "e1d42d7220bf45b7d847",
