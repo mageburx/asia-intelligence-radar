@@ -64,6 +64,26 @@
     "last_translation_attempt_at": "2026-11-09T17:15:01+00:00"
   },
   {
+    "id": "e0aa9dc60a50fb7d86e8",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Macau Business",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmljT0lzaDQtT3BkT3VjdnV6SWxmRTVOTW5icGtscnRCYVNwZDVQVEQwZUlzY2QtcFQ4S0JiemNPTlRVX1RZSHNYalZiQS1HSGU5Z1pNU0lmaG9YNWxLT1ZCRFF6WUJFaWQ0V0xYQWx4aUdJOHFsSktkemlOMkFKM1VIMm5ObEY3SVJRLWQ3akxDUXlEZWNjXzZRcDZxQlpzUFVfNGE2WENMNnJ2bkE?oc=5",
+    "original_title": "BAIC FOTON Unveils Supercharging Strategy to Advance Global Smart Energy Ecosystem - Macau Business",
+    "original_summary": "BAIC FOTON Unveils Supercharging Strategy to Advance Global Smart Energy Ecosystem Macau Business",
+    "published_at": "2026-11-09T23:48:45+00:00",
+    "first_seen_at": "2026-11-09T23:58:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "BAIC FOTON Revela Estratégia de Sobrealimentação para Avançar o Ecossistema Global de Energia Inteligente - Negócios de Macau",
+    "translated_summary": "BAIC FOTON Revela Estratégia de Sobrealimentação para Avançar os Negócios Globais do Ecossistema de Energia Inteligente em Macau",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T23:59:10+00:00"
+  },
+  {
     "id": "a8f3d9c819d04a13af6a",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -379,6 +399,26 @@
     "translated_summary": "50% dos veículos elétricos domésticos entraram em colapso... O jornal Moon Yo não tem um carro no apoio fiscal do governo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T21:53:52+00:00"
+  },
+  {
+    "id": "de2347952158fd1274b9",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BWUVFSHdCZkliQlBkVmpRVXZYLVAyakxjMnpZRmZrMzhZcTRMNDVVV0hqTW9tSWY3R3pEbndDNGRZV25iQzRKRVFPMUlLNTVu?oc=5",
+    "original_title": "강동구 “‘2026년 대한민국 평생학습대상’ 우수상 수상” - 문화일보",
+    "original_summary": "강동구 “‘2026년 대한민국 평생학습대상’ 우수상 수상” 문화일보",
+    "published_at": "2026-11-09T21:41:32+00:00",
+    "first_seen_at": "2026-11-09T23:58:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Gangdong-gu “Korea Lifelong Learning Award ’Excellence Award’ in 2026” - Culture Ilbo",
+    "translated_summary": "Kangdong-gu “Korea Lifelong Learning Award 'Excellence Award 2026” Cultura Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T23:59:05+00:00"
   },
   {
     "id": "87931723e84c4c392a8a",
@@ -873,6 +913,26 @@
     "last_translation_attempt_at": "2026-11-09T20:57:31+00:00"
   },
   {
+    "id": "15c7c0bfad272b659609",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yQjFCNHJ3a2Z6SkNPYjQ1TE9BdDBTR3NFandLbDg5LUdmMW1hSTJGQnFRSWM5Rl9Eb2pyakR3SWNDeTRfbmgtOWxPZ1gtZWx0Z2pheGtTeURqX3ZGMmtab3VfZUNqWVdv?oc=5",
+    "original_title": "농산물가격안정제 경작신고 기간 안내 - 대한민국 정책브리핑",
+    "original_summary": "농산물가격안정제 경작신고 기간 안내 대한민국 정책브리핑",
+    "published_at": "2026-11-09T16:54:51+00:00",
+    "first_seen_at": "2026-11-09T23:58:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Período de Declaração de Cultivo do Sistema de Estabilização de Preços de Produtos Agrícolas - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Sistema de Estabilização de Preços de Produtos Agrícolas Guia de Período da Declaração de Cultivo Resumo da Política da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T23:59:02+00:00"
+  },
+  {
     "id": "e0a153000a6dc92dc227",
     "country": "Índia",
     "category": "Automóvel",
@@ -1066,6 +1126,28 @@
     "translated_summary": "Relatório Resumido: Canada-Singapore Defence and Dual-Use Roundtable Asia Pacific Foundation of Canada",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T16:07:52+00:00"
+  },
+  {
+    "id": "1695d4110ac5ce55b8c8",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "India Today",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRF94QkdIOGtLOXBVV1BWdFd2cnhNVE1iQW1nZFhSNk1OaFo0X3hnT203Z2RvM19VeHFtR1k3QVoyenMxTkVqazFSLUtSdHR2dEw4Y1lEekU3RFZkdlFfWG5ULXlMQjRDd0NxT3FISUtFNmdNczN0NW9kR1pKcFlNTDFwcGIyc2kwd2pXY29xVG5SVlc3NUdlYnljS0FjZENRa3IzU1kweW1VUnRCcFJzaGRLNlNKNXBQR01R0gHAAUFVX3lxTE8yeVBaOTgzTDFOLUE1UVRSR3ZZS3lJV0k0UDJGek1rWGljNzZQd2hkanNydVBwTGFkb0szeEJnZldSd0gyenhnczNLN0RCQ1Q5XzFESVdLZHE3eWRUcXZWWk9tdnNIUmFXOVEwaDBKUVhoSnpPdmpDd1J0NG9VNGNmUGMwWjI2cndPYUxjdjBpWExEMTdrbFRMS21iZGlOZkFwdERkLTMtTk8ySnljcTZCM0w3Y2ozTHVEOEFfb0dWUQ?oc=5",
+    "original_title": "Gadi Eizenkot given mandate to form Israel's next government after elections - India Today - India Today",
+    "original_summary": "Gadi Eizenkot given mandate to form Israel's next government after elections - India Today India Today",
+    "published_at": "2026-11-09T15:48:07+00:00",
+    "first_seen_at": "2026-11-09T23:58:40+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Gadi Eizenkot recebeu mandato para formar o próximo governo de Israel após as eleições - India Today - India Today",
+    "translated_summary": "Gadi Eizenkot recebe mandato para formar o próximo governo de Israel após as eleições - India Today India Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T23:59:08+00:00"
   },
   {
     "id": "32aa6ad090a0b4dff066",
@@ -1760,6 +1842,28 @@
     "translated_summary": "Matérias-primas para a Alemanha: BMW planeja trading house – o que se sabe é Berliner Zeitung",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T12:00:26+00:00"
+  },
+  {
+    "id": "7d38c10a52b223224123",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Ostdeutsche Allgemeine",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQODJZMnhKQnVtQjRraERDU2dQVFZCTzRZeEl5RGMwNEpVdGtNMzBSNzdMT0JKcVJSalQ0ZlEwQ19DOVlRY3dmRGZkaFFveXJDQXU0eVpGcUVNZHVaVWdDandXaVdYT0ZGT2RrenVhYTlqbF8wclR1ck5zcXBqX242S3BLZlRMdkl0Y2FUMEYzdVhRV1A5bHI2QnJUV3ZLcFRMOFJjX2tLXzU0cDZmY19aeFVLb1JwS1AteC1ZLXNscl9GMWV2RzJEMW1odDdscE9BbUZNZFNEN0ZNelNWSFZ5Vg?oc=5",
+    "original_title": "Rohstoffe für Deutschland: BMW plant Handelshaus – was bekannt ist - Ostdeutsche Allgemeine",
+    "original_summary": "Rohstoffe für Deutschland: BMW plant Handelshaus – was bekannt ist Ostdeutsche Allgemeine",
+    "published_at": "2026-11-09T11:16:29+00:00",
+    "first_seen_at": "2026-11-09T23:58:40+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Matérias-primas para a Alemanha: BMW planeja trading house – o que é conhecido - Ostdeutsche Allgemeine",
+    "translated_summary": "Matérias-primas para a Alemanha: BMW planeja trading house – o que é conhecido como General da Alemanha Oriental",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T23:58:59+00:00"
   },
   {
     "id": "486c1a3480ecf2e5d06f",
