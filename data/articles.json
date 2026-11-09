@@ -64,6 +64,118 @@
     "last_translation_attempt_at": "2026-11-09T17:15:01+00:00"
   },
   {
+    "id": "1f3f7356ff0d11ce3451",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUzI2X05YNXNjR0xyaEYzZnJBTzJwWEdYSTN1aWNuTkdjWlRob1RRM055R3N1QlluQW42Nk5EZ0xodTBfeVVMUHhkNmRaUTV3UnRabU15MlVuNElodmxqQXo3Vl9kZUxtTUZBRm1QdE5tYldwR0E1X1AweG1VSTVqa1JPempIRlZFZEw5YWZHdFVCLVFGc2dLcGtZdFlndzltSkFXeWg5MWNyTHRhLXdHLWZmclBhY0NqMkd1MTFuSlRldDEwelFnSkY5WFVzcE92dWpIMzRTbHHSAdgBQVVfeXFMTlMyNl9OWDVzY0dMcmhGM2ZyQU8ycFhHWEkzdWljbk5HY1pUaG9UUTNOeUdzdUJZbkFuNjZORGdMaHUwX3lVTFB4ZDZkWlE1d1J0Wm1NeTJVbjRJaHZsakF6N1ZfZGVMbU1GQUZtUHRObWJXcEdBNV9QMHhtVUk1amtST3pqSEZWRWRMOWFmR3RVQi1RRnNnS3BrWXRZZ3c5bUpBV3loOTFjckx0YS13Ry1mZnJQYWNDajJHdTExbkpUZXQxMHpRZ0pGOVhVc3BPdnVqSDM0U2xx?oc=5",
+    "original_title": "Odisha cabinet approves proposal for ₹4,708-crore pumped storage project | India News - Hindustan Times",
+    "original_summary": "Odisha cabinet approves proposal for ₹4,708-crore pumped storage project | India News Hindustan Times",
+    "published_at": "2026-11-09T18:46:59+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Odisha Cabinet approves proposal for ₹ 4,708-crore pumped storage project | India News - Hindustan Times",
+    "translated_summary": "Odisha Cabinet approves proposal for ₹ 4,708-crore pumped storage project | India News Hindustan Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:13+00:00"
+  },
+  {
+    "id": "7dc473ad058760c36aa2",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUdVRjRBaDBPa0p0elhRY2NWdDR3VHF2ajNlWDVGNkpvVlNXUUIxejZmTlowS2Y0WmdYQWZjSWJQMVhzZk9iNzBCZ3p6VWE4YTZNT05obmZ6NVNqOFU0a29pWkNQU24yNUJ1Tl9YOHdOU0xLTm8ySUpncnhqUW1SMTBkR1lKUDlFd18xY1VwRVNtRDZRTGdEc09iejFycVVDbjdETNIBqwFBVV95cUxNTHVYSDZobnlQS3l4TVN5NlAyUGxKYW5NV1oyYzM3NFI3MHlfR2VtQ2hfZjVEVlc0Zk9tQnNWRnZicDVhZkNvQW9Ic1FkbXAzRW1TUVJzWTlmeURLdU1ReVlpNUZDLWhaT3ZIa3ZsZTJiWnVfTmVrTjR3M0lVN25sbllod2N0LTFvREtWZGQ1RVR6dnkxNE00NG9ScS1jajZrT3B6ZVI0b01FdHM?oc=5",
+    "original_title": "Battery production push faces a reality check - The Financial Express",
+    "original_summary": "Battery production push faces a reality check The Financial Express",
+    "published_at": "2026-11-09T18:05:05+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Baterias",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O impulso da produção de baterias enfrenta uma verificação da realidade - The Financial Express",
+    "translated_summary": "O impulso da produção de baterias enfrenta uma verificação da realidade The Financial Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:15+00:00"
+  },
+  {
+    "id": "58326cfd2d538fd8296a",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/honda-to-build-new-3-billion-auto-plant-in-ohio-adding-2000-jobs/135689882",
+    "original_title": "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs",
+    "original_summary": "Honda Motor has announced plans to construct a new hybrid vehicle plant in central Ohio, which will cost $3 billion. This facility will create approximately 2,000 jobs and produce 240,000 vehicles annually starting in 2029.",
+    "published_at": "2026-11-09T17:41:26+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Honda construirá nova fábrica de automóveis de $ 3 bilhões em Ohio, criando 2.000 empregos",
+    "translated_summary": "A Honda Motor anunciou planos para construir uma nova fábrica de veículos híbridos no centro de Ohio, que custará $ 3 bilhões. Esta instalação criará aproximadamente 2.000 empregos e produzirá 240.000 veículos anualmente a partir de 2029.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:27+00:00"
+  },
+  {
+    "id": "799399c4a4c2dfc61482",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/tenneco-india-explores-diversifying-beyond-auto-sector-eyes-ma/135689717",
+    "original_title": "Tenneco India explores diversifying beyond auto sector, eyes M&A",
+    "original_summary": "Tenneco Clean Air India is embarking on a transformative journey, eyeing strategic acquisitions beyond its core automotive business. By targeting diverse industries like rail and aerospace, the company aims to leverage its strong cash flow and zero debt position.",
+    "published_at": "2026-11-09T17:36:21+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tenneco India explora diversificação para além do setor automóvel, Eyes M&A",
+    "translated_summary": "A Tenneco Clean Air India está embarcando numa jornada transformadora, de olho em aquisições estratégicas além do seu principal negócio automotivo. Ao visar diversos setores, como ferroviário e aeroespacial, a empresa pretende alavancar seu forte fluxo de caixa e posição de dívida zero.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:29+00:00"
+  },
+  {
+    "id": "ed9f711f34d88ffe491b",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/piyush-goyal-meets-skoda-auto-volkswagen-india-ceo-talks-focus-on-ev-push-exports/135689264",
+    "original_title": "Piyush Goyal meets Skoda Auto Volkswagen India CEO; talks focus on EV push, exports",
+    "original_summary": "Piyush Goyal met a corporate delegation led by Piyush Arora to discuss India's automotive industry. The discussions highlighted the importance of boosting automobile exports and enhancing domestic manufacturing capabilities. They also focused on accelerating the assembly of electric vehicles in India.",
+    "published_at": "2026-11-09T17:21:46+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Piyush Goyal se encontra com o CEO da Skoda Auto Volkswagen Índia; as negociações se concentram no impulso de veículos elétricos, exportações",
+    "translated_summary": "Piyush Goyal reuniu-se com uma delegação corporativa liderada por Piyush Arora para discutir a indústria automotiva da Índia. As discussões destacaram a importância de impulsionar as exportações de automóveis e melhorar as capacidades de fabricação doméstica. Eles também se concentraram em acelerar a montagem de veículos elétricos na Índia.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:32+00:00"
+  },
+  {
     "id": "e0a153000a6dc92dc227",
     "country": "Índia",
     "category": "Automóvel",
@@ -153,6 +265,28 @@
     "last_translation_attempt_at": "2026-11-09T17:14:54+00:00"
   },
   {
+    "id": "87905e1a82ecba48d8d7",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHk3T25NNDRaSEE2VVdjZXFaWThXUnJsNktCYUJya2N0Z0wzTGItN241bmFUR3B0YVAtSUtsTDk1RVhvd0pnYTBZMU50Y0NNMmc4QUlCQWt6bFFVaXRtRVNVSE40a1ludmdtaHQxUkcwTnlJNFpOd1cwaHRZaFduT05MZENLRlVTNU9zWGNjQ29VS3Axd3M2ZHRwRThiUnBDOFE?oc=5",
+    "original_title": "Electroway opens a major electric truck charging facility in the UK - Charged EVs",
+    "original_summary": "Electroway opens a major electric truck charging facility in the UK Charged EVs",
+    "published_at": "2026-11-09T16:13:19+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Electroway abre uma importante instalação de carregamento de camiões elétricos no Reino Unido - VEs carregados",
+    "translated_summary": "A Electroway abre uma importante instalação de carregamento de camiões elétricos nos veículos elétricos carregados do Reino Unido",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:25+00:00"
+  },
+  {
     "id": "ab6bab3a35324d1e4618",
     "country": "Japão",
     "category": "Política",
@@ -213,6 +347,30 @@
     "translated_summary": "Relatório Resumido: Canada-Singapore Defence and Dual-Use Roundtable Asia Pacific Foundation of Canada",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T16:07:52+00:00"
+  },
+  {
+    "id": "32aa6ad090a0b4dff066",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Business Upturn",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHhmVVo5WVlNWER3TFRtRjhXWUY1YTIxMmFRb0RabGFQNnRaaWt0Zk9ZaTIxY3pMcFBWZlc4NlJyQjFpakxYbFBvU1I1SDVEUWJUU0lKeE9jby1wcTFNRWQxS2twWGtVQmJxTmNEWXpCTzVIVV9KcGFlUnVDOW5YLWxUcVlYQXZvX2FEWXVNUG9RS3ZKN3RVMEdTUmdKSFFGdUVYNThIaEVLcEtpU0JlVWtLUXdfODN3RUFUQkRpRzJfWW9fM2swcGN5OWliRkhi?oc=5",
+    "original_title": "Piyush Goyal pushes auto exports, EV manufacturing in meeting with Skoda Volkswagen India CEO - Business Upturn",
+    "original_summary": "Piyush Goyal pushes auto exports, EV manufacturing in meeting with Skoda Volkswagen India CEO Business Upturn",
+    "published_at": "2026-11-09T15:42:21+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Piyush Goyal impulsiona as exportações de automóveis, fabricação de veículos elétricos em reunião com o CEO da Skoda Volkswagen Índia - recuperação dos negócios",
+    "translated_summary": "Piyush Goyal impulsiona exportações de automóveis e fabricação de veículos elétricos em reunião com o CEO da Skoda Volkswagen Índia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:17+00:00"
   },
   {
     "id": "9ac1080d124738e95791",
@@ -589,6 +747,26 @@
     "translated_summary": "Aviso da mídia britânica: diplomatas seniores deixaram seus cargos um após o outro, o Reino Unido está enfrentando uma escassez de especialistas em notícias da China Zaker",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T15:00:36+00:00"
+  },
+  {
+    "id": "0c3f2cdaf5189c524ee1",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "观察者网",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6M3REd3AwUU04dTVlT19Mbi0yWHA2azlvc1BmTnJwcGJZQkhINkNQd2ZQak1Xb285VXpUOWR2R2RReTlROE5WYlZBZDF2SFIxWVlaRXowaWU4dFZjamhwOTRndWh4c1l0U1N3WXZ2YVZkZ1U?oc=5",
+    "original_title": "英媒警告：中国问题专家流失，对华政策“跟不上趟” - 观察者网",
+    "original_summary": "英媒警告：中国问题专家流失，对华政策“跟不上趟” 观察者网",
+    "published_at": "2026-11-09T12:35:00+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mídia britânica alertou: especialistas da China perderam, política da China \"não consegue acompanhar\" - rede de observadores",
+    "translated_summary": "A mídia britânica alertou: especialistas da China perderam, a política da China \"não consegue acompanhar\" a rede de observadores",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:58:57+00:00"
   },
   {
     "id": "8b2854a0c86ecbac1d2c",
@@ -987,6 +1165,29 @@
     "translated_summary": "Bosch Rexroth apresenta soluções para automação e conectividade de fábrica na VIMF Bac Ninh 2026. Vietnam.vn",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T12:00:41+00:00"
+  },
+  {
+    "id": "cd90e3a0b30312eb46b1",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Serrari Group",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWXhkcHQzbU1RM0pLYzRROGk4X2I3TXhaYVB6SkxXLW1PX254RWV4QldxbmxwM1Z5RzNRME1NYlNQdVZxSWZBS2hRS091SHNnUWZvaTdUVVlHWDdyc2NBMmFTd1hhc1d3RWpSRnhLbXRMZDdqYWJFaWNOMmZSLXdnSDdSaFd4OW9QRUx2Yg?oc=5",
+    "original_title": "Iberdrola and BYD Cut EV Charging Costs for Spanish Buyers - Serrari Group",
+    "original_summary": "Iberdrola and BYD Cut EV Charging Costs for Spanish Buyers Serrari Group",
+    "published_at": "2026-11-09T10:15:21+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Iberdrola e BYD Cortam Custos de Cobrança de VE para Compradores Espanhóis - Grupo Serrari",
+    "translated_summary": "Iberdrola e BYD reduzem custos de carregamento de veículos elétricos para compradores espanhóis do Grupo Serrari",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:22+00:00"
   },
   {
     "id": "46f4d2cc050df466bfa7",
@@ -1979,6 +2180,28 @@
     "translated_summary": "SEUL, 9 de novembro (Yonhap) - O ministro da Defesa, Kang Shin-chul, disse na segunda-feira que o Sul...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T11:04:22+00:00"
+  },
+  {
+    "id": "7b7c0dd4417f3da36004",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "WEB CARTOP",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ScE90S1phdktNdmtQeWkweThHeHB5SVJZNXcwR0VzVUozMFcyOWh5eTRKaFdBWmkxM2ZqSkp5YlZRS0xQZmxtOC05aFZnZ3R3MnQ00gFYQVVfeXFMTVBJZjlqNUlSUjkxalV2OWdhWlh1b2RubF93a1NDNXpYNkd6a0hxdVluYUVIR1ViZUQyRDVQNHAtVENmcml5dklrT29kbTFibjNDNHgwTTRUcw?oc=5",
+    "original_title": "初代のヒットから一転「ホンダCR-V」はなぜ日本で迷走したのか……5代目までの激動の30年を追う - WEB CARTOP",
+    "original_summary": "初代のヒットから一転「ホンダCR-V」はなぜ日本で迷走したのか……5代目までの激動の30年を追う WEB CARTOP",
+    "published_at": "2026-11-09T08:20:15+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Por que o Honda CR-V se perdeu no Japão após o primeiro acidente?... Siga os turbulentos 30 anos até o quinto - Web cartop",
+    "translated_summary": "Por que o Honda CR-V se perdeu no Japão desde o primeiro sucesso?... Web CARTOP perseguindo os turbulentos 30 anos até a quinta geração",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:58:59+00:00"
   },
   {
     "id": "adbb066490ab8d2dc70c",
@@ -4603,6 +4826,28 @@
     "last_translation_attempt_at": "2026-11-09T03:59:33+00:00"
   },
   {
+    "id": "7782b3f219f3e1d5dd27",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PUlZzTldaR2FrdEZnekF5ZnJVMnNfdkstRHFtaFdKakswUm5hTzJ0dmVLUU4tVnVCd0NQMlJpbmNaUFhYaXo1a0oxSU1rUGVw?oc=5",
+    "original_title": "국회에 울려 퍼진 3대의 하모니…색동회 소파방정환 탄생 127주년 기념 ‘동요한마당’ 성황 - 문화일보",
+    "original_summary": "국회에 울려 퍼진 3대의 하모니…색동회 소파방정환 탄생 127주년 기념 ‘동요한마당’ 성황 문화일보",
+    "published_at": "2026-11-09T03:10:31+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As três harmonias que ressoaram na Assembleia Nacional… O 127º aniversário do nascimento dos coloridos equipamentos de sofá ‘shake yard’ Seong-hwang - Cultura Ilbo",
+    "translated_summary": "As três harmonias que ressoaram na Assembleia Nacional… O 127º aniversário do nascimento dos coloridos equipamentos de sofá ‘Shakeout Hanyadang’ Cultura Seongwang Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:08+00:00"
+  },
+  {
     "id": "4c3c052f0a67f28c9edb",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -6839,6 +7084,26 @@
     "translated_summary": "Em frente ao Reichstag: Bandeira da Palestina hasteada – Klöckner fala de \"caules da Palestina\" e pede mais proteção do MUNDO",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T17:41:39+00:00"
+  },
+  {
+    "id": "6b11dd2d144f2b21a748",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "derStandard.de",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjcwTnNYa2dEdkRUdnlIVFBaaWlQS2FRcHNuTUFpOWlqNFR4UVRvLVFhVmJhTDZvZlVKWDMzNUZNVk5VdFREWDVxMlBYd0VDdVJkaVpIbmdqUlJtUGRBVjJOWVJCTlZHWFo1WTdkaWVONjFnN2tmVVdyMmxlNEN4dDBieW5tNGNsSU9wTlhFR3NBdXIzVk5NQmNqRlNBUlFJQldHS3Q5MDZEVFktWmxrRC1RLWtaQ3BaMXlaa3FwX2ZaMzF3?oc=5",
+    "original_title": "Protestaktion vor Reichstag: Aktivist tauschte Deutschland- gegen Palästina-Flagge - derStandard.de",
+    "original_summary": "Protestaktion vor Reichstag: Aktivist tauschte Deutschland- gegen Palästina-Flagge derStandard.de",
+    "published_at": "2026-11-08T16:34:00+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ação de protesto em frente ao Reichstag: ativista trocou a bandeira da Alemanha pela bandeira da Palestina - derStandard.de",
+    "translated_summary": "Ação de protesto em frente ao Reichstag: Ativista trocou a Alemanha pela bandeira palestina da theStandard.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:05+00:00"
   },
   {
     "id": "d2a20574577694c62999",
@@ -9863,6 +10128,26 @@
     "last_translation_attempt_at": "2026-11-09T05:11:09+00:00"
   },
   {
+    "id": "45985d094a2e5e6ab36b",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSURNS1RSTXJfbjdLSlF0NG9GOWJnZmhMSEpCRlcwUTMwYklBbHZBWVAyTU1RdXlYa1Q5WUZCb18tTVFtZE10M2hlZTVHTUV5dEpDNDd2S3picjZXaVlYcU5EN2QtQ3daNjdSOVVyT3ZVQzFWM1V0d2o3ams2V2piSDJoRkEzcHdoMXZV?oc=5",
+    "original_title": "COP31 startet: Kanzler fehlt bei Weltklimakonferenz - Geld auch - ZDFheute",
+    "original_summary": "COP31 startet: Kanzler fehlt bei Weltklimakonferenz - Geld auch ZDFheute",
+    "published_at": "2026-11-07T21:06:46+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Início da COP31: Chanceler ausente da Conferência Mundial do Clima - Dinheiro também - ZDFheute",
+    "translated_summary": "Início da COP31: Chanceler ausente da Conferência Mundial do Clima - dinheiro também ZDF hoje",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:02+00:00"
+  },
+  {
     "id": "abaa5fdb393b54cefdb2",
     "country": "Japão",
     "category": "Automóvel",
@@ -10871,6 +11156,29 @@
     "last_translation_attempt_at": "2026-11-07T11:45:07+00:00"
   },
   {
+    "id": "2aa7eefaafe2c5cef793",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTDBwY0Y3bWZIRHNaa1c3bTktQjRTc2xhR195WW42SHgzY1owUlpnNnBEaXJNTXZvdzY1NXQ3TzNBT0otZFdmb0JnZTF6TzlxSXdFU2hXY1dkLU9kOFpGT3ctMTR0RHZZaFBTQ3BBZ1dhU0R0dnVOY1ZRektBOUJTWThUR1JCUlo3bUVqRVFFZ1ppNXZWeHk5NzNveVU0TXhadVFN?oc=5",
+    "original_title": "The next wave of batteries: 7 technologies for EVs and the grid - Interesting Engineering",
+    "original_summary": "The next wave of batteries: 7 technologies for EVs and the grid Interesting Engineering",
+    "published_at": "2026-11-07T11:32:00+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A próxima onda de baterias: 7 tecnologias para VEs e a rede - Engenharia interessante",
+    "translated_summary": "A próxima onda de baterias: 7 tecnologias para VEs e a rede Engenharia interessante",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:20+00:00"
+  },
+  {
     "id": "ea0e97f875956539b59d",
     "country": "China",
     "category": "Política",
@@ -11751,6 +12059,26 @@
     "translated_summary": "Baterias LFP vs NMC: Qual bateria EV é melhor para condições indianas? CarAndBike",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T08:56:41+00:00"
+  },
+  {
+    "id": "384f30ab4548d7e97059",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中央社 CNA",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsVkVKTlMzTzQyNGhCYnVrZlNKcDRhem13VGRjVWRQQ2phTC1TRF9TcE9nWGd0Y3VRNms0eGU1aHNKZ2lHa0xaSF9mak55aDM1RG9MZDF6TWVOazlJUkE?oc=5",
+    "original_title": "台灣主動關閉駐巴紐代表處邱垂正：我們不會退縮| 兩岸 - 中央社 CNA",
+    "original_summary": "台灣主動關閉駐巴紐代表處邱垂正：我們不會退縮| 兩岸 中央社 CNA",
+    "published_at": "2026-11-07T07:27:00+00:00",
+    "first_seen_at": "2026-11-09T18:58:37+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Taiwan fecha representante de Papua Nova Guiné Qiu Tzu: Não vamos recuar | Estreito - CSR CNA",
+    "translated_summary": "Taiwan fecha seu escritório de representação em Papua Nova Guiné: não vamos recuar | Agência Central de Notícias do Estreito CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-09T18:59:10+00:00"
   },
   {
     "id": "1404eaeadc94514aa5ff",
