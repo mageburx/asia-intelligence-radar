@@ -80,8 +80,8 @@ def upgrade_geo_dashboard(template):
       '"Singapura":"🇸🇬","Portugal":"🇵🇹"};', "flag name map")
     page=_replace_once(page,'"Singapura":"sg"};',
       '"Singapura":"sg","Portugal":"pt"};', "flag file map")
-    page=_replace_once(page,'"Portugal":"🇵🇹"};',
-      '"Portugal":"🇵🇹","Economia":"📊"};', "category icon map")
+    page=_replace_once(page,'const icons={"Política":"🏛️","Automóvel":"🚗","Estratégia":"📈","Mobilidade":"🚘","Indústria":"🏭","Tecnologia":"💻","Pessoas":"👥","Portugal":"🇵🇹"};',
+      'const icons={"Política":"🏛️","Automóvel":"🚗","Economia":"📊","Estratégia":"📈","Mobilidade":"🚘","Indústria":"🏭","Tecnologia":"💻","Pessoas":"👥","Portugal":"🇵🇹"};', "category icon map")
     page=page.replace('countries.includes(c)','places.includes(c)')
     page=page.replace('countries.includes(state.archiveCountry)','places.includes(state.archiveCountry)')
     page=page.replace('countries.includes(state.country)','places.includes(state.country)')
