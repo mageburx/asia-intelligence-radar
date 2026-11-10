@@ -34,9 +34,23 @@ def _js_region(page, start, stop):
     return a,b
 
 
+def ensure_local_navigation(page):
+    """City button is outside the country grid and needs its own click listener."""
+    marker="/* GEOGRAPHY_NAV_V2 */"
+    if marker in page:
+        return page
+    anchor='$("countries").addEventListener("click",event=>{'
+    handler='''/* GEOGRAPHY_NAV_V2 */
+document.querySelector(".local-picker").addEventListener("click",event=>{
+ const btn=event.target.closest("button[data-country]");
+ if(btn)changeSelection(btn.dataset.country,"");
+});
+'''
+    return _replace_once(page,anchor,handler+anchor,"Braga local navigation")
+
 def upgrade_geo_dashboard(template):
     if MARKER in template:
-        return template
+        return ensure_local_navigation(template)
     page=_replace_once(template,"</style>",STYLE+"</style>","stylesheet")
     page=page.replace(
         "<title>Asia Intelligence Radar — 7 países</title>",
@@ -106,4 +120,4 @@ def upgrade_geo_dashboard(template):
     # Improve geographic description without implying Braga is a country.
     page=page.replace("e um radar dedicado à Bosch. Tudo organizado por área e tema.",
       "Portugal e notícias da cidade de Braga, além de um radar dedicado à Bosch. Tudo organizado por área e tema.",1)
-    return page
+    return ensure_local_navigation(page)
