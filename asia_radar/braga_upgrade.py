@@ -1,5 +1,6 @@
 """Enable Braga-only 'Atualidade' category in the existing static dashboard."""
 from __future__ import annotations
+import re
 
 MARKER="/* BRAGA_LOCAL_V1 */"
 
@@ -7,9 +8,9 @@ def upgrade_braga_dashboard(html):
     if MARKER in html:
         return html
     card='<button type="button" class="category" id="braga-current-category" data-category="Atualidade" aria-pressed="false" hidden><span class="catname">📰 Atualidade local</span><span class="catcount" id="braga-current-count">—</span></button>'
-    anchor='\n  </div>\n</nav>'
     start=html.find('<div class="categorygrid" id="categories">')
-    end=html.find(anchor,start)
+    m=re.search(r'\n[ \t]*</div>\n</nav>', html[start:]) if start>=0 else None
+    end=start+m.start() if m else -1
     if start<0 or end<0:
         raise RuntimeError("Braga category navigation missing")
     html=html[:end]+'\n    '+card+html[end:]
