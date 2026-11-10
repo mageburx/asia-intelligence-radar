@@ -1,5 +1,149 @@
 [
   {
+    "id": "6a68fb7a6005cc2f7ef2",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/11/2003867513",
+    "original_title": "Science and technology diplomacy",
+    "original_summary": "",
+    "published_at": "2026-11-11T00:00:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Diplomacia científica E tecnológica",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:04+00:00"
+  },
+  {
+    "id": "535229e9c81300b6bc73",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHUzWnB6U2Z4cVhkX2k0ZTZObDhsM0dPeDBfdjU4ZnNsM1NsaW0tdmZFd0tDb0xnQk1YZmZjd1Q1a3ZnRHpiWEQ0ZWNxMUNEcU9yNU5wRXFlMTdYbF9pZTJKOE5WaVp3UU5teFp4VDNaYTVENkRWbVhUampINF9tSGwxbnFSNE9SUnFUNzkyZi0zdGlzTVA4T2JB?oc=5",
+    "original_title": "China Wants India’s Market. Does It Want India’s Industrial Rise? - The Diplomat – Asia-Pacific Current Affairs Magazine",
+    "original_summary": "China Wants India’s Market. Does It Want India’s Industrial Rise? The Diplomat – Asia-Pacific Current Affairs Magazine",
+    "published_at": "2026-11-10T16:41:35+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A China quer o mercado da Índia. Quer a ascensão industrial da Índia? - The Diplomat – Revista Asia-Pacific Current Affairs",
+    "translated_summary": "A China quer o mercado da Índia. Quer a ascensão industrial da Índia? The Diplomat – Revista de Assuntos Atuais da Ásia-Pacífico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:19+00:00"
+  },
+  {
+    "id": "62b80e399984f9847ddf",
+    "country": "Braga",
+    "category": "Economia",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3hfWklYUHBraVU1TEdwRFBnd0pQU3g3QzNhR19fOXA4Mm9uSmNKdXlzU04zWUpma3Rqa1g4ZWN2bGVjOUZoZGYySDQ4cjZzVWVpRVlNTzhBcjlEV0p5WFJMQ3JYZmk0Uml1MVNZQjgySG45aVNkbkkzb3Rlbmh1cjBNdk1XUW1fd0NxbzdMbmI?oc=5",
+    "original_title": "Startup Braga presente na Web Summit 2026 - Correio do Minho",
+    "original_summary": "Startup Braga presente na Web Summit 2026 Correio do Minho",
+    "published_at": "2026-11-10T16:31:07+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Startup Braga presente na Web Summit 2026 - Correio do Minho",
+    "translated_summary": "Startup Braga presente na Web Summit 2026 Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:28+00:00"
+  },
+  {
+    "id": "88b471b836af5f9e022b",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3dlVDa09Ibl9BZndkRHlJdkEta0k1MTlnblM4NVUzTjFLdXBDcmk5OW5xeTVEenVrUFRDWllTby1TR1RnTzdsQWpWb1I1OWNL?oc=5",
+    "original_title": "外媒指立陶宛要求代表處更名立國議員批政府拿台灣當對中籌碼| 國際焦點| 全球 - UDN",
+    "original_summary": "外媒指立陶宛要求代表處更名立國議員批政府拿台灣當對中籌碼| 國際焦點| 全球 UDN",
+    "published_at": "2026-11-10T16:07:36+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A mídia estrangeira refere-se ao pedido da Lituânia ao escritório de representação para mudar seu nome para um membro da Assembleia Nacional para dar ao governo a chance de tomar Taiwan como um chip | Foco internacional | Global - UDN",
+    "translated_summary": "A mídia estrangeira refere-se ao pedido da Lituânia ao escritório de representação para mudar o nome do membro da Assembleia Nacional para dar ao governo a chance de tomar Taiwan como um chip | Foco internacional | UDN global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:54+00:00"
+  },
+  {
+    "id": "602fc2b342a3ae9565ee",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154647.html",
+    "original_title": "トヨタ、ダイハツの軽トラを米国で組み立てて現地販売 米国の新ブランド「Scion by Toyota」で「KEI-01」など導入",
+    "original_summary": "トヨタ自動車の米国法人であるToyota Motor North America（TMNA）は11月10日（現地時間）、米国に新たな選択肢として新ブランド「Scion by Toyota（サイオン・バイ・トヨタ）」を立ち上げると発表した。",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os caminhões leves Toyota e Daihatsu são montados nos Estados Unidos e vendidos localmente. A nova marca americana \"Scion by Toyota\" apresenta o \"KEI-01\" e outros produtos.",
+    "translated_summary": "A Toyota Motor North America (TMNA), subsidiária norte-americana da Toyota Motor Corporation, anunciou em 10 de novembro (horário local) que lançará uma nova marca \"Scion by Toyota\" nos Estados Unidos como uma nova opção.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:38+00:00"
+  },
+  {
+    "id": "dcaff86092b243795d22",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "carwow.de",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0lvSjUydWRlbHRHb2R5SWt3SzEwSDJiR2VOMHFQT1B6ZWpneFU2QTBhcktHUGQ0M0hPNUN3VVZPaGNKN3ZfcGtYMzJLVjZLdGZsU3JSZ1NCV0VhV0tHUDZDenhta01xZlYyVWIwYkw3Vjg4SGJ2czRXQjFnRXQxY19OY0ZZWDJ2QmtIZkdJcXl5YzBBVFp6cTVNaHVwR19naDVfMVN4TWZlYlRMaGU5QWE3QkJDTno5czhSYkVTQWR4LXB6T0I0MmFtTWo4QWVRWGphekVaUktUYUlEVlBV?oc=5",
+    "original_title": "Mercedes-Benz G-Klasse zum absurden Tiefpreis? Diesen indischen Geländewagen wünschen wir uns auch für Deutschland - carwow.de",
+    "original_summary": "Mercedes-Benz G-Klasse zum absurden Tiefpreis? Diesen indischen Geländewagen wünschen wir uns auch für Deutschland carwow.de",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz Classe G a um preço baixo absurdo? Também queremos este veículo off-road indiano para a Alemanha - carwow.de",
+    "translated_summary": "Mercedes-Benz Classe G a um preço baixo absurdo? Também desejamos que esses veículos off-road indianos para a Alemanha carwow.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:48+00:00"
+  },
+  {
+    "id": "d90c600098b60ebdf179",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "electrive.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1hKUFBZVmxndDUycWh6S0pod05VY0tneWtZeVRhOTlRRFNJbzJRYVZmSVJtTW5VdVdzTzdkYlZqYllVX0t4YmFLTV9nV3BJSEtHSHM0YkJaRUpuV1ZHVXBTZkZzbEZDdnVtUTRvcEFmbm5wckJwZFl1WkJQcWtjVjZMRlJWX1FrNjFCMzJNSEhGSUFKTnczRlBhY0FVcWVJQlFJ?oc=5",
+    "original_title": "Zenobe to finance 169 electric buses for Transport UK in London - electrive.com",
+    "original_summary": "Zenobe to finance 169 electric buses for Transport UK in London electrive.com",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Zenobe vai financiar 169 autocarros elétricos para a Transport UK em Londres - electrive.com",
+    "translated_summary": "Zenobe vai financiar 169 autocarros elétricos para a Transport UK em Londres electrive.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:02+00:00"
+  },
+  {
     "id": "fe2a85cf1d6c5e8298be",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -166,6 +310,28 @@
     "last_translation_attempt_at": "2026-11-10T15:56:31+00:00"
   },
   {
+    "id": "90a92eb2c50db75d0930",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "The Edge Singapore",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3VPaTE5Z3ZBMmZmOXdxVzA4MjFzOXBDRzRScjVYMlQ1OXNEWXFFVlk5eTJUbFRRYVdGWldwNEhlek5pZjd5MjlrdHFtWDRpdi1SUDFHbFZvYkNSSUJrbEZJZURyNE1ZRmlIU292cU83Ui04RVFFMng4V0tvMnVTazZpbTlVTWdiVVo5QmJlR2JrYzhBcjdOeE1jWTZ2QlcyRm5Yam12T2NXQV9yNkNuZGk4VkJCNXlLWk1mUHZNYVlESzhIaDd2dV9rdGFpQQ?oc=5",
+    "original_title": "Singapore wants to mobilise US$500 mil investment to build agri-food resilience - The Edge Singapore",
+    "original_summary": "Singapore wants to mobilise US$500 mil investment to build agri-food resilience The Edge Singapore",
+    "published_at": "2026-11-10T15:16:30+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Singapura quer mobilizar um investimento de 500 milhões de $ para construir resiliência agroalimentar - The Edge Singapore",
+    "translated_summary": "Singapura quer mobilizar um investimento de 500 milhões de $ para construir resiliência agroalimentar The Edge Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:23+00:00"
+  },
+  {
     "id": "eaf80745ca7051a979bc",
     "country": "China",
     "category": "Automóvel",
@@ -272,6 +438,26 @@
     "last_translation_attempt_at": "2026-11-10T15:56:19+00:00"
   },
   {
+    "id": "6539cc1e6ccfd1a8e18a",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUjNPOTVzeWZHOUZVaUhpSjVoNXN5dzJVMlRYeG1VTmFrVmNqZVhEVm93dXZMbldfeWVTcWdMVzNvbjAyVjJYZUVyQ21qbmw0a0VQVWJIb1B6WGhmWXRMS2FJWHhoTFBFQWpHZzhOUXVqR0FMMlFkYWctYnU5Y3h5UzEwTWJ1Y0M2NWxEQXN3RXVaRlU0bmtKblY0RWFRdDRoeTAwLUJIY2VZbDRVbEtJQXhKOGoyM3NIQlFYaVdWamp4YWJCS2RBMXlvTXg3M2VLX3FwcktQeno2aU8wU3g4LVBud2tLOVFsVkHSAe8BQVVfeXFMT2l1ZWtqUEdwdm51d2daSmhYald3ZVpBakJhMXY4ejQzRE4yY0MwV3p1eXdFeGFVSzM0U2d6ekR5QUFET2xXZUVJYVU0WV9PN0Zlb2xIWnJGZW1UTVNIdEtMdkN5eG1VM21PUFVfaGxPYjktR3c3WWZqUnU0dlVxdl9md1U5YVcxRGQ4ZFkxdnZnTkpacHpRbmRXNmVCblZtQ2doVFlMOEhVb0s3OUdIc25lSjhFYVhDWVRrYjBvRy1YX0h1Z1RJMHh4WENCNDdZbm5fRWlfOW9LZEdLMFFicHJldnZmTHNwb295OUYzcDQ?oc=5",
+    "original_title": "Casa Financeira inaugura nova sede em Braga e prepara expansão de norte a sul do país - Diário do Minho",
+    "original_summary": "Casa Financeira inaugura nova sede em Braga e prepara expansão de norte a sul do país Diário do Minho",
+    "published_at": "2026-11-10T14:45:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Casa Financeira inaugura nova sede em Braga e prepara expansão de norte a sul do país - Diário do Minho",
+    "translated_summary": "Casa Financeira inaugura nova sede em Braga e prepara expansão de norte a sul do país Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:27+00:00"
+  },
+  {
     "id": "4929ec830fe2857598c2",
     "country": "Braga",
     "category": "Atualidade",
@@ -332,6 +518,26 @@
     "translated_summary": "China Is Nibbling at India's Domination of Butan's Economy The Diplomat – Asia-Pacific Current Affairs Magazine",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:56:15+00:00"
+  },
+  {
+    "id": "5d1c9c29bfba7bfd67dc",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Jornal de Negócios",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVE2eXdDTkRQQ0gzX2M1bTctSmxCN1hiVzdpN3BMWER3ZHpfaHR1SFY4aHVHTi03YVZEajJmZGMwRnozY21zQjY5OFRCNmtsUmQyaHBlZERfY3RVMTJZZndLN09GWWRId19WTWV6UUlLc3piRWhadmVpTnB4dnRhcnBaYXZ5eHR0c242bWFHSS1ySUt0cU9IUnZ3bHA3RlE0XzlnX3pPQ1IxejBTbnd1M0Rwem1iVVEwTHhULXpuRGx4dlhGWWVUWDdsVnRteEM2QnlrU2EwRUJyT3ZndVHSAdgBQVVfeXFMTXBJR2RUV2dlV3lOR0twRjJOTDFzTjNqVi1IN2lLeExFdExlNlpWMS01NEZwc0RaXzdKbEJzeF9qczZ1clA1WTBHZGJoRXNWVU95X2RyQnhwUW9vN3MxN01TNUhxMi16ZzRvaS1DM3Y1RVNnbXFkMllIc0d3c1VnWF9Rd083T2dVNURpYTRUMzJBTXo1UnIwOEtfWUpjZzRzektSOFUzYTVwcnFHQlRWT2tDVkhra245cFp1OUtJZU9uQjEyV1J4cWI1YVR1Y1NCeFRfOGROZUhj?oc=5",
+    "original_title": "País em \"situação de alerta\" amanhã. Dois mil clientes ficam sem eletricidade. Autoeuropa vai parar produção - Jornal de Negócios",
+    "original_summary": "País em \"situação de alerta\" amanhã. Dois mil clientes ficam sem eletricidade. Autoeuropa vai parar produção Jornal de Negócios",
+    "published_at": "2026-11-10T14:26:04+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "País em \"situação de alerta\" amanhã. Dois mil clientes ficam sem eletricidade. Autoeuropa vai parar produção - Jornal de Negócios",
+    "translated_summary": "País em \"situação de alerta\" amanhã. Dois mil clientes ficam sem eletricidade. Autoeuropa vai parar produção Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:26+00:00"
   },
   {
     "id": "f7ce5cf0e38e2accce92",
@@ -479,6 +685,26 @@
     "translated_summary": "Trofa recebe um dos maiores centros de carregamento ultrarrápido de veículos elétricos da Área Metropolitana do Porto Jornal do Ave",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:21:03+00:00"
+  },
+  {
+    "id": "4a749fb6c3416d07f40a",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHRHNVduT0ROWnBEa2RseDgxejVLTkJPeGtBZ3k4enhUcl9JSjJsMDVrekdWbmN1Snh0WDFESnFDazI2RkRpNU1zWnlEZE1OaWhuR3Bfc2o1aldPbW8zMTdyWEZvbnJZV0pXazB4ZE5tQkNEY0tkdUhFUW5TY0ZjREdOMmFENmJWMGprWUZzMWt1UzJBUmY4ZExfU1Bub3dXS2pqNkF3?oc=5",
+    "original_title": "Linken-Fraktionschef kritisiert Nominierung von Aigner - Onetz",
+    "original_summary": "Linken-Fraktionschef kritisiert Nominierung von Aigner Onetz",
+    "published_at": "2026-11-10T14:11:16+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Líder parlamentar do Partido de Esquerda critica indicação de Aigner - Onetz",
+    "translated_summary": "Líder parlamentar do Partido de Esquerda critica nomeação de Aigner Onetz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:43+00:00"
   },
   {
     "id": "886843cdb497265fca84",
@@ -724,11 +950,53 @@
     "published_at": "2026-11-10T13:46:27+00:00",
     "first_seen_at": "2026-11-10T14:18:33+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Braga: Vandalizada fechadura do portão da Praça Dr. António Losa na noite em que foi substituída",
+    "translated_summary": "A fechadura do portão de acesso à Praça Dr. António Losa, em Braga, foi danificada na noite de sexta-feira, poucas horas depois de ter sido substituída pela União de Freguesias de Maximinos, Sé e Cividade. A informação foi avançada pela própria União de Freguesias, através de um comunicado publicado nas redes sociais, no qual esclarece […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:29+00:00"
+  },
+  {
+    "id": "2d0ac8ad5b8e1c7ef809",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94NGthRjUtaGwtM1JPZ3Z6MkV0QjB0RDhSOVk5N2paTUFxdG94SjhGc1Q1eHRjWnlrSmxuYU10UlFMbXNmVm9LbWl3S3VhanFsLXFUbnNYeUg3RWZHY0ZxR1ZGeG1HTlc1TTJwTg?oc=5",
+    "original_title": "三笠宮家の彬子さま、母校オックスフォード大で桜植樹 日英の交流深める - 日本経済新聞",
+    "original_summary": "三笠宮家の彬子さま、母校オックスフォード大で桜植樹 日英の交流深める 日本経済新聞",
+    "published_at": "2026-11-10T13:45:53+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Akiko da família Mikasanomiya aprofunda os intercâmbios entre o plantio de flores de cerejeira no Japão e na Inglaterra em sua alma mater na Universidade de Oxford - Nikkei",
+    "translated_summary": "Nihon Keizai Shimbun aprofunda os intercâmbios entre a Akiko da família Mikasanomiya e as cerejeiras na sua alma mater, a Universidade de Oxford",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:08+00:00"
+  },
+  {
+    "id": "db1bb242e84b3374f189",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkNjbDNXNHZZdWxCR2M1WnBJZmVhejhiWWx3OFNhSEMyVkUtMEZzZkRhRzBEMFFWZ2J3LXJveXBkclBZSHpCdXlqbmJYYkVOVlpVV0E5LTRPY2Zuc2xrX09RMi1sbko0ZlY0MHRoT3hvaFJ2SGJiNW41cGtGYTVpalZ3VWlKTFRhVVh3bGxCVDBCRXg5V2Z0emgzeFBuQkV6QmlmUnctWDcwMjBWTVE?oc=5",
+    "original_title": "Blackstone to buy about 16% of IIFL Finance in latest foreign bet on Indian lenders - Reuters",
+    "original_summary": "Blackstone to buy about 16% of IIFL Finance in latest foreign bet on Indian lenders Reuters",
+    "published_at": "2026-11-10T13:40:15+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Blackstone compra cerca de 16% da IIFL Finance na última aposta estrangeira em credores indianos - Reuters",
+    "translated_summary": "Blackstone compra cerca de 16% da IIFL Finance na última aposta estrangeira nos credores indianos Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:21+00:00"
   },
   {
     "id": "58947801eb12f1e2f171",
@@ -886,11 +1154,11 @@
     "published_at": "2026-11-10T13:17:17+00:00",
     "first_seen_at": "2026-11-10T14:18:33+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BE exige Plano de Limpeza de Outono perante ruas alagadas em Braga",
+    "translated_summary": "O Bloco de Esquerda (BE) de Braga exige à Câmara Municipal a implementação de um Plano Concelhio Integrado de Limpeza de Outono, na sequência dos constrangimentos provocados pela chuva e pela acumulação de folhas, terra e outros detritos nas ruas e passeios da cidade. Num comunicado, a estrutura local do partido considera que o cenário […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:30+00:00"
   },
   {
     "id": "5890ca0e54b234357efb",
@@ -1452,6 +1720,29 @@
     "translated_summary": "Entrada no mercado da Índia para empresas suíças: principais setores e benefícios da TEPA - Briefing da Índia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:32:11+00:00"
+  },
+  {
+    "id": "a4dc8c0640cd58dcac4b",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "www.carnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Vkk0TEFOQTY0MHAtbWR2OElOLUpuakRqREhNUk9hREJLc01kUXdyOGMwSFBtRVhIcjJsSEhtbDY3eVdJa1pYSkRERHlkdDRySTNj?oc=5",
+    "original_title": "免車檢、免車庫證明還附冷氣！日本三輪小型電動車Lean3取得型式認證，可領補助20萬日圓 - CARNEWS - www.carnews.com",
+    "original_summary": "免車檢、免車庫證明還附冷氣！日本三輪小型電動車Lean3取得型式認證，可領補助20萬日圓 - CARNEWS www.carnews.com",
+    "published_at": "2026-11-10T12:10:34+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Política industrial"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Sem inspeção, prova sem garagem e ar condicionado incluídos! Lean3, um veículo elétrico compacto japonês de três rodas, é certificado para receber um subsídio de 200.000 ienes - CARNEWS - www.carnews.com",
+    "translated_summary": "Sem inspeção, prova sem garagem e ar condicionado incluídos! Lean3, um veículo elétrico compacto japonês de três rodas, recebeu uma concessão de certificação de tipo de 200.000 ienes - CARNEWS www.carnews.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:57+00:00"
   },
   {
     "id": "707c9969fd9a1d9d6b01",
@@ -2300,6 +2591,28 @@
     "last_translation_attempt_at": "2026-11-10T10:57:12+00:00"
   },
   {
+    "id": "620445c84f25e1295f03",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Spiegel",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTm90TzRHd2RUckIybEZTM0E2eHZ0RVNJVlhPV2JzcHBOdlpsSlV0YTdGM2NZM3pSU2FrWGllQ2hKMnhwWTlwcUluci1KeVAtc2NhOVpSMWYzU0ZRZDhpZFNMZGVQemh1QkptREVpeGRUcjEzTHFqdXJqR01ldjVHcU5RbDBkMFpHOW83OXFCODA3UkNJc2JhR1gyTlFLY24xbFRIVVNua1lFajkyVEtSenhzRDRfTmVBVE1mS25VeVNWbkhvWGhfTDhEa25FUWJpbFVJdGlSSkNsNE5kdUpzWGNwcw?oc=5",
+    "original_title": "Deutschland: Maschinenbauer werfen Bundesregierung vor, Reformen zu blockieren - Spiegel",
+    "original_summary": "Deutschland: Maschinenbauer werfen Bundesregierung vor, Reformen zu blockieren Spiegel",
+    "published_at": "2026-11-10T10:24:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Alemanha: Fabricantes de máquinas acusam o governo alemão de bloquear reformas - Spiegel",
+    "translated_summary": "Alemanha: Construtores de máquinas acusam governo alemão de bloquear reformas da Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:41+00:00"
+  },
+  {
     "id": "297bde030058ad824f9a",
     "country": "China",
     "category": "Economia",
@@ -2340,6 +2653,28 @@
     "translated_summary": "China Newswire, 10 de novembro (Xinhua) -- De acordo com a Comissão Nacional de Inspeção e Supervisão Disciplinar da Comissão Central de Inspeção Disciplinar do Conselho de Estado e a Comissão Municipal de Inspeção e Supervisão Disciplinar de Tianjin: Recentemente, a Comissão Nacional de Inspeção e Supervisão Disciplinar da Comissão Central de Inspeção Disciplinar do Conselho de Estado e a Comissão Municipal de Supervisão de Tianjin conduziram uma revisão de caso e investigação sobre as graves violações da disciplina e da lei por Liu Qitao, ex-secretário do Partido e presidente do China Communications Construction Group Co., Ltd.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T10:56:58+00:00"
+  },
+  {
+    "id": "251f6e34414c6e4ea308",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "MDR.de",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2huN2ZpRW5KVjNEYnR3ZXZpbFdOZDEtdEFvMHh2M1V0WXVrUHAzSFZVMEt0YkhILVdMQ3ZDVUJBeml5a09HbUZST2dYNkxYaWxnaEZTZjlNQllmYld1X3hCSTdiOXRWQWhrcTRqNXRlREZYMGxfRnZTcXNhY05MbWN0MkxxRGdFNk5hOEJvV2FjR3pLMlFVY2pucVgyRmFkeUZLVUJJS1NuSjFvZzFqTA?oc=5",
+    "original_title": "Jetzt auch Lippendorf und Schwarze Pumpe? LEAG hofft auf Chance zwei weitere Gaskraftwerke zu bauen - MDR.de",
+    "original_summary": "Jetzt auch Lippendorf und Schwarze Pumpe? LEAG hofft auf Chance zwei weitere Gaskraftwerke zu bauen MDR.de",
+    "published_at": "2026-11-10T10:19:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Agora também Lippendorf e Black Pump? LEAG espera ter a oportunidade de construir mais duas centrais a gás - MDR.de",
+    "translated_summary": "Agora também Lippendorf e Black Pump? A LEAG espera ter a oportunidade de construir mais duas centrais a gás MDR.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:16+00:00"
   },
   {
     "id": "4433c969e4da56684933",
@@ -2579,6 +2914,28 @@
     "translated_summary": "De acordo com o site da Administração Geral de Supervisão de Mercado, recentemente, a Administração Geral de Supervisão de Mercado (Comissão Nacional de Normas) aprovou o lançamento da norma nacional obrigatória \"Requisitos de Segurança para Rede de Estação de Referência de Posicionamento de Navegação por Satélite\" (GB 48567—2026). Esta norma é proposta e centralizada pelo Ministério dos Recursos Naturais, esclarece os requisitos técnicos de segurança de toda a cadeia de instalações, dados e serviços, e fornece suporte técnico para a construção e gestão operacional da rede de estações de referência de acordo com a lei, e garante a referência espaço-temporal nacional e segurança da informação geográfica de levantamento e mapeamento.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T09:59:06+00:00"
+  },
+  {
+    "id": "c6809e300a7954062474",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vY2s0MDlsSDczZjAzS1dnUUotUmtPYVdndzBSUm1MX3ZQNmxfa1hGOEhEVTZRZl9HN051eDZRUzBmS3paLUFWMElRcFpYZDdfSVpkNE9CWW1xY2JhVV96aDhNZW1qUk9Uc0pzMQ?oc=5",
+    "original_title": "イオン、「夏ギフト」サービスで情報漏洩 414件の顧客情報 - 日本経済新聞",
+    "original_summary": "イオン、「夏ギフト」サービスで情報漏洩 414件の顧客情報 日本経済新聞",
+    "published_at": "2026-11-10T09:42:03+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Aeon vaza 414 informações de clientes com serviço \"Presente de Verão\" - Nikkei",
+    "translated_summary": "Aeon, 414 vazamentos de informações de clientes no serviço \"presente de verão\" Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:11+00:00"
   },
   {
     "id": "4bfb8a5f2cf5c87a1325",
@@ -3037,6 +3394,28 @@
     "translated_summary": "BoJ Aumenta Taxas \"Quando Possível\" BoJ Outubro Reunião Opiniões O Nikkei",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:39:02+00:00"
+  },
+  {
+    "id": "325d4ec0ce7b78d7672f",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Logistik Heute",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXV0MThDelFjcVZGTG0wNUFWaU9UakVJdXV3NTRXUEw3eEFCLUVVNFNaREh1cXRQV19sd01yYjE0Tk5taXdtT3hncHJLRDhxMHktbXM1ZWZrd1h0YWctTEZSaFFLa3kwa0RqTlB4RGtfX2JuQTdJT3VfREMyTU9XN1kzT3BxMUZ5aUxfT1JQUkhQV2JyR0FYQXIweklZWFZSWUpkOG1VWFJXa0JLQWwzejlLT3dKTHdOR3A0SlRsOA?oc=5",
+    "original_title": "Außenhandel: Chinas Exportwachstum erhöht Wettbewerbsdruck auf deutsche Firmen - Logistik Heute",
+    "original_summary": "Außenhandel: Chinas Exportwachstum erhöht Wettbewerbsdruck auf deutsche Firmen Logistik Heute",
+    "published_at": "2026-11-10T09:11:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Comércio exterior: crescimento das exportações da China aumenta pressão competitiva sobre empresas alemãs - Logistics Today",
+    "translated_summary": "Comércio exterior: o crescimento das exportações da China aumenta a pressão competitiva sobre as empresas alemãs Logistics Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:14+00:00"
   },
   {
     "id": "aef83baf7021c4aa6374",
@@ -3612,11 +3991,11 @@
     "published_at": "2026-11-10T08:14:18+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura lança programa SPIRE Asia para fortalecer a resiliência climática no setor agroalimentar do Sudeste Asiático - Secretaria Nacional de Mudanças Climáticas",
+    "translated_summary": "Cingapura lança programa SPIRE Asia para fortalecer a resiliência climática na Secretaria Nacional de Mudanças Climáticas do Setor Agroalimentar do Sudeste Asiático",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:34+00:00"
   },
   {
     "id": "a3836b05c8c8d3a2b2c2",
@@ -4038,11 +4417,11 @@
     "published_at": "2026-11-10T07:47:53+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities expande a cooperação global de investimentos com a Morgan Stanley Management - Notícias do setor",
+    "translated_summary": "Korea Investment & Securities expande a cooperação global de investimentos com a Morgan Stanley Management Industry News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:36+00:00"
   },
   {
     "id": "77520da93b0022dc1ba9",
@@ -4680,6 +5059,26 @@
     "last_translation_attempt_at": "2026-11-10T13:07:33+00:00"
   },
   {
+    "id": "c655ab099123e492be81",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Business Insider Deutschland",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejExV0lYZVh4eGl0TmhUYnNrTHBQSWRJRkNuRktOYjl0VS03bUZmSzBSeTAtb0ZMSlFKUXctbFZET2JibkY2RHd6di15NzBMS1JxQl81Mlg5d1N5MEtsVWZTQkotWHFZcnlmS3JHeUNVdVNPYXZtdVZOYzVuaDF3dlFvVmUyMGxnT0RQWnB2cll4SDRGNDRXeS1qbVB3SHl2c0ZLQ2xfb21XYWZJY1FUeE10Y2M?oc=5",
+    "original_title": "Das sind die 5 beliebtesten und meistverkauften E-Autos des Jahres - Business Insider Deutschland",
+    "original_summary": "Das sind die 5 beliebtesten und meistverkauften E-Autos des Jahres Business Insider Deutschland",
+    "published_at": "2026-11-10T06:58:19+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Estes são os 5 carros elétricos mais populares e mais vendidos do ano - Business Insider Germany",
+    "translated_summary": "Estes são os 5 carros elétricos mais populares e mais vendidos do ano Business Insider Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:46+00:00"
+  },
+  {
     "id": "8bb5f86444f62a02e5d8",
     "country": "Índia",
     "category": "Política",
@@ -4859,11 +5258,11 @@
     "published_at": "2026-11-10T06:43:19+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Brasil prepara plano para transição económica rumo às energias renováveis",
+    "translated_summary": "Os países que desejam desvincular-se dos combustíveis fósseis, responsáveis pelas alterações climáticas, vão contar a partir de hoje com um roteiro nas negociações climáticas da ONU, que será apresentado pelo Brasil.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:38+00:00"
   },
   {
     "id": "01b3eaf00ff856d525ec",
@@ -5079,11 +5478,11 @@
     "published_at": "2026-11-10T06:14:58+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Além do Armazém Tradicional: Mercado Logístico da Cadeia Fria de Singapura - CBRE Singapura",
+    "translated_summary": "Além do Armazém Tradicional: Mercado Logístico da Cadeia Fria de Singapura CBRE Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:39+00:00"
   },
   {
     "id": "0e330730656cde3fb97c",
@@ -6358,11 +6757,11 @@
     "published_at": "2026-11-10T04:12:59+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MAS lança serviço de cofragem de ouro para bancos centrais estrangeiros - Singapore Business Review",
+    "translated_summary": "MAS lança serviço de vaulting de ouro para bancos centrais estrangeiros Singapore Business Review",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:42+00:00"
   },
   {
     "id": "fff7928182e8d0feaf1d",
@@ -6593,11 +6992,11 @@
     "published_at": "2026-11-10T03:50:48+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura estende a isenção de GST a atividades relacionadas a transações de ouro no atacado - The Edge Singapore",
+    "translated_summary": "Singapura estende a isenção de GST a atividades relacionadas a transações de ouro no atacado The Edge Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:44+00:00"
   },
   {
     "id": "d8ebfad8727b3325dd72",
@@ -7218,11 +7617,11 @@
     "published_at": "2026-11-10T03:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura lança abóbada de ouro do banco central, estende a isenção de GST às atividades de atacado - The Business Times",
+    "translated_summary": "Singapura lança abóbada de ouro do banco central, estende a isenção de GST às atividades de atacado The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:46+00:00"
   },
   {
     "id": "bc7b41f39663f72a81fe",
@@ -7238,11 +7637,11 @@
     "published_at": "2026-11-10T03:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "S'pore abre cofre de moeda nacional para bancos centrais estrangeiros para armazenar reservas de ouro - The Straits Times",
+    "translated_summary": "S'pore abre cofre de moeda nacional para bancos centrais estrangeiros para armazenar reservas de ouro The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:48+00:00"
   },
   {
     "id": "b003d641303b5a50cf8a",
@@ -7544,11 +7943,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Se a bolha da IA estourar, será mais chocante do que quando a bolha das pontocom estourar\" - Korea Economy",
+    "translated_summary": "\"Se a bolha da IA estourar, será mais chocante do que quando a bolha das pontocom estourar.\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:51+00:00"
   },
   {
     "id": "60153c6bef43370c2c4a",
@@ -7934,11 +8333,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Moomoo é a primeira plataforma de investimento digital e de tecnologia de riqueza no Sudeste Asiático a ingressar na Global Anti-Scam Alliance - Moomoo",
+    "translated_summary": "Moomoo é a primeira plataforma de investimento digital e de tecnologia de riqueza no Sudeste Asiático a se juntar à Global Anti-Scam Alliance Moomoo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:53+00:00"
   },
   {
     "id": "88d94e1578e577623fa6",
@@ -12959,11 +13358,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "ApexBrasil traz 200 empresas brasileiras à Web Summit 2026 - Forbes Portugal",
+    "translated_summary": "ApexBrasil traz 200 empresas brasileiras à Web Summit 2026 Forbes Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:31+00:00"
   },
   {
     "id": "4191dfca0d8eb6e09ad5",
@@ -13258,11 +13657,11 @@
     "published_at": "2026-11-09T12:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A história de Singapura: atrair capital global e, ao mesmo tempo, preservar um crescimento confiável - SMU Newsroom",
+    "translated_summary": "A história de Singapura: atrair capital global e, ao mesmo tempo, preservar o crescimento confiável da SMU Newsroom",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:56+00:00"
   },
   {
     "id": "8dc6430ee947ffe70db3",
@@ -17979,11 +18378,11 @@
     "published_at": "2026-11-09T06:21:28+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Sessões imperdíveis no Singapore Fintech Festival 2026 - Fintech Singapore",
+    "translated_summary": "Sessões imperdíveis no Singapore Fintech Festival 2026 Fintech Singapore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:58+00:00"
   },
   {
     "id": "1cf8064bfcb8b25fa14a",
@@ -22038,6 +22437,28 @@
     "last_translation_attempt_at": "2026-11-09T12:01:17+00:00"
   },
   {
+    "id": "3e6ed1d666bc298d0d2c",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Kb3dKU1EyZEV6TXhkS2lBN19BdW16VjFlQ2hlNmJXdFBxVlNSR3R4N2pGRFFIVXR1Z2tIYTYxaFJ1VmVYd0JPNjZQa3NaeU9WN09XVQ?oc=5",
+    "original_title": "현대차·기아, 10월 국내 전기차 판매 95.9% 증가…EV5 209% 급증 - 이투데이",
+    "original_summary": "현대차·기아, 10월 국내 전기차 판매 95.9% 증가…EV5 209% 급증 이투데이",
+    "published_at": "2026-11-08T22:41:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Hyundai e Kia, Vendas de Veículos Elétricos Domésticos Aumentam 95,9% em Outubro… Surtos EV5 209% - eToday",
+    "translated_summary": "Hyundai e Kia, as vendas domésticas de veículos elétricos aumentaram 95,9% em outubro... o EV5 aumentou 209%",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:51+00:00"
+  },
+  {
     "id": "004c724622fb9da28f18",
     "country": "Alemanha",
     "category": "Economia",
@@ -22203,11 +22624,11 @@
     "published_at": "2026-11-08T21:46:04+00:00",
     "first_seen_at": "2026-11-10T14:18:33+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercado de equipamentos de recarga para veículos elétricos até 2035: eletrificação de frotas e recarga inteligente impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+    "translated_summary": "Mercado de equipamentos de recarga para veículos elétricos até 2035: eletrificação de frotas e recarga inteligente impulsionam o crescimento - Notícias e Estatísticas IndexBox",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:32+00:00"
   },
   {
     "id": "d1777a8fd2cb31acbb77",
@@ -22827,6 +23248,28 @@
     "translated_summary": "Coalizão Negocia Orçamento: O que está em jogo ZDFHoje",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T20:43:38+00:00"
+  },
+  {
+    "id": "fe027871f2873f31982b",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXFvaDhmWTAyblI3QzIwZ28teDFMWmRLQ0lhN21RQ2xaclh0NEM2ZGx2bVVnNkFqSDFnMkFubDZQTi1yVUR1cF9ibldsRGpjRWVFWFRWX3dweEFwSEhBeWpiWmxhR0FidERMUXBsWGlHOXBiS2ZEclFrN2wza3IxVVNVUkdJTGF4OGNUY21TNEs4NWtDUEc1cmhVZ2R1MHNzelVrVHE4cnFZZ1VMQ1ZV?oc=5",
+    "original_title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests - The Guardian",
+    "original_summary": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests The Guardian",
+    "published_at": "2026-11-08T18:04:00+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Trabalhistas devem cortar metas de veículos elétricos para a indústria automobilística do Reino Unido, apesar dos protestos dos parlamentares - The Guardian",
+    "translated_summary": "Trabalhistas devem cortar metas de veículos elétricos para a indústria automobilística do Reino Unido, apesar dos protestos dos parlamentares The Guardian",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:57:59+00:00"
   },
   {
     "id": "d6c5c9e121634c2a1cfb",
@@ -25161,11 +25604,11 @@
     "published_at": "2026-11-08T07:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Estima-se que o Haze em 2026 custe $ 2,32 bilhões de dólares de Cingapura, um aumento de 4% em relação a 2015: especialistas - The Business Times",
+    "translated_summary": "Estima-se que o Haze em 2026 custe $ 2,32 bilhões de dólares de Cingapura, um aumento de 4% em relação a 2015: especialistas The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:59:00+00:00"
   },
   {
     "id": "ca56c9376c9864c9281c",
@@ -26009,6 +26452,28 @@
     "translated_summary": "2026 Exposição Internacional de Turismo de Taiwan \"Pavilhão Tainan\" apareceu Huang Weizhe convidou o público a participar da exposição para obter uma boa quantidade de presentes especiais e especialidades agrícolas facilmente trazidas para o Site de Informações Globais do Governo Municipal de Tainan",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T03:57:30+00:00"
+  },
+  {
+    "id": "d7997bfb198315829a27",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华网",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWRseVB6anNrQi13Y1hfczNnSl9zVENpYl9zbW5hWWhhQ2NFdUpZTHVwZW53Y1BodFFQcU5KSFFjZ0FuTjFRbWpTOGpxRWRwdXZhRmpYMkUyVm9odVYwUUdoNk5nYWlnOEZEVHI4cl9Fb2NNelVHRm1qUjgyT0g5eGln?oc=5",
+    "original_title": "第九届进博会丨以首发经济看进博：一场关于“未来”的剧透 - 新华网",
+    "original_summary": "第九届进博会丨以首发经济看进博：一场关于“未来”的剧透 新华网",
+    "published_at": "2026-11-08T03:11:22+00:00",
+    "first_seen_at": "2026-11-10T16:57:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "The 9th CIIE CIIE: A Spoiler for the “Future” with the Starting Economy - Xinhua.com",
+    "translated_summary": "The 9th CIIE Looking at the Expo from the perspective of the starting economy: a spoiler about the \"future\" Xinhua.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:06+00:00"
   },
   {
     "id": "1eb5c695bd1296a03015",
@@ -55161,11 +55626,11 @@
     "published_at": "2026-11-03T14:26:47+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Governo anuncia programa de incentivos para compra de veículos elétricos por famílias de baixo rendimento - SIC Notícias",
+    "translated_summary": "Governo anuncia programa de incentivos para compra de veículos elétricos por famílias de baixo rendimento SIC Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T16:58:33+00:00"
   },
   {
     "id": "65f1c04e1014587cef89",
