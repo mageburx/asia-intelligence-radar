@@ -44,6 +44,11 @@ TOPICS={
  "Honda":["honda","ホンダ","本田"],
  "Nissan":["nissan","日産","日产"],
  "Geopolítica":["diplomac","sanction","security","外交","制裁","安全保障","Außenpolitik","외교","외교부","地緣政治"],
+ "Crescimento e PIB":["economy","economic growth","gdp","economia","crescimento económico","pib","经济","經濟","経済","wirtschaft","bip","경제"],
+ "Inflação e preços":["inflation","inflação","inflacao","preços","preise","インフレ","物價","물가","通胀","通脹"],
+ "Emprego e trabalho":["employment","unemployment","desemprego","emprego","arbeitsmarkt","失業","실업"],
+ "Investimento e empresas":["investment","investimento","investitionen","invest","企業","企业","empresas","기업","投資","投资"],
+ "Habitação":["habitação","housing","imobiliário","renda","alojamento","wohnungen","주택"],
  "Eleições e governação":["election","parliament","cabinet","选举","国务院","人大","選挙","国会","内閣","Bundestag","Bundesregierung","국회","정부","대통령","立法院","行政院","Lok Sabha","parliamentary"]
 }
 POLITICAL_WORDS=(
@@ -56,7 +61,8 @@ POLITICAL_WORDS=(
  "सरकार","संसद","चुनाव","नीति",
  "legislatur","legislation","national assembly","assembly passes","lawmakers","presidential","cabinet",
  "federal government","policy maker","ministerial","Bundesministerium","Bundeswirtschaft","Bundestagsfraktion",
- "Verordnung","Regierungsentwurf","대통령실","국무회의","입법","국회의원"
+ "Verordnung","Regierungsentwurf","대통령실","국무회의","입법","국회의원",
+ "governo","autarquia","câmara municipal","município","vereador","ministério","parlamento português","primeiro-ministro","orçamento do estado"
 )
 def relevant_native_politics(title,summary):
     t=f"{title} {summary}".casefold()
@@ -73,6 +79,28 @@ def relevant_native_auto(title,summary):
     """Only auto-related items from multi-topic RSS feeds, not unrelated business news."""
     t=f" {title} {summary} ".casefold()
     return any(w.casefold() in t for w in AUTO_WORDS)
+
+ECONOMIC_WORDS=(
+ "economia","económico","economica","economy","economic","financeiro","finanças",
+ "investimento","investir","investment","inflation","inflação","pib","gdp",
+ "exportaç","export","importaç","taxa de juro","banco central","emprego","desemprego",
+ "produção","empresas","business","finance","trade","growth",
+ "wirtschaft","konjunktur","arbeitsmarkt","inflationsrate",
+ "经济","經濟","景気","経済","物価","物價","成長率","貿易","경제","물가","성장률",
+ "निवेश","अर्थव्यवस्था"
+)
+def relevant_native_economy(title,summary=""):
+    t=f" {title} {summary} ".casefold()
+    return any(w.casefold() in t for w in ECONOMIC_WORDS)
+
+def relevant_braga(title,summary=""):
+    """Only city news: named Braga, excluding football club coverage."""
+    import re
+    t=f" {title} {summary} ".casefold()
+    if "braga" not in t and "bracarense" not in t:
+        return False
+    title=title.casefold()
+    return not bool(re.search(r"\b(?:s\.?c\.?\s*braga|sporting clube de braga|scb|futebol|football|golos?|liga portugal|champions league)\b",title))
 
 def topic_tags(title,summary=""):
     t=f" {title} {summary} ".casefold()

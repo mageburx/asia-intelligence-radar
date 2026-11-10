@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime,timedelta,timezone
-from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto
+from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto,relevant_native_economy,relevant_braga
 from asia_radar.report import make_payload,export_archive_csv,safe_csv
 from asia_radar.collector import detect_source_lang,feed_url,ROOT,retain_archive,ARCHIVE_DAYS
 import json, csv, tempfile
@@ -26,7 +26,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(trend_data(articles,now)[0]["status"],"Tema emergente")
     def test_new_public_rss_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        self.assertEqual(len(sources),41)
+        self.assertEqual(len(sources),55)
         ids={s["id"]:s for s in sources}
         expected={"de-bundesregierung-official","de-bundestag-official",
                   "kr-koreaherald-business","kr-yonhap-national","tw-taipeitimes",
@@ -50,17 +50,31 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(detect_source_lang("India auto manufacturing","Índia"),"en")
     def test_seven_country_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"}
-        self.assertEqual(set(s["country"] for s in sources if s["country"]!="Bosch"),countries)
+        countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal"}
+        self.assertEqual(set(s["country"] for s in sources if s["country"] not in {"Bosch","Braga"}),countries)
         for c in countries:
-            self.assertEqual(set(s["category"] for s in sources if s["country"]==c),{"Política","Automóvel"})
+            self.assertEqual(set(s["category"] for s in sources if s["country"]==c),{"Política","Automóvel","Economia"})
         self.assertEqual(len(set(s["id"] for s in sources)),len(sources))
         self.assertTrue(all(feed_url(s).startswith("https://") for s in sources))
+    def test_economy_portugal_and_braga(self):
+        sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
+        self.assertEqual(len(sources),55)
+        for loc in ("Portugal","Braga"):
+            self.assertEqual({s["category"] for s in sources if s["country"]==loc},
+                             {"Política","Automóvel","Economia"})
+        self.assertTrue(relevant_native_economy("PIB acelera e investimento cresce",""))
+        self.assertFalse(relevant_native_economy("Festival celebra a música",""))
+        self.assertTrue(relevant_braga("Câmara de Braga anuncia investimento",""))
+        self.assertFalse(relevant_braga("SC Braga venceu o jogo",""))
+        self.assertFalse(relevant_braga("Câmara de Guimarães anuncia investimento",""))
+        self.assertEqual(detect_source_lang("Empresas de Braga investem em emprego","Braga"),"pt")
+        self.assertEqual(detect_source_lang("Governo aprova medidas económicas","Portugal"),"pt")
     def test_empty_counts_seven_markets(self):
         p=make_payload([],{},datetime.now(timezone.utc))
-        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"):
+        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Braga"):
             self.assertIn(f"{country}|Política",p["counts24"])
             self.assertIn(f"{country}|Automóvel",p["counts24"])
+            self.assertIn(f"{country}|Economia",p["counts24"])
     def test_bosch_source_config(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
         bosch=[s for s in sources if s["country"]=="Bosch"]

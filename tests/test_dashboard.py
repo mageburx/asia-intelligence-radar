@@ -1,12 +1,13 @@
 import unittest
 from pathlib import Path
+from asia_radar.geo_upgrade import upgrade_geo_dashboard
 
 ROOT=Path(__file__).resolve().parents[1]
 
 class DashboardStructureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.doc=(ROOT/"docs"/"index.html").read_text(encoding="utf-8")
+        cls.doc=upgrade_geo_dashboard((ROOT/"docs"/"index.html").read_text(encoding="utf-8"))
 
     def test_three_independent_views(self):
         for view in ("countries","bosch","archive"):
@@ -35,7 +36,7 @@ class DashboardStructureTests(unittest.TestCase):
     def test_national_flags_are_local_svg_assets(self):
         page=self.doc
         country_codes={"China":"cn","Japão":"jp","Alemanha":"de","Coreia do Sul":"kr",
-                       "Taiwan":"tw","Índia":"in","Singapura":"sg"}
+                       "Taiwan":"tw","Índia":"in","Singapura":"sg","Portugal":"pt"}
         for country,code in country_codes.items():
             self.assertIn('data-country="'+country+'"',page)
             self.assertIn('src="assets/flags/'+code+'.svg"',page)
@@ -48,13 +49,15 @@ class DashboardStructureTests(unittest.TestCase):
         self.assertTrue((ROOT/"docs"/"assets"/"flags"/"LICENSE").exists())
 
     def test_countries_and_bosch_visuals(self):
-        self.assertEqual(self.doc.count('class="country-card"'),7)
-        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"):
+        self.assertEqual(self.doc.count('class="country-card"'),9)
+        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Braga"):
             self.assertIn('data-country="'+country+'"',self.doc)
         for category in ("Estratégia","Mobilidade","Indústria","Tecnologia","Pessoas","Portugal"):
             self.assertIn('data-bosch-category="'+category+'"',self.doc)
         self.assertIn('class="bosch-logo-plate',self.doc)
         self.assertIn('class="category-visual"',self.doc)
+        self.assertIn('data-category="Economia"',self.doc)
+        self.assertIn('id="economy-count"',self.doc)
 
 if __name__=="__main__":
     unittest.main()

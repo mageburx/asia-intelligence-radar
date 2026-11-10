@@ -4,7 +4,7 @@ Bot **independente** de vigilância noticiosa: política e indústria automóvel
 
 ## O que faz
 
-- 41 fontes/consultas (29 para países e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
+- 55 fontes/consultas (43 para geografias e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
 - Deduplicação por URL/categoria/país; retenção contínua de 30 dias (data de publicação). Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
@@ -127,3 +127,8 @@ A página mostra **um cartão por acontecimento identificado**. Quando há vári
 A aproximação é deliberadamente conservadora, sem APIs pagas: compara URLs normalizados e títulos originais ou traduzidos com semelhança elevada, apenas dentro do mesmo país/categoria e de 48 horas. Não estabelece equivalência factual nem confirma que duas notícias sejam sobre o mesmo evento. Pode falhar duplicados escritos noutras línguas ou com títulos muito diferentes, em vez de os fundir erradamente. O indicador de fontes conta nomes de publicações distintos, não organizações editoriais independentes auditadas.
 
 Implementação: `asia_radar/events.py` calcula `event_id` apenas no JSON apresentado no dashboard. `asia_radar/dashboard_upgrade.py` instala de forma idempotente a interface na geração horária de `docs/index.html`. O JSON e CSV originais preservam cada artigo.
+
+
+## Economia, Portugal e Braga (novembro de 2026)
+
+O radar monitoriza agora **8 países e a cidade de Braga** como área local separada. Economia junta-se às categorias Política e Automóvel. O separador Bosch mantém-se independente. Foram acrescentadas 14 fontes/consultas: sete pesquisas de Economia nos mercados anteriores; em Portugal, RTP Notícias País e Economia e pesquisas de automóveis e economia; em Braga, três pesquisas locais de política municipal, empresas/emprego e mobilidade. A cidade é representada como localidade, não como país. Os resultados têm filtros para reduzir desporto e requerem menções ao topónimo. Mantêm-se a recolha horária e o arquivo de 30 dias.

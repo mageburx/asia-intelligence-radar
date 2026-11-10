@@ -5,7 +5,7 @@ from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from urllib.parse import urlencode,urlsplit
 import feedparser, requests
-from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto
+from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto,relevant_native_economy,relevant_braga
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
@@ -49,6 +49,8 @@ def fetch_source(session,source,now,max_entries=40):
         if not title or urlsplit(link).scheme not in {"http","https"}: continue
         if source.get("filter")=="politics" and not relevant_native_politics(title,summary): continue
         if source.get("filter")=="automotive" and not relevant_native_auto(title,summary): continue
+        if source.get("filter")=="economy" and not relevant_native_economy(title,summary): continue
+        if source["country"]=="Braga" and not relevant_braga(title,summary): continue
         if source["country"]=="Bosch" and not bosch_relevant(title,summary,source.get("official",False)): continue
         published=published_time(entry,now)
         if parse_utc(published)<datetime.now(timezone.utc)-timedelta(days=10): continue
@@ -77,6 +79,7 @@ def detect_source_lang(text,country):
         re.search(r"[äöüßÄÖÜ]",text) or
         re.search(r"\b(der|die|das|den|dem|und|für|mit|von|bei|eine|einer|eines|werden|deutschen|deutschland|bundesregierung|bundestag|autoindustrie|zulieferer)\b",text.lower())
     ): return "de"
+    if country in {"Portugal","Braga"}: return "pt"
     if country=="Bosch":
         pt_markers=re.findall(r"\b(?:para|com|uma|dos|das|não|trabalhadores|fábrica|produção|investimento|portuguesa|empresa|anuncia)\b",text.casefold())
         if len(pt_markers)>=2: return "pt"

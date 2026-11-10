@@ -6,6 +6,7 @@ from pathlib import Path
 from .core import parse_utc,trend_data
 from .events import group_events, grouping_stats
 from .dashboard_upgrade import upgrade_dashboard
+from .geo_upgrade import upgrade_geo_dashboard
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
@@ -18,8 +19,8 @@ def make_payload(articles,status,now=None):
     now=now or datetime.now(timezone.utc)
     recent=[x for x in articles if timedelta(0)<=now-parse_utc(x.get("published_at",""))<timedelta(hours=24)]
     counts={}
-    for country in ["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura"]:
-        for category in ("Política","Automóvel"):
+    for country in ["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Braga"]:
+        for category in ("Política","Automóvel","Economia"):
             counts[f"{country}|{category}"]=sum(1 for a in recent if a.get("country")==country and a.get("category")==category)
     trends=trend_data(articles,now)
     first_run=status.get("first_run_at")
@@ -61,7 +62,7 @@ def main():
     export_archive_csv(articles)
     payload=json.dumps(make_payload(articles,status),ensure_ascii=False,separators=(",",":"))
     payload=payload.replace("<","\\u003c").replace(">","\\u003e").replace("&","\\u0026")
-    template=upgrade_dashboard(OUT.read_text(encoding="utf-8"))
+    template=upgrade_geo_dashboard(upgrade_dashboard(OUT.read_text(encoding="utf-8")))
     marker=r'(<script id="payload" type="application/json">).*?(</script>)'
     if not re.search(marker,template,re.S): raise RuntimeError("Missing dashboard payload marker")
     page=re.sub(marker,lambda m:m.group(1)+payload+m.group(2),template,count=1,flags=re.S)
