@@ -4,7 +4,7 @@ Bot **independente** de vigilância noticiosa: política e indústria automóvel
 
 ## O que faz
 
-- 55 fontes/consultas (43 para geografias e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
+- 57 fontes/consultas (45 para geografias e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
 - Deduplicação por URL/categoria/país; retenção contínua de 30 dias (data de publicação). Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
@@ -132,3 +132,10 @@ Implementação: `asia_radar/events.py` calcula `event_id` apenas no JSON aprese
 ## Economia, Portugal e Braga (novembro de 2026)
 
 O radar monitoriza agora **8 países e a cidade de Braga** como área local separada. Economia junta-se às categorias Política e Automóvel. O separador Bosch mantém-se independente. Foram acrescentadas 14 fontes/consultas: sete pesquisas de Economia nos mercados anteriores; em Portugal, RTP Notícias País e Economia e pesquisas de automóveis e economia; em Braga, três pesquisas locais de política municipal, empresas/emprego e mobilidade. A cidade é representada como localidade, não como país. Os resultados têm filtros para reduzir desporto e requerem menções ao topónimo. Mantêm-se a recolha horária e o arquivo de 30 dias.
+
+
+## Braga – filtro municipal rigoroso (novembro 2026)
+
+As três consultas genéricas foram substituídas por cinco fontes locais: Diário do Minho, Correio do Minho, O MINHO, Braga TV e Verde Minho Televisão (VMTV). Os dois primeiros recorrem a pesquisas Google News restritas aos respetivos domínios; os três últimos a RSS nativo. A referência a Braga deve ser concretamente geográfica e sobre o concelho (não sobre o distrito, o clube, apelidos ou municípios brasileiros). As notícias gerais locais são classificadas como Atualidade, mantendo Política, Automóvel/mobilidade e Economia quando apropriado.
+
+Os registos antigos do separador Braga provenientes das buscas mundiais são removidos do arquivo ativo na próxima execução, mantendo-se nos commits antigos do Git. As restantes geografias e a Bosch mantêm as suas fontes. O filtro favorece precisão e pode omitir notícias locais com títulos demasiado genéricos. Não extrai artigos completos ou conteúdos pagos.

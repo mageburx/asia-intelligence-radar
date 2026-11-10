@@ -8,6 +8,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 from .collector import DATA, STATUS, ARCHIVE_DAYS, read_json, save_json, retain_archive
+from .braga_local import filter_records
 
 
 TRANSLATED = ("translated_title", "translated_summary", "translated_lang",
@@ -39,7 +40,7 @@ def combine_articles(current, collected):
         if old.get("first_seen_at") and incoming.get("first_seen_at"):
             merged["first_seen_at"] = min(old["first_seen_at"], incoming["first_seen_at"])
         result[ident] = merged
-    rows = retain_archive(result.values())
+    rows = retain_archive(filter_records(result.values()))
     return sorted(rows, key=lambda a: a.get("published_at", ""), reverse=True)
 
 

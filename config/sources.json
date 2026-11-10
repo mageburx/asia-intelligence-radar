@@ -563,39 +563,54 @@
     "max_entries": 35
   },
   {
-    "id": "braga-politics",
+    "id": "braga-diario-minho",
     "country": "Braga",
-    "category": "Política",
-    "name": "Braga · Política municipal",
+    "category": "Atualidade",
+    "name": "Diário do Minho · Braga",
     "kind": "google",
-    "query": "Braga (Câmara OR autarquia OR vereador OR \"Assembleia Municipal\" OR freguesia OR município) -futebol -desporto when:7d",
+    "query": "site:diariodominho.pt Braga when:7d",
     "locale": "pt-PT",
     "gl": "PT",
     "ceid": "PT:pt-150",
-    "max_entries": 35
+    "max_entries": 45
   },
   {
-    "id": "braga-auto",
+    "id": "braga-correio-minho",
     "country": "Braga",
-    "category": "Automóvel",
-    "name": "Braga · Mobilidade e transportes",
+    "category": "Atualidade",
+    "name": "Correio do Minho · Braga",
     "kind": "google",
-    "query": "Braga (mobilidade OR transportes OR autocarros OR trânsito OR estacionamento OR automóvel OR elétricos) -futebol when:7d",
+    "query": "site:correiodominho.pt Braga when:7d",
     "locale": "pt-PT",
     "gl": "PT",
     "ceid": "PT:pt-150",
-    "max_entries": 35
+    "max_entries": 45
   },
   {
-    "id": "braga-economy",
+    "id": "braga-ominho",
     "country": "Braga",
-    "category": "Economia",
-    "name": "Braga · Empresas, indústria e emprego",
-    "kind": "google",
-    "query": "Braga (economia OR empresas OR indústria OR investimento OR emprego OR habitação OR comércio) -futebol -desporto when:7d",
-    "locale": "pt-PT",
-    "gl": "PT",
-    "ceid": "PT:pt-150",
-    "max_entries": 35
+    "category": "Atualidade",
+    "name": "O MINHO · Braga",
+    "kind": "rss",
+    "url": "https://ominho.pt/feed/",
+    "max_entries": 70
+  },
+  {
+    "id": "braga-bragatv",
+    "country": "Braga",
+    "category": "Atualidade",
+    "name": "Braga TV · Braga",
+    "kind": "rss",
+    "url": "https://bragatv.pt/feed/",
+    "max_entries": 60
+  },
+  {
+    "id": "braga-vmtv",
+    "country": "Braga",
+    "category": "Atualidade",
+    "name": "VMTV · Braga",
+    "kind": "rss",
+    "url": "https://vmtv.sapo.pt/feed/",
+    "max_entries": 60
   }
 ]

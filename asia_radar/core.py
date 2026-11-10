@@ -94,13 +94,9 @@ def relevant_native_economy(title,summary=""):
     return any(w.casefold() in t for w in ECONOMIC_WORDS)
 
 def relevant_braga(title,summary=""):
-    """Only city news: named Braga, excluding football club coverage."""
-    import re
-    t=f" {title} {summary} ".casefold()
-    if "braga" not in t and "bracarense" not in t:
-        return False
-    title=title.casefold()
-    return not bool(re.search(r"\b(?:s\.?c\.?\s*braga|sporting clube de braga|scb|futebol|football|golos?|liga portugal|champions league)\b",title))
+    """Compatibility layer, Braga as a municipality rather than a surname."""
+    from .braga_local import is_braga_local
+    return is_braga_local(title,summary,source_id="braga-ominho")
 
 def topic_tags(title,summary=""):
     t=f" {title} {summary} ".casefold()

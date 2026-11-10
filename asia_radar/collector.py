@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.parse import urlencode,urlsplit
 import feedparser, requests
 from .core import article_id,clean_text,relevant_native_politics,topic_tags,parse_utc,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto,relevant_native_economy,relevant_braga
+from .braga_local import is_braga_local, classify_braga, filter_records
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
@@ -50,11 +51,11 @@ def fetch_source(session,source,now,max_entries=40):
         if source.get("filter")=="politics" and not relevant_native_politics(title,summary): continue
         if source.get("filter")=="automotive" and not relevant_native_auto(title,summary): continue
         if source.get("filter")=="economy" and not relevant_native_economy(title,summary): continue
-        if source["country"]=="Braga" and not relevant_braga(title,summary): continue
+        if source["country"]=="Braga" and not is_braga_local(title,summary,link,source["id"]): continue
         if source["country"]=="Bosch" and not bosch_relevant(title,summary,source.get("official",False)): continue
         published=published_time(entry,now)
         if parse_utc(published)<datetime.now(timezone.utc)-timedelta(days=10): continue
-        category=bosch_category(title,summary,source["category"]) if source["country"]=="Bosch" else source["category"]
+        category=(bosch_category(title,summary,source["category"]) if source["country"]=="Bosch" else classify_braga(title,summary) if source["country"]=="Braga" else source["category"])
         identity_category="Bosch" if source["country"]=="Bosch" else category
         rows.append({"id":article_id(source["country"],identity_category,link,title),
             "country":source["country"],"category":category,"source":source["name"],
@@ -155,7 +156,7 @@ def main():
     target=os.getenv("TARGET_LANG","pt").lower().strip()
     if target not in {"pt","en"}: raise SystemExit("TARGET_LANG must be pt or en")
     sources=read_json(SOURCES,[])
-    previous=read_json(DATA,[])
+    previous=filter_records(read_json(DATA,[]))
     for article in previous:
         if article.get("country")=="Bosch":
             article["topics"]=list(dict.fromkeys(topic_tags(article.get("original_title",""),article.get("original_summary",""))+bosch_topic_tags(article.get("original_title",""),article.get("original_summary",""))))
@@ -174,7 +175,7 @@ def main():
             except Exception as exc:
                 errors.append({"source":source["id"],"error":f"{type(exc).__name__}: {str(exc)[:180]}"})
                 print(f"Source error [{source['id']}]: {exc}")
-    articles=retain_archive(index.values())
+    articles=retain_archive(filter_records(index.values()))
     translated,failed=translate_backlog(articles,target,int(os.getenv("MAX_TRANSLATIONS","40")))
     articles.sort(key=lambda a:a.get("published_at",""),reverse=True)
     save_json(DATA,articles)

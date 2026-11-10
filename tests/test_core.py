@@ -26,7 +26,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(trend_data(articles,now)[0]["status"],"Tema emergente")
     def test_new_public_rss_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        self.assertEqual(len(sources),55)
+        self.assertEqual(len(sources),57)
         ids={s["id"]:s for s in sources}
         expected={"de-bundesregierung-official","de-bundestag-official",
                   "kr-koreaherald-business","kr-yonhap-national","tw-taipeitimes",
@@ -58,10 +58,11 @@ class RadarTests(unittest.TestCase):
         self.assertTrue(all(feed_url(s).startswith("https://") for s in sources))
     def test_economy_portugal_and_braga(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        self.assertEqual(len(sources),55)
-        for loc in ("Portugal","Braga"):
-            self.assertEqual({s["category"] for s in sources if s["country"]==loc},
-                             {"Política","Automóvel","Economia"})
+        self.assertEqual(len(sources),57)
+        self.assertEqual({s["category"] for s in sources if s["country"]=="Portugal"},
+                         {"Política","Automóvel","Economia"})
+        self.assertEqual({s["category"] for s in sources if s["country"]=="Braga"},
+                         {"Atualidade"})
         self.assertTrue(relevant_native_economy("PIB acelera e investimento cresce",""))
         self.assertFalse(relevant_native_economy("Festival celebra a música",""))
         self.assertTrue(relevant_braga("Câmara de Braga anuncia investimento",""))
