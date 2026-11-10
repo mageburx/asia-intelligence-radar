@@ -1,5 +1,137 @@
 [
   {
+    "id": "60cb4472937f8e79c831",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73808",
+    "original_title": "安全保障関連3文書 改定へ協議 「新しい戦い方」に対応へ",
+    "original_summary": "政府が年末までに改定する「安全保障関連の3文書」。 与党の作業チームが初会合を開きました。 会合で政府が示したのは、防衛力強化の方向性です。 「新しい戦い方」への対応としてAIの活用などが検討さ…",
+    "published_at": "2026-11-10T13:02:16+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Consultas sobre a revisão de três documentos relacionados à segurança para responder à \"nova maneira de lutar\"",
+    "translated_summary": "“Três documentos relacionados à segurança” revisados pelo governo até o final do ano. A equipa de trabalho do partido no poder realizou a sua primeira reunião. O que o governo mostrou na reunião foi o direcionamento do fortalecimento das nossas defesas. Considerando o uso da IA como resposta à “nova forma de lutar”...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:48+00:00"
+  },
+  {
+    "id": "1e3756ca35298f5fc773",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQW0yb004aUd4RlJwU0JxNVJTMDVSbDRfazZ1dWZtbnhKQmtWTEhnaW8yN25lTXp6aklBS2xFMFJDRW9sRWNxU0F1My1UVzZ0S3pyMXpubHpYX3FPSnpDYnRadFFMRUViXzFIdXh0X1NaZ3pIQ0xUMDVJVURhTzNqMk5wQWFnMVFoT1FLem9IOWdFTVFhNEotU3ZiQ0EzRG9hOGxRcC1pVGI3eEVHOEJDcC11eVIwSlY4aGx3eDlONDJqemd3cDJ3TzMzSFEwSDl2VzF0dURwME1CSHZvT1E?oc=5",
+    "original_title": "Lakshadweep and Andaman & Nicobar Islands to drive India’s Blue Economy push through tuna, seaweed and ornamental fisheries | DD News - DD News",
+    "original_summary": "Lakshadweep and Andaman & Nicobar Islands to drive India’s Blue Economy push through tuna, seaweed and ornamental fisheries | DD News DD News",
+    "published_at": "2026-11-10T13:02:04+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Lakshadweep e Ilhas Andaman e Nicobar para impulsionar a Economia Azul da Índia através da pesca de atum, algas marinhas e ornamentais | DD News - DD News",
+    "translated_summary": "Lakshadweep e Ilhas Andaman e Nicobar para impulsionar a Economia Azul da Índia através da pesca de atum, algas marinhas e ornamentais | DD News DD News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:25+00:00"
+  },
+  {
+    "id": "b5cfc2235fddf0edb6fe",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729793.shtml",
+    "original_title": "重庆两江新区力争2030年GDP实现8000亿元",
+    "original_summary": "中新网重庆11月10日电 (记者 钟旖)在重庆市政府新闻办10日举行的发布会上，重庆市两江新区区委常委、区政府常务副区长肖文军表示，“十五五”时期，两江新区力争到2030年GDP实现8000亿元，当好现代化新重庆建设的主阵地、主力军和主引擎。",
+    "published_at": "2026-11-10T12:55:20+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Nova Área de Chongqing Liangjiang se esforça para atingir um PIB de 800 bilhões de yuans até 2030",
+    "translated_summary": "Chongqing, 10 nov (Xinhua) -- Em uma coletiva de imprensa realizada pelo Gabinete de Informação do Governo Municipal de Chongqing no dia 10, Xiao Wenjun, Membro do Comitê Permanente do Comitê do PCC do Comitê do PCC do Novo Distrito de Chongqing Liangjiang e Vice-Presidente Executivo do Governo do PCC de Chongqing, disse que durante o período do \"15º Plano Quinquenal\", o Novo Distrito de Liangjiang se esforçou para alcançar um PIB de 800 bilhões de yuans até 2030, e serviu como a principal posição, principal força e principal motor para a construção do novo Chongqing moderno.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:41+00:00"
+  },
+  {
+    "id": "3e5b19f8ff6aeed87879",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUnVaQ05RMzV4eDI4cE5qeWRIRmRCRkhwMFNqeXQ4Q1V2YzZaZWo1QWlMVlItS3JwM3BESWFTYkc1YlA1UzU5SFR5U0RRczhtYTdBRm1PNDl0U3VHTGJlOUVFQ1dycnlQMWZVT1JNYXpPU0VUNGVPNTRVQTltdFhUSHBkTXU5X1hYc2VuaFhLdEo3N1lyWWZCa3ZQNHNQTVd3cjVna3BDTHpFeXpLOXhwaVdQM213enpDNmJPODBJRVpmZWJxQ3A4bll2M3daUE9USVYzQTdpWFBOZWlRaGU2VjNZZjAwTkcxQVJJ0gHwAUFVX3lxTE9JOHlfWU1FSU9HblZRZUhHLUVuTmdiNkFzNm9wZ2VrZE43V3pSVlZ1bUc3cEdNQnFVUkJjZWFRcV9WUWFWc2s0VldXVTFCVGdyYm56WjM2ZEpWS1V5Um5ZRXJmUTFmV2RZTDVSNU1KeFBqWFRrX2swVVBBbDdLMUtzM0x3NGlybHJZNm05dV90ZGEyRVY4WEwtSGY5Y0JlTXhIS2RCVjI4b2xsXzBqMlp4ODI1eW1IOWVQZGtzQmtWb2RWaE9iU282eW84QVdGLVFEbHZwcURmZ09XWVVuMld2U3dtZk5ON3BUWHFNamFVQg?oc=5",
+    "original_title": "India may get a better trade deal: Samir Saran on renegotiating with the US - The Economic Times",
+    "original_summary": "India may get a better trade deal: Samir Saran on renegotiating with the US The Economic Times",
+    "published_at": "2026-11-10T12:49:29+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia pode conseguir um acordo comercial melhor: Samir Saran sobre renegociação com os EUA - The Economic Times",
+    "translated_summary": "A Índia pode conseguir um acordo comercial melhor: Samir Saran sobre a renegociação com os EUA The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:04+00:00"
+  },
+  {
+    "id": "8d37a93b390ad4981d31",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/10/automakers-shares-china-nev-exports-oct-2026/",
+    "original_title": "Automakers' shares of China's NEV exports in October: BYD leads with 28.3%, Tesla rises to 10.1%",
+    "original_summary": "BYD exported 164,679 NEVs in October, down 5.5% from September, with its share falling 2.8 percentage points. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-10T12:44:38+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Tarifas e comércio",
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Participações das montadoras nas exportações de Nev da China em outubro: BYD lidera com 28,3%, Tesla sobe para 10,1%",
+    "translated_summary": "A BYD exportou 164.679 NEVs em outubro, uma queda de 5,5% em relação a setembro, com sua participação caindo 2,8 pontos percentuais. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:45+00:00"
+  },
+  {
+    "id": "72122160bb614e1082cd",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729741.shtml",
+    "original_title": "王毅同法国外长巴罗通电话",
+    "original_summary": "中共中央政治局委员、外交部长王毅10日应约同法国外长巴罗通电话。",
+    "published_at": "2026-11-10T12:35:09+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Wang Yi ao telefone com o ministro das Relações Exteriores da França, Barrow",
+    "translated_summary": "No dia 10, Wang Yi, membro do Birô Político do Comitê Central do Partido Comunista da China e Ministro das Relações Exteriores, conversou por telefone com o Ministro das Relações Exteriores da França, Barrow.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:37+00:00"
+  },
+  {
     "id": "ddadce2f0d2af567b57e",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -18,6 +150,28 @@
     "translated_summary": "Mercedes EQE Order Stop: Desligado para Sedan e SUV na Alemanha Schmidtis Blog",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:38:15+00:00"
+  },
+  {
+    "id": "b3dcdb8acd22dff6e8d8",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmVxM25uaXdmdWlnSkpsX0QxdHJBTHNVQThKSnJOSjRWZk5BRDIzcnJPWjllYUt4YkRJTFpmTWdHd1BuN0ZhMm9MUUxVbjRaYVN5MWo5Ukx3SHd0YWQzNktUa1BJRHAzOFRYSDA5SFRjNG5lcTN0aDduYWJqNi0tWWF6VjZrSjFWemlGOTBkVmp1VVp1NFR5Tmd4TUMxVWZMQWlWbEpERnE1V211MjZFQlVzdUNtSm1TUkxZdDJmd0tXWkU?oc=5",
+    "original_title": "EZB-Präsident: Warum Deutschland den Spitzenposten nicht besetzen sollte - Wirtschaft - SZ.de - SZ.de",
+    "original_summary": "EZB-Präsident: Warum Deutschland den Spitzenposten nicht besetzen sollte - Wirtschaft - SZ.de SZ.de",
+    "published_at": "2026-11-10T12:31:40+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente do BCE: Por que a Alemanha não deve ocupar o primeiro lugar - Economia - SZ.de - SZ.de",
+    "translated_summary": "Presidente do BCE: Por que a Alemanha não deve ocupar o primeiro lugar - Economia - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:16+00:00"
   },
   {
     "id": "9c07c934e8326847a6cf",
@@ -589,6 +743,28 @@
     "translated_summary": "Beijing, 10 nov (Xinhua) -- Zhao Leji, membro do Comitê Permanente do Birô Político do Comitê Central do Partido Comunista da China e presidente do Comitê Permanente do Congresso Nacional Popular, reuniu-se em Beijing no dia 10 com uma delegação de quadros multipartidários colombianos liderada pelo presidente da Câmara, Bajir.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T11:55:41+00:00"
+  },
+  {
+    "id": "a7d1f5ce3f59ab9ae7ed",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "www.nationpathindia.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVFMOFJBT0lxZDJoVnN3Vzl2Q0NjdHpWTjdjZXFkNUlpa3FhZnppWktjRzd2NGNpY1lZRFlkUnFRMTdhYzZycFdZNGlXcGl6WVJGaHdYbkw1eVdoME1adnM1bW9oZS05NWNISDI2dWxRUXBTYjhNdVBBelAtQU4tQ1FqbHd4MWFzS3c4NkRObE9McTdYZTNpZEFNTUlYN0FkbHNJR2xLNml5QQ?oc=5",
+    "original_title": "Election Commission Extends Political Neutrality Rules to Retired Officials in Five Poll-Bound States - www.nationpathindia.com",
+    "original_summary": "Election Commission Extends Political Neutrality Rules to Retired Officials in Five Poll-Bound States www.nationpathindia.com",
+    "published_at": "2026-11-10T11:16:38+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Comissão Eleitoral Estende Regras de Neutralidade Política a Funcionários Aposentados em Cinco Estados Unidos - www.nationpathindia.com",
+    "translated_summary": "Comissão Eleitoral Estende Regras de Neutralidade Política a Funcionários Aposentados em Cinco Estados Vinculados à Sondagem www.nationpathindia.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:59+00:00"
   },
   {
     "id": "45e933fe3dcc5b24196c",
@@ -1559,6 +1735,28 @@
     "last_translation_attempt_at": "2026-11-10T10:58:02+00:00"
   },
   {
+    "id": "a830934cd7343ee27012",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Tagesspiegel",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0ZIVGFUd0Q4eWUxTktqWjlLQnlpQ012SEZzd2ZtaGcycWN3aTk3NHoyUmVCMklUNWhyYTV4OEVqQWwxWHVIWXBrSVRNbFRSUEN6VHZpanNLSjFMM3FHQUVFeW1VVUQtcFYtZUhsdXZEalVpTVJjUEVaZE56MllONGY1VldwUW5uWkcwNXZ0aHIwVzJ0RzZBbEdWbFNuSk42bGhNYXd5TVpyOG5IUFZOWHVPX1YxWXFYdHB5ZElSVWw3RklHVjFMVmNPRVpVMjQ?oc=5",
+    "original_title": "„House of Germany“: Deutschland kündigt Repräsentanz bei Weltwirtschaftsforum an - Tagesspiegel",
+    "original_summary": "„House of Germany“: Deutschland kündigt Repräsentanz bei Weltwirtschaftsforum an Tagesspiegel",
+    "published_at": "2026-11-10T09:19:53+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Casa da Alemanha\": Alemanha anuncia representação no Fórum Económico Mundial - Tagesspiegel",
+    "translated_summary": "\"Casa da Alemanha\": Alemanha anuncia escritório de representação no Fórum Econômico Mundial Tagesspiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:13+00:00"
+  },
+  {
     "id": "ce40a251c4704e248bf4",
     "country": "Alemanha",
     "category": "Política",
@@ -1777,6 +1975,29 @@
     "last_translation_attempt_at": "2026-11-10T10:57:44+00:00"
   },
   {
+    "id": "eb7f8142aea3d56e13fd",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国日报网",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wdXJPbzU0YjZjNjdCcHA3d1E4TkFoTDJ4RE13OWRDa0Y3UmwxMVluZ3dySGlNN1NmVlh1VjRrRzl1Z1JWWlBvWF9temI1LTNla3FXeGVNNFczQXQ3RXJRS3hIeEJSWldndXM5a0cwWGx3RXB6MDEwcnlUSUs?oc=5",
+    "original_title": "【中国那些事儿】中国创新集群领跑全球，新质赛道投资活力持续释放 - 中国日报网",
+    "original_summary": "【中国那些事儿】中国创新集群领跑全球，新质赛道投资活力持续释放 中国日报网",
+    "published_at": "2026-11-10T09:01:20+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Essas coisas na China] O cluster de inovação da China lidera o mundo, e a vitalidade do investimento de novas pistas de corrida de qualidade continua a ser lançada - China Daily",
+    "translated_summary": "[Essas coisas na China] O cluster de inovação da China lidera o mundo, e a vitalidade do investimento da nova trilha de qualidade continua a liberar a vitalidade do China Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:10+00:00"
+  },
+  {
     "id": "0c2686725c19f67d5463",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -1903,6 +2124,28 @@
     "translated_summary": "BASF, Hyundai Kia e Alten Korea e Kia EV3 Carro de Estudo 2.0 Ficha Conceitual Motorgrafia de Desenvolvimento Conjunto",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T10:00:12+00:00"
+  },
+  {
+    "id": "fbe38c0722f2d2e7eb39",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SWFnLXZEWDFyVUM4UWpRZXFDWTdieHZaa2hzUkxFcXQxbWRSLTdXaUw2cUpzNHNDNkxOdGRrTE1fdG1Sa2pBZjVTRXRPMUVHeXR2X3FPNHhGZw?oc=5",
+    "original_title": "NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 - 한국경제",
+    "original_summary": "NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 한국경제",
+    "published_at": "2026-11-10T08:50:03+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A NHN tem um limite para o desempenho trimestral máximo... A receita da nuvem é Hyoja - Korea Economy",
+    "translated_summary": "NHN, o limite superior do desempenho máximo no trimestre... As vendas na nuvem são da Hyoja Korea Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:22+00:00"
   },
   {
     "id": "cbecd52589afb0eda566",
@@ -2158,6 +2401,28 @@
     "last_translation_attempt_at": "2026-11-10T11:56:41+00:00"
   },
   {
+    "id": "6c6ce9b7d07106af7fa4",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LVFlRSWNZSkFPWldPT0J5TTlqaWRUVW5DN3oySkw4RjNMY0FkbXpXemFwWlFmcjNRb1ozd3lrRzMzcmZ4dGp4NGNBblBhS24zWFHSAVNBVV95cUxQQVVKdnRyTFpyQ2VhY0thM25ncjBoRjBWMDZ0TUUza1hJZUZOYTVpQmFGSDFxX25nbUFkdWRQTUZVSnZSNGM2UlRhd19lZHR2ckxUMA?oc=5",
+    "original_title": "금융硏 “내년 한국경제 3.1% 성장” - 서울경제",
+    "original_summary": "금융硏 “내년 한국경제 3.1% 성장” 서울경제",
+    "published_at": "2026-11-10T08:10:20+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Finanças \"A economia coreana crescerá 3,1% no próximo ano\" - Economia de Seul",
+    "translated_summary": "Finanças \"A economia coreana crescerá 3,1% no próximo ano\" A economia de Seul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:19+00:00"
+  },
+  {
     "id": "0ad037fca20246fb92b1",
     "country": "China",
     "category": "Política",
@@ -2264,6 +2529,29 @@
     "last_translation_attempt_at": "2026-11-10T08:23:09+00:00"
   },
   {
+    "id": "9791467b31883387168b",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRmhETHIzeml5RzliR201SU16ZTRNWjI4OGZtUlNKN2RRZ2g4b0hBSUhVTXhvd2ZlX1BBVk0wdWs4djg1M2RHRDd2cmkzMDYyZGN2Mk9SRWxRQQ?oc=5",
+    "original_title": "匯明獲品牌金舶獎 引領社區電動車充電 | 熱門亮點 | 商情 - 經濟日報",
+    "original_summary": "匯明獲品牌金舶獎 引領社區電動車充電 | 熱門亮點 | 商情 經濟日報",
+    "published_at": "2026-11-10T08:02:26+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Huiming ganha o Brand Gold Ship Award por liderar o carregamento comunitário de veículos elétricos | Destaques | Business Intelligence - Economic Daily",
+    "translated_summary": "Huiming ganha o Brand Gold Ship Award por liderar o carregamento comunitário de veículos elétricos | Destaques quentes | Business & Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:56+00:00"
+  },
+  {
     "id": "657bfde09629dd3d4d98",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -2280,11 +2568,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[2027 Korea Economic Outlook] Tempestade de semicondutores continua... Crescimento para 3% no próximo ano - Economia da Coreia",
+    "translated_summary": "[2027 Korea Economic Outlook] Tempestade de semicondutores continua... crescimento de 3% na economia da Coreia no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:34+00:00"
   },
   {
     "id": "0c8eeb7c8245651265a2",
@@ -2331,6 +2619,26 @@
     "translated_summary": "Resiliência para discutir o crédito fiscal de produção na ofensiva EV... Quais são os efeitos da produção e do emprego? SmartToday",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T08:23:26+00:00"
+  },
+  {
+    "id": "70876c5d3e3d7cbd9a68",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHh3M1pZZHBlOHlYZWJxQWZBVm9kRG1GZFZuVXdlZUVLZDFZUUFRWkE0N003bnNPVVdJTGpDUUZkV0ZzTmo3NU8xTEVCc0NQQUtYTWNCa2lWWEFUeW9vTl9rMU1fSmZmc1JvcndQdXN3ZHVMeWpSYTlGamN4ZTBMQXZKUnVUblVReUJoeG5GMnZuYlU5aXZMZGxVVFc0b2oxekRGZVdwTVM1M3dLb1hScWpfX0hKc0Fka0c3YktfRTB5ZEtORXJZ?oc=5",
+    "original_title": "COP31: Singapore launches blended finance initiative to fund climate adaptation in South-east Asia - The Business Times",
+    "original_summary": "COP31: Singapore launches blended finance initiative to fund climate adaptation in South-east Asia The Business Times",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "COP31: Singapura lança iniciativa de financiamento misto para financiar a adaptação climática no Sudeste Asiático - The Business Times",
+    "translated_summary": "COP31: Singapura lança iniciativa de financiamento misto para financiar a adaptação climática no Sudeste Asiático The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:28+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
@@ -2435,6 +2743,26 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "77520da93b0022dc1ba9",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblNwWnAzenp4cGdxcGhJMDFhQTZUc1habFhCRzBhQy1XSlUzMHVHdFhSYVp2d05qTm0zLXVrd2FqS2ZCOTU0T0o0VGkxMXZMa0p1ZS1TVmozcTNucFB4NGRBdldGMG1GUFBFRGVlY2Jab2pZVDh5UFBnc2ROWWd3RWlIRDdJMUtWMG1TOVhZNV9rU21ZZXZnbWY5b2oxNXFjOHNKYWpaRW5XR1V0a0JSM0d2U3RxWTJiZ3dqdDF3cllsblZCWXV0MU5HbU9VRTdsTUU4?oc=5",
+    "original_title": "Carros elétricos reduziram em cinco vezes a queima de petróleo nos últimos cinco anos - SAPO",
+    "original_summary": "Carros elétricos reduziram em cinco vezes a queima de petróleo nos últimos cinco anos SAPO",
+    "published_at": "2026-11-10T07:46:00+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos reduziram em cinco vezes a queima de petróleo nos últimos cinco anos - SAPO",
+    "translated_summary": "Carros elétricos reduziram em cinco vezes a queima de petróleo nos últimos cinco anos SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:32+00:00"
+  },
+  {
     "id": "a37d57593db612bbf2ab",
     "country": "China",
     "category": "Automóvel",
@@ -2514,11 +2842,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Standard Chartered mantém a previsão do PIB de Taiwan para atingir 12,8% durante todo o ano - Economia Livre",
+    "translated_summary": "Estima-se que a revisão em alta do Standard Chartered da previsão do PIB de Taiwan atinja 12,8% da economia livre este ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:37+00:00"
   },
   {
     "id": "760a71ba4d53c4ea78d3",
@@ -2534,11 +2862,11 @@
     "published_at": "2026-11-10T07:32:25+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities, Mogan Stanley Management Research Materials Fornecidos Exclusivamente na Coreia - Yonhap Infomax",
+    "translated_summary": "Os materiais da Korea Investment & Securities, Morgan Stanley Management Research serão fornecidos exclusivamente na Korea Yonhap Infomax",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:40+00:00"
   },
   {
     "id": "c6f19c3af3686e40081a",
@@ -2574,11 +2902,11 @@
     "published_at": "2026-11-10T07:30:00+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Autoeuropa entre a esperança e a incerteza: novo elétrico chega a Palmela, mas crise da Volkswagen preocupa trabalhadores - Executive Digest",
+    "translated_summary": "Autoeuropa entre a esperança e a incerteza: novo elétrico chega a Palmela, mas crise da Volkswagen preocupa trabalhadores Executive Digest",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:42+00:00"
   },
   {
     "id": "6b68d73d79e1dfe752ee",
@@ -2983,6 +3311,46 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "6de0fc1a89361f38d4e2",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "DN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRkozNm0tWW9IYnp5ZGdrQ1hpZElIRkRhX2FaQXN1VWdyZnpjUmRlaFlac2l2VHBISnYteWpUdmVTYTQ1bnNpREdkN1RKQ3RCR3Z1WFFvMnJIS0Ytc0p3cThId0hJVU00NTdwSUFiY252bkJjZjFEb080aERuNHh1MHpHYThfSEhWRkMzSVhzaGRmUzJmMGpsemhBUl8zbFVQX1A4Ym00WjgwdDlQNS1wVnV6MjJnUjYwbnJsclE5Q1JWMXFwdWxNV1ppdldLRTlEOUFETQ?oc=5",
+    "original_title": "O jornal do Brasil em Portugal - DN Brasil",
+    "original_summary": "O jornal do Brasil em Portugal DN Brasil",
+    "published_at": "2026-11-10T07:00:00+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O jornal do Brasil em Portugal - DN Brasil",
+    "translated_summary": "O jornal do Brasil em Portugal DN Brasil",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:33+00:00"
+  },
+  {
+    "id": "8bb5f86444f62a02e5d8",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Connected to India",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUVIeU1xODdpN0RubXdDRzFIbFFNX2ozSW9Ya3pvVzl6NjdoQWw1WnBzeFpTNml2OGR4NUZqTEFkSFI0NEVuM1lUWWcxdFZrbDdyN291amdZU2gwVERaZVBOZEJsUnRDbFVJRG5lM3RNX0lIZWk1d2tGenNKNjJqSko4aXBTb2NMWTVodTZuR040ZnpyNjB4QThwcU5CMFI4QUhjNHFYLWRyWUp2Rnh5ZWYwdWgwRC1fbU91Vmk2VQ?oc=5",
+    "original_title": "Albanese government moves to tighten Australia’s AI safety rules with mandatory standards - Connected to India",
+    "original_summary": "Albanese government moves to tighten Australia’s AI safety rules with mandatory standards Connected to India",
+    "published_at": "2026-11-10T06:58:13+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo albanês toma medidas para reforçar as regras de segurança de IA da Austrália com padrões obrigatórios - Conectado à Índia",
+    "translated_summary": "Governo albanês adota medidas para reforçar as regras de segurança de IA da Austrália com padrões obrigatórios Conectado à Índia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:02+00:00"
   },
   {
     "id": "79589de8e471b12cf0d5",
@@ -4491,11 +4859,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fundamentos mais Standard Chartered para aumentar a previsão do PIB de Taiwan para 12,8% e 7,5% nos próximos dois anos - Economic Daily",
+    "translated_summary": "Fundamentals mais Standard Chartered e aumentar a previsão de crescimento do PIB de Taiwan em 12,8% e 7,5% nos próximos dois anos Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:43+00:00"
   },
   {
     "id": "0de0f2abfa1360293de8",
@@ -4641,11 +5009,11 @@
     "published_at": "2026-11-10T04:12:59+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MAS lança serviço de cofragem de ouro para bancos centrais estrangeiros - Singapore Business Review",
+    "translated_summary": "MAS lança serviço de vaulting de ouro para bancos centrais estrangeiros Singapore Business Review",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:46+00:00"
   },
   {
     "id": "6021a39dd6c93644d6f3",
@@ -5008,11 +5376,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os preços do ouro diminuem à medida que o foco muda para os dados de inflação dos EUA - Reuters",
+    "translated_summary": "Os preços do ouro diminuem à medida que o foco muda para os dados de inflação dos EUA Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:49+00:00"
   },
   {
     "id": "65fc128228bf1ea44cdc",
@@ -5247,11 +5615,11 @@
     "published_at": "2026-11-10T03:04:00+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cingapura lançará serviço de cofre de ouro para bancos centrais estrangeiros - Reuters",
+    "translated_summary": "Cingapura lançará serviço de cofre de ouro para bancos centrais estrangeiros Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:51+00:00"
   },
   {
     "id": "c7ef9ee08597de8c9c96",
@@ -5545,11 +5913,11 @@
     "topics": [
       "Emprego e trabalho"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercado de trabalho: \"800 mil empregos serão perdidos na Alemanha devido à IA\" - Handelsblatt",
+    "translated_summary": "Mercado de trabalho: \"800.000 empregos serão perdidos na Alemanha devido à IA\" Handelsblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:54+00:00"
   },
   {
     "id": "9b26e8db757f93710996",
@@ -6068,11 +6436,11 @@
       "Tarifas e comércio",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Interpretação de Conformidade da Lei Química Vietnamita: Declaração de Importação e Novas Diretrizes de Registro Químico para Empresas de Exportação Chinesas - Rio Tech",
+    "translated_summary": "Interpretação de Conformidade da Lei Química Vietnamita: Declaração de Importação e Novas Diretrizes de Registro Químico para Empresas de Exportação Chinesas Rio Tech",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:57+00:00"
   },
   {
     "id": "62685e894a8c642e64ca",
@@ -6411,11 +6779,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Barclays Anuncia Injeção de Capital de INR1.500 Crore para Expandir Investimento e Private Banking na Índia - Hubbis",
+    "translated_summary": "Barclays Anuncia Injeção de Capital de INR1.500 Crore para Expandir Investimento e Private Banking na Índia Hubbis",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:59+00:00"
   },
   {
     "id": "d38f554b257002eac738",
@@ -6542,11 +6910,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Towards the World 2026 China Tea Brand Building Forum Realizado em Jinzhai - Economic Reference",
+    "translated_summary": "Rumo ao Futuro do Mundo 2026 China Tea Brand Building Forum realizado no Jinzhai Economic Reference Paper",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:02+00:00"
   },
   {
     "id": "9709dd7b5af262c97c50",
@@ -12446,6 +12814,28 @@
     "last_translation_attempt_at": "2026-11-09T11:03:56+00:00"
   },
   {
+    "id": "ab1bf80cc57ab50eb949",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "理財周刊",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yQ3R5el9HbTNPTTJleGhqbGlYbi1PaVh1dkhhYnpNallDWG55MnoxTnFBYkFiSFlydUlxZHhqMHo2TVJWV0pWdVhEUGU5U3V4SDI4NFFhRVZOQlh5Z3Y5R3BLSzM0V3h2Wl9Ja056Zw?oc=5",
+    "original_title": "猩動力聯手亞力電機進軍強勢搶攻電動車充電藍海 - 理財周刊",
+    "original_summary": "猩動力聯手亞力電機進軍強勢搶攻電動車充電藍海 理財周刊",
+    "published_at": "2026-11-09T10:00:54+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Gorilla Dynamics une forças com Yale-China Motor para enfrentar o oceano azul do carregamento de veículos elétricos - Banking Weekly",
+    "translated_summary": "Gorilla Dynamics une forças com Yale-China Motor para assumir o carregamento de veículos elétricos Blue Ocean Financial Weekly",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:54+00:00"
+  },
+  {
     "id": "1bf8f8f5411447983357",
     "country": "China",
     "category": "Automóvel",
@@ -14186,11 +14576,11 @@
     "topics": [
       "Emprego e trabalho"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ifo: KI-Effekt am Arbeitsmarkt - Berufseinsteiger leiden - Allgemeine Zeitung",
+    "translated_summary": "Ifo: KI-Effekt am Arbeitsmarkt - Berufseinsteiger leiden Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:05+00:00"
   },
   {
     "id": "b0fd25f4c6691a7199ca",
@@ -17420,11 +17810,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Metas de VE do governo devem ser reduzidas esta semana - BBC",
+    "translated_summary": "Espera-se que as metas de veículos elétricos do governo sejam reduzidas esta semana BBC",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:07+00:00"
   },
   {
     "id": "7e0a99c034490a96223b",
@@ -20476,6 +20866,26 @@
     "last_translation_attempt_at": "2026-11-08T23:42:05+00:00"
   },
   {
+    "id": "931ad8089f0f5516e4cb",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR01OQ0lTNTVqQ3NUUDFnYUFIMndoTGx4enNBMlJraHA5SFZoQmx6WTJvdjZmbmZhSTBrWlBpUTQ1c1lnSmUtYjJYTEZVU2hDNjV5b2VwcnlTTUFoOG81cWdhUG1rdF9RWlk0LV9OUW1vWHpRY1BUcHhZTzNiLXQ4OTVoY0ljNUNQQlVPZzV5T0RrWFYyTTRoa2c3X3k4SU13Y2VicnNpQTlldkNaaDl3MnZIQjFSdVg0djhCRnpQR2JLY3AxckV4azdfbVFMdWtwS3pRMGFaU0RqMU9O?oc=5",
+    "original_title": "Does what we do make a difference to tackling climate change? I’m taking that question to COP31 - The Straits Times",
+    "original_summary": "Does what we do make a difference to tackling climate change? I’m taking that question to COP31 The Straits Times",
+    "published_at": "2026-11-08T21:00:00+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O que fazemos faz diferença no combate às mudanças climáticas? Vou levar essa pergunta para a COP31 - The Straits Times",
+    "translated_summary": "O que fazemos faz diferença no combate às mudanças climáticas? Vou levar essa pergunta para a COP31 The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:07+00:00"
+  },
+  {
     "id": "1aab2b3cad61cab4085e",
     "country": "Alemanha",
     "category": "Política",
@@ -21613,6 +22023,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "e41365c2d997a6f65af8",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "RTL.de",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRlp3N0pNQnJTUXFQeG1OVjZaNVFXMTVMbWw1THIxc0FYcGxUT3ZvU2J2cTFWcG1id2t4amVaQ2NCVFVYTFItT0JuNEk2MkF6ckNTMWFSeS1qS1RjMTVKNjVmbjk3N0lWTkt3OGpraC0wWkZiY0REbmlGTFFoM3AxZ0REYndiYmlMSThSS04zeG1tQk5QTnlyS0RhcVg1X0ctQkQ0TTZZSS1wZ3kzM2pHWGV1TjlZdHlV?oc=5",
+    "original_title": "Eklat am Bundestag: 22-Jähriger ersetzt deutsche Flagge durch Palästinafahne - RTL.de",
+    "original_summary": "Eklat am Bundestag: 22-Jähriger ersetzt deutsche Flagge durch Palästinafahne RTL.de",
+    "published_at": "2026-11-08T14:17:48+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Escândalo no Bundestag: jovem de 22 anos substitui bandeira alemã por bandeira palestina - RTL.de",
+    "translated_summary": "Escândalo no Bundestag: jovem de 22 anos substitui bandeira alemã por bandeira palestina RTL.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:06:51+00:00"
   },
   {
     "id": "cd87daa40ced5d367fe2",
@@ -25591,11 +26023,11 @@
     "topics": [
       "Emprego e trabalho"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Explicador: Os gigantes invisíveis da indústria automóvel estão em crise. Porque estão a desaparecer milhares de empregos? - SAPO",
+    "translated_summary": "Explicador: Os gigantes invisíveis da indústria automóvel estão em crise. Porque estão a desaparecer milhares de empregos? SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:09+00:00"
   },
   {
     "id": "f386002959ca747c8357",
@@ -39192,11 +39624,11 @@
     "published_at": "2026-11-05T22:57:00+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Autoeuropa. 4800 empregados vão a votos - Expresso",
+    "translated_summary": "Autoeuropa. 4800 empregados vão a votos Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:10+00:00"
   },
   {
     "id": "9638cd367180b8d167ff",
@@ -43705,11 +44137,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Honras nacionais conferidas a dois executivos seniores por contribuições significativas para Singapura - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Honras nacionais conferidas a dois executivos seniores por contribuições significativas para o Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:11+00:00"
   },
   {
     "id": "53a03403842477e1ef7e",
@@ -47991,11 +48423,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Wirtschaft: Topmanager blicken zuversichtlicher auf deutsche Wirtschaft - Handelsblatt",
+    "translated_summary": "Wirtschaft: Topmanager blicken zuversichtlicher auf deutsche Wirtschaft Handelsblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:14+00:00"
   },
   {
     "id": "d16d12bbc61fad291f30",
@@ -50627,11 +51059,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T09:58:32+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Instituições fortes impulsionam os rankings de competitividade do IMD de 2026 - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Instituições fortes impulsionam 2026 Rankings de Competitividade do IMD Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:08:17+00:00"
   },
   {
     "id": "f03ca2feef1b258a501e",
@@ -52833,6 +53265,26 @@
     "translated_summary": "Dar uma volta com um piloto de ralis em Braga Jornal O MINHO",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:38:42+00:00"
+  },
+  {
+    "id": "bf6fc6b2e7c696f13f63",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "RTP Açores",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDNqdlJzSm1GaVNrM2xyYUtCekFLZDVya1lBM1J4cmR5OC1mR05OTDlMQml4eDQxYTNEUVdmUVE3TUNQZmpldlpia3NoTkpnWFVxYnhCRUxpTDNxaFhqUVk1ZmxvdFdKS2RVTHNTMW9xZUtNTHhPb0xza1N3R1FSbUt3djhmdUpHT182Qm1QTWctUG9IcFJTMGpDb1Nlajcw?oc=5",
+    "original_title": "Apoios nacionais à compra de veículos elétricos estendem-se aos Açores - RTP Açores",
+    "original_summary": "Apoios nacionais à compra de veículos elétricos estendem-se aos Açores RTP Açores",
+    "published_at": "2026-11-03T15:26:00+00:00",
+    "first_seen_at": "2026-11-10T13:06:09+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Apoios nacionais à compra de veículos elétricos estendem-se aos Açores - RTP Açores",
+    "translated_summary": "Apoios nacionais à compra de veículos elétricos estendem-se aos Açores RTP Açores",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T13:07:31+00:00"
   },
   {
     "id": "9fe78bc19c48f2743b49",
