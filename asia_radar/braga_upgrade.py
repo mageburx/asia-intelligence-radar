@@ -25,7 +25,7 @@ def upgrade_braga_dashboard(html):
  return cats.reduce((sum,c)=>sum+Number(p.counts24[country+"|"+c]||0),0);
 }
 '''+html[end:]
-    anchor=' $("economy-count").textContent=count24(state.country,"Economia")+" notícias · 24 h";'
+    anchor='$("economy-count").textContent=count24(state.country,"Economia")+" notícias · 24 h";'
     if anchor not in html: raise RuntimeError("Missing Economy indicator")
     html=html.replace(anchor,anchor+'''
  $("braga-current-category").hidden=state.country!=="Braga";
