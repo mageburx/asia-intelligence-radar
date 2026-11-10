@@ -22,6 +22,106 @@
     "last_translation_attempt_at": "2026-11-10T16:58:04+00:00"
   },
   {
+    "id": "4a4593ed1cbd978155c6",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/mais-de-uma-centena-de-municipios-com-risco-de-cheias_v1778257",
+    "original_title": "Mais de uma centena de municípios com risco de cheias",
+    "original_summary": "A Agência do Ambiente sinalizou 101 municípios que podem ter cheias urbanas. Leiria declarou situação de alerta e Coimbra vai ativar o plano de emergência.",
+    "published_at": "2026-11-10T20:29:47+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mais de uma centena de municípios com risco de cheias",
+    "translated_summary": "A Agência do Ambiente sinalizou 101 municípios que podem ter cheias urbanas. Leiria declarou situação de alerta e Coimbra vai ativar o plano de emergência.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:58+00:00"
+  },
+  {
+    "id": "7731ce2681847d752d32",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Diário do Distrito",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGZUdzlQbG5JRXU0UTJWY0FPbURKa25pVnRBWDVIRlp4aGN0cVhJM1MtTHdrV3BFdnYtX2tlRFJON1huV2prbG83V01Id0RtcndaZUluaFlydWFzeFBuOWhuTERlQTU3ajE0NnUydDZjeUY0Ym5VNFQ5V2Rta0cwSUhWelVMaWtCYzZzbFkxM3RDdw?oc=5",
+    "original_title": "Produção da Autoeuropa em Palmela suspensa por mau tempo - Diário do Distrito",
+    "original_summary": "Produção da Autoeuropa em Palmela suspensa por mau tempo Diário do Distrito",
+    "published_at": "2026-11-10T20:23:36+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Produção da Autoeuropa em Palmela suspensa por mau tempo - Diário do Distrito",
+    "translated_summary": "Produção da Autoeuropa em Palmela suspensa por mau tempo Diário do Distrito",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:01+00:00"
+  },
+  {
+    "id": "5a9fe221ba9307d741e3",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/situacao-de-alerta-escolas-publicas-e-privadas-vao-estar-fechadas_v1778255",
+    "original_title": "Situação de alerta. Escolas públicas e privadas vão estar fechadas",
+    "original_summary": "As escolas, públicas e privadas, vão encerrar esta quarta-feira. Também os serviços públicos não essenciais estarão encerrados. O Governo apelou a que, sempre que possível, os trabalhadores fiquem em teletrabalho. Também os tribunais têm autorização para encerrar.",
+    "published_at": "2026-11-10T20:20:48+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Situação de alerta. Escolas públicas e privadas vão estar fechadas",
+    "translated_summary": "As escolas, públicas e privadas, vão encerrar esta quarta-feira. Também os serviços públicos não essenciais estarão encerrados. O Governo apelou a que, sempre que possível, os trabalhadores fiquem em teletrabalho. Também os tribunais têm autorização para encerrar.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:59+00:00"
+  },
+  {
+    "id": "f902f909113d0a7960c3",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/tempestade-charles-montenegro-garante-que-o-pais-esta-mais-preparado_v1778253",
+    "original_title": "Tempestade Charles. Montenegro garante que o país está mais preparado",
+    "original_summary": "É um país em estado de alerta. O Governo pediu que todos os que possam fiquem em casa.",
+    "published_at": "2026-11-10T20:18:47+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tempestade Charles. Montenegro garante que o país está mais preparado",
+    "translated_summary": "É um país em estado de alerta. O Governo pediu que todos os que possam fiquem em casa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:00+00:00"
+  },
+  {
+    "id": "87a80e3bcaf3643d9970",
+    "country": "Braga",
+    "category": "Política",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1BpRDZsZlJSQzRLbnd4Wjh6bmhMbVVGZU93U3JOVHpiY3hMRXZ5aV9lbllDOGkyLXJJbHhIcEZTdVVaajlMN2V6Zy15ajIwVzBMTUwzU1VIU084WEx2U1l4MjVwLVlYMDQ5aGgwNHQyV0tMZFBwSHNaVnZ6emVYRDczTlYzbDlvVVZia0UwRmQ4eU1zbHB1alZsVUVEZ0NLdmktdkF1U2tpcG1hLW5JZ015QWs2TmZjYWNiOA?oc=5",
+    "original_title": "Município de Braga realiza acções de limpeza e preparação para o mau tempo - Correio do Minho",
+    "original_summary": "Município de Braga realiza acções de limpeza e preparação para o mau tempo Correio do Minho",
+    "published_at": "2026-11-10T20:02:48+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Município de Braga realiza acções de limpeza e preparação para o mau tempo - Correio do Minho",
+    "translated_summary": "Município de Braga realiza acções de limpeza e preparação para o mau tempo Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:03+00:00"
+  },
+  {
     "id": "faee8a8086e21006e919",
     "country": "Portugal",
     "category": "Economia",
@@ -84,6 +184,26 @@
     "translated_summary": "O MPV esticado foi detectado pela primeira vez no início de 2026, enquanto passava por testes. O MPV Denza D9 da BYD recebe um modelo de distância entre eixos longa, revelam imagens de patentes que apareceram primeiro em CarNewsChina.com .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T19:58:08+00:00"
+  },
+  {
+    "id": "e0b564699263ce1f6b4a",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "Jornal O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGptOTNPWW9jUmZuWDE4UWpzaDRNY08yal9wZUVFTWdKeTBwdTBVX3NTVnJMV3BIM1NGRjBMWmJaeUtJQXhnSnZ6aC1kYlNxU0hBalVsbmxVekpRZzNSempfeTZtOVNUUHBVS0FlS0UwS0xqcGRtdkplbnlUTUFBdU10SkxVSnAxNVM4RUlHMVJyZG91SlgwRUNocE9aQQ?oc=5",
+    "original_title": "Exposição de 5 pintores residentes em Braga convida a viver o Natal \"Em Família\" - Jornal O MINHO",
+    "original_summary": "Exposição de 5 pintores residentes em Braga convida a viver o Natal \"Em Família\" Jornal O MINHO",
+    "published_at": "2026-11-10T19:15:00+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Exposição de 5 pintores residentes em Braga convida a viver o Natal \"Em Família\" - Jornal O MINHO",
+    "translated_summary": "Exposição de 5 pintores residentes em Braga convida a viver o Natal \"Em Família\" Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:05+00:00"
   },
   {
     "id": "932655264f3739382135",
@@ -324,6 +444,26 @@
     "translated_summary": "Melhor plataforma de corretagem e negociação online em Singapura [novembro de 2026] Beansprout - a principal plataforma de insights financeiros de Singapura - Growbeansprout.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T18:58:09+00:00"
+  },
+  {
+    "id": "dda774140f71b7a2ccfa",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTm5sdTMtd0psMDBzYWh0TXhXWm5DQW9lZU5LbEJBWGxCamc2ZWxEaVRING1IMW1ZdFhVWXFSaE1HSDU2MXV0U3pFaUVYeWJHckptVXAyajgtSnY2NlBkcXc3RXFNaUxxTjMxTlo4OVZNYUllTGF6ZmZZSWhoT2dYRy1zcXg2OHozTjhZU1Nqcm5TakxZLTVCLVRNQ3dNeG0yLW1LMjJuVmttd19MVDBlbGRZMzl0TzNuSWlzMjY4ZHl6MmswVWhPcExTaDdpR2p6dExLSlBvUW9wdFdlWE15Z28zMlVaUkJBcUxJWTh6T1k?oc=5",
+    "original_title": "Startups aumentaram financiamento em 16% no ano passado: o retrato do ecossistema empreendedor português em 2025 - Expresso",
+    "original_summary": "Startups aumentaram financiamento em 16% no ano passado: o retrato do ecossistema empreendedor português em 2025 Expresso",
+    "published_at": "2026-11-10T17:29:31+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Startups aumentaram financiamento em 16% no ano passado: o retrato do ecossistema empreendedor português em 2025 - Expresso",
+    "translated_summary": "Startups aumentaram financiamento em 16% no ano passado: o retrato do ecossistema empreendedor português em 2025 Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:02+00:00"
   },
   {
     "id": "937d0d10e526264c4df9",
@@ -590,6 +730,28 @@
     "translated_summary": "A mídia estrangeira refere-se ao pedido da Lituânia ao escritório de representação para mudar o nome do membro da Assembleia Nacional para dar ao governo a chance de tomar Taiwan como um chip | Foco internacional | UDN global",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T16:57:54+00:00"
+  },
+  {
+    "id": "4d5f2620b3228c95a59a",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "main-echo.de",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHREdmh1bkZNNF9FNjFWSF9vMUI4MERySW9URS11Y0NLcGNCcDZnbzQ2azBBX0VHR3F2UGpuME9rZnBwWWhMUFpIY3Y4bG9tZk9KcEFWZVFJM3BFV0JhT2txSTZ1emc1c0ZOOHNJUVFCYVFkQUU4c0NGZW8waXh4UmtKNjVzZ2FUeGZYbzZ0U01fMFd5ckx4WUliMDF0OVpJYkw1Ql82dUFaaUxwQzk5bThneGZUbVk?oc=5",
+    "original_title": "Bosch bestellt Teile für Hausgeräte lieber in Asien: Stellenabbau und Schließung bei einem Unternehmen im Kreis Aschaffenburg | Foto: Jonas Walzberg/dpa - main-echo.de",
+    "original_summary": "Bosch bestellt Teile für Hausgeräte lieber in Asien: Stellenabbau und Schließung bei einem Unternehmen im Kreis Aschaffenburg | Foto: Jonas Walzberg/dpa main-echo.de",
+    "published_at": "2026-11-10T16:07:21+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [
+      "Emprego e reorganização"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch prefere encomendar peças para eletrodomésticos na Ásia: despedimento e encerramento de uma empresa no distrito de Aschaffenburg | Foto: Jonas Walzberg/dpa - main-echo.de",
+    "translated_summary": "Bosch prefere encomendar peças para eletrodomésticos na Ásia: despedimento e encerramento de uma empresa no distrito de Aschaffenburg | Foto: Jonas Walzberg/dpa main-echo.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:48+00:00"
   },
   {
     "id": "602fc2b342a3ae9565ee",
@@ -1385,6 +1547,26 @@
     "translated_summary": "Antalya, 10 de novembro (Repórter Wei Yuan) No dia 10 de novembro, hora local, Malone, chefe de serviços de política fiscal da China na PwC, disse em Antalya, Turquia, que uma série de políticas fiscais e tributárias na China nos últimos anos estão usando a alavancagem fiscal para promover promessas verdes que se traduzem em ações práticas para as empresas.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:19:28+00:00"
+  },
+  {
+    "id": "f59d08575a1f3c6215d1",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DataCenter-Insider",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFd3WC05T3pyQ2ZFNUpQMGlUYjc4Ql9iX2JpeTFmdVBaM3pXS1NyWC0xMTFZVmhrb3VvalBPM1l0RkdfNVk3aWFldnI3UGtmY1lLTGx5YXJZam5Yc3djYWpyQ2Q5NGJNWC01dzBMZFBxcERYTHQwNWFvYUExT2hwZHllLW94TS11WHBqZUd3MGk5WWc1bExJa3FiZXhoa2ZNaHE4bElzcFhMM3dWbmtTSnUycVBjc1VDLWNvTG53aWU3VVp3NWlvS0xRREg2REww?oc=5",
+    "original_title": "Unerwartete Infrastrukturkosten bremsen Innovation in Deutschland - DataCenter-Insider",
+    "original_summary": "Unerwartete Infrastrukturkosten bremsen Innovation in Deutschland DataCenter-Insider",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Custos de infraestrutura inesperados desaceleram a inovação na Alemanha - DataCenter Insider",
+    "translated_summary": "Custos inesperados de infraestrutura desaceleram a inovação na Alemanha Insider do DataCenter",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:51+00:00"
   },
   {
     "id": "ced62ed3dd5902eaabc9",
@@ -4723,6 +4905,28 @@
     "last_translation_attempt_at": "2026-11-10T09:59:25+00:00"
   },
   {
+    "id": "59ef0a2eda8552c4bf8f",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWdWandoT00wNDZFVnBTbjFjSHhGWWx2U3MxdWd4bXRKVDkxbHRBVDhFbzBCZ203Vk9TNEMzRDdlaDBnUWxyaTdBeUxlY1R3ZExqcjdoWEFXUDRPblRlM09xaVNFZnpoakItVkhsV19YdWh6aVp0VnREaWZRN0tqRFJMNjJFbk5iQnVNMDViY3h4T2RDa2NpdTB1LUlldFl0NU5F?oc=5",
+    "original_title": "No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
+    "original_summary": "No.1 경제·증권 채널 : @HKWOWTV 한국경제TV",
+    "published_at": "2026-11-10T08:19:51+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Canal Nº 1 de Economia e Valores Mobiliários: @ HKWOWTV - Korea Economic TV",
+    "translated_summary": "Canal Nº 1 de Economia e Valores Mobiliários: @ HKWOWTV Korea Economic TV",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:53+00:00"
+  },
+  {
     "id": "f1f38445c2027a32bcff",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -7698,6 +7902,26 @@
     "translated_summary": "Índia, EUA planejam repressão conjunta a cartéis transnacionais de drogas, tráfico de drogas sintéticas The Times of India",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T04:58:38+00:00"
+  },
+  {
+    "id": "209f3c4543ae56517df2",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "AsiaOne.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTdEY3SjZKeWJNc1ZvajdyaHBFZUlyeDEwbk9Qa3ZuTmM4YVFJWk5FaDg5Zm4zRmVQOXQwd0FhU0ItcnFJNHo5cHJJZGxDN2VZQWpqcm9waE9ybDRDQllXTEk1MmtMVDZiV3ZBREpWaFE1Y3Qz?oc=5",
+    "original_title": "Up to 500 tonnes: MAS launches central bank gold vaulting service in Singapore - AsiaOne.com",
+    "original_summary": "Up to 500 tonnes: MAS launches central bank gold vaulting service in Singapore AsiaOne.com",
+    "published_at": "2026-11-10T04:04:00+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Até 500 toneladas: MAS lança serviço de vaulting de ouro do banco central em Singapura - AsiaOne.com",
+    "translated_summary": "Até 500 toneladas: MAS lança serviço de vaulting de ouro do banco central em Singapura AsiaOne.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:56+00:00"
   },
   {
     "id": "97a7a9b6109fa4fa4ad5",
@@ -17428,11 +17652,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "2027 A diferenciação global do tipo K se intensifica! A exportação de Taiwan quebra a parcela de dólares americanos, por que o público é insensível? Sun Mingde Alerta 4 Riscos - Revista Foresight",
+    "translated_summary": "2027 A diferenciação global do tipo K se intensifica! A exportação de Taiwan quebra a parcela de dólares americanos, por que o público é insensível? Sun Mingde Alerta 4 Revista de Prospectiva de Risco",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:06+00:00"
   },
   {
     "id": "7feb5b3bc5840a4258c9",
@@ -17450,11 +17674,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia coreana impulsionada pela IA... Por que as famílias não conseguem sentir mesmo após um crescimento de 3,4% - https://www.sisaworld.kr/",
+    "translated_summary": "Economia coreana impulsionada pela IA... Por que as famílias não conseguem sentir isso mesmo após um crescimento de 3,4% https://www.sisaworld.kr/",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:08+00:00"
   },
   {
     "id": "0684d9e447b1f35ff057",
@@ -17922,11 +18146,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Caminhando pelos Túmulos Reais de Chosun no Edifício Gangnam... A Korea Investment & Securities convida os proprietários corporativos a \"caminhar nas humanidades\" - Notícias diárias",
+    "translated_summary": "Caminhando nas Tumbas Reais de Chosun no Edifício Gangnam... A Korea Investment & Securities convida os proprietários corporativos para o 'Humanities Walk' Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:11+00:00"
   },
   {
     "id": "20d37f01df61075ad52f",
@@ -18410,11 +18634,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Kospi testa 5.000 skin... \"Comprando semicondutores de baixo custo\" vs. \"Ajustando a proporção de IA\" - Korea Economy",
+    "translated_summary": "Kospi testa 5.000 skins… \"Compra de semicondutores de baixo custo\" vs. \"Ajustando a proporção de IA\" economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:14+00:00"
   },
   {
     "id": "2cd07ecb3cc23dcbda91",
@@ -18580,11 +18804,11 @@
     "published_at": "2026-11-09T07:03:02+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Partido de Libertação Popular timorense diz que OGE não resolve problemas das pessoas",
+    "translated_summary": "O Partido de Libertação Popular (PLP) de Timor-Leste, na oposição, disse hoje que o Orçamento Geral do Estado (OGE) para 2027 não resolve os problemas básicos da população.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:16+00:00"
   },
   {
     "id": "db6d1b993422286f95fd",
@@ -18686,11 +18910,11 @@
     "published_at": "2026-11-09T06:59:24+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OGE 2027 de Timor-Leste controla custos e cria Imposto Sobre Valor Acrescentado",
+    "translated_summary": "O chefe do Governo timorense disse hoje que o orçamento para 2027 prevê medidas de poupança e a criação do Imposto Sobre o Valor Acrescentado para garantir a sustentabilidade financeira do Estado e do Fundo Petrolífero.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:17+00:00"
   },
   {
     "id": "6f98979d9b90940971dd",
@@ -18752,11 +18976,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Instituto de Economia de Taiwan eleva PIB para 12,34% este ano e estima 6,45% no próximo ano - Banca Extraordinária",
+    "translated_summary": "O Pátio de Taijing eleva o PIB deste ano para 12,34% Estimativa do próximo ano 6,45% News Desk Extraordinário",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:18+00:00"
   },
   {
     "id": "60f697cfbb7e54153281",
@@ -18797,11 +19021,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Investimento bem-sucedido na Bolsa de Valores da Tarde - Korea Economic TV",
+    "translated_summary": "Investimento Bem Sucedido Bolsa de Valores da Tarde Korea Economic TV",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:21+00:00"
   },
   {
     "id": "3f7bded2e7d3da9d6f8d",
@@ -18885,11 +19109,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As ações sul-coreanas continuaram a cair no dia 3 do dia 9, e as vendas de investidores estrangeiros a preços baixos pela primeira vez em 9 meses foram um fardo - Nikkei",
+    "translated_summary": "As ações sul-coreanas continuaram a cair no dia 3 do dia 9, e as vendas de investidores estrangeiros foram um fardo pesado para o Nikkei após uma baixa de 9 meses.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:23+00:00"
   },
   {
     "id": "362012c1f176ce24b79b",
@@ -19119,11 +19343,11 @@
       "Tarifas e comércio",
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exportações verdes da Índia: transformando a demanda global em empregos na indústria - The Policy Edge",
+    "translated_summary": "Exportações Verdes da Índia: Transformando a Demanda Global em Empregos na Indústria A Vantagem Política",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:26+00:00"
   },
   {
     "id": "0505626f663495120644",
@@ -19252,11 +19476,11 @@
       "Indústria e produção",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índice de tendência econômica em setembro, em alta pela primeira vez em dois meses, contribui para recuperação da produção após terremoto de Kumamoto - O Nikkei",
+    "translated_summary": "O índice de tendência econômica em setembro subiu pela primeira vez em dois meses. A recuperação da produção após o terremoto de Kumamoto contribuiu para o Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:28+00:00"
   },
   {
     "id": "a61a6b630c158f1b0b6c",
@@ -19296,11 +19520,11 @@
       "Emprego e trabalho",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "PM timorense afirma que economia cresce, mas desigualdades persistem",
+    "translated_summary": "O primeiro-ministro de Timor-Leste, Xanana Gusmão, afirmou hoje que a economia está a crescer, mas que as desigualdades persistem no país, e prometeu esforços para melhor investimento na saúde e educação e criação de emprego.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:31+00:00"
   },
   {
     "id": "fb1758e257b0dbc9e44a",
@@ -19534,11 +19758,11 @@
     "published_at": "2026-11-09T06:02:48+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bolsa de Taiwan recupera mais de 5% após intervenção do Governo",
+    "translated_summary": "A Bolsa de Taipé abriu a sessão de hoje a subir mais de 5%, após o Governo de Taiwan ter ativado o Fundo Nacional de Estabilização Financeira, para travar uma queda superior a 12% numa semana.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:32+00:00"
   },
   {
     "id": "e44c1aa913c987060f66",
@@ -19684,11 +19908,11 @@
     "published_at": "2026-11-09T06:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Apoiar a transição para veículos elétricos… europeus? - Jornal PT Green",
+    "translated_summary": "Apoiar a transição para veículos elétricos… europeus? Jornal PT Green",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:33+00:00"
   },
   {
     "id": "17943dfaa47ae7bbc5e2",
@@ -19724,11 +19948,11 @@
     "published_at": "2026-11-09T05:55:03+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Desenvolvimento petrolífero é verdadeira independência para povo timorense",
+    "translated_summary": "O primeiro-ministro timorense, Xanana Gusmão, afirmou hoje que o direito soberano ao desenvolvimento petrolífero não é apenas uma opção económica, mas é também a base para um futuro de dignidade e de verdadeira independência do povo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:34+00:00"
   },
   {
     "id": "8c17ebc1268ebe36a1ac",
@@ -19766,11 +19990,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inflação na China abranda para 0,7% em outubro mas preços industriais aceleram",
+    "translated_summary": "A inflação na China abrandou para 0,7% em outubro, face aos 0,9% registados no mês anterior, enquanto os preços industriais continuaram a acelerar, impulsionados pelo aumento dos custos energéticos, segundo dados oficiais divulgados hoje.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:35+00:00"
   },
   {
     "id": "a385ff1f094a5ec92aae",
@@ -19808,11 +20032,11 @@
     "published_at": "2026-11-09T05:52:27+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lula reforça compromisso com responsabilidade fiscal mas evita fazer anúncios",
+    "translated_summary": "O Presidente do Brasil, Luiz Inácio Lula da Silva, reafirmou o compromisso com a responsabilidade fiscal para o próximo mandato, embora tenha evitado detalhar medidas de ajustamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:36+00:00"
   },
   {
     "id": "3ba54dd3e096d7c9e80b",
@@ -19998,11 +20222,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Polícia do Paraguai faz buscas em casa de ex-presidente ligado a banco falido",
+    "translated_summary": "A polícia do Paraguai realizou buscas na residência de Santiago Peña, perto da capital, no âmbito da investigação à falência do Ueno Bank, caso que resultou na destituição do ex-presidente, informou o Ministério Público.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:37+00:00"
   },
   {
     "id": "8c7f37d51700c2f6fc65",
@@ -20020,11 +20244,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Our company says that the Retirement Pension Act will be revised\"... Korea Investment & Securities Company Holds 'Retirement Pension Academy' for Working Group - Daily News",
+    "translated_summary": "“Our company says that the Retirement Pension Act will be revised.” … Every day, the 'Retirement Pension Academy' is held for the working group of Korean investment securities companies.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:38+00:00"
   },
   {
     "id": "d8821e4942a90210ded5",
@@ -20065,11 +20289,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inflation Bites: Por que as principais marcas de consumo estão evitando aumentos de preços na Índia - NDTV",
+    "translated_summary": "Inflation Bites: Por que as principais marcas de consumo estão evitando aumentos de preços na Índia NDTV",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:41+00:00"
   },
   {
     "id": "7b4d5e041a126ad58d15",
@@ -20085,11 +20309,11 @@
     "published_at": "2026-11-09T05:24:03+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MoneyDJ News 2026-11-09 13:23:14 Chen Yijie Lançamento - MoneyDJ",
+    "translated_summary": "MoneyDJ Notícias 2026-11-09 13:23:14 Chen Yijie Lança MoneyDJ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:43+00:00"
   },
   {
     "id": "b522a7b51a18583fa5a1",
@@ -20105,11 +20329,11 @@
     "published_at": "2026-11-09T05:21:38+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Entrevista com Manish Prasad: “Toque em qualquer alavanca de crescimento na Índia e você encontrará a SAP lá” - SAP News Center",
+    "translated_summary": "Entrevista com Manish Prasad: “Toque em qualquer alavanca de crescimento na Índia e você encontrará a SAP lá” SAP News Center",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:46+00:00"
   },
   {
     "id": "ea81070bfae87311bd8c",
@@ -20149,11 +20373,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A última previsão do PIB de Taiwan! Estima-se que o crescimento econômico ultrapasse 12,34% este ano, e o ímpeto da cadeia de suprimentos de IA continuará? - Financial Spotlight - Blog de Investimentos CMoney",
+    "translated_summary": "A última previsão do PIB de Taiwan! Estima-se que o crescimento econômico ultrapasse 12,34% este ano, e o ímpeto da cadeia de suprimentos de IA continuará? - Financial Spotlight CMoney Investment Blog",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:48+00:00"
   },
   {
     "id": "a3eb4feaba5a924506a9",
@@ -20194,11 +20418,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities Holds 'Retirement Pension Academy' for Corporate Working Group - Asian Economy",
+    "translated_summary": "Korea Investment & Securities Hold 'Severance Pension Academy' para o Grupo de Trabalho Corporativo da Economia Asiática",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:50+00:00"
   },
   {
     "id": "8e5aa141eb02136bfecf",
@@ -20323,11 +20547,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Indicador Económico do Japão [Economic Trend Index (Flash Value)] - Minkabu FX/Taxa de Câmbio",
+    "translated_summary": "Indicador Económico do Japão [Economic Trend Index (flash value)] Minkabu FX/Exchange",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:53+00:00"
   },
   {
     "id": "31b87995dd4f722ce8e1",
@@ -20367,11 +20591,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities Holds ‘Retirement Pension Academy‘ for Corporate Practitioners - Global Economic",
+    "translated_summary": "Korea Investment & Securities Hold ‘Retirement Pension Academy‘ for Corporate Practitioners Global Economic",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:55+00:00"
   },
   {
     "id": "b00dfd5f6469fe99d059",
@@ -20535,11 +20759,11 @@
     "published_at": "2026-11-09T04:40:28+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Boletim do Índice de Tendências Econômicas do Japão a ser anunciado em breve - Minkabu Forex/Taxa de câmbio",
+    "translated_summary": "Em breve, o Boletim do Índice de Tendências Econômicas do Japão será lançado Minkabu Forex/Exchange",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:57+00:00"
   },
   {
     "id": "d8e0455e4e459bca86e6",
@@ -22793,6 +23017,28 @@
     "last_translation_attempt_at": "2026-11-09T01:13:27+00:00"
   },
   {
+    "id": "45d8f9bdef5c2471c93a",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4UnZZQjVOYVVSd1U4NEpyYTg1UFJpOU1iYmVEaEFleTZtWjFtZ3V5by1uYl9ZX2Y3TkdhcWVEWlNTdldndU9Bbk41dlhWQ1YycHhtZFV1MGJmZTdVTnB2Y3pR?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-09T00:11:09+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:51:45+00:00"
+  },
+  {
     "id": "57b00b1c3889bf46fb03",
     "country": "Japão",
     "category": "Automóvel",
@@ -24394,6 +24640,26 @@
     "translated_summary": "Ação de protesto em frente ao Reichstag: Ativista trocou a Alemanha pela bandeira palestina da theStandard.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T18:59:05+00:00"
+  },
+  {
+    "id": "1e382c4780fe23c2ae31",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaUJ4Zkt2Q3VwdGVZR2UzNmE4Wmhsa1R3V05UVjBjWGt1bVdHQTA0NzJ0RlY2ZWM5djltcXkyTUxLNzY3dkZJaS1ldUR0RlVXQlhwLTRhSkpySVp1NnBIVTZfUUFFaUZiQjBVRFBCcThMVzNxcVhtLS14TmdBVlpQb0lBSGlWbGd1UjhwNmxZbFdIU2g2SUlsVmhqX1hTZnQzbTFTN2djYk1JdGdTOFZ4THZNT1JnOTQ1bDdsaWx5RHVkeW1oRzJDQ0pndjc3a0s5Y0pwVkI4cklJS1AwSnItcFdLd3Y3ZmRjcmU0eEhuMmtYdXU0dWQ5NFZydy1oWmFIbUV4UlM3YkVKNlFaYUZXeWJpbEtneGZtZUk3c2I5aHZEbEo3ZzZZWWQ3MGtjOUE?oc=5",
+    "original_title": "Francisco Fontes apresenta “Casa Alheia”, uma viagem musical pelo universo de Bernardo Soares, heterónimo de Fernando Pessoa, com os Drumming GP e a Sinfonietta de Braga - Correio do Minho",
+    "original_summary": "Francisco Fontes apresenta “Casa Alheia”, uma viagem musical pelo universo de Bernardo Soares, heterónimo de Fernando Pessoa, com os Drumming GP e a Sinfonietta de Braga Correio do Minho",
+    "published_at": "2026-11-08T16:29:00+00:00",
+    "first_seen_at": "2026-11-10T20:51:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Francisco Fontes apresenta “Casa Alheia”, uma viagem musical pelo universo de Bernardo Soares, heterónimo de Fernando Pessoa, com os Drumming GP e a Sinfonietta de Braga - Correio do Minho",
+    "translated_summary": "Francisco Fontes apresenta “Casa Alheia”, uma viagem musical pelo universo de Bernardo Soares, heterónimo de Fernando Pessoa, com os Drumming GP e a Sinfonietta de Braga Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T20:52:04+00:00"
   },
   {
     "id": "d2a20574577694c62999",
