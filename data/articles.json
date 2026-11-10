@@ -22,6 +22,133 @@
     "last_translation_attempt_at": "2026-11-10T16:58:04+00:00"
   },
   {
+    "id": "2f50e45d2b57662bd5d0",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/danos-semelhantes-aos-da-tempestade-kristin-sao-cenario-possivel-mas-nao-o-mais-provavel_e1778024",
+    "original_title": "Danos semelhantes aos da tempestade Kristin são \"cenário possível, mas não o mais provável\"",
+    "original_summary": "A passagem de uma nova depressão, Charles, a par da depressão Bruna, levou o Instituto Português do Mar e da Atmosfera a colocar oito distritos sob aviso vermelho. O primeiro-ministro alertou para \"horas difíceis\" e pediu aos portugueses que não subestimem mau tempo. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "published_at": "2026-11-10T21:41:55+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Danos semelhantes aos da tempestade Kristin são \"cenário possível, mas não o mais provável\"",
+    "translated_summary": "A passagem de uma nova depressão, Charles, a par da depressão Bruna, levou o Instituto Português do Mar e da Atmosfera a colocar oito distritos sob aviso vermelho. O primeiro-ministro alertou para \"horas difíceis\" e pediu aos portugueses que não subestimem mau tempo. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:22+00:00"
+  },
+  {
+    "id": "1cbe949810b89e2ec994",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/tendas-retiradas-mercado-de-natal-comecou-a-ser-montado-no-rossio_v1778265",
+    "original_title": "Tendas retiradas. Mercado de Natal começou a ser montado no Rossio",
+    "original_summary": "Os manifestantes pelo direito à habitação retiraram as tendas em Lisboa. O mercado de Natal já começou a ser montado. Mas no Porto, mesmo depois de uma reunião com a autarquia, mantém-se o impasse.",
+    "published_at": "2026-11-10T21:36:48+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Tendas retiradas. Mercado de Natal começou a ser montado no Rossio",
+    "translated_summary": "Os manifestantes pelo direito à habitação retiraram as tendas em Lisboa. O mercado de Natal já começou a ser montado. Mas no Porto, mesmo depois de uma reunião com a autarquia, mantém-se o impasse.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:23+00:00"
+  },
+  {
+    "id": "0d2e907cd935c69ccbe2",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155344.html",
+    "original_title": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ",
+    "original_summary": "トヨタ自動車の米国法人であるToyota Motor North America（TMNA）は11月10日（現地時間、日本時間11月11日）、米国で展開する新ブランド「Scion by Toyota（サイオン・バイ・トヨタ）」を発表。同時に、サイオン・バイ・トヨタの1号車として超小型ユーティリティトラック「KEI-01」を米国内で2027年後半に生産開始することを明らかにした。軽自動車が米国内で生産されるのは初めて。軽自動車は日本の独自規格となるため、もちろん世界初のことでもある。",
+    "published_at": "2026-11-10T21:34:50+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente Trump avalia veículos leves, Toyota lança Scion com produção semi-desmonte do caminhão leve “KEI-01” nos Estados Unidos",
+    "translated_summary": "A Toyota Motor North America (TMNA), uma corporação norte-americana da Toyota Motor Corporation, anunciou no dia 10 de novembro (horário local, 11 de novembro, horário do Japão) uma nova marca \"Scion by Toyota\" a ser implantada nos Estados Unidos. Ao mesmo tempo, foi anunciado que o primeiro caminhão utilitário ultracompacto Scion-by-Toyota, o KEI-01, começaria a produção nos Estados Unidos no final de 2027. Esta é a primeira vez que um veículo leve é produzido nos Estados Unidos. É também o primeiro do mundo, é claro, porque os veículos leves serão um padrão único no Japão.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:47:49+00:00"
+  },
+  {
+    "id": "8e2ebf9d031b6bcdd612",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73812",
+    "original_title": "安全保障3文書改定で自衛隊の統合運用体制の検討加速 政府",
+    "original_summary": "安全保障関連の3文書の改定に向けて、自民・維新両党の作業チームの協議が始まりました。政府は、自衛隊の組織のあり方をめぐり、陸、海、空の垣根を越えて全体として最大の効果を発揮できる統合運用体制を構築する…",
+    "published_at": "2026-11-10T21:03:57+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Segurança 3 A revisão do documento acelera a consideração do governo de um sistema operacional integrado para as Forças de Autodefesa",
+    "translated_summary": "Começaram as negociações entre as equipes de trabalho das duas partes para revisar os três documentos relacionados à segurança. O governo construirá um sistema de operação integrado que possa maximizar o efeito geral além das fronteiras terrestres, marítimas e aéreas sobre a estrutura das Forças de Autodefesa...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:47:45+00:00"
+  },
+  {
+    "id": "198ebcc3300b3723dc3b",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Asianet Newsable",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0FlVzM3T1JVQWV2aHU3ZG5yMHBjNmdsdDJ3eWNvMUhTZ1BtRHJseENXc1hrRFVUdDZXNUYyRENWZlVlZmZKSEY2SjMxM0dGaEo3UEdvNTJidFA3UGtPZTM4dTR1cldCWTV3TjRrbGx4aTcxLXY5VlpjM3IxTmVBVWtpdVd5TndQbUI2WTMxTTA5MWV4YjZNWFZNazdRRDY1a05jd2N5ZHZ5SlNZV1ZQS0VaamNXTUsxVXZ1cFhVdFNlUG1xeko40gHMAUFVX3lxTFB4cWF3S1ZRN1ZRTDhvYTFsRENfbUJYa1c1VzdFeVVQbGM3dHp1ZEhWM1JJbXpIeDlPOTNnQkJYUC1qWk5mOS0wQ3pDZ0ttdm41RXBxYW96dmpvMml5Vjd4WVgtbTZwaE4wYm55WlpvU3I5Zzl6d0ltQ2MtaHpKZ0d0a0RKdFVRN0VmR2pjclVFeGRINExvdk1QVkxOajF1U2hPZEw2UGtXcGx3Ylh3R3kzMm41c0VLMk1XYS1idS1XUDBmcFdDTHNON0tiNg?oc=5",
+    "original_title": "ECI Tightens Rules on Political Neutrality for State Government Staff - Asianet Newsable",
+    "original_summary": "ECI Tightens Rules on Political Neutrality for State Government Staff Asianet Newsable",
+    "published_at": "2026-11-10T21:00:28+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "ECI reforça regras sobre neutralidade política para funcionários do governo estadual - Asianet Newsable",
+    "translated_summary": "ECI reforça regras sobre neutralidade política para funcionários do governo estadual Asianet Newsable",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:04+00:00"
+  },
+  {
+    "id": "87d35031f2e803b9f82c",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "nny360.com",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0FEZnJXUDJCbWptTzliV0ItUV91YjBfUGJ0ZUJVbE50R0FyZHRMaVpGRFhMSEZwc2dRNWw0Ni15QzJTamZodVR1UFVNSDZidzlFMC1kTXlYS0c0MFZ1TjNmbUd4Zld0dDR1TGs4LUV0RVA4NUlSRmVjMnFpNVE1V2RqajdPRjItRTB1QkxfVW9HVWdDTEp2Y3N1MzM5am9waVAtX3ZWTEd6eHZGbFNsNW1TbHJpT2NlcERkVDFSc1Q1VE5lcEN5N2VBMXppLVN1SmlvS2R6ckZhV3VyY0F1RjdxQlVLaERRRzhoUEU3QnU?oc=5",
+    "original_title": "New vehicle charging stations bring additional spark to Cape Vincent | 1000 Islands - nny360.com",
+    "original_summary": "New vehicle charging stations bring additional spark to Cape Vincent | 1000 Islands nny360.com",
+    "published_at": "2026-11-10T20:59:54+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Novas estações de carregamento de veículos trazem faísca adicional para Cabo Vicente | 1000 Ilhas - nny360.com",
+    "translated_summary": "Novas estações de carregamento de veículos trazem faísca adicional para Cabo Vicente | 1000 Islands nny360.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:06+00:00"
+  },
+  {
     "id": "4a4593ed1cbd978155c6",
     "country": "Portugal",
     "category": "Política",
@@ -100,6 +227,26 @@
     "translated_summary": "É um país em estado de alerta. O Governo pediu que todos os que possam fiquem em casa.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T20:52:00+00:00"
+  },
+  {
+    "id": "7fbf34a07b3365bac3bb",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/bharat-mobility-expo-2027-to-feature-over-1750-exhibitors-from-50-plus-countries/135719682",
+    "original_title": "Bharat Mobility Expo 2027 to feature over 1,750 exhibitors from 50-plus countries",
+    "original_summary": "The Bharat Mobility Global Expo 2027 will be held from February 4-9 across Bharat Mandapam and Yashobhoomi in New Delhi, bringing together over 1,750 exhibitors from more than 50 countries.",
+    "published_at": "2026-11-10T20:15:00+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Bharat Mobility Expo 2027 contará com mais de 1.750 expositores de mais de 50 países",
+    "translated_summary": "A Bharat Mobility Global Expo 2027 será realizada de 4 a 9 de fevereiro em Bharat Mandapam e Yashobhoomi, em Nova Deli, reunindo mais de 1.750 expositores de mais de 50 países.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:09+00:00"
   },
   {
     "id": "87a80e3bcaf3643d9970",
@@ -344,6 +491,26 @@
     "translated_summary": "Face à declaração da situação de alerta nacional e ao agravamento das condições meteorológicas, o presidente da Câmara Municipal de Braga reuniu com a... O post Braga ativa Centro de Coordenação Operacional Municipal e reforça medidas preventivas aparece primeiro no VMTV .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T18:58:16+00:00"
+  },
+  {
+    "id": "981f26c8a4a3b81cf0f0",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Jornal de Negócios",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVE2eXdDTkRQQ0gzX2M1bTctSmxCN1hiVzdpN3BMWER3ZHpfaHR1SFY4aHVHTi03YVZEajJmZGMwRnozY21zQjY5OFRCNmtsUmQyaHBlZERfY3RVMTJZZndLN09GWWRId19WTWV6UUlLc3piRWhadmVpTnB4dnRhcnBaYXZ5eHR0c242bWFHSS1ySUt0cU9IUnZ3bHA3RlE0XzlnX3pPQ1IxejBTbnd1M0Rwem1iVVEwTHhULXpuRGx4dlhGWWVUWDdsVnRteEM2QnlrU2EwRUJyT3ZndVE?oc=5",
+    "original_title": "Aeroportos condicionados, 4.000 clientes sem eletricidade. Governo recomenda suspensão da Web Summit - Jornal de Negócios",
+    "original_summary": "Aeroportos condicionados, 4.000 clientes sem eletricidade. Governo recomenda suspensão da Web Summit Jornal de Negócios",
+    "published_at": "2026-11-10T18:26:30+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aeroportos condicionados, 4.000 clientes sem eletricidade. Governo recomenda suspensão da Web Summit - Jornal de Negócios",
+    "translated_summary": "Aeroportos condicionados, 4.000 clientes sem eletricidade. Governo recomenda suspensão da Web Summit Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:24+00:00"
   },
   {
     "id": "8b648126f976e105adab",
@@ -836,6 +1003,26 @@
     "last_translation_attempt_at": "2026-11-10T18:58:14+00:00"
   },
   {
+    "id": "1745d7da42108724a1f1",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHdLekZKbFRkN0RGa1o1Nkd3cXI1M29MQk9DSGhrT2puSmp2Y1AxYWhoR0ZhSnBqUGktRHYxMUU5ODBjenNZdUJkUjdvSDB0MzlmSnU3V3NZaXdSU0Iwd0ZEamdmd2FoRnBTMDRMQXZ2a0RKanIxUV9zRFZwQ0RBWWdQX2RZSnd2YUVCQWFDNTdCR1A4djVQU29RSjlJNElncC01cHZCNWs0M3hHanhOM05HUXNKM1hrbHNtZWxRQXdSaVFoNXZHNGFWMA?oc=5",
+    "original_title": "Presidente da Assembleia da República pede maior aposta dos empresários portugueses em Moçambique - Observador",
+    "original_summary": "Presidente da Assembleia da República pede maior aposta dos empresários portugueses em Moçambique Observador",
+    "published_at": "2026-11-10T15:56:00+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Presidente da Assembleia da República pede maior aposta dos empresários portugueses em Moçambique - Observador",
+    "translated_summary": "Presidente da Assembleia da República pede maior aposta dos empresários portugueses em Moçambique Observador",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:25+00:00"
+  },
+  {
     "id": "fe2a85cf1d6c5e8298be",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -1022,6 +1209,26 @@
     "translated_summary": "Um cidadão alerta para a existência de sarjetas e entradas de escoamento de águas pluviais obstruídas em Braga, manifestando preocupação com o risco de inundações perante a previsão de chuva associada à depressão Charles. Numa mensagem de alerta publicada nas redes sociais, o munícipe apela à limpeza urgente dos sistemas de drenagem, de forma a […]",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:56:31+00:00"
+  },
+  {
+    "id": "e8fe9ed34e73f5504019",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFczTmVKR3VYdFU4cjRrTmNzSWRsbDdjbUFxcWpjek9HYk85QmoyenUzZkxlLW40ZVA4Umo1ejVlMS0wWDh6eDd4Z2RCM2o1a0s1anYyNTRSdXZ1UXo0TzNoZkVRV3I5aDExXy1KQUZtb1NTZ0dGQmVVNmVqcFRWeE1XclRsUGFnMlZPeUo1YUUxRXo2?oc=5",
+    "original_title": "Aigner in SPD-Fraktion mit Applaus begrüßt - Onetz",
+    "original_summary": "Aigner in SPD-Fraktion mit Applaus begrüßt Onetz",
+    "published_at": "2026-11-10T15:16:58+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aigner em grupo parlamentar do SPD recebido com aplausos - Onetz",
+    "translated_summary": "Aigner no grupo parlamentar do SPD recebe Onetz com aplausos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:47:53+00:00"
   },
   {
     "id": "90a92eb2c50db75d0930",
@@ -2412,6 +2619,26 @@
     "last_translation_attempt_at": "2026-11-10T12:31:35+00:00"
   },
   {
+    "id": "70f74417381a14c29304",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRFlYTmViNVFzT1prOU00UGhaZ0ZadURpaUhrRWhPd1A0b3hPT09CQzBwMEI5c0g0NnUyOVhtbkRmRllhY0RKemo3N1NoSjBscWRGMjYwR0pHMjc1dXJFLXlqdTduNWltZEdHVXFiN3FMTlhRS0JqRUZnTzBzcm96NlZxN1QtcncxUXdLRThkWWZLZzExY1lMN1NtMHdJcjZZQ2FXdnVSMXBnNjVvWm84eWpwQ005V0NsdmhCaW1tQS1MZV9CalhzSXZhb2xSelNaNlHSAdcBQVVfeXFMT3NaRXFKaUllY21zMU9HYkt3VlpqeVcwMDN1ZzZUXzRQbWdSU2ZzUlFQLW5IYU91NW1QaTF5bUNlaUthWXNsejlEQWdZNUNTRTd4ZVNPVUNKMzVVcXUxMXhBcXVmNVoxNU5oQzJDVk1jYWFFVm5wdjlpcTJlVVZaS3AtVXhUUU9VT2h1SzNVUks1U3c2UjNYWG1fNTZKcHlXY1VDUzdQbGJLdmwzN3ZJNVVzYlJ2V21hZl9rZVV0dkFqZFl0eU1fbW9OUGNMU1R6ZGxIaW93TDQ?oc=5",
+    "original_title": "Reimagining citizen experience with digital service delivery in the AI era - ET Government",
+    "original_summary": "Reimagining citizen experience with digital service delivery in the AI era ET Government",
+    "published_at": "2026-11-10T12:20:16+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Reimaginando a experiência do cidadão com a prestação de serviços digitais na era da IA - ET Government",
+    "translated_summary": "Reimaginando a experiência do cidadão com a prestação de serviços digitais no governo ET da era da IA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:01+00:00"
+  },
+  {
     "id": "1b2b1c77a96129b570a2",
     "country": "Singapura",
     "category": "Automóvel",
@@ -2452,6 +2679,28 @@
     "translated_summary": "Índia pode conseguir um acordo comercial melhor: Samir Saran sobre renegociação com a ANI News dos EUA",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:31:55+00:00"
+  },
+  {
+    "id": "3179fe0370578641f961",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "Shangbao Indonesia",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0RkZ2VxZEVESHA1c09qbUVZVlhCNTV6dkhfcFR4cGhTa0pabEJoeGpxczlvQnJndC1oYk5fS3RVRVllTlVSWE1BX0ZLMHdlYXN2ZVVoTG1rUXZJc0drMXVQaF80NWFwaExWS1gtMUdBcmNLSjNoaldKYnllZ19GREtNbkY0UQ?oc=5",
+    "original_title": "中国10月进出口增长31.2% 前10月对东盟贸易增长24.2% - Shangbao Indonesia",
+    "original_summary": "中国10月进出口增长31.2% 前10月对东盟贸易增长24.2% Shangbao Indonesia",
+    "published_at": "2026-11-10T12:16:00+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Importações e exportações da China sobem 31,2% em outubro Comércio com ASEAN sobe 24,2% antes de outubro - Shangbao Indonésia",
+    "translated_summary": "As importações e exportações da China aumentaram 31,2% em outubro O comércio com a ASEAN aumentou 24,2% em outubro Shangbao Indonésia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:12+00:00"
   },
   {
     "id": "5ca001bb7f140e9f2a9c",
@@ -4121,6 +4370,26 @@
     "translated_summary": "Pequim, 10 de novembro (Xinhua) -- O livro do camarada Xi Jinping \"Sobre o alívio da pobreza\", editado pelo Instituto de Pesquisa de História e Documentação do Partido do Comitê Central do PCCh, contém 55 artigos importantes sobre o alívio da pobreza de novembro de 2012 a julho de 2026. As principais seções desta monografia são descritas a seguir.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T09:58:55+00:00"
+  },
+  {
+    "id": "7265e571cc28d5c158f2",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SX0xzRWFhMHBsNU1hdjN4ZFRMR2dhWFVmNVRtN3lIdGNBcjMzRU5Ta0xBYlp2cGhXRFQ2VFUzSXdmSkFzdm5lUjFaRXNkOE84TjBTY0VrdEhCcU9LMWNpaUZwMWZqWkVFYWFQWkZXZkIyS1hkQzlNSmxCdw?oc=5",
+    "original_title": "\"Grundsätzlich ist niemand mehr immun\", warnt Nahles zu KI und Jobs - ZDFheute",
+    "original_summary": "\"Grundsätzlich ist niemand mehr immun\", warnt Nahles zu KI und Jobs ZDFheute",
+    "published_at": "2026-11-10T09:23:00+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "\"Basicamente, ninguém está mais imune\", alerta Nahles sobre IA e empregos - ZDFheute",
+    "translated_summary": "\"Basicamente, ninguém está mais imune\", adverte Nahles sobre IA e Jobs ZDFtoday",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:15+00:00"
   },
   {
     "id": "a10ce5953fb3e61e8ea2",
@@ -9693,6 +9962,28 @@
     "last_translation_attempt_at": "2026-11-10T02:09:54+00:00"
   },
   {
+    "id": "5c2a1e1f0203ae366487",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "OBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQlRBMHJWdFRYWFlsX0dMdVZ6cXVDemlkNWRRYmRWWDUtdkEwdDVDZzE0N0w1Q0gyajZoUmlGbXNBNjAwemdfVFdMZ0l3YUVqR0xCd3U3ZXkwVkoybGVHN0F0aU1zSjhBX2c?oc=5",
+    "original_title": "이란의 파병 경고, 한국 외교의 시험대 - OBC 뉴스",
+    "original_summary": "이란의 파병 경고, 한국 외교의 시험대 OBC 뉴스",
+    "published_at": "2026-11-10T01:29:56+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Alerta de implantação iraniana um teste da diplomacia sul-coreana - OBC News",
+    "translated_summary": "Alerta de implantação iraniana, teste da diplomacia sul-coreana OBC News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:47:55+00:00"
+  },
+  {
     "id": "7d4ed3a75afa26d3cb0d",
     "country": "Índia",
     "category": "Economia",
@@ -11468,6 +11759,28 @@
     "translated_summary": "Kangdong-gu “Korea Lifelong Learning Award 'Excellence Award 2026” Cultura Ilbo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T23:59:51+00:00"
+  },
+  {
+    "id": "331822e508b79dbca939",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zWmlVQUMwUTA0WE50V2VTNVotTDB4eXh0STU3OTBGYVJDUVp6MVUxQ0l5Mkx1T05FNU16bk9YWUdRMUx6TjZtdTZWc3pwVG5ZN3lzNkRyZUhIQQ?oc=5",
+    "original_title": "트럼프 \"이란 전쟁 종식 긍정적 모멘텀…공격 재개 가능성 작아\" - 한국경제",
+    "original_summary": "트럼프 \"이란 전쟁 종식 긍정적 모멘텀…공격 재개 가능성 작아\" 한국경제",
+    "published_at": "2026-11-09T21:39:47+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Trump: \"Impulso positivo para acabar com a guerra... É provável que retome os ataques\" - Economia da Coreia",
+    "translated_summary": "Trump: \"Impulso positivo para acabar com a guerra... É provável que retome os ataques\" Economia da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:17+00:00"
   },
   {
     "id": "521af30fff8ebd1dc028",
@@ -15742,6 +16055,28 @@
     "translated_summary": "Em relação aos quatro ex-primeiros-ministros do PLD que saíram da sessão plenária da Câmara dos Deputados antes da votação do projeto de lei de redução do imposto de consumo sobre alimentos, foi esclarecido que o secretário-geral Suzuki emitiu uma advertência do secretário-geral como \"não pode ser negligenciado do ponto de vista da unidade partidária\"...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T11:02:44+00:00"
+  },
+  {
+    "id": "f001b7eb25a1648ac497",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "壹蘋新聞網",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3E4R0xhbzFHOWF6UGszOEY4eGo0bHFydXYzekVLNXZaY2h1S2loR1VYd2FRbFMwdmJDM3VsUmlscWRqU2xSN1BJX196cUU4WWJzcDZkUVVGLWF5Q09oTmhNUFRwYVZmNml5VlduUzRiTkhoZzBnS0tTcTZaVTNTQg?oc=5",
+    "original_title": "裕隆集團連續6年支持學生方程式賽車 NISSAN分享電驅科技培育造車人才 - 壹蘋新聞網",
+    "original_summary": "裕隆集團連續6年支持學生方程式賽車 NISSAN分享電驅科技培育造車人才 壹蘋新聞網",
+    "published_at": "2026-11-09T10:09:00+00:00",
+    "first_seen_at": "2026-11-10T21:47:19+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Grupo Yulong apoia a Formula Student Racing Nissan há 6 anos consecutivos para compartilhar tecnologia de acionamento elétrico para cultivar talentos na fabricação de carros - Yiping News",
+    "translated_summary": "Por 6 anos consecutivos, o Grupo Yulong apoiou a Formula Student Racing Nissan a compartilhar tecnologia de acionamento elétrico e cultivar talentos na fabricação de carros.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:47:58+00:00"
   },
   {
     "id": "626c615469113e0de6ef",
@@ -21083,11 +21418,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[TACVA × Tej] Workshop de Valor Agregado Sustentável: Da Quantificação de Risco ao Plano de Valorização Corporativa - Tej Taiwan Economic News",
+    "translated_summary": "[TACVA × Tej] Workshop Prático de Valor Agregado Sustentável: Da Quantificação de Risco ao Plano de Aprimoramento de Valor Corporativo Tej Taiwan Economic News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:26+00:00"
   },
   {
     "id": "7fd46c44687b1082c333",
@@ -21105,11 +21440,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia de Taiwan cresce 12,34% este ano, 6,45% no próximo ano - Economia Livre",
+    "translated_summary": "Economia de Taiwan cresce 12,34% este ano, 6,45% no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:29+00:00"
   },
   {
     "id": "b38899d50e2ee4939db7",
@@ -21169,11 +21504,11 @@
     "published_at": "2026-11-09T03:47:18+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MAS Wants Singapore's Financial Sector Quantum-Safe by 2034 - Fintech Singapore",
+    "translated_summary": "A MAS quer o setor financeiro de Singapura Quantum-Safe até 2034 Fintech Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:32+00:00"
   },
   {
     "id": "7c239ae492828d6b0680",
@@ -21316,11 +21651,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia de Taiwan mantém forte crescimento estimado para atingir 6,45% do PIB no próximo ano - CMoney",
+    "translated_summary": "Economia de Taiwan mantém forte crescimento, estimado em 6,45% do PIB no próximo ano CMoney",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:34+00:00"
   },
   {
     "id": "88eda00c67bb9789f70e",
@@ -21380,11 +21715,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Instituto de Pesquisa Econômica de Taiwan estima que o crescimento do PIB no próximo ano será de 6,45% e continuará a crescer de forma constante no período de base alto - Estação Central de Rádio Rti",
+    "translated_summary": "O Instituto de Pesquisa Económica de Taiwan estima que o PIB do próximo ano cresça 6,45%. No período de base elevado, a Estação Central de Rádio Rti continuará a crescer de forma constante.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:37+00:00"
   },
   {
     "id": "7091368721aa9aefe046",
@@ -21402,11 +21737,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia de Taiwan mantém forte crescimento econômico estimado para atingir 6,45% do PIB no próximo ano - Juheng.com",
+    "translated_summary": "O Instituto de Economia de Taiwan estima que a economia de Taiwan manterá um forte crescimento e o PIB ainda atingirá 6,45% no próximo ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:40+00:00"
   },
   {
     "id": "1e8d0335bccfb84e84a5",
@@ -22165,11 +22500,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Finanças Convida Altos Funcionários de 11 Países Asiáticos para... Partilhar Política Económica e Financeira na Coreia - Newsfim",
+    "translated_summary": "Ministério das Finanças Convida Altos Funcionários de 11 Países Asiáticos para... Partilha de Política Económica e Financeira da Coreia Newsfim",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:43+00:00"
   },
   {
     "id": "a7c9aac7f3cbf14e14ea",
@@ -22289,11 +22624,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministro do Meio Ambiente de Singapura 'preocupado com excesso de oferta' em data center - Nikkei",
+    "translated_summary": "Ministro do Meio Ambiente de Singapura \"Preocupado com o excesso de oferta\" no centro de dados, Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:46+00:00"
   },
   {
     "id": "956d4d701157ede0d893",
@@ -22398,11 +22733,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "“Emergência de semicondutores devido ao acidente de Kospi” … Top 5 notícias que abalaram a economia coreana - Jornal Yongin",
+    "translated_summary": "“Emergência de semicondutores devido ao acidente do KOSPI” … Top 5 News Yongin Newspapers que abalaram a economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:49+00:00"
   },
   {
     "id": "c66eef681b407e8ed07a",
@@ -22440,11 +22775,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Suspeito de interferir na comunicação do smartphone em Ginza, enviando e-mails fraudulentos da \"estação base falsa\" para detectar um homem - Nikkei",
+    "translated_summary": "Suspeito de interferir nas comunicações de smartphones em Ginza, homem é flagrado enviando e-mails fraudulentos de \"estação base falsa\" ou Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:52+00:00"
   },
   {
     "id": "9f2ae4a2f0473dd5d1af",
@@ -23332,11 +23667,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Estudo: Empresas na Alemanha reduzem investimentos em pesquisa e desenvolvimento - Mittelstand Nachrichten",
+    "translated_summary": "Estudo: Empresas na Alemanha cortam investimentos em pesquisa e desenvolvimento Mittelstand News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:56+00:00"
   },
   {
     "id": "d444f64d7c441e29c75a",
@@ -23614,11 +23949,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercado de bilhões - a economia alemã no espaço - dw.com",
+    "translated_summary": "Mercado de bilhões - a economia alemã no espaço dw.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:48:59+00:00"
   },
   {
     "id": "cf7d456810d00695b977",
@@ -23896,11 +24231,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nvidia investiga relacionamento do CEO da Fan com espiãs chinesas - Nikkei",
+    "translated_summary": "Nvidia investiga relacionamento do CEO da Fan com espiãs chinesas - Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:02+00:00"
   },
   {
     "id": "f2eafb33da34418b3b5c",
@@ -24110,11 +24445,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Was the Semiconductor Boom a ‘Camouflaged Curse’?, Korea's Economic Crisis Could Come in Five Years - Chosun Ilbo",
+    "translated_summary": "Was the Semiconductor Boom a ‘Camouflaged Curse’?, Korea's Big Economic Crisis Coming in 5 Years, Chosun Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:05+00:00"
   },
   {
     "id": "1989870d0d229022563e",
@@ -24193,11 +24528,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia da Coreia puxada por semicondutores: taxa de crescimento prevista no novo recorde de saldo atual ‘Buzz’ - Revista Hankyung",
+    "translated_summary": "Economia da Coreia puxada por semicondutores... Previsões de taxa de crescimento no novo recorde de saldo atual ‘zumbido’ Revista Han Kyung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:07+00:00"
   },
   {
     "id": "21c553193c44d4b73bb9",
@@ -24237,11 +24572,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O volume de produção é \"40 vezes maior que o de Lapidus\" A fábrica de semicondutores do Sr. Musk, a equipe de compras chega ao Japão em segredo - Nikkei",
+    "translated_summary": "O volume de produção é \"40 vezes maior que o de Lapidus\" A fábrica de semicondutores do Sr. Musk, a equipe de compras veio ao Japão Nikkei ultrassecreto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:10+00:00"
   },
   {
     "id": "21def2b2d0643f4fc324",
@@ -24259,11 +24594,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Surto de acessos não autorizados] Serviços financeiros ousam parar 1 mês de parada com defesa cibernética Ri Terai, presidente do grupo do setor público e privado - The Nikkei",
+    "translated_summary": "[Aumento no acesso não autorizado] A escolha de ousar interromper os serviços financeiros também está suspensa por um mês devido à defesa cibernética Ri Terai, presidente do grupo do setor público e privado Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:13+00:00"
   },
   {
     "id": "46034ed8e70a7ff5c9e4",
@@ -24281,11 +24616,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Recuperação económica alemã: onde chega e onde não chega - faz",
+    "translated_summary": "Recuperação económica alemã: onde chega e onde não faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:16+00:00"
   },
   {
     "id": "874717d2ac53609c6945",
@@ -24345,11 +24680,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia é altamente dependente da indústria de IA. Taiwan deve ser prudente - Daily - Business Times",
+    "translated_summary": "A economia é altamente dependente da indústria de IA, e Taiwan deve ser prudente - Daily Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:19+00:00"
   },
   {
     "id": "c6f93f40c15587579035",
@@ -24489,11 +24824,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Dalal Street Week Ahead: ganhos do segundo trimestre, inflação dos EUA e da Índia, fluxo de FII, preços do petróleo entre 10 fatores-chave... - Moneycontrol.com",
+    "translated_summary": "Dalal Street Week Ahead: ganhos do segundo trimestre, inflação dos EUA e da Índia, fluxo de FII, preços do petróleo entre 10 fatores-chave... Moneycontrol.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:22+00:00"
   },
   {
     "id": "230fc2b27f9b113d06af",
@@ -24907,11 +25242,11 @@
     "published_at": "2026-11-08T15:11:52+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Resiliência cibernética agora necessária - ps.nikkei.com",
+    "translated_summary": "Resiliência cibernética agora necessária ps.nikkei.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:25+00:00"
   },
   {
     "id": "8a32cd08474fa27c46e1",
@@ -24971,11 +25306,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Prisma] Maior Investimento Estrangeiro de Todos os Tempos, ‘Confiança‘ na Economia da Coreia - JoongAng Ilbo",
+    "translated_summary": "[Prisma] Maior Investimento Estrangeiro de Todos os Tempos, ‘Confiança‘ na Economia da Coreia JoongAng Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:28+00:00"
   },
   {
     "id": "d494c07972c667777398",
@@ -25073,11 +25408,11 @@
     "published_at": "2026-11-08T14:54:36+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Localização Alemanha: Quando haverá uma recuperação real? - SZ.de",
+    "translated_summary": "Localização Alemanha: Quando as coisas realmente vão melhorar de novo? SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:30+00:00"
   },
   {
     "id": "de14a05ab6bec5e85d28",
@@ -25117,11 +25452,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Comentário: Sim, a Alemanha pode aprender algo com Donald Trump - Economia - SZ.de - SZ.de",
+    "translated_summary": "Comentário: Sim, a Alemanha pode aprender algo com Donald Trump - Economia - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T21:49:33+00:00"
   },
   {
     "id": "3dd6203c9d1169294683",
