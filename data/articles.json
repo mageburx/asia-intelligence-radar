@@ -1,5 +1,265 @@
 [
   {
+    "id": "4b5bf38f93738f96915e",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LRGNSY2tEZENHeVlaVDZ0Q2lvOGJmNmF3RWktbm1laXFNbVVEcXBBQzBkdVpFRlEzRWFZdTd1TVhiNlQ3OFVURHh3VDM5N21qUXJPMFo1YUNvdnRZUUgwZ2JON3NqNHVaRzF2Z3RVY3NmQQ?oc=5",
+    "original_title": "\"반도체 성장, 민생경제로도 확산…물가 상방 위험 유의\" - KB Think",
+    "original_summary": "\"반도체 성장, 민생경제로도 확산…물가 상방 위험 유의\" KB Think",
+    "published_at": "2026-11-10T02:50:27+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Semicondutores",
+      "Crescimento e PIB",
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "“Crescimento de semicondutores, proliferação na economia civil... Cuidado com o risco de inflação” - KB Think",
+    "translated_summary": "\"Crescimento de semicondutores, proliferação na economia mineral... Observe o risco de inflação\" KB Pense",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:04+00:00"
+  },
+  {
+    "id": "a2ef1d26ce111c4d0fec",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "鉅亨網",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZVVoSlZVS05fbVgwUk5wWE5uT2ppMnlGU3RBVEpnWFZVQ3RtUFFaS1Zxd2EyT2E0ZzdFWlpSY2RobFp0RzBYTEZCMWF3dkE?oc=5",
+    "original_title": "看好AI引擎續爆發 渣打二度上調台灣GDP 今明年看衝12.8%與7.5% - 鉅亨網",
+    "original_summary": "看好AI引擎續爆發 渣打二度上調台灣GDP 今明年看衝12.8%與7.5% 鉅亨網",
+    "published_at": "2026-11-10T02:43:02+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Otimista de que o mecanismo de IA continuará a entrar em erupção. O Standard Chartered aumentará o PIB de Taiwan pela segunda vez este ano e no próximo. Veja o impacto de 12,8% e 7,5% - Juheng.com",
+    "translated_summary": "Otimista de que o mecanismo de IA continuará a entrar em erupção. O Standard Chartered aumentará o PIB de Taiwan pela segunda vez este ano e no próximo. Olhe para as redes Chu Heng de 12,8% e 7,5%.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:09+00:00"
+  },
+  {
+    "id": "cda3ac86875a36c7681a",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "CSR@天下",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DdHRlMjNOT0pQU2FHZzE2QzFyVUJYcjk3VXJNU3lQOHpjZTBrOVpKRkpOazFETWZiYTVQRGxQa1lnaG9Ta0RLcWEzbw?oc=5",
+    "original_title": "回應COP31 彭啟明：10年經濟成長47%、溫排下降8%，台灣超車美日韓，成全球唯一「愈富愈綠」經濟體 - CSR@天下",
+    "original_summary": "回應COP31 彭啟明：10年經濟成長47%、溫排下降8%，台灣超車美日韓，成全球唯一「愈富愈綠」經濟體 CSR@天下",
+    "published_at": "2026-11-10T02:43:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Respondendo à COP31 Peng Qiming: 10 anos de crescimento econômico 47%, emissões temperadas caíram 8%, Taiwan ultrapassou Estados Unidos, Japão e Coreia do Sul para se tornar a única economia \"mais rica e mais verde\" do mundo - CSR @ world",
+    "translated_summary": "Respondendo à COP31 Peng Qiming: 10 anos de crescimento econômico 47%, emissões temperadas caíram 8%, Taiwan ultrapassou Estados Unidos, Japão e Coreia do Sul para se tornar a única economia \"mais rica e mais verde\" do mundo CSR @ world",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:14+00:00"
+  },
+  {
+    "id": "60153c6bef43370c2c4a",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkNSSWhjNmx2MUx3TUtSWHdxeGtvSGJBQ2t6NG1vR1YwN29PTE55Z0hHU040T0xycjJVVlRrOG9KanNmaHRWSVdyWm5IRzBCZm1oSFRzZDJNNDhxWWRhQWw1eWVsUkI0Qnc4U0w3a045b0pFTE1VRldkNGZoX185NEVBaXZlLTlWeFlYUk54Rm1UUlVKeExVdA?oc=5",
+    "original_title": "Unionskandidatin Aigner stellt sich im Bundestag vor - Onetz",
+    "original_summary": "Unionskandidatin Aigner stellt sich im Bundestag vor Onetz",
+    "published_at": "2026-11-10T02:32:16+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Candidata sindical Aigner se apresenta no Bundestag - Onetz",
+    "translated_summary": "Candidata sindical Aigner se apresenta a Onetz no Bundestag",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:09+00:00"
+  },
+  {
+    "id": "76b04b8e4f9a4017938d",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "관광레저신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52OFNubUZXbFN0ODE1bXRuTURfZGN5RkpSOS1Jc0lzb0s0YkdYaUk1VXo5ZWQwZjljSGppNk1nTDc5SXQwTFVyT283LUxfTVphWWN2QmhWMVVqSVRSWEh3ekw5MkFfQ204OEE?oc=5",
+    "original_title": "[여행의 시간들] 여권 한 권에 담긴 대한민국 해외여행의 역사 - 관광레저신문",
+    "original_summary": "[여행의 시간들] 여권 한 권에 담긴 대한민국 해외여행의 역사 관광레저신문",
+    "published_at": "2026-11-10T02:30:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "[Tempos de Viagem] História das Viagens ao Exterior na Coreia em Um Passaporte - Jornal de Turismo e Lazer",
+    "translated_summary": "[Tempos de viagem] História das viagens ao exterior na Coreia em um passaporte Jornal turístico de lazer",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:14+00:00"
+  },
+  {
+    "id": "6abf716db26a1dbcd486",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "The Korea Herald · Business",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-koreaherald-business",
+    "publisher": "The Korea Herald · Business",
+    "url": "https://www.koreaherald.com/article/10932025",
+    "original_title": "LG Energy Solution's AI cuts battery testing time to 10 minutes",
+    "original_summary": "LG Energy Solution said Monday its AI-powered battery diagnostic software, Re.Pulse, has won a CES 2027 Innovation Award for cutting the time needed to assess used batteries from more than seven hours to less than 10 minutes. The technology, recognized in the Vehicle Tech & Advanced Mobility category, uses artificial intelligence to analyze changes in battery voltage in response to controlled electrical pulses, which can be used to assess battery health and remaining capacity. The results help d",
+    "published_at": "2026-11-10T02:28:38+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A IA da LG Energy Solution reduz o tempo de teste da bateria para 10 minutos",
+    "translated_summary": "A LG Energy Solution disse na segunda-feira que seu software de diagnóstico de baterias alimentado por IA, o Re.Pulse, ganhou um Prêmio de Inovação CES 2027 por reduzir o tempo necessário para avaliar baterias usadas de mais de sete horas para menos de 10 minutos. A tecnologia, reconhecida na categoria Tecnologia de Veículos e Mobilidade Avançada, usa inteligência artificial para analisar mudanças na tensão da bateria em resposta a pulsos elétricos controlados, que podem ser usados para avaliar",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:34+00:00"
+  },
+  {
+    "id": "4ead050a32579e41775c",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73311",
+    "original_title": "マーシャル諸島 ハイネ大統領が来日へ 高市首相と会談も",
+    "original_summary": "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。",
+    "published_at": "2026-11-10T02:26:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O presidente Heine das Ilhas Marshall visita o Japão para se encontrar com o primeiro-ministro Takaichi",
+    "translated_summary": "O presidente Heine das Ilhas Marshall, uma nação insular do Pacífico, visitará o Japão este mês para se reunir com o primeiro-ministro Takaichi.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:06+00:00"
+  },
+  {
+    "id": "98124edd3178b8f40613",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "팍스경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yckZidWVvbkh2bUNfQ0IwYkJoeVBGYXFET3N6RndyM1QxZGhtdWJmUDZ3UzQyaEVxSDQ1c3B3d21wVG10Y0FZTEk2U0o5VFMyOFVvOXo1b1BxcDU3TkZreWNjOXZ2bk0?oc=5",
+    "original_title": "한국투자증권, 모간스탠리 투자정보 독점 제공…글로벌 리서치 강화 - 팍스경제TV",
+    "original_summary": "한국투자증권, 모간스탠리 투자정보 독점 제공…글로벌 리서치 강화 팍스경제TV",
+    "published_at": "2026-11-10T02:22:11+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities Offers Exclusive Morgan Stanley Investor Information… Strengthening Global Research - Pax Economy TV",
+    "translated_summary": "Korea Investment & Securities Oferece Informações Exclusivas ao Investidor do Morgan Stanley… Pax Economic TV Melhora a Pesquisa Global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:54+00:00"
+  },
+  {
+    "id": "2bfd59476952ceeaeae1",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "風傳媒",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2OGZzRWZTd0liVGVYbXN4TlZnemEwcHRLRndGMGF0UWR3TENMY3g1cWpaUDlWalNURzd0TkVEWWJhRmE0ZnJKNTRyQmV5N3I2?oc=5",
+    "original_title": "黃仁勳被拍到與黃樂同進同出！中國共諜為什麼能入境台灣？ 外交部回應了 - 風傳媒",
+    "original_summary": "黃仁勳被拍到與黃樂同進同出！中國共諜為什麼能入境台灣？ 外交部回應了 風傳媒",
+    "published_at": "2026-11-10T02:21:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Huang Jen-Hsun foi fotografado entrando e saindo com Huang Yue! Por que os espiões chineses podem entrar em Taiwan? O Ministério das Relações Exteriores respondeu - Mídia Eólica",
+    "translated_summary": "Huang Jen-Hsun foi fotografado entrando e saindo com Huang Yue! Por que os espiões chineses podem entrar em Taiwan? O Ministério das Relações Exteriores respondeu à Mídia Eólica",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:22+00:00"
+  },
+  {
+    "id": "173d143986d66431cca6",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "파이낸셜신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0taG40ZS14NUlwOE85M1dMNHRVUk1xbXZiMzFuaVhjSmZmMkhjS0F1bGRTZFRnRkJqYl9rdTVWUUdrV2JpNVREOEZHamZnVjl0U3B3VlpXUnBiMWxxUWx5cHNONHp2LTlOZWhV?oc=5",
+    "original_title": "금융硏 \"내년 한국경제 3.1% 성장 … 경상수지 흑자 기조 지속\" - 파이낸셜신문",
+    "original_summary": "금융硏 \"내년 한국경제 3.1% 성장 … 경상수지 흑자 기조 지속\" 파이낸셜신문",
+    "published_at": "2026-11-10T02:14:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Financeiro \"A economia da Coreia crescerá 3,1% no próximo ano... o superávit em conta corrente continua\" - Jornal Financeiro",
+    "translated_summary": "Financeiro \"A economia da Coreia crescerá 3,1% no próximo ano... O superávit em conta corrente continua\" Jornal Financeiro",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:56+00:00"
+  },
+  {
+    "id": "62685e894a8c642e64ca",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OaE1YRnJLcVdZMzVpZXZPaTZFd0NkUzZXUUN4S3RxZkptMXRIdF84QmFMMHN1WFpaOXRzaEx2N1h3S3lkeHhwMjgxQ1JnbG1M0gFWQVVfeXFMTm9VV0FQU096SUhaZzQ0Z1FPblV5WnFUZUV5WERjSmthZmR6RGItZnZrOExRZlZIUEc0dWNFaENrYUdRRk1MSGJ3NWV0RWMwRmRaUmE4Znc?oc=5",
+    "original_title": "黃仁勳捲女間諜疑雲 盧秀燕：中央政府應高度重視台灣產業影響 - UDN",
+    "original_summary": "黃仁勳捲女間諜疑雲 盧秀燕：中央政府應高度重視台灣產業影響 UDN",
+    "published_at": "2026-11-10T02:11:28+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Huang Renxuan, suspeita de espionagem Lu Xiuyan: O governo central deve dar grande importância à influência industrial de Taiwan - UDN",
+    "translated_summary": "Huang Renxuan, suspeita de espionagem Lu Xiuyan: O governo central deve atribuir grande importância ao impacto da indústria de Taiwan na UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:24+00:00"
+  },
+  {
+    "id": "869c65e666e2dd77f194",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "公益社団法人 日本経済研究センター",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMUs4Q093YldRcWhOdGE0U0lLWW82cUE4NEl4ZGNxU21zYjAxUUg2UmtQcWUyZ3lqdmpNOUFyLUFEaG91QklJLTluQkhlNDczVHJRVkZGSWhJczJudTYyUVdLQURQNUU?oc=5",
+    "original_title": "9月の景気後退確率は29.5％ - 公益社団法人 日本経済研究センター",
+    "original_summary": "9月の景気後退確率は29.5％ 公益社団法人 日本経済研究センター",
+    "published_at": "2026-11-10T02:08:39+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A probabilidade de recessão em setembro é de 29,5% - Japan Economic Research Center",
+    "translated_summary": "A probabilidade de uma recessão em setembro é de 29,5%. O Centro de Pesquisa Econômica do Japão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:49+00:00"
+  },
+  {
     "id": "88d94e1578e577623fa6",
     "country": "Japão",
     "category": "Política",
@@ -22,6 +282,28 @@
     "last_translation_attempt_at": "2026-11-10T02:09:33+00:00"
   },
   {
+    "id": "5194463c63b161f30d1d",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "세무사신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YVJBamxOMUcyd2NpcEFRVXNTc1FMZkRtRGNwS3pSZXAzWmJZTHJKNFhTTTdDdWFIdGRtQmp5bk1BMGc1ZFAwbTY4REV0VW5nTzh3RXpoTVY2MGVJQ0VWUEE3U2J2dm03UkRpdw?oc=5",
+    "original_title": "KDI \"AI투자 중심 양호한 성장…반도체 소득효과 가계엔 아직\" - 세무사신문",
+    "original_summary": "KDI \"AI투자 중심 양호한 성장…반도체 소득효과 가계엔 아직\" 세무사신문",
+    "published_at": "2026-11-10T02:01:11+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Semicondutores"
+    ],
+    "translation_status": "translated",
+    "translated_title": "KDI \"Bom crescimento centrado no investimento em IA... Ainda não na família de efeitos de renda de semicondutores\" - Jornal Fiscal",
+    "translated_summary": "KDI \"Good Growth Focused on AI Investment... Still in the Household with Semiconductor Income Effect\" Jornal Agente Fiscal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:59+00:00"
+  },
+  {
     "id": "023b1f21e63a94afd61f",
     "country": "Japão",
     "category": "Política",
@@ -40,6 +322,48 @@
     "translated_summary": "O Comitê Gestor da Câmara dos Vereadores convocou uma reunião do conselho de administração para deliberar sobre o projeto de lei relacionado à redução do imposto sobre o consumo de alimentos no dia 11, e o partido no poder concordou formalmente em pedir ao primeiro-ministro de Takaichi que participasse da reunião plenária da Câmara dos Vereadores.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T02:09:37+00:00"
+  },
+  {
+    "id": "398c602155bbded473bf",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLXFkcE1HYWdCd0N5dG1COS1ERU95WnItT3ZYU25NU210dEF4SFI5MWgtWjBoZDl5c2RfSUExRFR5dXFyejJzRlU4cVMzaHpJY3lwc1JubjgxcU3SAWBBVV95cUxPdWNxQkFvRy1iaW5jREZiamlvQnRKenNPWWQxSHZkMjdNSzVMQTJPRXNCRlFVTDF6NXlqZzlSdUdtV1lqNEFFUHpvdlhtTTdzSlc4bUJYWl9QbGFEUmJsLUE?oc=5",
+    "original_title": "\"'블루웨이브'에 배터리·전력기기 수혜…철강·자동차는 악재\" - 연합뉴스",
+    "original_summary": "\"'블루웨이브'에 배터리·전력기기 수혜…철강·자동차는 악재\" 연합뉴스",
+    "published_at": "2026-11-10T02:00:03+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Receber baterias e dispositivos de energia para 'Blue Wave'... Aço e carros estão ruins\" - Yonhap News",
+    "translated_summary": "\"Receber baterias e dispositivos de energia para 'Blue Wave'... Aço e carros são ruins\" Yonhap News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:19+00:00"
+  },
+  {
+    "id": "036f6f690c96a279fe19",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ISzJ1NGIydDRkZjFQcE1HVmxVV0pOVm9hS3J5UzNxU3BNTUQwRFNEbUxuaWNJaGZxSExoQlZQODFmQkROdEJjbmhHQW80bkpSdWRCOWRQaXh4XzlCT3FyLWZyR2w4ZS1C0gFsQVVfeXFMUGw3SGxpTm5ZbzJQNVBNc2dmQWg4RHhsVzU3SGlRY0VLRWMxcWZlUGlQZ1NURkVlM3paQkhvN19UYjZQeWJxTlVEYzFhOVRtdG5hNVYwVm0xRzNYRGFZN1lRQ1NuamZES3FCVUl2?oc=5",
+    "original_title": "[현대차 우주 승부수] 2027년 달 탐사 목표…로버 개발 어디까지 - 블로터",
+    "original_summary": "[현대차 우주 승부수] 2027년 달 탐사 목표…로버 개발 어디까지 블로터",
+    "published_at": "2026-11-10T01:58:47+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "[Hyundai Space Race] 2027 Objetivo de Exploração da Lua… Desenvolvimento do Rover - Blotter",
+    "translated_summary": "[Hyundai Space Race] Objetivo de Exploração da Lua em 2027... Blotter de Desenvolvimento Rover",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:17+00:00"
   },
   {
     "id": "1047275c81fab1d3c536",
@@ -124,6 +448,28 @@
     "translated_summary": "Esquema de armazenamento de energia da Índia visa investimento de $ 10 bilhões Sarkaritel.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T02:10:44+00:00"
+  },
+  {
+    "id": "41981964fc9435102c0b",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRkpLT3dXYWpQaWVJZllucTYyamlfc0FJRERHd0lUV1pLZldoZC0tRW1wTTduNy1uM1BuYWFtdVctaGRRWE50RDJCV09Sc3pQZUQ1RGFNazRBTkd0V0xCbUZrNFFSWUw3SlFxNGkwNA?oc=5",
+    "original_title": "南海部分海域进行军事训练，禁止驶入 - 中国经济网",
+    "original_summary": "南海部分海域进行军事训练，禁止驶入 中国经济网",
+    "published_at": "2026-11-10T01:25:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Formação militar em partes do Mar do Sul da China, sem condução - China Economic Net",
+    "translated_summary": "Formação militar em partes do Mar da China Meridional, sem acesso à Rede Económica da China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:47+00:00"
   },
   {
     "id": "3ac23e3e4290db017971",
@@ -403,6 +749,26 @@
     "last_translation_attempt_at": "2026-11-10T01:06:33+00:00"
   },
   {
+    "id": "dbd19e7e294a2ffaf778",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFBsc2tUb3lHR29uYWVDZzk2bndwQlBwZ19BcXZDTURIa2NwbXpTcVRyVTJsNHhZWjZXXzlUc3NqUzhfSVByWFdkQ0s0S0RUaERqOTUwSGJvQUZacFl6ZnlqN0VVMU85TkNjR1JTWEdHaE5lOVdOdXAxWDVqbV8ta280aGMtV0tmRlVTaGdYQ1NwWExxZGZITDMxVkQtQkxpQ0RDOFllSGVTckN3cjVtUjI0dnlwTzloMDdNVw?oc=5",
+    "original_title": "Nvidia intervened in US probe of Megaspeed chip smuggling - The Business Times",
+    "original_summary": "Nvidia intervened in US probe of Megaspeed chip smuggling The Business Times",
+    "published_at": "2026-11-10T00:32:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Nvidia interveio em investigação dos EUA sobre contrabando de chips Megaspeed - The Business Times",
+    "translated_summary": "A Nvidia interveio na investigação dos EUA sobre o contrabando de chips Megaspeed The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:29+00:00"
+  },
+  {
     "id": "1b98d051d72c42c6c95f",
     "country": "Taiwan",
     "category": "Política",
@@ -508,6 +874,29 @@
     "translated_summary": "As exportações de produtos de tecnologia impulsionadas por IA para Taiwan atingiram recordes no comércio total em outubro",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T01:07:33+00:00"
+  },
+  {
+    "id": "beba5601c5a058c74254",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "www.pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5",
+    "original_title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
+    "original_summary": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
+    "published_at": "2026-11-10T00:13:38+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Momento de Fabricação:Construindo uma Índia Autossuficiente - www.pib.gov.in",
+    "translated_summary": "Momento de Fabricação:Construindo uma Índia Autossuficiente www.pib.gov.in",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:17+00:00"
   },
   {
     "id": "d984428d4f1a3ccd1ab4",
@@ -700,6 +1089,28 @@
     "translated_summary": "BAIC FOTON Revela Estratégia de Sobrealimentação para Avançar os Negócios Globais do Ecossistema de Energia Inteligente em Macau",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "id": "a343a5c05d5b6c351580",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Xck81VE1zN1JCZXo1RWFjQWJFSHloT09HMGgxRzktZWIyU1lSZklqTDVrZlJMQkpsbEh3T2lEbnBPQk0zbVFJbHdKdmJUaWJVNG5YMUx3RHViUQ?oc=5",
+    "original_title": "민주당 상원 장악…트럼프의 '중앙은행 장악 구상' 제동 - 한국경제",
+    "original_summary": "민주당 상원 장악…트럼프의 '중앙은행 장악 구상' 제동 한국경제",
+    "published_at": "2026-11-09T23:47:48+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Aquisição democrata do Senado… O 'Plano de Aquisição do Banco Central' de Trump freia - Economia da Coreia",
+    "translated_summary": "Aquisição democrata do Senado… A 'Iniciativa de Aquisição do Banco Central' de Trump freia a economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:06+00:00"
   },
   {
     "id": "1d12a3f442ab5a6be32c",
@@ -1620,6 +2031,26 @@
     "last_translation_attempt_at": "2026-11-09T20:57:26+00:00"
   },
   {
+    "id": "c3030a9c78a65f386aa4",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFNMUHZYTWV2WDZXcVFWbVR5aXhPOWh1WVRRdy1PWlZ6Rkw2ZDZTZklQUjRSeHRCN2JjMlBRU1RHQ0dWMXNDaE1zcXdwNVNqNW5tTVo1djNnVjI0X2Z4RWJxV1BLRG5RZl9mZTRoMzZxNHlQSUZ2dnFySG16YUtZRi1ORlBreVJvelh5M0o3SFJEcmJ1Q2ZibzBXQTdrUDE3YmhUY2FMTUstNWFhR19LdlVvdEU0eGF1MkVIc3R1eWxPRXRJdW4zQmlzOA?oc=5",
+    "original_title": "Zigaretten-Freimenge aus EU-Ausland sinkt vorerst nicht - Allgemeine Zeitung",
+    "original_summary": "Zigaretten-Freimenge aus EU-Ausland sinkt vorerst nicht Allgemeine Zeitung",
+    "published_at": "2026-11-09T20:46:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Zigaretten-Freimenge aus EU-Ausland sinkt vorerst nicht - Allgemeine Zeitung",
+    "translated_summary": "Zigaretten-Freimenge aus UE-Ausland sinkt vorerst nicht Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:52+00:00"
+  },
+  {
     "id": "7bf5d91471a13a4abb4d",
     "country": "Bosch",
     "category": "Indústria",
@@ -1888,11 +2319,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Zos!\" Jovens reunidos para crescer, empresas \"pretas soltas\" enterradas - Os nikkeis",
+    "translated_summary": "\"Zos!\" reúne jovens em busca de crescimento, empresa enterrada \"Yuru Black\" Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:21+00:00"
   },
   {
     "id": "3cb382b2301adf02fe10",
@@ -1979,6 +2410,26 @@
     "translated_summary": "Trump questionou a legitimidade das eleições intercalares, passando da \"aceitação dos resultados\" para o Nikkei",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T01:07:41+00:00"
+  },
+  {
+    "id": "ceb2f11dfd720d2c8c4c",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zRzYzdlJCTGk0M1ZBYW5HMm4wdFUtQlpCREFRdUJjM2VPdUtSTVpyWkIxRE02aUFrYWRnMVVEZkNMOUlIdk1fZ3VLcnNVRklSdjljejM1TmI2dVEyREgtMXJsc3pDOWFi?oc=5",
+    "original_title": "ICMRA 정상회의, 대한민국에서 처음 열립니다 - 대한민국 정책브리핑",
+    "original_summary": "ICMRA 정상회의, 대한민국에서 처음 열립니다 대한민국 정책브리핑",
+    "published_at": "2026-11-09T19:38:58+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "ICMRA Summit na Coreia do Sul pela primeira vez - South Korea Policy Briefing",
+    "translated_summary": "ICMRA Summit, primeira vez na Coreia do Sul South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:12+00:00"
   },
   {
     "id": "d113fcfc8e299a95b76c",
@@ -2109,11 +2560,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Taikei: crescimento do PIB de 6,45% no próximo ano - Business Times",
+    "translated_summary": "Taikei: crescimento do PIB de 6,45% no próximo ano, Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:24+00:00"
   },
   {
     "id": "a8b3524b7df1a19a2cfc",
@@ -2195,11 +2646,11 @@
     "published_at": "2026-11-09T18:43:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eduardo Braga prevê alimentos mais baratos com imposto zero da cesta básica a partir de 2027 - Amazonas1",
+    "translated_summary": "Eduardo Braga prevê alimentos mais baratos com imposto zero da cesta básica a partir de 2027 Amazonas1",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:26+00:00"
   },
   {
     "id": "f50f85d03f2fbb8ddb69",
@@ -2218,11 +2669,11 @@
       "Tarifas e comércio",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Brasil aposta na tecnologia e quer mostrar que é mais do que \"agro\"",
+    "translated_summary": "O Brasil quer aproveitar a Web Summit, em Lisboa, para mostrar que pode exportar mais do que produtos do agronegócio e trouxe cerca de 300 `startups` para procurar parceiros e investidores na Europa, disse à Lusa fonte da ApexBrasil.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:27+00:00"
   },
   {
     "id": "5d9c1bb58a8e7b640e3b",
@@ -2240,11 +2691,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Euro sobe e regressa ao patamar dos 1,12 dólares",
+    "translated_summary": "O euro subiu hoje e regressou ao patamar dos 1,12 dólares, na véspera da divulgação dos dados relativos à inflação nos EUA, que podem reforçar as expectativas que a Fed volte a subir as taxas de juro em dezembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:28+00:00"
   },
   {
     "id": "7dc473ad058760c36aa2",
@@ -2283,11 +2734,11 @@
     "published_at": "2026-11-09T17:49:24+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Miio defende 'vouchers' diretos e usados para democratizar apoios aos elétricos - Motor24",
+    "translated_summary": "Miio defende 'vouchers' diretos e usados para democratizar apoios aos elétricos Motor24",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:29+00:00"
   },
   {
     "id": "58326cfd2d538fd8296a",
@@ -2395,11 +2846,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Grandes oportunidades para pequenas empresas, Noriyuki Yanagawa - Nikkei",
+    "translated_summary": "A Grande Oportunidade para Pequenas Empresas Noriyuki Yanagawa Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:30+00:00"
   },
   {
     "id": "148714240cad6bc9b0d9",
@@ -2459,11 +2910,11 @@
     "published_at": "2026-11-09T16:56:46+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Aguiar-Branco pede aos partidos para resistirem à \"tentação\" da rua",
+    "translated_summary": "O presidente da Assembleia da República, José Pedro Aguiar-Branco, considerou hoje, em Maputo, que as assembleias populares nunca resolveram problemas e apelou aos partidos para resistirem à \"tentação\" de resolver na rua o que compete ao Parlamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:32+00:00"
   },
   {
     "id": "15c7c0bfad272b659609",
@@ -2588,11 +3039,11 @@
     "published_at": "2026-11-09T16:52:34+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cortes de empregos: Vodafone Alemanha corta quase um em cada cinco empregos - TEMPO",
+    "translated_summary": "Cortes de empregos: a Vodafone Alemanha reduz o TEMPO em quase um EM cada cinco",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:33+00:00"
   },
   {
     "id": "6fb0804b50bc3ac57346",
@@ -2608,11 +3059,11 @@
     "published_at": "2026-11-09T16:43:19+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mais 11 vítimas de abusos sexuais na Igreja Católica Portuguesa indemnizadas diz Conferência Episcopal",
+    "translated_summary": "Mais 11 vítimas de abusos sexuais na Igreja Católica portuguesa vão ser indemnizadas, além das 57 compensações atribuídas na fase inicial do processo, disse hoje o presidente da Conferência Episcopal Portuguesa (CEP).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:36+00:00"
   },
   {
     "id": "cb5b74554bc00cc7af1c",
@@ -3276,6 +3727,28 @@
     "translated_summary": "Antalya, 9 de novembro (Repórter Wei Yuan) \"Na minha opinião, a China é um ‘adulto maduro na sala’. A trigésima primeira sessão da Conferência das Partes (COP31) da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas foi realizada em Antália, Turquia, de 9 a 20 de novembro. Eugene Doyle, um escritor da Nova Zelândia que se concentra no Oriente Médio e na paz e segurança na região da Ásia-Pacífico, disse em uma entrevista exclusiva ao repórter da China New Net que muitas pessoas ainda não percebem o quanto a China contribui para a transição energética global. É a ação, e não as barreiras comerciais, que são necessárias para lidar com as mudanças climáticas. A competição geopolítica não deve ser um obstáculo para os países avançarem na cooperação climática.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T15:00:33+00:00"
+  },
+  {
+    "id": "d239b435bfc3c22457d0",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINmd1R3J3ajFKZUF6QnBJRWxxQkpxZDdEV25BaUJjM0t1TjlyN3k5dkQtLXBvbEpsYi1LYmdQX3FOVWhGejVzNWx6a09DWEVVZ0VJbC0yNFhWUDJqWUVDX2U5eUlYYlY5MC0zaGt3MA?oc=5",
+    "original_title": "提高自防自救能力，从这些学起！ - 中国经济网",
+    "original_summary": "提高自防自救能力，从这些学起！ 中国经济网",
+    "published_at": "2026-11-09T14:26:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Melhore suas capacidades de autodefesa e autoajuda e aprenda com elas! - China Economic Net",
+    "translated_summary": "Melhore as suas capacidades de autodefesa e autossalvamento, aprenda com elas! China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:44+00:00"
   },
   {
     "id": "28cd375dfde910d13b9b",
@@ -4397,6 +4870,28 @@
     "translated_summary": "Pequim, 9 nov (Xinhua) -- Chen Wenqing, membro do Grupo Central de Propaganda, membro do Birô Político do Comitê Central do Partido Comunista da China e Secretário do Comitê Político e Jurídico do Comitê Central do Partido Comunista da China, pregou o espírito da Quinta Sessão Plenária do 20º Comitê Central do PCC no Comitê Político e Jurídico do",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T12:00:09+00:00"
+  },
+  {
+    "id": "d63d30b71ab7ab6fd0ba",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "鉅亨網",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00R3RZUWpKUkZNV1labFBmay1xcWV5Z3V1YUZfOVdRUjJzdDAwLTEtaFlHYjRXeXZYUF9zck1uUWg2QXRrSXBPUHRrYWRXZE0?oc=5",
+    "original_title": "〈進出口統計〉AI商機助攻36紅！10月進出口、出超皆創單月新高 - 鉅亨網",
+    "original_summary": "〈進出口統計〉AI商機助攻36紅！10月進出口、出超皆創單月新高 鉅亨網",
+    "published_at": "2026-11-09T11:37:28+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Estatísticas de Importação e Exportação] AI Business Opportunity Assist 36 Red! Importação e exportação de outubro, excedendo a alta de um mês - Chu Heng Net",
+    "translated_summary": "[Estatísticas de Importação e Exportação] AI Business Opportunity Assist 36 Red! Importação e exportação em outubro, superando o novo hennet gigante de um mês",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:11+00:00"
   },
   {
     "id": "4875cba4f88702a9b8f3",
@@ -6702,6 +7197,26 @@
     "last_translation_attempt_at": "2026-11-09T09:18:13+00:00"
   },
   {
+    "id": "e5762d56b73de489361d",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国网",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95NlIxR1JaY1NhSkcwUEd4SkFueUJKUDRwWjZFWF9fUk9BV0ltTzM0V3VEcHhzTmU0N0dGTE56TUtHYUxYWGhhdmxHR2lPaVlILXluTWZhQXhXMk5Lb05Bb3VkdVJ3ajBlU0JvblM3MVZ3WW5WUHpaYmh3?oc=5",
+    "original_title": "在进博会，感受开放中国的诚心、恒心、暖心 - 中国网",
+    "original_summary": "在进博会，感受开放中国的诚心、恒心、暖心 中国网",
+    "published_at": "2026-11-09T08:12:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Na Expo, sinta a sinceridade, a perseverança e o calor de abrir a China - China.com",
+    "translated_summary": "Na Expo, sinta a sinceridade, a perseverança e o calor de abrir a China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:37+00:00"
+  },
+  {
     "id": "50754035b8266053c0e4",
     "country": "Japão",
     "category": "Automóvel",
@@ -7741,6 +8256,29 @@
     "last_translation_attempt_at": "2026-11-09T07:32:13+00:00"
   },
   {
+    "id": "6e79c260565b85463ac7",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "上观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1talNOWE1CX2VsdXgydVV0VXZMNjZFTnp6Q3JWcWJlNXRBYk9xdmgzMkJ2ZnNiZGtmNElCN3ZRdEpFR21KV01MeUcyN3VNa2R5ZDRNNkV1ckZkUQ?oc=5",
+    "original_title": "一份对中国首席执行官的调研显示：超七成受访者将AI列为未来三年优先投资 - 上观新闻",
+    "original_summary": "一份对中国首席执行官的调研显示：超七成受访者将AI列为未来三年优先投资 上观新闻",
+    "published_at": "2026-11-09T07:20:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Uma pesquisa com CEOs chineses mostra que mais de 70% dos entrevistados classificam a IA como um investimento prioritário nos próximos três anos - Shangguan News",
+    "translated_summary": "Uma pesquisa com CEOs chineses mostra que mais de 70% dos entrevistados listaram a IA como um investimento prioritário nos próximos três anos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:39+00:00"
+  },
+  {
     "id": "d68019ff0b5a979d194b",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -8301,6 +8839,26 @@
     "translated_summary": "O chefe da Geely, Li Shufu, adverte que a substituição direta de baterias de veículos elétricos é muito cara, pois a Geely e a Nio expandem sua parceria de troca de baterias. O post Geely Boss adverte sobre a crise da vida útil da bateria EV: \"a substituição direta da embalagem é muito cara\" apareceu primeiro no CarNewsChina.com .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T07:32:22+00:00"
+  },
+  {
+    "id": "8ecd3d4245363d661a0e",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVJHT0xBZUwtbGJLQzlQVmg0Mm8zbG1zbXZ4TmlFbklSbXVlR0FkWTI0ZjBfZVdhZFpCZndYd1RLbDRZSzFUbWxmbHN6UDlEMXFxMl80MW9tQTZLMFRkYkppRmVlR2FQU3UwQmpKZGpfVU4temVuYktsRlEtWjcyTUtQUnAtOXY5Wmdad0dmUUR4Mlk0TkNzQ2lCRE1yMnBNUlg0R01zQ2NTcHRmQnNfRjZkeGNQVC1fTVRDSXZoUTVxcGNSWUtTbzJXdHdCYWQ3aTZPZtIB2wFBVV95cUxQeFVfQmdvV0xNeUVWSjlibjB6OEt5M0xsYjE4dDRLMWI0Vkxuam1PRE5iS1lIbE1mZk0taVhCcDhiamp6cHlTOXJTTEFZUHpEUW5EZmZ1aWs0X1U2WklxWktkcGFPVDZWdzE0ZjFpeW9hNDBGSC0zdWM4WGpuRGJSQUowazZwNmhHLWZXam5CWUV1MFhBdWMzZFVPRTZPckdlbi1xbGxhMF94OVl5OFZXcWZ3Mlk3YVRKekRra0FXZWdxaEt6N1ZaU2JiWkUxUWZ4VEdnRlpWNGtMeE0?oc=5",
+    "original_title": "10 years after demonetisation, cash remains king despite India’s digital payments boom - The Indian Express",
+    "original_summary": "10 years after demonetisation, cash remains king despite India’s digital payments boom The Indian Express",
+    "published_at": "2026-11-09T06:41:08+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "10 anos após a desmonetização, o dinheiro continua a ser rei, apesar do boom dos pagamentos digitais na Índia - The Indian Express",
+    "translated_summary": "10 anos após a desmonetização, o dinheiro continua a ser rei, apesar do boom de pagamentos digitais da Índia The Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:19+00:00"
   },
   {
     "id": "beeb48dce53cab5fd849",
@@ -9373,6 +9931,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "a3eb4feaba5a924506a9",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "凤凰网",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUV3hydlg2b3JrSDcwRHdXdm1MdTZ5ZlpxMHdDWXFsUFEtYnFjb1VmeUdaM2pzZFUyeXZGTFV0ajd2N1E4VHR0bl8wekFZTFVfdVE?oc=5",
+    "original_title": "日本工商界代表：中国经济不可或缺，中日能源与产业链合作难以替代 - 凤凰网",
+    "original_summary": "日本工商界代表：中国经济不可或缺，中日能源与产业链合作难以替代 凤凰网",
+    "published_at": "2026-11-09T05:17:35+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Representantes da comunidade empresarial japonesa: a economia da China é indispensável e a cooperação da cadeia energética e industrial sino-japonesa é difícil de substituir - Phoenix.com",
+    "translated_summary": "Representantes da comunidade empresarial japonesa: a economia da China é indispensável e a cooperação da cadeia energética e industrial sino-japonesa é difícil de substituir Phoenix.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:42+00:00"
   },
   {
     "id": "e58ffd23cdd3dbdfd9e7",
@@ -17533,6 +18113,28 @@
     "translated_summary": "Bosch em Schwieberdingen: Um futuro entre a esperança e a perda de emprego Ludwigsburger Kreiszeitung",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T17:41:27+00:00"
+  },
+  {
+    "id": "972f9e3074f15f4d1af0",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "索引新聞",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWdRZlg5T0NEbC1IeGFwNG5yLWprV3BSVUIyc2R1V0lLTUd2cXc2a25QYlZielhuNDBfMmRrVmNxcXNNc3dsZU1ESnBpcUdjR0M2NWQwZ085ZW53MkN6Z0FZUVFVNlpQYl8wQU90aE5jald3a1pZSGFKNEt4RFZMbW1PSGtVdVlmLVZMT0k3aXF4N3hFeDF3TktJNEdwdw?oc=5",
+    "original_title": "泰國電動車進口稅實負擔達49%，第三階段改算本地零件 - 索引新聞",
+    "original_summary": "泰國電動車進口稅實負擔達49%，第三階段改算本地零件 索引新聞",
+    "published_at": "2026-11-07T15:49:00+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A carga fiscal de importação de veículos elétricos da Tailândia atinge 49%, a Fase 3 converte-se em peças locais - Index News",
+    "translated_summary": "A carga tributária de importação da Tailândia para veículos elétricos chega a 49%, e a terceira fase é convertida em notícias do índice de peças locais",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:27+00:00"
   },
   {
     "id": "f7f82af7ff4f10aa7313",
@@ -36931,6 +37533,28 @@
     "last_translation_attempt_at": "2026-11-06T20:53:51+00:00"
   },
   {
+    "id": "e22982e69156f965c33f",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHBnZWY2MFJpVUdGaXZDSU1mc0d6c0h6cEN3cWFsbmwta0o5ZzRmYzJ0UHlvRXpGUmRJcy1MSElwbzZ3clhIZ2JCLUZJTk54RWRDWEtHMnJ1VFNGWENBSV9FTzN2RTZ4MERxUkVMakdtRGRteTI1RjBGUGJWTGFPYVRIYXZDV19DU0g0eTZIWXRLMXp2ZGR2TTNFNVlhS1BUQ25Kb2dVWS03cGg2NGlTZUVQZkhTXzREdkpJNGFQaDNBOWc1WExkcw?oc=5",
+    "original_title": "Korea, Singapore, New Zealand discuss progress of green economy partnership talks - Korea JoongAng Daily",
+    "original_summary": "Korea, Singapore, New Zealand discuss progress of green economy partnership talks Korea JoongAng Daily",
+    "published_at": "2026-11-05T04:11:04+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Coreia, Singapura, Nova Zelândia discutem o progresso das negociações de parceria de economia verde - Korea JoongAng Daily",
+    "translated_summary": "Coreia, Singapura, Nova Zelândia discutem o progresso das negociações de parceria de economia verde Korea JoongAng Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:56:31+00:00"
+  },
+  {
     "id": "3b0c9b012187b20155e0",
     "country": "Índia",
     "category": "Política",
@@ -42992,6 +43616,28 @@
     "translated_summary": "Em 3 de novembro, a Honda Motor Corporation anunciou o Honda Sensing Ride, um avançado sistema de suporte de condução de segurança para motocicletas. Foi instalado pela primeira vez no CRF 1150L Africa Twin Adventure Sports lançado no EICMA 2026 (Milan Show) realizado em Milão, Itália, e será instalado em mais modelos no futuro.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T05:01:17+00:00"
+  },
+  {
+    "id": "d6d77bca042ad2e4fa3d",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55amZ2SklSY0NCa2p4LWk1ZHpOT3d1VGtHNWdOOWItV2tjSk4tazNtel9oN0I3bWZkXzNuTlJ6TEFtMmNydHl5UnZvY19Mell6NVZ2Q0g1UTJ6Zw?oc=5",
+    "original_title": "한국투자증권, 글로벌 금융사 누버거와 전략적 협력 논의 - 한국경제",
+    "original_summary": "한국투자증권, 글로벌 금융사 누버거와 전략적 협력 논의 한국경제",
+    "published_at": "2026-11-04T04:49:08+00:00",
+    "first_seen_at": "2026-11-10T02:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities Discute Cooperação Estratégica com Global Financier Nuberger - Korea Economy",
+    "translated_summary": "Korea Investment & Securities Discute Cooperação Estratégica com a Financiadora Global Nuberger Korea Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T02:57:02+00:00"
   },
   {
     "id": "9557971b5f3adc0d3227",
