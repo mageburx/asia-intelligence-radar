@@ -22,6 +22,110 @@
     "last_translation_attempt_at": "2026-11-10T16:58:04+00:00"
   },
   {
+    "id": "faee8a8086e21006e919",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/emigrantes-portugueses-em-bruxelas-exigem-mudancas-em-portugal-perante-dificuldades_n1778232",
+    "original_title": "Emigrantes portugueses em Bruxelas exigem mudanças em Portugal perante dificuldades",
+    "original_summary": "Perto de uma centena de emigrantes portugueses concentraram-se hoje em frente à Embaixada de Portugal em Bruxelas, em solidariedade com as acampadas pelo direito à habitação em Portugal, partilhando dificuldades e exigindo mudanças nas políticas públicas no país.",
+    "published_at": "2026-11-10T19:53:51+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Emigrantes portugueses em Bruxelas exigem mudanças em Portugal perante dificuldades",
+    "translated_summary": "Perto de uma centena de emigrantes portugueses concentraram-se hoje em frente à Embaixada de Portugal em Bruxelas, em solidariedade com as acampadas pelo direito à habitação em Portugal, partilhando dificuldades e exigindo mudanças nas políticas públicas no país.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:47+00:00"
+  },
+  {
+    "id": "4d0493db234a1a98ddf5",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73840",
+    "original_title": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+    "original_summary": "食料品の消費税減税関連法案は、11日、参議院本会議で審議入りします。参議院では与党が少数となる中、与党側が野党の主張を丁寧に聞いて成立を図る考えなのに対し、野党からは「今の法案には賛成できない」という…",
+    "published_at": "2026-11-10T19:52:55+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Projeto de lei de redução do imposto de consumo é debatido hoje no Senado entre a minoria do partido no poder",
+    "translated_summary": "O projeto de lei referente à redução do imposto de consumo de gêneros alimentícios será discutido na sessão plenária da Câmara dos Vereadores no dia 11. Enquanto o partido no poder está em minoria na Câmara dos Vereadores, o partido no poder quer ouvir educadamente os argumentos da oposição e tentar passar, mas o partido da oposição diz \"não posso concordar com o projeto de lei atual\"...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:14+00:00"
+  },
+  {
+    "id": "e18519ef13122c8edc0f",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/10/byds-denza-d9-mpv-gets-a-long-wheelbase-model-patent-images-reveal/",
+    "original_title": "BYD’s Denza D9 MPV gets a long wheelbase model, patent images reveal",
+    "original_summary": "The stretched MPV was first spotted in early 2026 while undergoing testing. The post BYD’s Denza D9 MPV gets a long wheelbase model, patent images reveal appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-10T19:50:13+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Denza D9 MPV da BYD recebe um modelo de distância entre eixos longa, revelam imagens de patentes",
+    "translated_summary": "O MPV esticado foi detectado pela primeira vez no início de 2026, enquanto passava por testes. O MPV Denza D9 da BYD recebe um modelo de distância entre eixos longa, revelam imagens de patentes que apareceram primeiro em CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:08+00:00"
+  },
+  {
+    "id": "932655264f3739382135",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261110010752315",
+    "original_title": "(2nd LD) S. Korean, U.S. FMs discuss N. Korea, bilateral issues in Paris",
+    "original_summary": "WASHINGTON/SEOUL, Nov. 10 (Yonhap) -- Foreign Minister Cho Hyun met with U.S. Se...",
+    "published_at": "2026-11-10T19:06:08+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "(2º LD) S. Korean, FMs dos EUA discutem questões bilaterais da Coreia do Norte em Paris",
+    "translated_summary": "WASHINGTON/SEUL, 10 de novembro (Yonhap) - O ministro das Relações Exteriores Cho Hyun se reuniu com a...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:30+00:00"
+  },
+  {
+    "id": "d9c23cb510be3187e031",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "ダイヤモンド・オンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BRkNKNXVNb0RudGt0dmJKdEJfSE85NkJLS1g2ZnRPSzdnUWVxX2p5N2VseVNuSHFIbTl4Z1VWRVhBaWZ3NmlIUHBKRWc?oc=5",
+    "original_title": "【現地リポート】鴻海と日系自動車メーカーの「商談」に独自密着！EV事業トップ・関潤氏が明かす日本勢攻略の“勝算”とは、台湾の技術イベントを現場取材 | 自動車 “最強産業”の死闘 - ダイヤモンド・オンライン",
+    "original_summary": "【現地リポート】鴻海と日系自動車メーカーの「商談」に独自密着！EV事業トップ・関潤氏が明かす日本勢攻略の“勝算”とは、台湾の技術イベントを現場取材 | 自動車 “最強産業”の死闘 ダイヤモンド・オンライン",
+    "published_at": "2026-11-10T19:02:00+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "[Relatório local] Conectado exclusivamente às \"negociações comerciais\" entre a Kokai e os fabricantes de automóveis japoneses! A \"chance de vitória\" da invasão japonesa revelada pelo Sr. Jun Seki, chefe do negócio de veículos elétricos, é cobrir os eventos técnicos de Taiwan no local | The Deathmatch of the \"Strongest Industry\" in Automotive - Diamond Online",
+    "translated_summary": "[Relatório local] Conectado exclusivamente às \"negociações comerciais\" entre a Kokai e os fabricantes de automóveis japoneses! A \"chance de vitória\" da invasão japonesa revelada pelo Sr. Jun Seki, chefe do negócio de veículos elétricos, é cobrir os eventos técnicos de Taiwan no local | Diamond Online, o Deathmatch da \"Indústria mais forte\" do setor automotivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:17+00:00"
+  },
+  {
     "id": "b06773d4474a1fc861a4",
     "country": "Portugal",
     "category": "Política",
@@ -60,6 +164,26 @@
     "translated_summary": "Temos uma solução viável para reduzir 10% das emissões globais. Porque não aproveitamos a oportunidade? Jornal de Notícias",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T18:58:12+00:00"
+  },
+  {
+    "id": "d2fa23a4cb2b2289603e",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/mais-uma-centenaria-em-braga-rosa-pereira-oliveira-celebra-100-anos/",
+    "original_title": "Mais uma centenária em Braga: Rosa Pereira Oliveira celebra 100 anos",
+    "original_summary": "Rosa Pereira Oliveira celebra, esta terça-feira, 10 de novembro, 100 anos de vida, numa comemoração promovida pelo Centro Social e Paroquial de Aveleda, em Braga, instituição da qual é utente, na valência de Centro de Dia, há cerca de cinco anos. Residente na freguesia de Celeirós, D. Rosa foi homenageada com um momento de convívio, […]",
+    "published_at": "2026-11-10T18:47:25+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mais uma centenária em Braga: Rosa Pereira Oliveira celebra 100 anos",
+    "translated_summary": "Rosa Pereira Oliveira celebra, esta terça-feira, 10 de novembro, 100 anos de vida, numa comemoração promovida pelo Centro Social e Paroquial de Aveleda, em Braga, instituição da qual é utente, na valência de Centro de Dia, há cerca de cinco anos. Residente na freguesia de Celeirós, D. Rosa foi homenageada com um momento de convívio, […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:48+00:00"
   },
   {
     "id": "77657a6ad58093c0c571",
@@ -102,6 +226,26 @@
     "last_translation_attempt_at": "2026-11-10T18:58:16+00:00"
   },
   {
+    "id": "8b648126f976e105adab",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/braga-ativa-centro-de-coordenacao-operacional-municipal-e-encerra-servicos-e-equipamentos/",
+    "original_title": "Braga ativa Centro de Coordenação Operacional Municipal e encerra serviços e equipamentos",
+    "original_summary": "O Município de Braga vai ativar o Centro de Coordenação Operacional Municipal, no quartel dos Bombeiros Sapadores, para coordenar a resposta ao agravamento das condições meteorológicas previsto para esta quarta-feira, 11 de novembro. A decisão foi tomada após uma reunião do presidente da Câmara Municipal, João Rodrigues, com representantes da Proteção Civil, dos Bombeiros Sapadores, […]",
+    "published_at": "2026-11-10T18:17:49+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga ativa Centro de Coordenação Operacional Municipal e encerra serviços e equipamentos",
+    "translated_summary": "O Município de Braga vai ativar o Centro de Coordenação Operacional Municipal, no quartel dos Bombeiros Sapadores, para coordenar a resposta ao agravamento das condições meteorológicas previsto para esta quarta-feira, 11 de novembro. A decisão foi tomada após uma reunião do presidente da Câmara Municipal, João Rodrigues, com representantes da Proteção Civil, dos Bombeiros Sapadores, […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:49+00:00"
+  },
+  {
     "id": "b3a9c3374a2919134252",
     "country": "Índia",
     "category": "Política",
@@ -120,6 +264,26 @@
     "translated_summary": "As negociações do acordo comercial Índia-EUA continuam enquanto a equipa dos EUA visita Delhi Livemint",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T18:57:53+00:00"
+  },
+  {
+    "id": "0c8f0e7ef62f8016d27b",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HODlUMUNBNG1FT055NE5qR2lndXB4V3FlUHpSM3d6QjdreFVpQkhNZjhWeWJxeU8wbENGRXk0NzAzSVZrVHVXY25qbzd2ZTlhVGoxQlBsaDQ4UTRvSlJMbEJaUEowMVZ1MHfSAW9BVV95cUxNMG85MFlVdlNyOEh3T091OWFrU3VLZmt1cE1hNjBOTUFOYWkyM3ZJQkFWcHpTTDh1dVVSajhnSjJLV1JneU9CeS05UzMtTWZjdmU4TS1LNFZtODU5YXNlNEV4ZkZpTTkzMjM2Yk1WX3M?oc=5",
+    "original_title": "外媒指立陶宛要求代表處更名 立國議員批政府拿台灣當對中籌碼 - 自由時報",
+    "original_summary": "外媒指立陶宛要求代表處更名 立國議員批政府拿台灣當對中籌碼 自由時報",
+    "published_at": "2026-11-10T17:43:56+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A mídia estrangeira refere-se ao pedido da Lituânia ao escritório de representação para alterar o nome do membro do estado fundador para dar ao governo a chance de tomar Taiwan como um chip central - Liberty Times",
+    "translated_summary": "A mídia estrangeira refere-se ao pedido da Lituânia ao escritório de representação para mudar o nome do membro do parlamento fundador e criticar o governo por tomar Taiwan como um chip no Freedom Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:27+00:00"
   },
   {
     "id": "dc3f166669da227ee232",
@@ -760,6 +924,28 @@
     "translated_summary": "KI wirbelt Arbeitsmarkt laut BA-Chefin durcheinander Deutsche Welle",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:56:07+00:00"
+  },
+  {
+    "id": "ed09400e9a4ee0050909",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GS1AwUGpwcW9XTXVyMkdTSWc0Qlp5LUlvcTBDWGJKeWU3cWdNSTE0WUNwMUF6SkVCeThrN01BTVFZTV9sV2wxMUU1d2RjN25SXzV6QTI4RzQ1SFVLM0NQeVphU3VEdEdWMXJtdw?oc=5",
+    "original_title": "春秋（11月11日）信念と良心 - 日本経済新聞",
+    "original_summary": "春秋（11月11日）信念と良心 日本経済新聞",
+    "published_at": "2026-11-10T15:00:00+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shunju (11 de novembro) Crenças e Consciência - Nikkei",
+    "translated_summary": "Shunju (11 de novembro) Fé e Consciência Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:36+00:00"
   },
   {
     "id": "767fb1fe94e85e6b93a3",
@@ -3018,6 +3204,28 @@
     "last_translation_attempt_at": "2026-11-10T11:56:57+00:00"
   },
   {
+    "id": "46817343016befa95a82",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01bENybWVMTkxLVk50YTBtQVI5OTQ1NHl6cEZWYmVCQmNOb1ZialY0Q0tyekMtY0c5Qkh6dnNfMUlEc3gyd3lkNHJFZFR6Vm5IRG90bVM2WFJvdw?oc=5",
+    "original_title": "신현송, 디지털 지급결제 '룰 메이커'로 나선다 - 한국경제",
+    "original_summary": "신현송, 디지털 지급결제 '룰 메이커'로 나선다 한국경제",
+    "published_at": "2026-11-10T10:30:23+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shin Hyun-song se tornará um 'criador de regras' de pagamento digital - Korea Economy",
+    "translated_summary": "Shin Hyun-song se tornará um 'criador de regras' de pagamento digital na Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:44+00:00"
+  },
+  {
     "id": "dce3441b0bada6b3c935",
     "country": "China",
     "category": "Automóvel",
@@ -3168,6 +3376,28 @@
     "translated_summary": "Agora também Lippendorf e Black Pump? A LEAG espera ter a oportunidade de construir mais duas centrais a gás MDR.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T16:58:16+00:00"
+  },
+  {
+    "id": "7a057f62d7b9005f603f",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCek1HVDdTUzNOalRvTEx4YjZYZVhiMVZjOHdDRnlfQzF0bmM4bThuUlZGeERKVXRjQnRVa3lIaEQ2M09MQ3VVVHE4Zmh5MExmanV1ZVFjcnZ2eHgybWRPYkJJdXNPSGI3bWNZVg?oc=5",
+    "original_title": "［社説］金融ビッグバン30年の改革は道半ばだ - 日本経済新聞",
+    "original_summary": "［社説］金融ビッグバン30年の改革は道半ばだ 日本経済新聞",
+    "published_at": "2026-11-10T10:05:00+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Editorial] O big bang financeiro de 30 anos de reforma está na metade - Nikkei",
+    "translated_summary": "[Editorial] O big bang financeiro de 30 anos de reforma está na metade do Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:38+00:00"
   },
   {
     "id": "4433c969e4da56684933",
@@ -4449,6 +4679,28 @@
     "last_translation_attempt_at": "2026-11-10T12:39:05+00:00"
   },
   {
+    "id": "679f3d6344de0321f4cf",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Z3ZCRmV2YnN4eWNjM1Z0dWV2WllxcFN6RmFGUzNHb3AzcVIzRURQNjQ5UC1OdTgtX2hpYVhJOFRGSGZpRXhQVDBoYUFfYnVKRGwxZEpmS2lHZw?oc=5",
+    "original_title": "아파트 당첨 위해 퇴사까지…부정청약 354건 적발 - 한국경제",
+    "original_summary": "아파트 당첨 위해 퇴사까지…부정청약 354건 적발 한국경제",
+    "published_at": "2026-11-10T08:24:53+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Até sair para ganhar um apartamento… 354 ofertas fraudulentas capturadas - Korea Economy",
+    "translated_summary": "Até sair para ganhar um apartamento... 354 ofertas fraudulentas apanharam a economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:41+00:00"
+  },
+  {
     "id": "42c2413eb00c47a4607b",
     "country": "China",
     "category": "Automóvel",
@@ -5045,6 +5297,26 @@
     "translated_summary": "SEUL, 10 de novembro (Yonhap) - Um projeto de lei que permite que os sul-coreanos que vivem no exterior votem...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T08:23:48+00:00"
+  },
+  {
+    "id": "2e03577a1ad60289ec14",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVZTUER1a3psamRad0ZiVXpaeXFFSGYzMHd2MzFadWt4ZEVmcXhJaG9TdG9QOGYtOFNmanozb1lOQXozMmVtVU1rSDA4T3NKR3hDTTd5RnVOblZyM3ZGb0NNV1dJRkJMZ0FFTFpRcmY1RnhVSG45YlJoSk5LaHZubFZ4S0o5NnBndTFJVHQ0MEU1dHdlZ2RMWVUwQTd1OW1KOVgwVE9wUk8?oc=5",
+    "original_title": "BMW Aktie: Fehlende Teile legen Bänder zeitweise lahm - Börse Express",
+    "original_summary": "BMW Aktie: Fehlende Teile legen Bänder zeitweise lahm Börse Express",
+    "published_at": "2026-11-10T07:36:10+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "BMW share: Peças faltantes paralisam temporariamente as correias - Börse Express",
+    "translated_summary": "Partilha BMW: Peças em falta paralisam temporariamente as fitas Börse Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:24+00:00"
   },
   {
     "id": "969e5aa2b59b93c85a32",
@@ -5954,6 +6226,28 @@
     "translated_summary": "O governo informou à Dieta que o primeiro-ministro Gao Shi visitará as Filipinas e a China por quatro dias a partir do dia 16 da próxima semana para participar das reuniões de cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e da Cooperação Econômica Ásia-Pacífico (APEC), bem como para se reunir com líderes de vários países...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T07:13:28+00:00"
+  },
+  {
+    "id": "f2f15d2bcde62bd217e1",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzSVJFak1JQzlqU1Z0TDhRd2FHel9XenlxRFNhaGY0ZWNZVXdhSWVkYmRmbUVjSnZqQkYzUFFFcmVIbk5iZEJXSGl1azR3Mk5ab0dCeFhZZW90VjJ0dk85QU1n?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-10T06:24:36+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:21+00:00"
   },
   {
     "id": "f7e6140593a072d337c0",
@@ -7663,6 +7957,26 @@
     "translated_summary": "Nikkei e Asia to Japan Realizam Evento de Recrutamento na Índia em West Pune (Índia, Japão) | Business Bulletin Jetro (Japan External Trade Organization)",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T10:57:56+00:00"
+  },
+  {
+    "id": "2d5c62fcf193b6c13936",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "南美侨报网",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYThydnNfdVJSQVdxQTBFMU5TaldFLWxydHlIQlpPVzItQzVEQm11aE90UlYzZ21hRkNlMDRESEhLcFd1d19LQ2lkTGw5U1ZCTXFXMURwUmlRTUxkS2ktdUo3THJmNHFuV0ZuV2dlMEh5WVQ3R011a3dXQVZYRnpfTEwtenJzOXI2NjgwSFN3?oc=5",
+    "original_title": "“中巴现代化新机遇”大师课在圣保罗大学举行 - 南美侨报网",
+    "original_summary": "“中巴现代化新机遇”大师课在圣保罗大学举行 南美侨报网",
+    "published_at": "2026-11-10T03:32:24+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Masterclass “Novas Oportunidades para a Modernização China-Paquistão” Realizada na Universidade de São Paulo - Jornal Alberta",
+    "translated_summary": "Master Class “Novas Oportunidades para a Modernização China-Paquistão” Realizada na Universidade de São Paulo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:11+00:00"
   },
   {
     "id": "599b662936f11a0390c6",
@@ -14641,11 +14955,11 @@
       "Inflação e preços",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Perspectivas de investimento da Índia se fortalecem à medida que o crédito e as exportações se recuperam; provável alívio da inflação: HSBC - The Economic Times",
+    "translated_summary": "Perspectivas de investimento da Índia se fortalecem à medida que o crédito e as exportações se recuperam; provável alívio da inflação: HSBC The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:50+00:00"
   },
   {
     "id": "b79289bbaf955e014b51",
@@ -14683,11 +14997,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Deutsche Wirtschaft 2026: Wir nicht caído - Merkur",
+    "translated_summary": "Deutsche Wirtschaft 2026: Wir nicht caído Merkur",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:53+00:00"
   },
   {
     "id": "9ce1088188b807827973",
@@ -14725,11 +15039,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercado de telecomunicações contestado - Vodafone corta cerca de 2.300 postos de trabalho na Alemanha - Economia - SZ.de - SZ.de",
+    "translated_summary": "Mercado de telecomunicações contestado - Vodafone corta cerca de 2.300 postos de trabalho na Alemanha - Economia - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:55+00:00"
   },
   {
     "id": "631099808d3a61bd80ee",
@@ -14917,11 +15231,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministério das Finanças: Exportações de Taiwan vão superar ranking mundial do Japão de “Sitting 8 and Watching 7” este ano - Chuosa CNA",
+    "translated_summary": "Departamento do Tesouro: as exportações de Taiwan ultrapassarão o ranking mundial do Japão de \"Sitting 8 and Watching 7\" este ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:59+00:00"
   },
   {
     "id": "5dca8d17b43f5892d623",
@@ -14937,11 +15251,11 @@
     "published_at": "2026-11-09T10:36:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "XPENG distinguida na Gala Portugal-China por parceria com a Salvador Caetano - Executive Digest",
+    "translated_summary": "XPENG distinguida na Gala Portugal-China por parceria com a Salvador Caetano Executive Digest",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:02+00:00"
   },
   {
     "id": "bf5bc205480b84bc95dc",
@@ -14961,11 +15275,11 @@
       "Inflação e preços",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Perspectivas de investimento da Índia se fortalecem à medida que crédito e exportações se recuperam; provável alívio da inflação: HSBC - ANI NEWS",
+    "translated_summary": "Perspectivas de investimento da Índia se fortalecem à medida que o crédito e as exportações se recuperam; provável alívio da inflação: HSBC ANI NEWS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:03+00:00"
   },
   {
     "id": "ae80fae89736f7590b85",
@@ -15045,11 +15359,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia e Líbano realizam as primeiras consultas no Ministério das Relações Exteriores; discutem comércio, investimento, cooperação digital - The Times of India",
+    "translated_summary": "Índia e Líbano realizam as primeiras consultas no Ministério das Relações Exteriores; discutem comércio, investimento e cooperação digital The Times of India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:05+00:00"
   },
   {
     "id": "4691191c9a2057b5b33e",
@@ -15110,11 +15424,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Bônus de IA durará até 2027? A Academia Econômica de Taiwan estima o crescimento econômico de Taiwan em 6,45%, com um valor de produção de semicondutores de 11,8 trilhões de yuans - TechOrange",
+    "translated_summary": "O Bônus de IA durará até 2027? A Academia Econômica de Taiwan estima que a economia de Taiwan está crescendo 6,45%, e o valor de produção de semicondutores é de 11,8 trilhões de yuans TechOrange",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:08+00:00"
   },
   {
     "id": "b266ec158f48e340340f",
@@ -15156,11 +15470,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As exportações de Taiwan venceram o Japão pela primeira vez! US $ 96,8 bilhões no ranking global em outubro - ETtoday Financial Cloud",
+    "translated_summary": "As exportações de Taiwan bateram o Japão pela primeira vez! Em outubro, subiram US $ 96,8 bilhões, ocupando o 7º lugar no mundo na nuvem financeira da ETtoday.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:11+00:00"
   },
   {
     "id": "cd90e3a0b30312eb46b1",
@@ -15373,11 +15687,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Editorial] Mindanao como uma luz para o diálogo e a resolução - Nikkei",
+    "translated_summary": "[Editorial] Nihon Keizai Shimbun traz Mindanao à luz do diálogo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:14+00:00"
   },
   {
     "id": "a8b2f265b9c523ae7338",
@@ -15395,11 +15709,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Queda de bilhões de dólares nas exportações de couro da Índia piora - CNBC TV18 - LinkedIn",
+    "translated_summary": "Queda de bilhões de dólares nas exportações de couro da Índia piora - CNBC TV18 LinkedIn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:17+00:00"
   },
   {
     "id": "f1923f5e9d69649785a8",
@@ -15624,11 +15938,11 @@
     "published_at": "2026-11-09T09:41:59+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Logística da Cadeia Fria na Índia: Infraestrutura, Crescimento e Perspectivas - IBEF",
+    "translated_summary": "Logística da Cadeia Fria na Índia: Infraestrutura, Crescimento e Perspectivas IBEF",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:20+00:00"
   },
   {
     "id": "c08c6da0fe06a5e32a54",
@@ -15733,11 +16047,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cazaquistão promove investimento na cidade de Alatau, na Alemanha - Deutsche Allgemeine Zeitung",
+    "translated_summary": "Cazaquistão promove investimento no Alatau City Deutsche Allgemeine Zeitung na Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:22+00:00"
   },
   {
     "id": "49d5df9c2e150bfd8fbe",
@@ -15797,11 +16111,11 @@
     "published_at": "2026-11-09T09:27:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal registou maior aumento da UE no preço das casas face ao rendimento entre 2015 e 2025 - Jornal Económico",
+    "translated_summary": "Portugal registou maior aumento da UE no preço das casas face ao rendimento entre 2015 e 2025 Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:25+00:00"
   },
   {
     "id": "7668f92f471b2ec94c4e",
@@ -15881,11 +16195,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Democrático anti-Trump dos EUA ignora Trump... jailbreak económico da Coreia do Sul - Jornal de Seul",
+    "translated_summary": "Jornal anti-Trump democrático dos EUA, ignorando Trump… o jailbreak económico da Coreia do Sul em Seul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:26+00:00"
   },
   {
     "id": "7757f50b2be1a48d14b0",
@@ -16051,11 +16365,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exportações atingiram nova máxima mensal de US $ 96,76 bi em outubro com 36 vermelhos - Financial News",
+    "translated_summary": "As exportações subiram para 96,76 mil milhões de dólares em outubro, atingindo um novo máximo no ano civil.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:29+00:00"
   },
   {
     "id": "9ce6da75c8c2ad83e6ac",
@@ -16141,11 +16455,11 @@
       "Toyota",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Toyota vai reimportar e vender Camry no Japão pela primeira vez em três anos no final de novembro - Nikkei",
+    "translated_summary": "Toyota, \"Camry\" ressuscitou no final de novembro pela primeira vez em três anos, reimportado do arroz doméstico e vendido pelo Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:32+00:00"
   },
   {
     "id": "c5b60ddcc46bc606f792",
@@ -16294,11 +16608,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As exportações de farinha de óleo da Índia de abril a agosto caem 28,5% à medida que o farelo de soja perde para o Brasil, Argentina - The Hindu",
+    "translated_summary": "As exportações de farinha de óleo da Índia de abril a agosto caem 28,5% à medida que o farelo de soja perde para o Brasil, Argentina The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:35+00:00"
   },
   {
     "id": "1160cef03b8dfd7bf219",
@@ -16338,11 +16652,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Preço de atacado de novembro do óleo de farelo de arroz inalterado por quatro meses consecutivos - The Nikkei",
+    "translated_summary": "Preço de atacado do óleo de farelo de arroz em novembro, inalterado por quatro meses consecutivos Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:38+00:00"
   },
   {
     "id": "e289eeef18dfcb93015c",
@@ -16506,11 +16820,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Taxa de crescimento econômico de 12,34% este ano deve chegar a 6,45% em 2027 - Notícias da TV Pública",
+    "translated_summary": "Atualização da Academia Económica de Taiwan A taxa de crescimento económico deste ano para 12,34% 2027 prevê 6,45% de notícias públicas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:41+00:00"
   },
   {
     "id": "7a45ec28e2d527a29cf9",
@@ -16526,11 +16840,11 @@
     "published_at": "2026-11-09T08:35:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities, 3Q Cumulative Operating Profit of 2 Trillion KRW 'Nearly' … 'Buzz' Triple in 3 Years - WikiLeaks Korea",
+    "translated_summary": "Korea Investment & Securities, lucro operacional acumulado de 2 trilhões de KRW no terceiro trimestre 'Quase'... 'Bukchuk' WikiLeaks Korea triplicou em 3 anos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:44+00:00"
   },
   {
     "id": "e4a4a09b0abe7607d467",
@@ -16612,11 +16926,11 @@
       "Semicondutores",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A cadeia de fornecimento de semicondutores de Taiwan pode continuar a consumir o dividendo global da IA? Os investidores podem observar esses 3 fatores primeiro - informações financeiras",
+    "translated_summary": "A cadeia de fornecimento de semicondutores de Taiwan pode continuar a consumir o dividendo global da IA? Os investidores podem observar esses 3 fatores primeiro",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:47+00:00"
   },
   {
     "id": "12d64a601a0569045310",
@@ -16965,11 +17279,11 @@
     "published_at": "2026-11-09T08:07:21+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Partido líder da oposição timorense questiona PM sobre orçamento para saúde",
+    "translated_summary": "A Frente Revolucionária do Timor-Leste Independente (Fretilin), líder da oposição timorense, questionou hoje o primeiro-ministro, Xanana Gusmão, sobre o orçamento destinado à saúde, salientando que aquele setor deve estar no centro da agenda de desenvolvimento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:49+00:00"
   },
   {
     "id": "131b0a09961c4baae61b",
@@ -17050,11 +17364,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Sakana AI voltará a abrir o capital no outono de 2015. É uma das maiores startups do Japão e a primeira a gerar IA. - Nikkei",
+    "translated_summary": "A Sakana AI abriu o capital no outono de 2015. É uma das maiores startups do Japão e a primeira a produzir IA. Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:59:50+00:00"
   },
   {
     "id": "d5768cd82cb1079c620c",
@@ -23189,6 +23503,28 @@
     "translated_summary": "Os governos são rápidos em reivindicar crédito para um mercado de ações em ascensão, embora...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T22:43:49+00:00"
+  },
+  {
+    "id": "7c39dc6aee3359f4301d",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZldiOVpaX0FUOGtOVk96d0h3X3JjcUthcXZBd29SS1dCNjhTVUR0S3JZUEt0RkotZWJ0NFA5eUZOYXhJVGtuSldQdTdkOFZRc20tRERyTWhGNFc2S0pUUVZIWFBrU3NXTFU1SG5PN3NQQXJaTWQteHc5WDdfZzQ?oc=5",
+    "original_title": "「日本経済はこれから30年バラ色です」。時価総額300億円を築いた元外資系トップトレーダーが日本の大復活を断言する理由 - Yahoo!ニュース",
+    "original_summary": "「日本経済はこれから30年バラ色です」。時価総額300億円を築いた元外資系トップトレーダーが日本の大復活を断言する理由 Yahoo!ニュース",
+    "published_at": "2026-11-08T21:57:17+00:00",
+    "first_seen_at": "2026-11-10T19:57:40+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes está afirmando um grande ressurgimento no Japão - Yahoo! News",
+    "translated_summary": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes afirma o grande ressurgimento do Japão Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T19:58:33+00:00"
   },
   {
     "id": "3c7a2dec0cd5d4b2564d",
