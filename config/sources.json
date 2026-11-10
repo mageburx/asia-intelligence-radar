@@ -591,9 +591,12 @@
     "country": "Braga",
     "category": "Atualidade",
     "name": "O MINHO · Braga",
-    "kind": "rss",
-    "url": "https://ominho.pt/feed/",
-    "max_entries": 70
+    "kind": "google",
+    "max_entries": 45,
+    "query": "site:ominho.pt Braga when:7d",
+    "locale": "pt-PT",
+    "gl": "PT",
+    "ceid": "PT:pt-150"
   },
   {
     "id": "braga-bragatv",
