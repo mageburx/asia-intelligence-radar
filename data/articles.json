@@ -22,6 +22,108 @@
     "last_translation_attempt_at": "2026-11-10T16:58:04+00:00"
   },
   {
+    "id": "dc3f166669da227ee232",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/mau-tempo-autarca-de-leiria-diz-que-objetivo-e-que-o-dia-passe-e-nao-haja-perdas-humanas_e1778024",
+    "original_title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
+    "original_summary": "As condições meteorológicas vão agravar-se ao final do dia na Madeira e, na quarta-feira, em Portugal continental. A passagem de uma nova depressão, Charles, a par da depressão Bruna, levou o Instituto Português do Mar e da Atmosfera a colocar oito distritos sob aviso vermelho. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "published_at": "2026-11-10T17:43:16+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Primeiro-ministro alerta para \"horas difíceis\" e pede aos portugueses que não subestimem mau tempo",
+    "translated_summary": "As condições meteorológicas vão agravar-se ao final do dia na Madeira e, na quarta-feira, em Portugal continental. A passagem de uma nova depressão, Charles, a par da depressão Bruna, levou o Instituto Português do Mar e da Atmosfera a colocar oito distritos sob aviso vermelho. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:31+00:00"
+  },
+  {
+    "id": "937d0d10e526264c4df9",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem4wZjVSaG9BaWo4R0RZUk9nMFJsTmNscmVGWnVkMVpnclFWTHBnQnZkc0dGOUZ5TzRCeWYyZDBXM1hXOVpsM1Z4UDhMc0FXUG1rUjk3eXgxNXhfOFlCWnhVaVNzWFNBb1BxOGxuVERZTy02SEtHRVhrT1dBUjd3SHJ0QVRpYllkLXBqQ1JoaFhIbzhQdEJNRGdyZUJqLWNGdzJxaHV0ZGFveGl0eXNXdE41R0MxT3hmOW0w?oc=5",
+    "original_title": "„Wirtschaftsweise“ legen Jahresgutachten vor - WirtschaftsWoche",
+    "original_summary": "„Wirtschaftsweise“ legen Jahresgutachten vor WirtschaftsWoche",
+    "published_at": "2026-11-10T17:27:34+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "„Wirtschaftsweise“ legen Jahresgutachten vor - WirtschaftsWoche",
+    "translated_summary": "„Wirtschaftsweise“ legen Jahresgutachten vor WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:16+00:00"
+  },
+  {
+    "id": "0b0a232a0f11abf28045",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjZhUDQ2b2FqQkJsSTZHN2VxdC1SRlVCbVNHUGxScnhVRDFoWGhPX2VCRVJSQ3hvSlZIUXBXek84bUk0TVF4QjctcGdDN2M5eDE1VjQ1dkwtRm1YeWZ1Zkd6U2JqbExxREVvaFBuZnFPUHFaeERhLTdKc2pId0JGNW0tU2FETEFScUNqOFpWUkcxOUVuUW9NZWJoNFhpVlJiV3FaNFI3cUlxS2R1MGpJa19KNmFTSXU0MWJSN2F0T0s4VDhLRG1MeUNJRjFHcWdpQlNUZGlTemVuYWotTkhyUtIB5gFBVV95cUxPVG15OUdXeTBlU09uVWFqX2NtMUZVY2k5UVpabWE1bC1lMHdNRXpzY1l0S1F2UGtUVnA3c0FfdEpNX0lvR1d0QmptUlV0bDhuNUtpVHNxRXRHb3I3SGRYcmprdWdQVU1vRXdQV3gxV0xYUU0tMTctX1lqSEhuSVdfTkZ0am5rOWpwNDEtV1pzTXUzVmdrTGlReXg2Z3l6bUpYblpvczNBTkwzSUt6Ym5wSW9ZZ0tpaXJFQUt3ZlBjcGVOY1N4Y3JwUHdpdHJBRjM3SXdjZ3BIWlE4WGVQeW5GV1NWRkdTQQ?oc=5",
+    "original_title": "India to provide grant for expansion of Sri Lanka's emergency ambulance service - ET Government",
+    "original_summary": "India to provide grant for expansion of Sri Lanka's emergency ambulance service ET Government",
+    "published_at": "2026-11-10T17:08:49+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Índia fornecerá subsídios para a expansão do serviço de ambulância de emergência do Sri Lanka - ET Government",
+    "translated_summary": "A Índia fornecerá subsídios para a expansão do serviço de ambulância de emergência do Governo ET do Sri Lanka",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:52:55+00:00"
+  },
+  {
+    "id": "dc3e67ec39fe3aeac5dc",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "VMTV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-vmtv",
+    "publisher": "VMTV · Braga",
+    "url": "https://vmtv.sapo.pt/braga-natural-convida-a-descobrir-a-biodiversidade-do-concelho/",
+    "original_title": "“Braga Natural” convida a descobrir a biodiversidade do concelho",
+    "original_summary": "A exposição “Braga Natural” reúne 41 fotografias, todas captadas no concelho de Braga, e propõe uma aproximação à diversidade natural do território, conjugando a... O post “Braga Natural” convida a descobrir a biodiversidade do concelho aparece primeiro no VMTV .",
+    "published_at": "2026-11-10T17:00:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "“Braga Natural” convida a descobrir a biodiversidade do concelho",
+    "translated_summary": "A exposição “Braga Natural” reúne 41 fotografias, todas captadas no concelho de Braga, e propõe uma aproximação à diversidade natural do território, conjugando a... O post “Braga Natural” convida a descobrir a biodiversidade do concelho aparece primeiro no VMTV .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:35+00:00"
+  },
+  {
+    "id": "b9c338b340edc938c6c0",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/rchling-automotive-scales-global-cross-car-beam-business-with-lightweight-hybrid-technology/135716852",
+    "original_title": "Röchling Automotive scales global cross-car beam business with lightweight hybrid technology",
+    "original_summary": "New metal-plastic hybrid solutions offer up to 37% weight reduction and 66% lower material-related emissions than an aluminium concept",
+    "published_at": "2026-11-10T16:56:04+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Röchling Automotive dimensiona o negócio global de vigas cruzadas com tecnologia híbrida leve",
+    "translated_summary": "Novas soluções híbridas metal-plástico oferecem até 37% de redução de peso e 66% menos emissões relacionadas ao material do que um conceito de alumínio",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:09+00:00"
+  },
+  {
     "id": "535229e9c81300b6bc73",
     "country": "Índia",
     "category": "Economia",
@@ -60,6 +162,66 @@
     "translated_summary": "Startup Braga presente na Web Summit 2026 Correio do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T16:58:28+00:00"
+  },
+  {
+    "id": "3530eea9ff4f31d9b344",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVVwcHY5TDBLWERHMjNtaXZ1RHZSZ3dkX1FwU3Y2OWNfcmh5YUgtZG1zUnV0MDhTNktCeUxicnFBWk4zYW5VTTJrYXJscHF5RWxmY3M3ODdMNjBzb0Rxb3ZPbEVFdGNtWS1rUGJvcFE1anN6dzhVQ1RSQ2VKZXpHaTlsSUxud1VadTNENko1dXlfdWF3ajU0SVZ4dXZEd2E4RXdvaHBvXzcwcURhSWplMmJCTE90QUlDRmRkT1Q3WlgzUUFzdWlIcEloUUtUaERaTF9uZV9pbTBoZ9IB3wFBVV95cUxOc05FVnRCLWV0TGxMRnZmbl96cWx6QzZnbWhvQWhiTm0wTzhwNDl2VGttV3U2SmJfRWdHajFibFNIemNDVEtYUFZoaWtQc1dZQmkxV1ktUG0zVGo0SzZNcWdiT3laeFJMa1RiTkdRZWJRMEF3SV94NEJLdVkxNXlkRlpTX3hZekhjYnVXOW1XUmo1TnFJVWV3d3dMSE1GYXNPVDBhNm0tSmI1WHBXRTZZRzZSaFQwNzBla3NYQ2JiaWhQUDRHZFNCU1Eta2Z0emNWZ1k1YXJybm9QelY1NFpv?oc=5",
+    "original_title": "“A Menina do Mar- O Musical” sobe aos palcos do Espaço Vita e do Forum Braga - Diário do Minho",
+    "original_summary": "“A Menina do Mar- O Musical” sobe aos palcos do Espaço Vita e do Forum Braga Diário do Minho",
+    "published_at": "2026-11-10T16:19:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "“A Menina do Mar- O Musical” sobe aos palcos do Espaço Vita e do Forum Braga - Diário do Minho",
+    "translated_summary": "“A Menina do Mar- O Musical” sobe aos palcos do Espaço Vita e do Forum Braga Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:32+00:00"
+  },
+  {
+    "id": "f51ef83c6c1f42ee48c8",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/cidadao-elogia-rapida-intervencao-dos-bombeiros-sapadores-de-braga-apos-alagamento/",
+    "original_title": "Cidadão elogia rápida intervenção dos Bombeiros Sapadores de Braga após alagamento",
+    "original_summary": "Um cidadão destacou publicamente a rápida intervenção dos Bombeiros Sapadores de Braga na Avenida João Paulo II, junto ao Hotel Holiday Inn, na sequência de um alagamento registada esta segunda-feira. Os operacionais foram mobilizados para proceder à limpeza de sarjetas e ajudar a restabelecer o escoamento das águas, numa intervenção que mereceu o reconhecimento de […]",
+    "published_at": "2026-11-10T16:15:13+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Cidadão elogia rápida intervenção dos Bombeiros Sapadores de Braga após alagamento",
+    "translated_summary": "Um cidadão destacou publicamente a rápida intervenção dos Bombeiros Sapadores de Braga na Avenida João Paulo II, junto ao Hotel Holiday Inn, na sequência de um alagamento registada esta segunda-feira. Os operacionais foram mobilizados para proceder à limpeza de sarjetas e ajudar a restabelecer o escoamento das águas, numa intervenção que mereceu o reconhecimento de […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:34+00:00"
+  },
+  {
+    "id": "7cf4c31bcf06d53a8425",
+    "country": "Braga",
+    "category": "Automóvel",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "Jornal O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wMTJKblZZMklnQnR6YnJDdGVZdEZobGhXWUs0b1dZRlR5bXBtVG9QR0VmV3J2UzdodzgxaHgyN3ppTUxoU29iOWN4c2UtYlRKX0pGdGoxSDgzamtZRi1IYnd3a3VVaE1nTmttbDhGRXNRQ2hEVEtqaDRNRWVPUQ?oc=5",
+    "original_title": "Braga: TUB com recorde de 1.529.506 passageiros num mês - Jornal O MINHO",
+    "original_summary": "Braga: TUB com recorde de 1.529.506 passageiros num mês Jornal O MINHO",
+    "published_at": "2026-11-10T16:08:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga: TUB com recorde de 1.529.506 passageiros num mês - Jornal O MINHO",
+    "translated_summary": "Braga: TUB com recorde de 1.529.506 passageiros num mês Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:33+00:00"
   },
   {
     "id": "88b471b836af5f9e022b",
@@ -288,6 +450,28 @@
     "translated_summary": "Antalya, 10 de novembro (Repórter Wei Yuan, Chen Junjie) No dia 10 de novembro, hora local, no evento paralelo temático da 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (COP31) em Antalya, Turquia, Hu Jun, diretor do Centro de Pesquisa de Ideologia da Civilização Ecológica Xi Jinping e diretor do Centro de Pesquisa de Política Ambiental e Econômica do Ministério da Ecologia e Meio Ambiente, divulgou um relatório de think tank intitulado \"Água Verde é Ouro e Montanha de Prata\" - Rota de Desenvolvimento Verde da China \", e discutiu o conceito, a prática e o significado mundial do desenvolvimento verde da China.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:55:05+00:00"
+  },
+  {
+    "id": "d0313bff6aa8a50c7b66",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国新闻网",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YTUpDbDRNeUhwc3hTQ1dEeTZBRU9zRUtfeXZ2WjhHd18tbUFPRzdUTUZtTkoxRGhpbjZENEd1bGdsLWFmUWFfWnZGcXFBcnVUTzRDR0hWSUtwejg1RlhJMjdON1Y2aXBn?oc=5",
+    "original_title": "胡军：产业向新向绿让中国经济增长动能更加强劲 - 中国新闻网",
+    "original_summary": "胡军：产业向新向绿让中国经济增长动能更加强劲 中国新闻网",
+    "published_at": "2026-11-10T15:28:40+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Hu Jun: A nova ecologização da indústria fortaleceu o ímpeto de crescimento econômico da China - China News Network",
+    "translated_summary": "Hu Jun: A nova ecologização da indústria tornou o ímpeto de crescimento económico da China mais forte China News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:14+00:00"
   },
   {
     "id": "b01a027c7b748a50fe4c",
@@ -600,6 +784,28 @@
     "translated_summary": "Mercado de equipamentos de teste de carregamento de veículos elétricos Megawatt atingirá US $ 341,6 milhões até 2033 a 33,5% CAGR EIN NEWS",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:55:52+00:00"
+  },
+  {
+    "id": "e52b7ca987ad149e23b1",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "EIN Presswire",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzlyMXhDeEs0clpyc3U4ejJBejFybG92SVVxQlZoS3lOcmdrVHFHNUJrU1EtNFVKLTg0MDItclphdzA1bUtBdTRDVWJFbFpvbHluc3NGbFhCcWxTNEVpdURWNW9mbXM5TnhZNGlJb2dBTDVueHhzdklGM0RRQmszd2pjUHhOSmZsMW9PblJDX0JMSGZERjVINkppMzhrcmFXbmFUdEpPVEpLQlBBMlV0ZU5OT1M4TlE4TzJ5UTJHUmRteUlZN19uZml2dGlCVm5vVzdV?oc=5",
+    "original_title": "Megawatt EV Charging Test Equipment Market to Reach USD 341.6 Million by 2033 at 33.5% CAGR - EIN Presswire",
+    "original_summary": "Megawatt EV Charging Test Equipment Market to Reach USD 341.6 Million by 2033 at 33.5% CAGR EIN Presswire",
+    "published_at": "2026-11-10T14:18:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Megawatt EV Charging Test Equipment Market to Reach USD 341.6 Million by 2033 at 33.5% CAGR - EIN PRESSWIRE",
+    "translated_summary": "Mercado de equipamentos de teste de carregamento de veículos elétricos Megawatt atingirá US $ 341,6 milhões até 2033 a 33,5% CAGR EIN PRESSWIRE",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:06+00:00"
   },
   {
     "id": "d8b7bbce8c43f6acdff8",
@@ -979,6 +1185,26 @@
     "last_translation_attempt_at": "2026-11-10T16:58:08+00:00"
   },
   {
+    "id": "fc5e55c9a3a060d4fe65",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU1uVGtpZlVncUhDUkN4czhHWlFXZnF1NG5ZN0llZmhLbFNWdTV6OUFNODZQMGJPUWJESFhIM0dSMC1ydWpWR0RSZFZHWE1icGJKUGlFb1lnRGFmcjlCNlAtMmcwTlB4RkhDaGE1Z0hrOVo0bmZmVXNHWWZFSVZ0OTl2TWdxekRaYVM1S0hNcGF5c1dFalhZd1ZFQ0JRTWlnNXJN?oc=5",
+    "original_title": "Nvidia’s CEO probe and Singapore ties: Will future chip orders suffer? - The Straits Times",
+    "original_summary": "Nvidia’s CEO probe and Singapore ties: Will future chip orders suffer? The Straits Times",
+    "published_at": "2026-11-10T13:45:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A investigação do CEO da Nvidia e os laços de Cingapura: as futuras encomendas de chips sofrerão? - Os Tempos do Estreito",
+    "translated_summary": "A investigação do CEO da Nvidia e os laços de Cingapura: as futuras encomendas de chips sofrerão? The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:01+00:00"
+  },
+  {
     "id": "db1bb242e84b3374f189",
     "country": "Índia",
     "category": "Economia",
@@ -1079,6 +1305,26 @@
     "translated_summary": "SEUL, 10 de novembro (Yonhap) - O ministro das Relações Exteriores Cho Hyun se reuniu com o secretário de ...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:20:23+00:00"
+  },
+  {
+    "id": "c9b32f180ba09928999f",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Onetz",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55eXlwdXFHLUlaVWxMdnVvZ1E0bHJFVlY1bkVnTE9xZFBiamUwTHQ5di1rQUZOZnZSOERiUnMzZzFXNi1CcENxRFRMRW43dllEaFNnNU1VSjNGc1dtc1V3aDlvV3lnUHVxSVFuY2VHd3AwRzNzWHNn?oc=5",
+    "original_title": "Aigner legt sich mit der AfD an - Onetz",
+    "original_summary": "Aigner legt sich mit der AfD an Onetz",
+    "published_at": "2026-11-10T13:29:41+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aigner assume o AfD - Onetz",
+    "translated_summary": "Aigner vai para Onetz com o AfD",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:52:52+00:00"
   },
   {
     "id": "6f47516a3b00cad4c028",
@@ -1416,6 +1662,29 @@
     "translated_summary": "A Índia pode conseguir um acordo comercial melhor: Samir Saran sobre a renegociação com os EUA The Economic Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T13:07:04+00:00"
+  },
+  {
+    "id": "dd9104e41045543b3d94",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTVESWpjdlMzLWoxVFRxZUxZNGttM1Q2UDVwcmVXendSRlRtRW0zVmVJeWZPM3ZSWElRdnpsR2R6MVFYMHBOY1FzQ1cya0Q0cTRQaHViSlV3OEZGLTNlVnRqanpaN3BrTnc4SWw5cFJ6OTVnNFVYOXBLRXJZM1pWdWtIdl9DZ2NnRElTbmswUm53X2pXeGhhRmNzemo0TXE2TnAzOGdoWmo4d2wyWlVUTmNvN0lxb1oxMHdPTndmUEJ6LWpqemZIblg5cDE2dWh0VU5CcU1tMzROeE03TWx2QW1hc9IB5wFBVV95cUxQQm1LOWc1cks3V1RUbWdsLUpEQzlzaTZqcGtDZm94dHdjWXUwZDNSMWdtYnR4bVZIX2JLdmFhck5SNURHTVk0WUNBWVVySkxNOHozOGtyeVlQbWs2aFFRZ21TUGoxRXJWR0FFZ1lmLVhkamUxYTVwa0txbWFEeGJ1S000M2pHTnRITzdVX1ljNGVGUThOanZQRUc1aHJtWTlaeWQ3aG9wZkp4SEJxSVZiVFRoTXZCMDVwZzU2MGVhWV9BeWM3WVo3WHY1amxtMTFFMnBuMTZRR1h0N1UzV2tPWVZuX1JTRVE?oc=5",
+    "original_title": "India's NMDC in talks with Russia's Rosatom over lithium investments, sources say - ET Government",
+    "original_summary": "India's NMDC in talks with Russia's Rosatom over lithium investments, sources say ET Government",
+    "published_at": "2026-11-10T12:46:32+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Baterias",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O NMDC da Índia em negociações com a Rosatom da Rússia sobre investimentos em lítio, dizem fontes - Governo ET",
+    "translated_summary": "NMDC da Índia em negociações com a Rosatom da Rússia sobre investimentos em lítio, dizem fontes do Governo ET",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:52:58+00:00"
   },
   {
     "id": "8d37a93b390ad4981d31",
@@ -2465,6 +2734,26 @@
     "last_translation_attempt_at": "2026-11-10T11:57:15+00:00"
   },
   {
+    "id": "460e7021a668646d8f6a",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Spiegel",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbHoyS1M4cDZWUDlQbTBTR0dDd3F2ZEJjYUtxdjYwTmQtbkRIZEZBYWJqemNHcGhycUZrVzQyOUpWNDVDazlIRjJlU0RUOWlaZE1EY2p2dGdNV0JWci03ZWVudC1EVFVSZ2loWm1ocmdnMFM1Q2FyZWlHVjlwRkZ0NnNoS3hpVUs1b3d1WE1DRVVrWnlHV3Y4TG1iNHNDbUxnRU1HcTVfRzVMdlhLVzVlaWhWdkNCOGRoMi1XSXI5VGpnWG1WRHE0VWxjTUlFaTJtQWc0a2c2NW1nWTdzY0FNdWx2N1dyS1NUd1JfOVNtQ3I?oc=5",
+    "original_title": "Arbeitsagentur-Chefin Nahles rechnet mit Verlust von 800.000 Jobs durch KI - Spiegel",
+    "original_summary": "Arbeitsagentur-Chefin Nahles rechnet mit Verlust von 800.000 Jobs durch KI Spiegel",
+    "published_at": "2026-11-10T10:41:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chefe de agência de emprego Nahles espera que a IA perca 800.000 empregos - Spiegel",
+    "translated_summary": "O chefe da agência de emprego Nahles espera que a AI Spiegel perca 800.000 empregos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:19+00:00"
+  },
+  {
     "id": "e3548bc15db4b60de1ce",
     "country": "Japão",
     "category": "Política",
@@ -3129,6 +3418,28 @@
     "translated_summary": "As imagens de patentes mostram um microcarro de 2 portas com estilo que difere marcadamente do menor modelo da BYD, o Seagull. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T09:59:20+00:00"
+  },
+  {
+    "id": "b77d2f02eb9e2de1e6e1",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiX1hFdDZaX3Vjc2MxdjZ1MU9LaXRJMzZPeE5aUlpHZTBIeGtSTlVUTnFlVzluZXhKTmJBLUh5cjdJNDNIYVh6dWljSGcxdDM4YzJGdDRFcXpaZw?oc=5",
+    "original_title": "[단독] \"대출도 예금도 이상하다\"…뒤집힌 금리 공식 - 한국경제",
+    "original_summary": "[단독] \"대출도 예금도 이상하다\"…뒤집힌 금리 공식 한국경제",
+    "published_at": "2026-11-10T09:30:13+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] “Empréstimos e depósitos são estranhos” … Fórmula de taxa de juros invertida - economia coreana",
+    "translated_summary": "[Exclusivo] \"Empréstimos e depósitos são estranhos\"... A economia oficial coreana com a taxa de juros derrubada",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:24+00:00"
   },
   {
     "id": "e927857318b405650d26",
@@ -4257,6 +4568,29 @@
     "last_translation_attempt_at": "2026-11-10T11:57:18+00:00"
   },
   {
+    "id": "c4dcd111c22273f0a4e3",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkbm5TSFpYZ2M2aVZ6VnlraXE4NzNsLTBTZGNpRjRtQm5FV3RFQ0lwVEM5QnZRR1JxckswRjJVNTVJdnVvZTdhRnR3dFVRQ0ljVmV6U3F6b1RsNUhSai1LQ2VGQm9kdFoxcEtTR3lMT2N5bkU?oc=5",
+    "original_title": "[2027 한국경제 전망] 반도체 훈풍 지속…내년에도 3%대 성장 - 대한경제",
+    "original_summary": "[2027 한국경제 전망] 반도체 훈풍 지속…내년에도 3%대 성장 대한경제",
+    "published_at": "2026-11-10T08:01:54+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Semicondutores",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[2027 Korea Economic Outlook] Tempestade de semicondutores continua... Crescimento para 3% no próximo ano - Economia da Coreia",
+    "translated_summary": "[2027 Korea Economic Outlook] Tempestade de semicondutores continua... crescimento de 3% na economia da Coreia no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:21+00:00"
+  },
+  {
     "id": "04b5e675fe629c6ff3ba",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -4922,11 +5256,11 @@
     "published_at": "2026-11-10T07:08:55+00:00",
     "first_seen_at": "2026-11-10T07:12:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bombeiros combatem incêndio \"de grandes proporções\" em sucateira no Barreiro",
+    "translated_summary": "Mais de 40 operacionais, apoiados por 22 viaturas, estão a combater um incêndio numa empresa de reciclagem de sucata na vila do Lavradio, no município do Barreiro, disse à Lusa fonte da Proteção Civil.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:51+00:00"
   },
   {
     "id": "58da55a5e6a397988b31",
@@ -4989,11 +5323,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Manifestantes detidos no Porto pronunciam-se sobre suspensão provisória do processo",
+    "translated_summary": "As seis pessoas detidas no Porto, na madrugada de 25 de outubro, por protestarem pelo direito à habitação, são ouvidas hoje pelo Ministério Público para se pronunciarem sobre a suspensão provisória do processo que, se recusarem, seguirá para julgamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:52+00:00"
   },
   {
     "id": "1befe9f8e7a31483e14d",
@@ -5012,11 +5346,11 @@
       "Inflação e preços",
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Problema é estrutural\". DECO propõe ao Governo 18 medidas para resolver crise na habitação",
+    "translated_summary": "A associação frisa que o problema na habitação \"é estrutural\", com \"preços e rendas em alta, pouca oferta acessível, um parque público reduzido e falta de respostas\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:53+00:00"
   },
   {
     "id": "c405feefac62669da97b",
@@ -5032,11 +5366,11 @@
     "published_at": "2026-11-10T07:00:00+00:00",
     "first_seen_at": "2026-11-10T07:12:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE 2027: Portugal precisa de crescer mais e de convergir - Expresso",
+    "translated_summary": "OE 2027: Portugal precisa de crescer mais e de convergir Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:54+00:00"
   },
   {
     "id": "6de0fc1a89361f38d4e2",
@@ -5112,11 +5446,11 @@
     "published_at": "2026-11-10T06:55:46+00:00",
     "first_seen_at": "2026-11-10T07:12:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleitores da Califórnia rejeitam taxa sobre riqueza dos multimilionários",
+    "translated_summary": "Os eleitores da Califórnia, no sudoeste dos Estados Unidos, rejeitaram uma proposta, inédita no país, de tributar o património líquido dos multimilionários, após uma disputa renhida que envolveu gastos avultados por parte de líderes tecnológicos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:55+00:00"
   },
   {
     "id": "b6d0cac44344cbb9984a",
@@ -5156,11 +5490,11 @@
     "published_at": "2026-11-10T06:50:03+00:00",
     "first_seen_at": "2026-11-10T07:12:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Excedente comercial da China ultrapassa 890 mil ME pelo segundo ano consecutivo",
+    "translated_summary": "O excedente comercial da China já ultrapassou um bilião de dólares (890 mil milhões de euros) pelo segundo ano consecutivo, segundo dados oficiais divulgados hoje, numa altura em que aumenta a pressão internacional sobre Pequim para corrigir desequilíbrios comerciais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:56+00:00"
   },
   {
     "id": "da7843f5e56706784688",
@@ -5238,11 +5572,11 @@
     "published_at": "2026-11-10T06:43:19+00:00",
     "first_seen_at": "2026-11-10T07:12:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Brasil prepara plano para transição económica rumo às energias renováveis",
+    "translated_summary": "Os países que desejam desvincular-se dos combustíveis fósseis, responsáveis pelas alterações climáticas, vão contar a partir de hoje com um roteiro nas negociações climáticas da ONU, que será apresentado pelo Brasil.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:57+00:00"
   },
   {
     "id": "eb2889a2b143fe101b26",
@@ -5302,11 +5636,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Austrália vai impor salvaguardas obrigatórias em relação à IA",
+    "translated_summary": "As empresas especializadas em inteligência artificial (IA) deverão cumprir novas medidas de proteção obrigatórias quando operam na Austrália, anunciou hoje o primeiro-ministro do país, Anthony Albanese.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:58+00:00"
   },
   {
     "id": "06a6bac4a908071c736c",
@@ -5368,11 +5702,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Da Tekever à Amazon. Empresas querem “ultrapassar burocracia” transatlântica no CEO Fórum - ECO",
+    "translated_summary": "Da Tekever à Amazon. Empresas querem “ultrapassar burocracia” transatlântica no CEO Fórum ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:59+00:00"
   },
   {
     "id": "6c52675f01566dfed627",
@@ -12556,11 +12890,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia e UE decidem impulsionar laços de tecnologia e investimento antes da conclusão de um acordo comercial histórico - The New Indian Express",
+    "translated_summary": "Índia e UE decidem impulsionar laços de tecnologia e investimento antes da assinatura de um acordo comercial histórico The New Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:54:00+00:00"
   },
   {
     "id": "b45f2db3978a50f926c7",
@@ -12644,11 +12978,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A IA se arrastou e o consumo ficou para trás... KDI “Korea's Economic Growth Warmth Slows Household Spread” - https://www.sisaworld.kr/",
+    "translated_summary": "A IA se arrastou e o consumo ficou para trás... KDI “Korea's Economic Growth Warmth Slows Household Spread” https://www.sisaworld.kr/",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:54:03+00:00"
   },
   {
     "id": "21584423472d99589556",
@@ -12684,11 +13018,11 @@
     "published_at": "2026-11-09T14:13:47+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Autarca de Vizela acusado de violência doméstica",
+    "translated_summary": "O Ministério Público acusou o atual presidente da Câmara Municipal de Vizela de violência doméstica. Victor Hugo Salgado terá agredido a mulher com vários socos na face.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:54:06+00:00"
   },
   {
     "id": "c7ba52d5c6a2fdfb8cf6",
@@ -12729,11 +13063,11 @@
       "Indústria e produção",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Electricidade na Alemanha: Porque é que a Reiche está a mudar os concursos para centrais eléctricas a gás - Economia - SZ.de - SZ.de",
+    "translated_summary": "Electricidade na Alemanha: Porque é que a Reiche está a mudar os concursos para centrais eléctricas a gás - Economia - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:54:07+00:00"
   },
   {
     "id": "b3545dd8ee003eab7848",
@@ -25624,11 +25958,11 @@
     "published_at": "2026-11-08T07:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A \"conta da névoa\" de $ 2,32 bilhões de Cingapura: a prevenção pode custar menos? - The Business Times",
+    "translated_summary": "A \"conta da névoa\" de $ 2,32 bilhões de Cingapura: a prevenção pode custar menos? The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:36+00:00"
   },
   {
     "id": "786ce9618e26898b50ce",
@@ -29867,6 +30201,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "3a86918e8c8340fb68df",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS0Joa3hYZ0tfWDNtek1XQzFUVFk0dzJESTg1NzRmTEMyTllSdWxpM24tMkpTNzd2bTJCLS0tNnVVdlVBS3NyOXpvRENkN3NCTVRubmJlRGFsek9jNlNieGxET2VkdGxFN2Ewc3JCeHdrWjZ0dUpmNndiN1RnZDdZNVM2R3RiZEdKYjdwUXpKNGhrRGtpaV82aXRPUUltYi1iNmJweFpUSFNoYzlTeDhfZW1RV29qN1I5YmVlWUEtTmtQVFZhNm92VjVaUGZRaWZiYU1Td0Q2WElnV3RiMlV5SDc2LWtDUXdPcTNQMNIB8wFBVV95cUxNRmR4TE1TOC1IZGdkRUJPU0dITDNzaHY2M1RFNDVpelo2ZDdWRHdxbjBhWFBFYng4dEpBX3h1RzRwQ01TbHk1bXZwYk9PNEdYb2xaN0lyUDRveW55emphQi10a2pqNmN0T2Iza0hsQURTR2NXUHpEUVZES0R1VjY2Y2R0NHNLLW9vSEhtRE51Z25wV1hqbkd4SDBGTXhqc3h0V2Qwc1E3MXNJZzNhYUkzckxoYzJQVWZvVFl6MFlFcld3TVdxS001R2gtMXluQjdaOWFTQkotcEk2S18xcDZXSnFPbTduVTZvUW4yUk5BczZoUkU?oc=5",
+    "original_title": "India's chemical industry set for strong growth, global market expansion amid investment push - BusinessLine",
+    "original_summary": "India's chemical industry set for strong growth, global market expansion amid investment push BusinessLine",
+    "published_at": "2026-11-07T07:49:58+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A indústria química da Índia está preparada para um forte crescimento e expansão do mercado global em meio a um impulso de investimento - BusinessLine",
+    "translated_summary": "A indústria química da Índia está preparada para um forte crescimento e expansão do mercado global em meio a investimentos que impulsionam o BusinessLine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:27+00:00"
   },
   {
     "id": "358e5f102fef1b79c670",
@@ -42713,6 +43069,26 @@
     "last_translation_attempt_at": "2026-11-06T18:37:59+00:00"
   },
   {
+    "id": "8cfd94955e42619c613e",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Euromoney",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUjNkb3BJcC1ic2gyaG51WnRxUEhzbWVlU3JEU2ZSVy1LWFEyVXQzNWhsVmNJZE1KMHNWbG05VmZsbWdYc3hCZkg5TWtuajNHa2pBYVBkdXNEOEFYbDRudkEyaERZVi04RmZVU2tTM0J1ZEpUMi1WMVFSRC1wLXhxSmxlMm5OVlBRRy1ZV0lFamlZRV9nWGpyd0hpYkQ1TkZZbEpyX2dRSERfUmdaTUM1ZlVFa09uMVVxcDJTOXM3T0d0SXZqMGw5WUFRTVQ2MkdWeTQ5XzZR?oc=5",
+    "original_title": "Singapore’s best trade finance deal 2026: DBS for Aster Chemicals and Energy Pte Ltd - Euromoney",
+    "original_summary": "Singapore’s best trade finance deal 2026: DBS for Aster Chemicals and Energy Pte Ltd Euromoney",
+    "published_at": "2026-11-05T17:33:36+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O melhor acordo de financiamento comercial de Singapura em 2026: DBS para a Aster Chemicals and Energy Pte Ltd - Euromoney",
+    "translated_summary": "O melhor acordo de financiamento comercial de Singapura em 2026: DBS para a Aster Chemicals and Energy Pte Ltd Euromoney",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:29+00:00"
+  },
+  {
     "id": "ed1f56cc3addaea912c6",
     "country": "Portugal",
     "category": "Automóvel",
@@ -43517,11 +43893,11 @@
     "published_at": "2026-11-05T14:55:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura a trabalhar com países da Commonwealth para reduzir os custos comerciais, facilitar o custo de vida: DPM Gan - CNA",
+    "translated_summary": "Singapura a trabalhar com países da Commonwealth para reduzir os custos comerciais, facilitar o custo de vida: DPM GaN CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:39+00:00"
   },
   {
     "id": "e1702b2730c7989ab69e",
@@ -46275,11 +46651,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Databricks faz parceria com EDB e IMDA para apoiar a estratégia nacional de IA de Singapura - Singapore Economic Development Board (EDB)",
+    "translated_summary": "Databricks faz parceria com EDB e IMDA para apoiar a Estratégia Nacional de IA de Singapura Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:41+00:00"
   },
   {
     "id": "63188478e01b91714249",
@@ -46295,11 +46671,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura atualiza a estratégia nacional de IA, parceiros Google e OpenAI - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Singapura atualiza a estratégia nacional de IA, parceiros Google e OpenAI Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:43+00:00"
   },
   {
     "id": "b02ea9974c53aacdb8f2",
@@ -46360,6 +46736,26 @@
     "translated_summary": "Singapura a trabalhar com os EUA para padronizar os quadros de risco de IA do Conselho de Desenvolvimento Económico de Singapura (EDB)",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:31:58+00:00"
+  },
+  {
+    "id": "1c098f45fdfa4d0a1ae0",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNW5pbGpVLTFZUUR2QlJXQXlLMVFfQjZ2czlqSll0c3JNaEdOd3dkS1dzQUZTRnY1VEdQcjI2TlZhRzJrb2JseURQNzlUTWxSTlZLRzdSUVpQQ0RNVlRaZlZldDYyLWpnYjFERUZCRGh6X2VmaHV2U0NaM0c0Yk5EWlhBYjJLSkVveVpSVHlGMlpxNGhZZ0FXbEZRbGpWai02RE9lc0F2cnlxU1pxcmpiSE9HcmJmVHFvUmE2NE5ITUp1c0JlakxtcExKR0NTNC1NNHJXaWRGVk5wdDVPQTRrOFp0M0c?oc=5",
+    "original_title": "Oracle offers up to 10,000 training slots in Singapore to tap AI boom, to open new data centre in July - Singapore Economic Development Board (EDB)",
+    "original_summary": "Oracle offers up to 10,000 training slots in Singapore to tap AI boom, to open new data centre in July Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-05T08:00:00+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Oracle oferece até 10.000 vagas de formação em Singapura para a TAP AI boom, para abrir um novo centro de dados em julho - Singapore Economic Development Board (EDB)",
+    "translated_summary": "A Oracle oferece até 10.000 vagas de treinamento em Singapura para a TAP AI boom, para abrir um novo data center em julho no Conselho de Desenvolvimento Econômico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:03+00:00"
   },
   {
     "id": "b6167e5782560afd6f9c",
@@ -49488,6 +49884,29 @@
     "last_translation_attempt_at": "2026-11-06T03:57:44+00:00"
   },
   {
+    "id": "09379d1bed9d101e338e",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "人民日报",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xQU4xU1FBX0dERUJCaVhVWUt4cjNuQVo3alVfME9wYkp6LUdJb2YzdVotWVA3OWRuT1JUMi1wdUpnZmw2a1owVGd0c2hqR09fZVBFV3d1cmtkbWhRNUlJcG5tYnJIdUV6YS12ZWMySy1rVThKeS1LbDE0bzd1OG8?oc=5",
+    "original_title": "“继续投资中国，创造未来之美”（见证·中国机遇） - 人民日报",
+    "original_summary": "“继续投资中国，创造未来之美”（见证·中国机遇） 人民日报",
+    "published_at": "2026-11-04T19:50:20+00:00",
+    "first_seen_at": "2026-11-10T17:52:26+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Continuar a investir na China e criar a beleza do futuro\" (Witness · China Opportunity) - People's Daily",
+    "translated_summary": "\"Continuar a investir na China e criar a beleza do futuro\" (Witness · China Opportunity) People's Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:11+00:00"
+  },
+  {
     "id": "24809b71dae99143a484",
     "country": "Alemanha",
     "category": "Política",
@@ -50137,11 +50556,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Edge42 lança plataforma de investimento para startups de Portugal e Brasil que querem expandir - Dinheiro Vivo",
+    "translated_summary": "Edge42 lança plataforma de investimento para startups de Portugal e Brasil que querem expandir Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:46+00:00"
   },
   {
     "id": "4899d179d89ca35733bd",
@@ -53239,11 +53658,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Transformando para o futuro do comércio global - The Business Times",
+    "translated_summary": "Transformando para o futuro do comércio global The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:47+00:00"
   },
   {
     "id": "beae2445ce49e7bb9cf2",
@@ -55876,11 +56295,11 @@
     "published_at": "2026-11-03T12:59:00+00:00",
     "first_seen_at": "2026-11-10T08:22:10+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OFuture of Finance Institute da mas inicia suas operações com foco em IA; nomeia o CEO interino - The Straits Times",
+    "translated_summary": "OFuture of Finance Institute da mas inicia suas operações com foco em IA; nomeia o CEO interino The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T17:53:49+00:00"
   },
   {
     "id": "98111a5ca447e029a842",
