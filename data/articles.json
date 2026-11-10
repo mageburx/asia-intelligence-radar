@@ -1,5 +1,281 @@
 [
   {
+    "id": "6df4ce1a48fc2e8404a5",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmxXd3E1Y0xqTGZ0X3FOUHp6WFVNb1BxeVBLeHF1bDFOaHhRNHJvU1kyd045ZDR1UUlWeVhtM1kyYXprZXRQQUNLZnEwUDcyMzF3cTBERGZDaHNOd0FiY3ZHMDZvVnhEN0c2SzJ2MnRmX1FpU05GNGhkN3FWQ0g1WWo3bXNBckxVWXR2YUU0UmhGek1PRmxPTUdHdENaSXFMWHVCRTlJUWlrS3Fwd3NjU2RGaURQSWRiLW5oT2h1LWJzcXpNS0d3QWhmRFNrRndOQUFDY9IB1AFBVV95cUxPZmxXd3E1Y0xqTGZ0X3FOUHp6WFVNb1BxeVBLeHF1bDFOaHhRNHJvU1kyd045ZDR1UUlWeVhtM1kyYXprZXRQQUNLZnEwUDcyMzF3cTBERGZDaHNOd0FiY3ZHMDZvVnhEN0c2SzJ2MnRmX1FpU05GNGhkN3FWQ0g1WWo3bXNBckxVWXR2YUU0UmhGek1PRmxPTUdHdENaSXFMWHVCRTlJUWlrS3Fwd3NjU2RGaURQSWRiLW5oT2h1LWJzcXpNS0d3QWhmRFNrRndOQUFDYw?oc=5",
+    "original_title": "India, US plan joint crackdown on transnational drugs, synthetic drug trade - The Tribune",
+    "original_summary": "India, US plan joint crackdown on transnational drugs, synthetic drug trade The Tribune",
+    "published_at": "2026-11-10T04:44:54+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia, EUA planejam repressão conjunta a drogas transnacionais, tráfico de drogas sintéticas - The Tribune",
+    "translated_summary": "Índia, EUA planejam repressão conjunta a drogas transnacionais, tráfico de drogas sintéticas The Tribune",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:40+00:00"
+  },
+  {
+    "id": "80f25cff9e2b8e73f3c1",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "TVBS新聞網",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yaVcwaFlHNWRTaTRqazdfV3pGLThrdFQ5bjFQZ2pMU1lwajhDcEZEU2ZsNEYtUjhucUEwOWtSeUZHVkpVUExJajVGdWlLWWtiM0pz?oc=5",
+    "original_title": "黃仁勳案AIT要求協助調查？卓榮泰超神祕：不能說有或沒有 - TVBS新聞網",
+    "original_summary": "黃仁勳案AIT要求協助調查？卓榮泰超神祕：不能說有或沒有 TVBS新聞網",
+    "published_at": "2026-11-10T04:44:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O AIT de Huang Jen-Hsun pediu ajuda com a investigação? Zhuo Rongtai Super Mystery: Can 't Say Yes or No - TVBS News Network",
+    "translated_summary": "O AIT de Huang Jen-Hsun pediu ajuda com a investigação? Zhuo Rongtai Super Mystery: Can 't Say There Is or Isn' t TVBS News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:28+00:00"
+  },
+  {
+    "id": "0364672aff6062dfd7cc",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFlvVkMxSFlvVmJQZ2c3QlJrWnFpSlhXc2hZZ2kxTFJzbjktRW9PYnhGNHR0Wk9zUUhobFVkU2J3dEJTWkc3WVlsOVFNaHBpZmFrdXpwV294RjlXUUFCNjd0OEtwaXp6OHZCeElzdmN4cmxhTVRlUGotMzBZQ2xFSThoMzg3RWhGUW5Z?oc=5",
+    "original_title": "인공지능 콘텐츠 페스티벌 2026 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "인공지능 콘텐츠 페스티벌 2026 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-10T04:43:02+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Festival de Conteúdo de IA 2026 - Todos | Cards/HanCut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "AI Content Festival 2026 - Todos | Cards/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:22+00:00"
+  },
+  {
+    "id": "d80815d5e062a7b35573",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "NZZ",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ05WT2VEX2lsSXh0dVBhd2ZDWVhYOF9RWFo1bnl6aThNcjBmX1plVTc3aGI1M0FiX0tPNF9UTGw3SUw2TloyZmxqb05lYlFiemJDdzkyMncyaTFQUkl0cnpOWjZNTmtLOWczaEl1ZTlZTTh2al9WSy1qb1dpZmtvZmRhUXlpQjRUX0Q5aW9sa1oxNjNxLTA5LURod3d6YTROVjZ4VkFyZFlMQ0FDSkhRX2trbnZ5cFlOd3c?oc=5",
+    "original_title": "Asylpolitik: Die Bundesregierung muss selber abschieben - NZZ",
+    "original_summary": "Asylpolitik: Die Bundesregierung muss selber abschieben NZZ",
+    "published_at": "2026-11-10T04:30:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Política de asilo: Governo Federal deve deportar-se - NZZ",
+    "translated_summary": "Política de asilo: Governo Federal deve deportar a própria NZZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:20+00:00"
+  },
+  {
+    "id": "0de0f2abfa1360293de8",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729345.shtml",
+    "original_title": "米夏埃尔·舒曼：信任是国际气候政策中的稀缺资源",
+    "original_summary": "中新网安塔利亚11月10日电 (记者 魏园)“信任是国际气候政策中的稀缺资源。”《联合国气候变化框架公约》第三十一次缔约方大会(COP31)正在土耳其安塔利亚召开，德国联邦经济发展和对外贸易协会(BWA)董事会主席米夏埃尔·舒曼(Michael Schumann)接受中新网记者专访时，围绕中国电动汽车入欧、中欧绿色发展合作以及美国对华AI芯片管制等话题展开交流。他反复强调：面对气候与贸易的交叉难题，“我们需要的不是战场，而是工作台”。",
+    "published_at": "2026-11-10T04:23:02+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Semicondutores",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Michael Schumann: A confiança é um recurso escasso na política climática internacional",
+    "translated_summary": "Antalya, 10 nov (Xinhua) -- \"A confiança é um recurso escasso na política climática internacional. A trigésima primeira sessão da Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (COP31) está sendo realizada em Antália, Turquia. Michael Schumann, presidente do Conselho de Administração da Associação Federal Alemã de Desenvolvimento Econômico e Comércio Exterior (BWA), deu uma entrevista exclusiva a um repórter da China New Network e trocou opiniões sobre tópicos como a entrada da China de veículos elétricos na Europa, a cooperação de desenvolvimento verde China-Europa e a regulamentação dos EUA de chips de IA na China. Ele enfatizou repetidamente que, diante da interseção entre clima e comércio,\" o que precisamos não é de um campo de batalha, mas de uma bancada de trabalho \".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:57:59+00:00"
+  },
+  {
+    "id": "3464c88de956aaca3f64",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155113.html",
+    "original_title": "いすゞ、南アフリカで小型トラック新型「Nシリーズ」投入 18年ぶりにフルモデルチェンジ",
+    "original_summary": "いすゞ自動車は11月10日、南アフリカ共和国デルマス市のレッド・スター・レースウェイで11月9日（現地時間）に開催した「ISUZU Mobility Experience」にて、フルモデルチェンジした小型トラック新型「Nシリーズ」を発表した。",
+    "published_at": "2026-11-10T04:15:13+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Isuzu Lança Novo Caminhão Leve Série N na África do Sul, Primeira Mudança Completa de Modelo em 18 Anos",
+    "translated_summary": "No dia 10 de novembro, a Isuzu Motor revelou um novo modelo de caminhão leve, o N Series, na Isuzu Mobility Experience, realizada no dia 9 de novembro (horário local) no Red Star Raceway em Delmas, África do Sul.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:05+00:00"
+  },
+  {
+    "id": "ddf36dca07681e2d9501",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中時新聞網",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdjlEMEVHanFHQS14U0dHdU56UHdOWVBxSDBjbEZCSzQ0Z3JfMmpTUFFjQlVjemJqcU5IRTB6dWVfQzFrejlRYjY4alpKZHM2ZGhLbHhNMjlsRXA1YWtlS0t1a3hIeXY3b1RVQnF3?oc=5",
+    "original_title": "傳立陶宛逼台灣代表處改名！外交部駁斥「假消息」回應了 - 中時新聞網",
+    "original_summary": "傳立陶宛逼台灣代表處改名！外交部駁斥「假消息」回應了 中時新聞網",
+    "published_at": "2026-11-10T04:14:13+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Lituânia forçou Taiwan a mudar de nome! Ministério das Relações Exteriores descarta resposta de “fake news” - China Times News Network",
+    "translated_summary": "A Lituânia forçou Taiwan a mudar de nome! O Ministério das Relações Exteriores descartou as \"notícias falsas\" e respondeu à China Times News Network.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:30+00:00"
+  },
+  {
+    "id": "6021a39dd6c93644d6f3",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73430",
+    "original_title": "自民 総務会で衆院議員定数31削減法案了承 週内にも国会提出へ",
+    "original_summary": "自民党は総務会を開き、衆議院議員の定数を比例代表で31議席削減するなどとした法案を了承しました。自民党、日本維新の会、国民民主党の3党は、週内にも法案を国会に提出する方針です。",
+    "published_at": "2026-11-10T04:12:18+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Assembleia Nacional também apresentará um projeto de lei para reduzir o número de membros da Câmara dos Deputados em 31 dentro da semana de aprovação.",
+    "translated_summary": "O Partido Liberal Democrata realizou um conselho de governadores e aprovou um projeto de lei para reduzir o número de membros da Câmara dos Deputados em 31 cadeiras com representação proporcional. O Partido Liberal Democrata, a Sociedade Japonesa de Restauração e o Partido Nacional Democrata planejam apresentar projetos de lei à Dieta dentro de uma semana.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:03+00:00"
+  },
+  {
+    "id": "0a9956325dbbf2242813",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjd4V3pBZ2E1dk54WXd1TDBKa1oycnhEM1d4SENRRl9XRG5nVEl4a1hoWDhPWk1PcFgwb1ZnVkVjbmlDb0NfeG9QSjMtNzI1b0ZyX19CdXZqbl9QX1VtN1BYdE5SUWJyejU5dWh6a0tibmNyX2o2NnRaU2NVQmdHQlo4cURpUGpzRllkZlJPSktlME9BUXlmazJNX01Xd1NPazFzSUg0NDBPWGhLQUNUcWR0TW1aWjM1XzhqQ0dVTzh5OWVhNmNibC01ZzFLcWdWcU96NktQTy02a0lUR2RMaUJn0gHnAUFVX3lxTE9oQllRUGVZNS1VdlFyUENOOHM2TlRWRGJRdzIzQ3F2WFlzVWlncWF6ZUlpZEF6RWw4SmI0cUhUNW9VOTJWb3o0U29mekdqUW9uSUtRNURvY3JYcnRhMmktU29GSzJYVWFxdmc0d0tIX05vaWNBbTBqQmVCWUdPT1dUQzFEUEE3QXJvQllCRzNaWTZrWWdnYmllOXc5Z29HVmU3anJmZlRnRlhaNm03ZGtZczN4V0dkY3hzeWJhcS1oa0pkeW9lLVRFVmdIS3Q3dUpEWFl3eHJ5S3ltWnBMUGhQejRIa3JfYw?oc=5",
+    "original_title": "India, US plan joint crackdown on transnational drug cartels, synthetic drug trade - The Times of India",
+    "original_summary": "India, US plan joint crackdown on transnational drug cartels, synthetic drug trade The Times of India",
+    "published_at": "2026-11-10T04:04:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia e EUA planejam repressão conjunta a cartéis transnacionais de drogas e tráfico de drogas sintéticas - The Times of India",
+    "translated_summary": "Índia, EUA planejam repressão conjunta a cartéis transnacionais de drogas, tráfico de drogas sintéticas The Times of India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:38+00:00"
+  },
+  {
+    "id": "09a38f7ba7352ccc4bf5",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "NOWnews今日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYlBOOHlkVXJDMUlOZWxTQURMMkwycHVKUG1wWmxCZW1mZHg5NFdydWloRmxYak1xa0xrVWFyTVJXeHlvX0pFR3RLUzZCOEdCS3fSAVJBVV95cUxNVGJQTjh5ZFVyQzFJTmVsU0FETDJMMnB1SlBtcFpsQmVtZmR4OTRXcnVpaEZsWGpNcWtMa1Vhck1SV3h5b19KRUd0S1M2QjhHQkt3?oc=5",
+    "original_title": "立陶宛傳要求「台灣代表處」更名？外交部：目前沒這計畫 - NOWnews今日新聞",
+    "original_summary": "立陶宛傳要求「台灣代表處」更名？外交部：目前沒這計畫 NOWnews今日新聞",
+    "published_at": "2026-11-10T04:00:22+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Lituano pede mudança de nome do 'Escritório de Representação de Taiwan'? Ministério das Relações Exteriores: Não há planos no momento - NOWnews Today",
+    "translated_summary": "Lituano pede mudança de nome do 'Escritório de Representação de Taiwan'? MFA: Nenhum plano no momento NOWnews Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:25+00:00"
+  },
+  {
+    "id": "02c796ffddf08d7be215",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155093.html",
+    "original_title": "国交省、「都市型水害への対策方針」をとりまとめ アンダーパスでの車両冠水防止やカーナビへの大雨危険警報通知などを推進",
+    "original_summary": "国土交通省は11月10日、令和8年8月千葉豪雨や9月の東海地方の大雨で発生した都市部における内水氾濫等の被害を踏まえ、「都市型水害への対策方針」をとりまとめて公表した。",
+    "published_at": "2026-11-10T03:53:21+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O Ministério dos Negócios Estrangeiros e Comunicações compilou uma \"Política de Contramedida de Perigo de Inundação Urbana\" para promover a prevenção de inundações de veículos por passagem subterrânea e o aviso de riscos de chuva forte para os sistemas de navegação automóvel.",
+    "translated_summary": "No dia 10 de novembro, o Ministério da Terra, Infraestrutura, Transportes e Turismo divulgou a “Política de Contramedidas de Inundações Urbanas” em função dos danos causados pelas fortes chuvas em Chiba em agosto de 2019 e pelas fortes chuvas na região de Tokai em setembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:08+00:00"
+  },
+  {
+    "id": "b1ddfb353246d0de623d",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "中央社 CNA",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSjhoMXYyaFdjQlhFTzFjTXVfd2F2SGFhMUtwUDdGb1JTNWVUNVFkT1dvSWVDeC1CbnpEMWNVeDhfZG9LS3VTOVhIdExMdGNLM2hWRjJLaDZlZmpyTkE?oc=5",
+    "original_title": "AI需求旺 渣打再上修台灣今年經濟成長預測至12.8% - 中央社 CNA",
+    "original_summary": "AI需求旺 渣打再上修台灣今年經濟成長預測至12.8% 中央社 CNA",
+    "published_at": "2026-11-10T03:51:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A AI Demand Wan Chartered atualiza a previsão de crescimento econômico de Taiwan para 12,8% este ano - Agência Central de Notícias CNA",
+    "translated_summary": "A procura de IA está a crescer e o Standard Chartered está a melhorar a previsão de crescimento económico de Taiwan este ano para 12,8% da Agência Central de Notícias CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:03+00:00"
+  },
+  {
+    "id": "d8ebfad8727b3325dd72",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "CMoney",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNldaell5dkcxZ09WbWZfWlhyYzVPNDhUa0Q3ZFduSnJCNXFQaDF3TDNIdGRmUnpWV1AzeDBzZFktRklIVjEtcnFKODlHdWVBdEl4RUpfc3c?oc=5",
+    "original_title": "2377 微星 - 微星科技獲台灣精品獎肯定電動車快充樁入圍金銀質獎決選- 股市爆料同學會 - CMoney",
+    "original_summary": "2377 微星 - 微星科技獲台灣精品獎肯定電動車快充樁入圍金銀質獎決選- 股市爆料同學會 CMoney",
+    "published_at": "2026-11-10T03:49:36+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "2377 A MSI-Microstar Technology foi premiada com o Taiwan Excellence Award e a Pilha de Carregamento Rápido de Veículos Elétricos foi selecionada para o Gold and Silver Award - Stock Market Explosion Alumni Association - CMoney",
+    "translated_summary": "2377 A MSI-Microstar Technology ganhou o Taiwan Excellence Award e foi selecionada para o Gold and Silver Award pelo carregamento rápido de veículos elétricos - Stock Market Explosion Alumni Association CMoney",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:32+00:00"
+  },
+  {
     "id": "e20cd2c624bfec594ba5",
     "country": "Japão",
     "category": "Política",
@@ -263,6 +539,30 @@
     "last_translation_attempt_at": "2026-11-10T03:57:13+00:00"
   },
   {
+    "id": "b2b008e857b52932e9d1",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "搜狐网",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzVtcFNMWmhoYS13b19UZDRCcmx2UFRDandESFl3cGlUSUdUdjFFZkh4ZzNQdVBUeWIzdXdPYTlSN0lJQWJ0Ukk1VXpHWGttX3ZFcFZtejFCaU1EVFpzM1BCMmdoRlRhZnRsR0s2WmJVU193Tmprc2otcWFMVzZOU2ZVZHA3aFla?oc=5",
+    "original_title": "全球AI投资热潮叠加基数效应，10月中国出口同比增长35.2% - 搜狐网",
+    "original_summary": "全球AI投资热潮叠加基数效应，10月中国出口同比增长35.2% 搜狐网",
+    "published_at": "2026-11-10T03:02:21+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Sobrepondo o efeito base do boom global de investimento em IA, as exportações da China aumentaram 35,2% ano a ano em outubro - Sohu.com",
+    "translated_summary": "O efeito base sobreposto do boom global de investimento em IA, as exportações da China aumentaram 35,2% ano a ano em outubro Sohu.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:50+00:00"
+  },
+  {
     "id": "993307f2d67c03ce27a0",
     "country": "Alemanha",
     "category": "Economia",
@@ -323,6 +623,26 @@
     "translated_summary": "[Leitura Econômica com IA] ① AI grátis 25 bilhões de won, o que deixar para a economia coreana Newspim",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T03:57:46+00:00"
+  },
+  {
+    "id": "7b9eede2c61fdbbf21bb",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "CNA",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEx4Z3pxWGI1aS02MWJwbVFjSnQwV0E5b25jR1paMFFyaVhoMXNfX0VqSnJCZWd5UGhLRHRvMjdueUVlTEZ3d1lNaDAxeEdoRzJBUXc3b2J3TEd0dVptaDhaV1A4VUhYREx1R1hPYWVYdE5wRkRTX1lZcTdNbXVQWFN4QUdpLWVmQXFrUEE4bw?oc=5",
+    "original_title": "MAS launches gold vaulting service with 500-tonne capacity, extends GST waiver to some gold services - CNA",
+    "original_summary": "MAS launches gold vaulting service with 500-tonne capacity, extends GST waiver to some gold services CNA",
+    "published_at": "2026-11-10T03:00:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "MAS lança serviço de vaulting de ouro com capacidade de 500 toneladas, estende isenção de GST para alguns serviços de ouro - CNA",
+    "translated_summary": "MAS lança serviço de cofre de ouro com capacidade de 500 toneladas, estende a isenção de GST para alguns serviços de ouro CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:10+00:00"
   },
   {
     "id": "b003d641303b5a50cf8a",
@@ -521,6 +841,28 @@
     "last_translation_attempt_at": "2026-11-10T02:56:09+00:00"
   },
   {
+    "id": "cfc9710a7d27142ea9a8",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUVGWFpiV3BNLWpBY1dKTGZNUXpZOTJaSGlxZkg4YTJ4LWlaTWNRRmZ2YXlKU3kxN1dvcXNrMkV5eTA4aXNRTUhZbWFhUE0tbTZoMGI3V04xU1REZ25LbUltTFdyN3plMUpxR1pmX0xKNHNIdGxXV0ZzdEw4VXlTZWpORk4zSnJDTWw4Q0lTNjktZw?oc=5",
+    "original_title": "Bundespräsidentenwahl: Unionskandidatin Aigner stellt sich im Bundestag vor - DIE ZEIT",
+    "original_summary": "Bundespräsidentenwahl: Unionskandidatin Aigner stellt sich im Bundestag vor DIE ZEIT",
+    "published_at": "2026-11-10T02:30:04+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Eleição presidencial federal: candidata da União Aigner se apresenta no Bundestag - DIE ZEIT",
+    "translated_summary": "Eleição presidencial federal: o candidato da União Aigner enfrenta o TEMPO no Bundestag",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:17+00:00"
+  },
+  {
     "id": "76b04b8e4f9a4017938d",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -625,6 +967,48 @@
     "translated_summary": "Huang Jen-Hsun foi fotografado entrando e saindo com Huang Yue! Por que os espiões chineses podem entrar em Taiwan? O Ministério das Relações Exteriores respondeu à Mídia Eólica",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T02:56:22+00:00"
+  },
+  {
+    "id": "41ab0c899271f5a6a9aa",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2tmb2FhYjN2V1BtSUUwanJHcW96Ny1kRDJHYTBLeDdENDRuVl9USXpTNUR2dnpoU1ZkTTE0RmdrT21YR25MbVE5Nm1jRDdtWjdKMVV3azJxQ0ZwYUwwZGsyRFRmYV82VXpnZ3RLbDJnTVgzblE4OU1oS05qWVJVclFWZ1MxSG9SMFpkUUYzM3pQQmFJMldDb253cEY0RnNzUFVFdmdVc01BU3hYMDhyOWpHcV9USHNrN2JTU1d6aFBDUUx0UFI0TFBzQVZ2SWNXX2tLSzZ3?oc=5",
+    "original_title": "China’s Li Auto makes Asia-Pacific push announcing entry into Singapore, Hong Kong, Thailand, Vietnam - The Business Times",
+    "original_summary": "China’s Li Auto makes Asia-Pacific push announcing entry into Singapore, Hong Kong, Thailand, Vietnam The Business Times",
+    "published_at": "2026-11-10T02:16:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Li Auto da China faz impulso na Ásia-Pacífico anunciando entrada em Cingapura, Hong Kong, Tailândia, Vietnã - The Business Times",
+    "translated_summary": "Li Auto da China faz impulso na Ásia-Pacífico anunciando entrada em Cingapura, Hong Kong, Tailândia, Vietnã The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:42+00:00"
+  },
+  {
+    "id": "18d9549f0b4ee272669f",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbzVNSXRPTWRnNm14UzFYVUV3UWFVeEVQd2NaWGRwNEgxYWViWTI4V3NQVXVZSC0yWTNTX0psTEJIeWt5X1J3cC1xSU1MUUlQdTl4aEZTa2NGOE81OXc1MGtRY29aTEVyZi1yYnZnenFuRnN4c1NtcjVMQi1XWmlteVhISURQUEk3c0hZYlBlSVpPY3RrdlRfZ3VUbVkyajhLc09hNnh2eXU3dVFNbTZlRGJlTkVoMU1HZ1JxRXhmREpBcFBiM2hoNVlYaVdIS1Y0S1UyMUlvOTBTUHl2V1VRMHhwemFDOXM?oc=5",
+    "original_title": "India is an important partner for Slovenia’s economic growth: Ambassador Tomaž Mencin - ET Government",
+    "original_summary": "India is an important partner for Slovenia’s economic growth: Ambassador Tomaž Mencin ET Government",
+    "published_at": "2026-11-10T02:14:32+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia é um parceiro importante para o crescimento económico da Eslovénia: Embaixador Tomaž Mencin - ET Government",
+    "translated_summary": "A Índia é um parceiro importante para o crescimento económico da Eslovénia: Embaixador Tomaž Mencin ET Governo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:35+00:00"
   },
   {
     "id": "173d143986d66431cca6",
@@ -1287,6 +1671,26 @@
     "last_translation_attempt_at": "2026-11-10T02:56:29+00:00"
   },
   {
+    "id": "11498d162e6ce19f602d",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Newscast.jp",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vcWhSZWduNHpLaHRpckppRjdvY0tYZTNRUkRxdGJfYlRTanZyVS02RjlPN0pGYjVwQmVMaVhldFA4ckJRaDI0SFctcjV0ZE0?oc=5",
+    "original_title": "日本自動車用エアフィルター市場：2035年には568億6600万米市場規模予測と9CAGR）は6.58％、脱炭素化・水素サプライチェーン拡大が牽引する次世代エネルギー産業の成長機会 - Newscast.jp",
+    "original_summary": "日本自動車用エアフィルター市場：2035年には568億6600万米市場規模予測と9CAGR）は6.58％、脱炭素化・水素サプライチェーン拡大が牽引する次世代エネルギー産業の成長機会 Newscast.jp",
+    "published_at": "2026-11-10T00:30:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mercado de filtros de ar automotivos do Japão: 56,866 bilhões de previsão de tamanho do mercado dos EUA e 9CAGR em 2035, 6,58%, oportunidades de crescimento da indústria de energia de próxima geração impulsionadas pela descarbonização e expansão da cadeia de suprimentos de hidrogênio - Newscast.jp",
+    "translated_summary": "Mercado de filtros de ar automotivos do Japão: 56,866 bilhões de previsão de tamanho do mercado dos EUA em 2035 e 9 CAGR) de 6,58%, oportunidades de crescimento da indústria de energia de última geração impulsionadas pela descarbonização e expansão da cadeia de suprimentos de hidrogênio Newscast.jp",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:12+00:00"
+  },
+  {
     "id": "1b98d051d72c42c6c95f",
     "country": "Taiwan",
     "category": "Política",
@@ -1649,6 +2053,28 @@
     "translated_summary": "O Presidente da Lituânia admitiu que os benefícios esperados não chegaram à Rede de Observadores",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T03:56:12+00:00"
+  },
+  {
+    "id": "9d854a5cd6562dfd7862",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "不明白播客",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ucGwweW1ta0doRjNaZEo5SzNITjFTaUdsWEM1M0RCRkxBLWNVa0NtdzJlRzFLaE5QWmM1Vk1GUlBmUjlpNVdPNXBvUTdUOUNQYzFZ?oc=5",
+    "original_title": "不明白节｜许成钢：中国经济为什么走到了这一步（文字版） - 不明白播客",
+    "original_summary": "不明白节｜许成钢：中国经济为什么走到了这一步（文字版） 不明白播客",
+    "published_at": "2026-11-09T23:45:47+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Não entendo o festival | Xu Chenggang: Por que a economia chinesa chegou tão longe (versão de texto) - Não entendo o podcast",
+    "translated_summary": "Não entendo o festival | Xu Chenggang: Por que a economia chinesa chegou a essa etapa (versão de texto) Não entendo o podcast",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:47+00:00"
   },
   {
     "id": "1d12a3f442ab5a6be32c",
@@ -2058,6 +2484,28 @@
     "last_translation_attempt_at": "2026-11-10T00:06:28+00:00"
   },
   {
+    "id": "da43760824e1e1ae254c",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45M2FJQm5PSUdiOHZBV0tlenJNaHRyTEJhb2lhQWc1ZlgySzFDYjh6Sk4tY0pnQ2NFcnZOTEVYaDB4OUx5Vk4yeFZqa0FteURMRHdPSTQ4Ykt0THlmUkhDN1JsV0VjSVkteGRKc2RxeWhVaWVIXzI2RG5KS0o2eEk?oc=5",
+    "original_title": "日本のGDPが世界6位になっても「悪くない」…日本人が捨てるべき大国意識と、歴史から学ぶべきこと（ダイヤモンド・オンライン） - Yahoo!ニュース",
+    "original_summary": "日本のGDPが世界6位になっても「悪くない」…日本人が捨てるべき大国意識と、歴史から学ぶべきこと（ダイヤモンド・オンライン） Yahoo!ニュース",
+    "published_at": "2026-11-09T22:36:18+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mesmo que o PIB do Japão se torne o sexto maior do mundo, \"não é ruim\"... a sensação de grande poder que o povo japonês deve jogar fora e o que eles devem aprender com a história (Diamond Online) - Yahoo! News",
+    "translated_summary": "Mesmo que o PIB do Japão se torne o sexto maior do mundo, \"não é ruim\"... a sensação de grande poder que os japoneses devem jogar fora e o que eles devem aprender com a história (Diamond Online) Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:55+00:00"
+  },
+  {
     "id": "96a879e32b46212b3083",
     "country": "China",
     "category": "Economia",
@@ -2185,6 +2633,49 @@
     "translated_summary": "A Acampada do Porto aceitou reunir, na terça-feira, com a autarquia para discutir a «possível compatibilização» do protesto na Praça D. João I e a colocação de uma pista de gelo no local para o Natal, foi hoje decidido.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T02:11:05+00:00"
+  },
+  {
+    "id": "271251c9ac8fd6246ea9",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "carview!",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlhRTW11RHhTcENhRTlZQjQxUVNsTkZTNVROTDBZWlRXTWxxMkRMRkp3V1gwcG4yUFRlZTkyMzVMOUZuWWtVSGtOeEJvSWV2MWpZbXFIVkR6bFk3ZlhkWjNxbndYMWdocTdYNlAyY3JNWE5Pb29hRzNTcGVpTm5RcW9XVzdhYkJB?oc=5",
+    "original_title": "米国生産のフルサイズ・ピックアップトラック 新制度で日本導入『トヨタ・タンドラ』を一部改良 今冬より発売 - carview!",
+    "original_summary": "米国生産のフルサイズ・ピックアップトラック 新制度で日本導入『トヨタ・タンドラ』を一部改良 今冬より発売 carview!",
+    "published_at": "2026-11-09T22:05:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O novo sistema de picape de tamanho normal fabricado nos EUA melhorou parcialmente o Toyota Tandora introduzido no Japão. Ele será lançado neste inverno - carview!",
+    "translated_summary": "O novo sistema de picape de tamanho normal fabricado nos EUA melhorou parcialmente o Toyota Tandora introduzido no Japão, e o carview estará disponível neste inverno!",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:14+00:00"
+  },
+  {
+    "id": "1c06ad8f62d351bd35b2",
+    "country": "Braga",
+    "category": "Economia",
+    "source": "Braga · Empresas, indústria e emprego",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-economy",
+    "publisher": "Fato Amazônico",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREF4TEY2QWFTQmRTUXNXeVZpbkQ0NXZnYVpDZFZBZFVfRFl1VnUxWS02czRxNWJ6SldqWGxhbUhmcjg0ZHRVSDNheU5vRzVOeUdSUjljTjhKbW91Qko1a202RWxSYlNveGVoeHpDaEtZbHZZUm5LdVVGUkUzUzlfN056ZU5jUEZUMlBKdTREaHhrNUpOMTRqcEhxUG9rRXFwb3lEd2VFbTNzZDA5NjZJR3ZXZHdLamVTSHpDSXdEbGhYVzBNdFZJ?oc=5",
+    "original_title": "“O custo de vida vai cair”, diz Eduardo Braga ao prever imposto zero na cesta básica a partir de 2027 - Fato Amazônico",
+    "original_summary": "“O custo de vida vai cair”, diz Eduardo Braga ao prever imposto zero na cesta básica a partir de 2027 Fato Amazônico",
+    "published_at": "2026-11-09T22:00:24+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "“O custo de vida vai cair”, diz Eduardo Braga ao prever imposto zero na cesta básica a partir de 2027 - Fato Amazônico",
+    "translated_summary": "“O custo de vida vai cair”, diz Eduardo Braga ao prever imposto zero na cesta básica a partir de 2027 Fato Amazônico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:15+00:00"
   },
   {
     "id": "e8fbc68b6f39419e4193",
@@ -3703,11 +4194,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Habitação, proteção de menores e sinodalidade em destaque na Assembleia Plenária da CEP - Arquidiocese de Braga",
+    "translated_summary": "Habitação, proteção de menores e sinodalidade em destaque na Assembleia Plenária da CEP Arquidiocese de Braga",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:16+00:00"
   },
   {
     "id": "1fc4229a366cc767d4b3",
@@ -3723,11 +4214,11 @@
     "published_at": "2026-11-09T16:26:37+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vereador Marcos Paulo acompanha início de obras na Rua Evaldo Braga, no Conjunto Palmeiras, em Fortaleza - programa do rubão",
+    "translated_summary": "Vereador Marcos Paulo acompanha início de obras na Rua Evaldo Braga, no Conjunto Palmeiras, em Fortaleza programa do rubão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:17+00:00"
   },
   {
     "id": "3ec0f8ea3b4b5a175620",
@@ -3743,11 +4234,11 @@
     "published_at": "2026-11-09T16:24:57+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Centro Ciclista de Barcelos participou no Salão da Mobilidade 2026, em Braga - | Radio Barcelos",
+    "translated_summary": "Centro Ciclista de Barcelos participou no Salão da Mobilidade 2026, em Braga | Radio Barcelos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:18+00:00"
   },
   {
     "id": "7c7f689c5cea28b02cdf",
@@ -3869,11 +4360,11 @@
     "published_at": "2026-11-09T15:51:45+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal admite candidato ao BCE e não garante apoio a Espanha para a presidência - Público",
+    "translated_summary": "Portugal admite candidato ao BCE e não garante apoio a Espanha para a presidência Público",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:19+00:00"
   },
   {
     "id": "1695d4110ac5ce55b8c8",
@@ -3934,11 +4425,11 @@
     "published_at": "2026-11-09T15:44:02+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "RBI estende a substituição do Banco Abhyudaya por mais um ano - The Hindu",
+    "translated_summary": "RBI estende a substituição do Abhyudaya Bank por mais um ano The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:20+00:00"
   },
   {
     "id": "32aa6ad090a0b4dff066",
@@ -4064,11 +4555,11 @@
     "published_at": "2026-11-09T15:16:29+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Salário médio em Portugal subiu para €26.202, na UE é de €41.464 - Expresso",
+    "translated_summary": "Salário médio em Portugal subiu para €26.202, na UE é de €41.464 Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:23+00:00"
   },
   {
     "id": "45483670e58c851c518a",
@@ -4130,11 +4621,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Dongfeng e CATL unem forças para revolucionar os elétricos - Revistacarros",
+    "translated_summary": "Dongfeng e CATL unem forças para revolucionar os elétricos Revistacarros",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:24+00:00"
   },
   {
     "id": "6f9d16c32f34e2b06672",
@@ -4152,11 +4643,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Primavera Outono (10 de novembro) Acordo para acabar com a guerra - Nikkei",
+    "translated_summary": "Shunju (10 de novembro) Acordo de Fim de Guerra Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:25+00:00"
   },
   {
     "id": "16aaf4ffb725229ddc49",
@@ -5390,6 +5881,26 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "963ea9e14950f7020da2",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzlmRWttM01DYkZwNnNadEN3UDFuMVRkRVdaLVNUcUdtazBvMzVIQ244ZDJGYVJ0cUg5ZTl6ajR0aW1WOGFFUGpVWXJ3aGdwNGlKXzBXbDJwa21ZdUxzbUxLUmdfamZvWnNrMHZlb1BOTzNpOFhtenN0c19NTWlORnVjcGpiQWYtSnJLcnFWZXpyRFRZLVpEMkdkTENXWDlCTVBxdTJGLVZQUlVLV2dnSGhWaEZoM3VXNE1TNDVR?oc=5",
+    "original_title": "Rechenzentren in Deutschland: Droht ein Ausbaustopp? - FAZ",
+    "original_summary": "Rechenzentren in Deutschland: Droht ein Ausbaustopp? FAZ",
+    "published_at": "2026-11-09T12:03:13+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Data centers na Alemanha: existe uma ameaça de interrupção da expansão? - faz",
+    "translated_summary": "Data centers na Alemanha: existe uma ameaça de interrupção da expansão? faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:58+00:00"
+  },
+  {
     "id": "8dc6430ee947ffe70db3",
     "country": "Alemanha",
     "category": "Economia",
@@ -5900,6 +6411,26 @@
     "translated_summary": "Nota do editor: Desenvolver uma nova produtividade de qualidade é um requisito inerente e um foco importante para promover o desenvolvimento de alta qualidade. Recentemente, o Comitê Central do PCC e o Conselho de Estado emitiram os Pareceres sobre o Desenvolvimento de Nova Produtividade para fazer implementações sistemáticas para acelerar o desenvolvimento de nova produtividade. Sanlihe lançou uma série de interpretações de especialistas autorizados para explicar a conotação política e a percepção da tendência geral de desenvolvimento. Hoje, Jiang Jiang, vice-presidente do Instituto Nacional de Desenvolvimento de Dados e pesquisador, publicou o artigo assinado \"Protegendo esta Fundação\". A nova produtividade de qualidade desempenha um papel de liderança na inovação. O símbolo central é o aumento substancial da produtividade total dos fatores. O caminho de realização é um avanço tecnológico revolucionário, a alocação inovadora de fatores de produção e a profunda transformação e atualização da indústria. É necessário focar na economia real, promover a profunda integração da inovação científica e tecnológica e da inovação industrial no processo de construção de um sistema industrial moderno e alcançar o salto geral do sistema industrial; no processo de reforma da produtividade e inovação da relação de produção, acelerar o processo de inteligentização, ecologização e integração da economia real e apoiar melhor o desenvolvimento de alta qualidade.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T12:00:13+00:00"
+  },
+  {
+    "id": "509f6ed3c762e72ee765",
+    "country": "Braga",
+    "category": "Política",
+    "source": "Braga · Política municipal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-politics",
+    "publisher": "Arquidiocese de Braga",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmp3ekpkWGQ5SGpvR0QxWnBjVTkyc0dGRmxWWC1EdzY5S2E1SlpGM0ZrQ3IwZnlaYjEwQ0FneHVzWmdLbUFOTlY0WElQMWJ4TzhtYjM4c2Qyb3FzUjlOOFV3eUxLdkd0R3doeFZLYjRLMUsyZGt6cXp4N2xsQXlGT0gwejdydV8zcFktcElUVXJZUFU3clQ2b3FHUzQtb3NETTdKenp6QWI2UlRzekdwNlVtVHpLT1E?oc=5",
+    "original_title": "Homenagem ao Cónego Veloso recordou «profeta do nosso tempo» - Arquidiocese de Braga",
+    "original_summary": "Homenagem ao Cónego Veloso recordou «profeta do nosso tempo» Arquidiocese de Braga",
+    "published_at": "2026-11-09T11:04:11+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Homenagem ao Cónego Veloso recordou «profeta do nosso tempo» - Arquidiocese de Braga",
+    "translated_summary": "Homenagem ao Cónego Veloso recordou «profeta do nosso tempo» Arquidiocese de Braga",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:12+00:00"
   },
   {
     "id": "1520a15c90f6306a9a41",
@@ -9523,6 +10054,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "362012c1f176ce24b79b",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "民報",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBRm5HNzZFaU91c0VSSy0wWnRaVERHOWN0OEEyVnVnN19WdDYyS2c0b2pjMTg2d2tLRmNxZEpUX3c1RlRFOWk1QW9EdExtYVZaUzVZQWhDdkNhaU4zbUxzbkctLU0?oc=5",
+    "original_title": "AI撐台灣經濟！台經院估今年GDP成長12.34％ 明年放緩至6.45％ - 民報",
+    "original_summary": "AI撐台灣經濟！台經院估今年GDP成長12.34％ 明年放緩至6.45％ 民報",
+    "published_at": "2026-11-09T06:42:26+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A IA sustenta a economia de Taiwan! O Instituto Econômico de Taiwan estima um crescimento de 12,34% do PIB este ano, desacelerando para 6,45% no próximo ano - People's Daily",
+    "translated_summary": "A IA sustenta a economia de Taiwan! A Academia Económica de Taiwan estima um crescimento de 12,34% do PIB este ano, desacelerando para 6,45% no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:00+00:00"
+  },
+  {
     "id": "b72cc9321a86af6d2072",
     "country": "China",
     "category": "Política",
@@ -11665,6 +12218,26 @@
     "translated_summary": "As três harmonias que ressoaram na Assembleia Nacional… O 127º aniversário do nascimento dos coloridos equipamentos de sofá ‘Shakeout Hanyadang’ Cultura Seongwang Ilbo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T18:59:08+00:00"
+  },
+  {
+    "id": "7a12ea63e5f2330a8a6d",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRYMGNidi13ZTlOWEpSRUR4cTdxV0ctVlowT2htXzZFMzJTUHhhSUdmcmtJczFKWFBkaWdrR1hCNUJpay1aNmVlRlNhUVZaWmpUc0pxU01ia0hUbWgwNnlaTEZmbkRNaE9GZUpoQjNpejA5ejA0akU0dWhQUmJQZG9wVFJLTF9kdE80NElJaFZZU2Y1UmhTdA?oc=5",
+    "original_title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
+    "original_summary": "Indian rupee breaks six-day winning streak on state banks' dollar bids Reuters",
+    "published_at": "2026-11-09T03:07:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Rúpia indiana quebra sequência de vitórias de seis dias em lances em dólares de bancos estatais - Reuters",
+    "translated_summary": "Rúpia indiana quebra sequência de vitórias de seis dias em lances em dólares de bancos estatais Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:08+00:00"
   },
   {
     "id": "4c3c052f0a67f28c9edb",
@@ -14778,6 +15351,26 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "0121dcda2031a8c0ffd1",
+    "country": "Braga",
+    "category": "Política",
+    "source": "Braga · Política municipal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-politics",
+    "publisher": "Portal Mário Adolfo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzFwNWZnVTZqTmlLSWZVZzJvSmlaOWxEUmxGX1AzNWw1OXdjQUk0bFl2d2xDNU9LN2lubDhkMnVvR1B4RkhaSXZrQVFWTkd6NXl3a0JaVDZvbUFkS3UwS21Id3l6SlNEUm0xWmpvNlFoZGlvVS01ZktHZmtvMklzNzltdHNRMjBYNnBRdTlpdE1zVXcxUzNuQnlMOA?oc=5",
+    "original_title": "Eduardo Braga reforça compromisso de trabalho com o município de Maués - Portal Mário Adolfo",
+    "original_summary": "Eduardo Braga reforça compromisso de trabalho com o município de Maués Portal Mário Adolfo",
+    "published_at": "2026-11-08T15:33:29+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Eduardo Braga reforça compromisso de trabalho com o município de Maués - Portal Mário Adolfo",
+    "translated_summary": "Eduardo Braga reforça compromisso de trabalho com o município de Maués Portal Mário Adolfo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:13+00:00"
+  },
+  {
     "id": "ef4fd931253c1de3c4f8",
     "country": "Japão",
     "category": "Economia",
@@ -16332,6 +16925,29 @@
     "translated_summary": "“Exposição Legislativa Congressional 2026” que abre o futuro com o povo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T12:55:38+00:00"
+  },
+  {
+    "id": "ce9a5721df942db57077",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHOVRtTEozTmpVSDh1dHpVaHc3UHVTRFdBSlVXcE5aSF94cl9sMlNMRWlQUUMzeHRYakF6Y0Q0MGY0MGc2Nzh0R1NVYktUSXBF?oc=5",
+    "original_title": "移民台灣行不行１／台灣宜居卻難移民 入籍門檻高 投資移民竟「只許成功不許失敗」？ - UDN",
+    "original_summary": "移民台灣行不行１／台灣宜居卻難移民 入籍門檻高 投資移民竟「只許成功不許失敗」？ UDN",
+    "published_at": "2026-11-08T08:37:50+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "É aceitável imigrar para Taiwan 1/Taiwan é confortável para se viver, mas é difícil imigrar para Taiwan. O limiar para a naturalização é alto. Os imigrantes de investimento \"só podem ter sucesso e não falhar\"? - UDN",
+    "translated_summary": "É aceitável imigrar para Taiwan 1/Taiwan é adequado para viver, mas é difícil para os imigrantes imigrarem. O limite para a naturalização é alto. Os imigrantes de investimento \"só podem ter sucesso e não falhar\"? UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:05+00:00"
   },
   {
     "id": "e99fdb8694b6ec1fd0d6",
@@ -26574,6 +27190,28 @@
     "translated_summary": "Especialistas ucranianos criticam política externa: China perde interesse em negociações de paz na Ucrânia, Kiev também é responsável",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T22:42:58+00:00"
+  },
+  {
+    "id": "f65eca2a61a7e77a63e2",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oanNKaE9pYUVadm9FR3RoMy1kNVMtbGNubDZ2cEhvNlo0cFZCNFI5bldvWVpTX2FSNjMzTlRYSFNESFZyZnBfd2dKUHJKTGRnZXpLUXp2eWY0Z2dKT3phYWU1aVVLQ19CV3JVdg?oc=5",
+    "original_title": "［社説］踊り場の訪日観光は総点検を - 日本経済新聞",
+    "original_summary": "［社説］踊り場の訪日観光は総点検を 日本経済新聞",
+    "published_at": "2026-11-06T10:00:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Editorial] Revisão dos locais de desembarque para passeios turísticos no Japão - Nikkei",
+    "translated_summary": "[Editorial] Revisão das visitas de dança ao Japão - Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:53+00:00"
   },
   {
     "id": "f66317a30c153ae56c35",
@@ -45611,6 +46249,26 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "d2840e501651120dd308",
+    "country": "Braga",
+    "category": "Automóvel",
+    "source": "Braga · Mobilidade e transportes",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-auto",
+    "publisher": "Jornal de Notícias",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTBvcW9rUUtSQUdkb2g5elFpUjczZkEtbWl5STlZRFBHaGRxYTNDSUFqR0JBbFVpZ29BOXlBeEtwUFRfTlZ0dXA0ZUJkX1FFTWppdVVNYUd6cVEweHhfNWZMWFNQTUhsbk84dTF5VkZHQTZMVUxJejJiNjdIZERxNEt4bnNzREZzRWdLWmQxbEVwWEFXRVgyb29oX1JZSlV2OTBGblI1V1V4MUtIaW5wY3NR0gGnAUFVX3lxTE8yeFZvSzRmdWVleG9VSjlCcXBDai14MFdoTVppWlpXdDBJYXI1WkFPSGE0S0xRU2Y5Tzc3cGNQZGJ6Mlo2QmcwMkpUVUdZWGgzX1A5d21DZkx2OG40OTRyWWdrYjZETXluS0d4OUE5aWExYW1HcTZxZ0tab2VYMUhYVGROOV9URmVybWJCN1pJWGJ6dWxVbVlpVGc0Yk1wVm5EOTJUaExN?oc=5",
+    "original_title": "Ministro confirma 80 milhões de euros para nova circular externa de Braga - Jornal de Notícias",
+    "original_summary": "Ministro confirma 80 milhões de euros para nova circular externa de Braga Jornal de Notícias",
+    "published_at": "2026-11-03T17:34:00+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ministro confirma 80 milhões de euros para nova circular externa de Braga - Jornal de Notícias",
+    "translated_summary": "Ministro confirma 80 milhões de euros para nova circular externa de Braga Jornal de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:59:14+00:00"
+  },
+  {
     "id": "25c15c6ac2ac35edea6a",
     "country": "Japão",
     "category": "Economia",
@@ -46611,6 +47269,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "c67378541512e088f285",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国一带一路网",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yeUpoYUFQSVJ3Y0ZoaDRkdWMyc3huaThKX3JlZjNGc1N3clU3NnVTUzhUYTE3S3drVjN3RkowdVY3U1p5WlNwYi1rUUQ1cURJdzdmczdPOA?oc=5",
+    "original_title": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 - 中国一带一路网",
+    "original_summary": "中国经济面面观丨进博会九届“全勤生”：深耕中国 面向世界 中国一带一路网",
+    "published_at": "2026-11-03T09:12:44+00:00",
+    "first_seen_at": "2026-11-10T04:57:36+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A face da economia da China A nona sessão da Expo \"participação total\": aprofundando a face da China para o mundo - Rede do Cinturão e Rota da China",
+    "translated_summary": "A face da economia da China A nona sessão da Expo \"estudantes em tempo integral\": aprofundando a face da China para a rede mundial do Cinturão e Rota da China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T04:58:45+00:00"
   },
   {
     "id": "001f44623db2886200f3",
