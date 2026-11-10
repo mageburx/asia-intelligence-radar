@@ -64,6 +64,28 @@
     "last_translation_attempt_at": "2026-11-09T17:15:01+00:00"
   },
   {
+    "id": "c6933e97b3c5fd27904e",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2154967.html",
+    "original_title": "モビテクト、トレーラーハウス型規格住宅「most-Trailer」公開 最小限のスペースで豊かな暮らしを実現",
+    "original_summary": "東京都港区浜松町にオフィスを構えるMobitect（モビテクト）は、日本の建築をモバイル化し、世界のライフスタイルを変えるというビジョンを掲げ、建築を持ち運び可能なプロダクトととらえ直した新たな暮らしのあり方を提案する企業である。社名のモビテクトとは「モバイル」と「アーキテクト」に由来するもの。",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mobitect, casa de reboque mais padrão de reboque \"mais reboque\" Aberto ao público Enriqueça a sua vida com o mínimo de espaço",
+    "translated_summary": "A Mobitect, que tem um escritório em Hamamatsu-cho, Minato-ku, Tóquio, é uma empresa que propõe uma nova forma de viver que reconfigura a arquitetura como um produto portátil, com a visão de mobilizar a arquitetura japonesa e mudar o estilo de vida do mundo. O nome da empresa Mobitect é derivado de \"móvel\" e \"arquiteto\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T00:05:09+00:00"
+  },
+  {
     "id": "332b3c42c691b9c311a0",
     "country": "Alemanha",
     "category": "Economia",
@@ -146,7 +168,7 @@
     "translated_title": "O crescimento das exportações de veículos de nova energia da China impulsiona a transformação verde global - China Daily",
     "translated_summary": "China New Energy Vehicle Export Growth Drives Global Green Transformation China Daily Network",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:04:01+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:43+00:00"
   },
   {
     "id": "a8f3d9c819d04a13af6a",
@@ -210,7 +232,7 @@
     "translated_title": "Vitality Wuqing (Foto de Grupo) - China Economic Net",
     "translated_summary": "Vitality Wuqing (Imagem de Grupo) China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:32+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:18+00:00"
   },
   {
     "id": "50e91af27de27da81ca5",
@@ -232,7 +254,7 @@
     "translated_title": "Fortalecimento das bases e condições para a construção de um novo padrão de desenvolvimento - China Economic Network",
     "translated_summary": "Consolidar a base e as condições para a construção de um novo padrão de desenvolvimento China Economic Network",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:02+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:52+00:00"
   },
   {
     "id": "5bb80b239df1e53ce60d",
@@ -294,7 +316,7 @@
     "translated_title": "Não apenas \"bom emprego\", mas também \"bom emprego\" - China Economic Net",
     "translated_summary": "Não apenas \"bom emprego\", mas também \"bom trabalho\" China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:41+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:26+00:00"
   },
   {
     "id": "4998b587983566522772",
@@ -380,7 +402,7 @@
     "translated_title": "O seguro está integrado em todo o processo de nova produtividade de qualidade - China Economic Net",
     "translated_summary": "Seguro integrado em todo o processo de nova produtividade de qualidade China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:35+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:21+00:00"
   },
   {
     "id": "40b748c64e224861492d",
@@ -402,7 +424,7 @@
     "translated_title": "Inteligência Artificial + Cenários de Transporte Desembarque Acelerado - China Economic Net",
     "translated_summary": "Inteligência Artificial + Cenários de Transporte Acelerados Desembarque da Rede Econômica da China",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:43+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:28+00:00"
   },
   {
     "id": "96a879e32b46212b3083",
@@ -424,7 +446,7 @@
     "translated_title": "Divisão da Indústria de Pesticidas Concentra-se na Inovação Conjunta - China Economic Net",
     "translated_summary": "A indústria de pesticidas quebra o escritório e se concentra na inovação conjunta da Rede Econômica da China",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:46+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:30+00:00"
   },
   {
     "id": "23062e63416e044d8c1f",
@@ -635,27 +657,7 @@
     "translated_title": "Smart Home Industry Survey - China Economic Net",
     "translated_summary": "Smart Home Industry Survey China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:50+00:00"
-  },
-  {
-    "id": "093700c1cd694283279a",
-    "country": "Alemanha",
-    "category": "Economia",
-    "source": "Google News · Economia · Alemanha",
-    "source_type": "Imprensa / agregador",
-    "source_id": "de-economy",
-    "publisher": "DIE ZEIT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmZYS1EwRFd5cGs5V0Y5ZHV5bGJCbjZkeDZDMTFCWVcwYXlSM1R1Ym9QUDgtSmo2OXhUQXpoS3NYSTNHU04zc2RfTi1Yb0VaQkdIS1E0UkxhRHB4X2ZfZWpyMkdhWm5XMmlLUjN3NXZTV2NTX1lOamFzbnVPTlRfMC10WGRUMnBJaHBnR0pVd0ZUY1F1djBoYg?oc=5",
-    "original_title": "Energiemonitor: Schafft Deutschland die Energiewende? - DIE ZEIT",
-    "original_summary": "Energiemonitor: Schafft Deutschland die Energiewende? DIE ZEIT",
-    "published_at": "2026-11-09T21:49:51+00:00",
-    "first_seen_at": "2026-11-10T00:02:01+00:00",
-    "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "last_translation_attempt_at": "2026-11-10T00:06:33+00:00"
   },
   {
     "id": "10cf330a0c9c25765663",
@@ -783,7 +785,7 @@
     "translated_title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling - Bloomberg.com",
     "translated_summary": "Nvidia Interveio na Sonda Americana de Contrabando de Chip de Megaspeed Bloomberg.com",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:24+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:15+00:00"
   },
   {
     "id": "456c6906662b085b8ea8",
@@ -1161,6 +1163,29 @@
     "translated_summary": "Cerimônia do 64º Aniversário do Dia do Combate a Incêndios - Fotos | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T23:46:33+00:00"
+  },
+  {
+    "id": "97b28c9a76f1671b8571",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tU3J3MWlKejFiTkZTUkhULWY2QXA4eFhPWHZFZ3psX0U5ZGJrMlF1VFh5b3h1UGlFb3k0QnRJbkVCUi1LbWtrM09UQVJvQ2dhZnhwMy1JenNDempDX1VXV1BXald4WFdBM1JmVw?oc=5",
+    "original_title": "トランプ氏、中間選挙の正当性に疑問 「結果受け入れ」から転換 - 日本経済新聞",
+    "original_summary": "トランプ氏、中間選挙の正当性に疑問 「結果受け入れ」から転換 日本経済新聞",
+    "published_at": "2026-11-09T19:42:23+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Eleições e governação"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "d113fcfc8e299a95b76c",
@@ -1936,7 +1961,7 @@
     "translated_title": "Observação Jinbo | Investir na China é investir no futuro - Observer Network",
     "translated_summary": "Jinbo Observation | Investir na China é investir na futura rede de observadores",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:30+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:16+00:00"
   },
   {
     "id": "6aed02692590b0747aea",
@@ -3278,6 +3303,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "8dc6430ee947ffe70db3",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DWN | Deutsche Wirtschaftsnachrichten",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVd3bGJodC1mcm5IOGRzSWdDNXZ3dWJ0VVBxOUZ1cUpJVzVSUk50ak9OX0NzRU8weEw1MDczRGotR0JWekNISjFGa0VHbm9WLTFDaXlRaS1MaWI3Yl9DQ0RvNEsxc1dENFQ5bmplcEdPMkQ5QTFZd2NOdFV2OS1nWUM2VDd1SGRsbElNNG85aEgwRjBNNWNwRG1icXIwSG5UWkR4dDJzMm1tZ0wtb2tObmxlSVVBYWJZMDdZ?oc=5",
+    "original_title": "Plastiksteuer in Deutschland: CDU dagegen, SPD dafür – Wirtschaft warnt - DWN | Deutsche Wirtschaftsnachrichten",
+    "original_summary": "Plastiksteuer in Deutschland: CDU dagegen, SPD dafür – Wirtschaft warnt DWN | Deutsche Wirtschaftsnachrichten",
+    "published_at": "2026-11-09T11:59:08+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "63ece79e36f4adbdf760",
     "country": "Índia",
     "category": "Automóvel",
@@ -3744,6 +3791,28 @@
     "translated_summary": "Nota do editor: Desenvolver uma nova produtividade de qualidade é um requisito inerente e um foco importante para promover o desenvolvimento de alta qualidade. Recentemente, o Comitê Central do PCC e o Conselho de Estado emitiram os Pareceres sobre o Desenvolvimento de Nova Produtividade para fazer implementações sistemáticas para acelerar o desenvolvimento de nova produtividade. Sanlihe lançou uma série de interpretações de especialistas autorizados para explicar a conotação política e a percepção da tendência geral de desenvolvimento. Hoje, Jiang Jiang, vice-presidente do Instituto Nacional de Desenvolvimento de Dados e pesquisador, publicou o artigo assinado \"Protegendo esta Fundação\". A nova produtividade de qualidade desempenha um papel de liderança na inovação. O símbolo central é o aumento substancial da produtividade total dos fatores. O caminho de realização é um avanço tecnológico revolucionário, a alocação inovadora de fatores de produção e a profunda transformação e atualização da indústria. É necessário focar na economia real, promover a profunda integração da inovação científica e tecnológica e da inovação industrial no processo de construção de um sistema industrial moderno e alcançar o salto geral do sistema industrial; no processo de reforma da produtividade e inovação da relação de produção, acelerar o processo de inteligentização, ecologização e integração da economia real e apoiar melhor o desenvolvimento de alta qualidade.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T12:00:13+00:00"
+  },
+  {
+    "id": "ff140ca23b2c73164658",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "LINE TODAY",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTkFiYU82RENWU3dUbE95NHlKTTVIYjFORGlUSUc5RlRBZENITTRac0NDVjNZVlZKdE90N1o1M3FzWUpQUGFEQXNtMHR1b19kNFJMWVNn?oc=5",
+    "original_title": "【台灣】10 月出口再創新高，AI 出貨瓶頸逐漸疏通！ | 財經Ｍ平方短評 - LINE TODAY",
+    "original_summary": "【台灣】10 月出口再創新高，AI 出貨瓶頸逐漸疏通！ | 財經Ｍ平方短評 LINE TODAY",
+    "published_at": "2026-11-09T10:44:11+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "603e3b5f1fde3e482a8f",
@@ -4284,7 +4353,7 @@
     "translated_title": "As perdas esperadas a médio prazo no investimento da Johns China diminuíram para um máximo de HK $ 10 milhões ou volume de negócios - Viewpoint.com",
     "translated_summary": "A perda esperada de médio prazo da Johnson & Johnson China Investments se reduz a um máximo de HK $ 10 milhões ou rede de pontos de vista de recuperação",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:11+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:10+00:00"
   },
   {
     "id": "099f6035fbb52607d391",
@@ -5054,6 +5123,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "1160cef03b8dfd7bf219",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQ3E5dkJPOXk4ZWloOGFab0xwcG1CMHhQVlJlRFRiTENtWjRJMVdwYVdwVURMM1NJVFh0cHoxQUtmQWwtUFRrTjVqLW5XZEYtZnF0OUZLS0gzQQ?oc=5",
+    "original_title": "한국 찾은 '큰손' 계약 불발 이유가…AI 프로젝트 '초비상' - 한국경제",
+    "original_summary": "한국 찾은 '큰손' 계약 불발 이유가…AI 프로젝트 '초비상' 한국경제",
+    "published_at": "2026-11-09T08:50:01+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "b4c312a283c80420f53d",
     "country": "Japão",
     "category": "Economia",
@@ -5135,7 +5226,7 @@
     "translated_title": "Outubro de 2026 China Export Container Freight Index - Ministério dos Transportes da República Popular da China",
     "translated_summary": "Outubro de 2026 China Export Container Freight Index Ministério dos Transportes da República Popular da China",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:36+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:25+00:00"
   },
   {
     "id": "6cf1ce4ea4356461605b",
@@ -5491,7 +5582,7 @@
     "translated_title": "Vendas imediatas no varejo, desde a velocidade específica até mercadorias conjuntas - Análise dos destaques do terceiro relatório trimestral econômico da China - China News Network",
     "translated_summary": "Vendas imediatas no varejo, desde a velocidade específica até mercadorias conjuntas - Análise dos destaques do relatório econômico de três temporadas da China China News Network",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:59+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:50+00:00"
   },
   {
     "id": "a506de8ebf0acb598527",
@@ -5716,6 +5807,26 @@
     "topics": [
       "Crescimento e PIB"
     ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "b0fd25f4c6691a7199ca",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "bfsi.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWllqWXVndEIyYmZpNnFZZDlLTnN1eDNxSXY5YzYxeUI2YTRqT0pxUExZd1hRVHZmMjZYMllLNVFTUDZqVlVSNXVZT294SXQ5TkZtZldlU2l2MjlTcFJCd1hrZzRobVROdEZCNlltMUlDYlVCdlZSSVlTNlR2c2tpb0FRdWgzV3lyemNXSndicWlfeC1qUXFwVC00a1RONURZM1IyTEpQakdha2pkeEZoaHVTSHV2aEJYZmJpZVdDUE9NRU1wNmMzWnl3Sm10TG9iNHpOenVjRGFYcTB4c3fSAeMBQVVfeXFMTW52OWdfZS1kT0t5cVBXcnJha1Q0dHlYaHJCUUVoTGVQYWpKS0VKQzVsdkhHV2JqY2dnYUwwX3dBc1V5eVp0eFNWZHByQXVtQ2RxYTJ1dXBwSzJwbW5rbDg0aGpIUndSbkROR1BEMi02LVlfZlF0Y1FTc0ZKQmlaaU9GemZVMnMwX1RLaTBLQ3dweXlzN05XRWgtVUFEdGx2SUhRdlBtMHVSbUxGUnNkVHdleWJPSDBmeUlPZk04eEJ2b2tqMWFTMHFXNHlHTFRxbnNIUFRGTHNlTGNodUdCYnVzYlU?oc=5",
+    "original_title": "INDIA RUPEE-Indian rupee extends rally, putting RBI's dollar-buying threshold in focus - bfsi.economictimes.indiatimes.com",
+    "original_summary": "INDIA RUPEE-Indian rupee extends rally, putting RBI's dollar-buying threshold in focus bfsi.economictimes.indiatimes.com",
+    "published_at": "2026-11-09T07:59:31+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [],
     "translation_status": "pending",
     "translated_title": "",
     "translated_summary": "",
@@ -6277,7 +6388,7 @@
     "translated_title": "Wu Wei Eleito Presidente da Câmara da Cidade de Yancheng - Rede Económica da China",
     "translated_summary": "Wu Wei Eleito Presidente da Câmara da Cidade de Yancheng China Economic Network",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:04:05+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:45+00:00"
   },
   {
     "id": "6a8017023adefd181d58",
@@ -7547,7 +7658,7 @@
     "translated_title": "Wang Kai eleito prefeito da cidade de Suqian - China Economic Net",
     "translated_summary": "Wang Kai eleito presidente da Câmara de Suqian City China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:55+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:37+00:00"
   },
   {
     "id": "41083f127dba09af7022",
@@ -8485,7 +8596,7 @@
     "translated_title": "4,6%, por que a economia da China parece nova e melhor? - Ore sim",
     "translated_summary": "4,6%, por que a economia da China parece nova e melhor?",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:33+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:23+00:00"
   },
   {
     "id": "61e32fa80c26207e624b",
@@ -8869,7 +8980,7 @@
     "translated_title": "Zheng Xiaoyi eleito prefeito da cidade de Jiangmen - China Economic Net",
     "translated_summary": "Zheng Xiaoyi eleito presidente da Câmara da Cidade de Jiangmen China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:58+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:40+00:00"
   },
   {
     "id": "859c761573967d49284d",
@@ -9342,7 +9453,7 @@
     "translated_title": "Presidente da Jingtuan Company: Preocupado com o impacto cada vez maior dos controles de exportação da China - site chinês nikkei",
     "translated_summary": "Presidente da Jingtuan Company: Preocupado com o impacto cada vez maior do controle de exportação da China",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:42+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:31+00:00"
   },
   {
     "id": "ac7c5fd2fcef3ea40643",
@@ -10165,6 +10276,28 @@
     "last_translation_attempt_at": "2026-11-09T01:12:15+00:00"
   },
   {
+    "id": "724c2e83d475e075c148",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EZ1hqeEJUZkxIY0lzYk1FQUktVGcyWUotLWk4QlRSZGZ2WU4zQzFYU0I4Wm0ycWM4Z3NsN2xmTTgycUZkVEt3ZGN1ZmZXMm9paUNFM2Y4RlFjaVZRZGpqdHVB?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-09T00:55:08+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Dar vida à estética japonesa na era digital. Nissan LEAF vence o Japan Automotive Hall of Fame Car Design of the Year - Motor Fan",
+    "translated_summary": "Dar vida à estética japonesa na era digital. Nissan Leaf Recebe Prêmio de Design de Carro do Ano do Japan Automobile Hall of Fame",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T00:05:12+00:00"
+  },
+  {
     "id": "f88c2033fa7d1a440bd4",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -10311,7 +10444,7 @@
     "translated_title": "Rússia \"assume\" 3 empresas japonesas de tabaco - China Economic Net",
     "translated_summary": "Rússia \"assume\" 3 empresas japonesas de tabaco China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:52+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:35+00:00"
   },
   {
     "id": "e74c3e2560137528453d",
@@ -11040,7 +11173,7 @@
     "translated_title": "Potencial de Mercado de Ativação de Negócios de Tecnologia - Rede Econômica da China",
     "translated_summary": "Potencial de Mercado de Ativação de Negócios de Tecnologia China Economic Net",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:26+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:14+00:00"
   },
   {
     "id": "4c30a6981d7cb9024bcb",
@@ -11276,7 +11409,7 @@
     "translated_title": "China Economic Lecture Hall: China Path with Intelligence - Canal Económico",
     "translated_summary": "China Economic Lecture Hall: Canal Económico Intelligent China Pathway",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:48+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:36+00:00"
   },
   {
     "id": "9a3a87775145df14dc9e",
@@ -12565,7 +12698,7 @@
     "translated_title": "Negócios Esportivos Culturais e Turísticos Acelerando a Integração e Desbloqueando o Potencial de Consumo - Análise dos Destaques do Terceiro Relatório Econômico Trimestral da China - China Daily",
     "translated_summary": "Negócios Esportivos Culturais e Turísticos Acelerando a Integração e Desbloqueando o Potencial de Consumo - Análise dos Destaques do Terceiro Relatório Econômico Trimestral da China - China Daily",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:53+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:42+00:00"
   },
   {
     "id": "b16701d77ca732e778cc",
@@ -12873,7 +13006,7 @@
     "translated_title": "Le Monde França - A China carece de uma estratégia macroeconómica para corrigir desequilíbrios de longa data? - RFI",
     "translated_summary": "Le Monde França - A China carece de uma estratégia macroeconómica para corrigir desequilíbrios de longa data? RFI",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:27+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:17+00:00"
   },
   {
     "id": "261203d89f0419e2ca48",
@@ -13203,7 +13336,7 @@
     "translated_title": "The 9th CIIE Xinhua News Agency Economic Essay: Feel the sincerity, perseverance and warmth of opening up China at the CIIE - Xinhua.com",
     "translated_summary": "O 9º Ensaio Econômico da Agência de Notícias CIIE Xinhua: Sinta a sinceridade, a perseverança e o calor da abertura da China na CIIE",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:51+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:39+00:00"
   },
   {
     "id": "91fc4915880aac162def",
@@ -14142,7 +14275,7 @@
     "translated_title": "KPMG: As multinacionais estão mais otimistas em relação às perspectivas econômicas da China e ao desempenho dos negócios na China - nas notícias",
     "translated_summary": "KPMG: As multinacionais estão mais otimistas com as perspectivas econômicas da China e com o desempenho dos negócios na China",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:05+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:55+00:00"
   },
   {
     "id": "09bd107ebe4b27678c45",
@@ -15413,6 +15546,26 @@
     "original_title": "Autarquia do Porto quer instalar pista na praça D. João I",
     "original_summary": "Está instalado o braço de ferro entre manifestantes e autarquia do Porto por causa de uma pista de gelo que a Câmara quer que volte a ser instalada na praça D.João I.",
     "published_at": "2026-11-07T22:27:47+00:00",
+    "first_seen_at": "2026-11-10T00:02:01+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "093700c1cd694283279a",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmZYS1EwRFd5cGs5V0Y5ZHV5bGJCbjZkeDZDMTFCWVcwYXlSM1R1Ym9QUDgtSmo2OXhUQXpoS3NYSTNHU04zc2RfTi1Yb0VaQkdIS1E0UkxhRHB4X2ZfZWpyMkdhWm5XMmlLUjN3NXZTV2NTX1lOamFzbnVPTlRfMC10WGRUMnBJaHBnR0pVd0ZUY1F1djBoYg?oc=5",
+    "original_title": "Energiemonitor: Schafft Deutschland die Energiewende? - DIE ZEIT",
+    "original_summary": "Energiemonitor: Schafft Deutschland die Energiewende? DIE ZEIT",
+    "published_at": "2026-11-07T22:23:44+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
     "translation_status": "pending",
@@ -18136,7 +18289,7 @@
     "translated_title": "Novo recorde histórico! Crescimento dobrado! Um conjunto de dados para sentir o forte pulso da economia da China - Riqueza Oriental",
     "translated_summary": "Novo recorde histórico! Crescimento dobrado! Um conjunto de dados para sentir o forte pulso da economia da China Riqueza oriental",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:57+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:47+00:00"
   },
   {
     "id": "7fdf9ab89e9002a0531d",
@@ -19683,7 +19836,7 @@
     "translated_title": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes está afirmando um grande ressurgimento no Japão - Diamond Online",
     "translated_summary": "\"A economia japonesa será cor-de-rosa nos próximos 30 anos.\" Por que um ex-operador estrangeiro com uma capitalização de mercado de 30 bilhões de ienes afirma o grande renascimento do Japan Diamond Online",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:04:15+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:49+00:00"
   },
   {
     "id": "a6192d42e2cf3d9ee4b7",
@@ -24737,6 +24890,28 @@
     "last_translation_attempt_at": "2026-11-07T01:02:34+00:00"
   },
   {
+    "id": "92c80f110b6f3c13a1d1",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华报业网",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHT1JDaEczdGhGM3N3QmEzNWJXV1drdVFrbENmNEdTcDRrdHJ3bnNvMFVycENVNTJLM0RNMEwyR19MbzFXTmJEczBzTDEwQW9IbXpGU1ZiQ2x5WTlSUWIwc2swZjY2alFyMDZJ?oc=5",
+    "original_title": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 - 新华报业网",
+    "original_summary": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 新华报业网",
+    "published_at": "2026-11-06T08:35:00+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Racionalização da China · Foco na economia da China em 2026 Capacitação das indústrias, beneficiando o sustento das pessoas Leia os novos resultados da expansão da indústria de serviços da China - Jornal Xinhua",
+    "translated_summary": "Racionalização da China · Foco na economia da China em 2026 Capacitar as indústrias, beneficiando o sustento das pessoas Uma imagem para ler a expansão da indústria de serviços da China e melhorar novas conquistas Xinhua Newspaper Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T00:05:44+00:00"
+  },
+  {
     "id": "915f4e9dbdd02f622c4c",
     "country": "China",
     "category": "Automóvel",
@@ -28368,7 +28543,7 @@
     "translated_title": "China Economic Sample Observation · \"Town\" é incrível. Quatro dos cinco pincéis vêm daqui, e a cidade do milênio \"escreve\" indústria de 10 bilhões de yuans - Xinhua.com",
     "translated_summary": "China Economic Sample Observation · \"Town\" é incrível. Quatro dos cinco pincéis vêm daqui, e a cidade do milênio \"escreve\" 10 bilhões de yuans da indústria Xinhua.com",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:30+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:00+00:00"
   },
   {
     "id": "09580da6c780ffd4adc5",
@@ -28389,6 +28564,28 @@
     "translated_summary": "A Mercedes-Benz ultrapassou a BMW e se tornou a segunda marca de carros importados mais vendida da Coreia do Sul, marcando uma mudança no ranking das duas principais montadoras premium alemãs. De acordo com a Associação de Importadores e Distribuidores de Automóveis da Coreia, os registros de automóveis de passageiros importados totalizaram 31.117 unidades em outubro, um aumento de 29,3% em relação ao ano anterior, mas uma queda de 10,8% em relação ao mês anterior. As inscrições de janeiro-outubro atingiram 310.846 unidades, exceto",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-08T02:09:32+00:00"
+  },
+  {
+    "id": "e94e3269b960f71edfc9",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "北京大学新闻网",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MdGJEOHB0eFlwUkI3UV84NHI0ZU11ZmpnWWRCTEFFMGNBemhwc016WlJiUENMWDFZU3BtUVRCSmFWWDJ2WmZxSjNlSDRLYzN3T0RnaGNsaFE?oc=5",
+    "original_title": "经济学院“国际顶刊主编圆桌论坛”之“守正创新与互鉴共进：中外经济学顶刊主编共话中国经济学自主知识体系建设”举行 - 北京大学新闻网",
+    "original_summary": "经济学院“国际顶刊主编圆桌论坛”之“守正创新与互鉴共进：中外经济学顶刊主编共话中国经济学自主知识体系建设”举行 北京大学新闻网",
+    "published_at": "2026-11-06T02:35:15+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Shouzheng Innovation and Mutual Learning: Top Editor-in-Chief of Sino-foreign Economics Speaks Together to Build an Autonomous Knowledge System in Chinese Economics\" Realizado pelo \"International Top Editorial Roundtable Forum\" da Faculdade de Economia - Rede de Notícias da Universidade de Pequim",
+    "translated_summary": "\"Shouzheng Innovation and Mutual Learning: Top Editor-in-Chief of Sino-foreign Economics Conversations on Building an Autonomous Knowledge System of Chinese Economics\" do \"International Top Editorial Roundtable Forum\" da Faculdade de Economia da Rede de Notícias da Universidade de Pequim",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-10T00:05:33+00:00"
   },
   {
     "id": "a7bebd9c0735ae246fab",
@@ -34399,7 +34596,7 @@
     "translated_title": "Do “What China Buys” ao “What Partners Can Sell”, o “Export China Capability Development Report” foi divulgado pela primeira vez - nas notícias",
     "translated_summary": "Do “What China Buys” ao “What Partners Can Sell”, o “Export China Capacity Development Report” divulgou o primeiro olhar sobre a notícia",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:08+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:58+00:00"
   },
   {
     "id": "798d5e9238e6617470de",
@@ -34442,7 +34639,7 @@
     "translated_title": "Zhou Hanmin: 25 anos após a adesão da China à OMC, remodelando o panorama económico e comercial mundial - Shangguan News",
     "translated_summary": "Zhou Hanmin: 25 anos após a adesão da China à OMC, remodelando o panorama económico e comercial mundial",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:38+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:23+00:00"
   },
   {
     "id": "4fe4c8f801154391d01f",
@@ -38708,7 +38905,7 @@
     "translated_title": "Em resposta à coerção económica da China, a Comissão Europeia pretende propor um \"acordo de dissuasão geoeconómica\" - RFI",
     "translated_summary": "Em resposta à coerção económica da China, a Comissão Europeia pretende propor um \"acordo de dissuasão geoeconómica\" RFI",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:17+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:03+00:00"
   },
   {
     "id": "dbc3581fb792377b3670",
@@ -42660,7 +42857,7 @@
     "translated_title": "Mitsubishi UFJ Anuncia Conclusão de Cartão Cash em Novo Banco, Depósitos e Saques de Smartphones para Defesa Cibernética - Nikkei",
     "translated_summary": "Mitsubishi UFJ anuncia eliminação total de cartões de dinheiro no Shinkansen Bank; depósitos e saques em smartphones para defesa cibernética; Nikkei",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:04:18+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:51+00:00"
   },
   {
     "id": "d19f817f33760a3dbce8",
@@ -43861,7 +44058,7 @@
     "translated_title": "Economic Daily \"China Economic Network\": China Energy and Environment Summit Forum 19 years deep cultivation: from green development to green ecology - University of Foreign Economics and Business News Network",
     "translated_summary": "Economic Daily \"China Economic Network\": China Energy and Environment Summit Forum 19 Years of Deep Cultivation: From Green Development to Green Ecology University of Foreign Economics and Business News Network",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:02:39+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:28+00:00"
   },
   {
     "id": "00803649bca296985cb2",
@@ -44523,6 +44720,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "e6cb07a6a86d113205dd",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25pU3BQTTQ0Qm5XUFo5T0hOTnNEdm5iNjhENllmMnZXcmZfQXNnSUJHMlR0ZDJTV1ZVUkdaU3dYZ1lSQ3ROZUNOZl9GZmxvVXpTRW1HWXBCWVdGd2gweXhPLWVkV29mQWswNGVDSXpkd3FKdkpKZGtmdmZxODFaWGJ6R2ZSaXBmTEVvcjZFT1NCdkUtR2oyYmxEa0Y5d1JIU0lPODNLSkxRU0RvWFJJdy1CTXZSRWZpMHJGNVBrSzRRZTlxdGtROWRXZw?oc=5",
+    "original_title": "Singapore, Australia sign trailblazing Green Economy Agreement with 17 joint initiatives - Singapore Economic Development Board (EDB)",
+    "original_summary": "Singapore, Australia sign trailblazing Green Economy Agreement with 17 joint initiatives Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-03T08:00:00+00:00",
+    "first_seen_at": "2026-11-10T00:04:39+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "e1d42d7220bf45b7d847",
     "country": "Singapura",
     "category": "Política",
@@ -44725,7 +44944,7 @@
     "translated_title": "China Economic Observatory: Double Weakness in Supply and Demand Continues November Steel Market Oscillation Operation - Oriental Wealth",
     "translated_summary": "Observatório Econômico da China: Oferta e Demanda Duplamente Fracas Continuam Operação de Oscilação do Mercado de Aço de Novembro Riqueza Oriental",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:20+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:05+00:00"
   },
   {
     "id": "c3dc4088a0ff4949a97d",
@@ -45100,7 +45319,7 @@
     "translated_title": "A face da economia da China O nono \"estudante em tempo integral\" da Expo: cultivando profundamente a China para o mundo - Xinhua",
     "translated_summary": "O rosto da economia da China O nono \"estudante em tempo integral\" da Expo: cultivo profundo da China para o mundo Xinhua",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:15+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:05:20+00:00"
   },
   {
     "id": "dfef10e86bd48ab8d944",
@@ -45122,7 +45341,7 @@
     "translated_title": "China Economic Sample Observation · \"Cidade\" é incrível, uma mordida de panela de ferro, fritou dezenas de bilhões de yuans \"indústria crocante\" - Xinhua",
     "translated_summary": "China Economic Sample Observation · \"Cidade\" é incrível, uma mordida de panela de ferro, fritou 10 bilhões de yuans de \"indústria crocante\" Xinhua.com",
     "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T00:03:23+00:00"
+    "last_translation_attempt_at": "2026-11-10T00:06:08+00:00"
   },
   {
     "id": "d3d1f144fe3ddd0a7c52",
