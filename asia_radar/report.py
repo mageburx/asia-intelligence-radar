@@ -9,6 +9,8 @@ from .dashboard_upgrade import upgrade_dashboard
 from .geo_upgrade import upgrade_geo_dashboard
 from .braga_local import filter_records
 from .braga_upgrade import upgrade_braga_dashboard
+from .bosch_analysis import analyze_bosch
+from .bosch_group_upgrade import upgrade_bosch_group_dashboard
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
@@ -39,7 +41,8 @@ def make_payload(articles,status,now=None):
         if started and now-started<timedelta(hours=48):
             trend["status"]="Histórico inicial"
     grouped=group_events(articles)
-    return {"articles":grouped,"status":status,"trends":trends,"counts24":counts,
+    analysis=analyze_bosch(grouped,status,now)
+    return {"articles":grouped,"bosch_analysis":analysis,"status":status,"trends":trends,"counts24":counts,
             "event_stats":grouping_stats(grouped),
             "generated_at":now.isoformat(timespec="seconds")}
 def safe_csv(value):
@@ -65,7 +68,7 @@ def main():
     export_archive_csv(articles)
     payload=json.dumps(make_payload(articles,status),ensure_ascii=False,separators=(",",":"))
     payload=payload.replace("<","\\u003c").replace(">","\\u003e").replace("&","\\u0026")
-    template=upgrade_braga_dashboard(upgrade_geo_dashboard(upgrade_dashboard(OUT.read_text(encoding="utf-8"))))
+    template=upgrade_bosch_group_dashboard(upgrade_braga_dashboard(upgrade_geo_dashboard(upgrade_dashboard(OUT.read_text(encoding="utf-8")))))
     marker=r'(<script id="payload" type="application/json">).*?(</script>)'
     if not re.search(marker,template,re.S): raise RuntimeError("Missing dashboard payload marker")
     page=re.sub(marker,lambda m:m.group(1)+payload+m.group(2),template,count=1,flags=re.S)

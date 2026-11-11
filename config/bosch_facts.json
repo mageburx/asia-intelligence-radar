@@ -1,0 +1,69 @@
+{
+  "report_date": "2026-09-23",
+  "report_period": "1.º semestre de 2026",
+  "report_url": "https://www.bosch.pt/imprensa/2026/resultados-semestrais-2026-bosch-reafirma-previsoes/",
+  "annual_url": "https://www.bosch.com/company/annual-report/",
+  "h1": {
+    "sales": 46.4,
+    "sales_yoy": 3.6,
+    "operating_ebit": 2.2,
+    "operating_margin": 4.6,
+    "prior_margin": 5.1,
+    "headcount": 406225,
+    "headcount_dec_2025": 412774,
+    "cashflow_million": -969,
+    "outlook_sales": [
+      2,
+      5
+    ],
+    "outlook_margin": [
+      4,
+      6
+    ]
+  },
+  "year2025": {
+    "sales": 91,
+    "operating_ebit": 1.8,
+    "rd": 7.9
+  },
+  "sectors": [
+    {
+      "name": "Mobilidade",
+      "sales": 27.8,
+      "yoy": -0.5,
+      "note": "Produção automóvel e ritmo de adoção da mobilidade elétrica sob pressão."
+    },
+    {
+      "name": "Tecnologia Industrial",
+      "sales": 3.4,
+      "yoy": 6.8,
+      "note": "Melhoria da entrada de encomendas; inclui Bosch Rexroth."
+    },
+    {
+      "name": "Bens de Consumo",
+      "sales": 9.6,
+      "yoy": -2.9,
+      "note": "Pressão concorrencial, incluindo fabricantes chineses."
+    },
+    {
+      "name": "Energia e Edifícios",
+      "sales": 5.4,
+      "yoy": 45.9,
+      "note": "Crescimento impulsionado sobretudo pela aquisição na área HVAC/Home Comfort."
+    }
+  ],
+  "assessment": [
+    {
+      "title": "Crescimento heterogéneo",
+      "text": "A faturação do grupo subiu 3,6% face ao semestre anterior comparável; cerca de 2 mil milhões de euros de vendas vieram da aquisição em Home Comfort. Mobilidade e Bens de Consumo registaram quebras nominais."
+    },
+    {
+      "title": "Rentabilidade sob pressão",
+      "text": "A margem EBIT operacional caiu de 5,1% para 4,6% no período homólogo. O efetivo baixou 6.549 pessoas desde dezembro de 2025. Não é uma previsão de emprego futuro."
+    },
+    {
+      "title": "Motores de expansão",
+      "text": "Tecnologia Industrial cresceu 6,8%; Energia e Edifícios cresceu 45,9%, com contribuição material das aquisições. As perspetivas para o exercício permanecem metas, não resultados."
+    }
+  ]
+}
