@@ -80,6 +80,72 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "8d48cfb9d298754805cd",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/mundo/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505",
+    "original_title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+    "original_summary": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
+    "published_at": "2026-11-11T18:41:45+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+    "translated_summary": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:11+00:00"
+  },
+  {
+    "id": "60db91f0bca785874e21",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261112de74512",
+    "original_title": "選挙運動員にビール提供報道 武部農相「買収にあたらない」",
+    "original_summary": "武部農林水産大臣は、過去の衆議院選挙で選挙運動員にビールを提供した疑いがあり、公職選挙法違反の可能性があると一部で報じられたことについて、「実費をもらっており買収にあたらない」と述べ、法令違反だとする…",
+    "published_at": "2026-11-11T18:26:40+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Notícias sobre o fornecimento de cerveja a ativistas eleitorais: \"Não constitui suborno\", afirma o Ministro da Agricultura Takebe",
+    "translated_summary": "O Ministro da Agricultura, Silvicultura e Pescas, Takebe, afirmou que \"recebeu o montante correspondente às despesas reais e que, portanto, não se tratou de suborno\", em resposta a notícias de que terá alegadamente oferecido cerveja a membros da sua equipa de campanha nas últimas eleições para a Câmara dos Representantes, o que poderá constituir uma violação da Lei Eleitoral Pública...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:13+00:00"
+  },
+  {
+    "id": "c7a1d5b4379e01624604",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE15N1phWG05LWVhdmtxRlp5eDJ5Q1VCNHZ2SU5TalVfS1hfZVB5STVab2lycEY5TG12R2Z2US13T3RCTE1DRUx4dFFlUDdmaHhTSEhHdGVzQllROTNBMXg1Y25sTU8xeDdZdmdKQl9zd2VXeEFqUlREYU56SjE2c3h0Yl9yemFlVDZNeU5GZmNZdmtwMWJsZENEOTc5VWJ0dDZBeGY5Q3ZST3N0QzNqR3AyRFBYbEc1MTJHUHlzcXpCcVdNZ0E?oc=5",
+    "original_title": "Deutschland ist zweitgrößter Exporteur von Klimatechnik - FAZ",
+    "original_summary": "Deutschland ist zweitgrößter Exporteur von Klimatechnik FAZ",
+    "published_at": "2026-11-11T18:15:01+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Alemanha é o segundo maior exportador de sistemas de climatização - FAZ",
+    "translated_summary": "A Alemanha é o segundo maior exportador de sistemas de climatização FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:44+00:00"
+  },
+  {
     "id": "11071e2d922e203e6e24",
     "country": "Alemanha",
     "category": "Economia",
@@ -289,6 +355,50 @@
     "last_translation_attempt_at": "2026-11-11T17:59:50+00:00"
   },
   {
+    "id": "4c2d8654e7e2ad82dafa",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeTktRUlWUjNaZUdYSV9aZzNsZl9SLUR6dEdSb0tGblVMbVdsRDZtenAtTWtlb2szRmFWM1BReVZtWEhqSlhUWUtlQjN1aGVTa3NtTDhtUDFhVXoyOXlvdFNGczRGaUFQeENWWA?oc=5",
+    "original_title": "不可思議・中世（5）ソフォニスバ・アングイッソラ「自画像」 - 日本経済新聞",
+    "original_summary": "不可思議・中世（5）ソフォニスバ・アングイッソラ「自画像」 日本経済新聞",
+    "published_at": "2026-11-11T17:00:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Mistério da Idade Média (5) Sofonisba Anguissola \"Autorretrato\" - Nikkei",
+    "translated_summary": "O Incompreensível e a Idade Média (5) \"Autorretrato\" de Sofonisba Anguissola Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:37+00:00"
+  },
+  {
+    "id": "565343564f6087c6e136",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YNk5pTWFWRHYxRjhUUVpsQWRKMHpxR0EySHZRYkJJWUY2NnB3WkoxcXdIYUtEU3d4T2R2ODJ5dEtaRXNvNFpFcWtHY2JOcnlGWlZ3akNCRGpmZThFLWtiYXJFdFQ4NjdNbU1jOQ?oc=5",
+    "original_title": "今日から君がCEOだ ポートCEO・春日博文 - 日本経済新聞",
+    "original_summary": "今日から君がCEOだ ポートCEO・春日博文 日本経済新聞",
+    "published_at": "2026-11-11T17:00:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A partir de hoje, é o CEO. Hirofumi Kasuga, CEO da Port – Nikkei",
+    "translated_summary": "A partir de hoje, é o CEO. Hirofumi Kasuga, CEO da Port — Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:40+00:00"
+  },
+  {
     "id": "d6108868fbb3bb3bbd4b",
     "country": "Alemanha",
     "category": "Política",
@@ -309,6 +419,26 @@
     "translated_summary": "\"Absurdo pró-palestiniano\" – O escândalo das bandeiras desencadeia uma disputa acesa no Bundestag WELT",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T17:59:18+00:00"
+  },
+  {
+    "id": "c315350208ef95802be8",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "더스쿠프",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nMXpZM1VkZlNtNm1qSXZsQXFqYkJZUEFWZGhnNnlPbjZvLU9IOG51b0hIZ0taeGQ1SUE0Wlp4azRBS0JldkhtT1I3c2NTWTR5eHJ5UHEyNENYUFNROU81MVJsZW9YUFlXMnplMllB?oc=5",
+    "original_title": "결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프",
+    "original_summary": "결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 더스쿠프",
+    "published_at": "2026-11-11T16:38:17+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Acabou por ser mencionado até o \"Big Step\"... Será um sinal de um aumento acentuado das taxas de juro? - The Scoop",
+    "translated_summary": "No final, até o \"Big Step\" foi mencionado... Será um sinal de um aumento acentuado das taxas de juro? The Scoop",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:50+00:00"
   },
   {
     "id": "8020fbadbc297e70e5cd",
@@ -1573,6 +1703,28 @@
     "last_translation_attempt_at": "2026-11-11T15:35:58+00:00"
   },
   {
+    "id": "48fb8d6f4021bf15120b",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "ET Enterprise AI",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeHVYWl9GalE1Ui1WODRWTWl3YW1rYlVrWTRYVFRBTlpZQ2hGWGlOcTNXcWpiQVpKUGFsbnRHVUYtU3RaSE9JWjR1cmxHX0gzQ2FnUF90Q1JsQzFqY1J3ZFpkaExuSTg0MEJ0WG9aZXpaQl9ReUxQRTh4MkJkeXlLR0dxd1Jtc2tzSTBrcHFvOWtkTXZMT3d3R3lpV2NoS0xfSU5GM2V1ZDJJbnZYUDE3WVM3R2F0RHlGUTdQcldrMGFqZFIyN1dHU3RvMERER24wT0Jnclc1QjMzdS1rQTF6ZVJVYkNBODNUUkhSWk12TW5yTHYtX3N2UUlKaFk4TS1tQkgweGJvamFId9IBjwJBVV95cUxQa3lqc0s5NzNyRTlJWVZnTFl4Yl9hck1kUU02SDhhTmVfR2tRZmVweDN6OVdhY3ppVjhET0Z1ZjA2UDdPNGxfa1piUjlRSTFfMjJJbUlJampQMFF3NFFHMS1aWTlhMS0wb2w5MU9zQl9jZ3V5ejh3ZTJXdjc3enlxUVhWYmxRYkJGYXlmbTdxUndiLTBCZXl5MTNrTzhQcE4yUUxOM3BkVHdjblVLeXVaVWg5TnBQZGZoM2dRMXItTkRSZTFfYVJsV2tEdWRJOWFzMWEwWnVJVXBsN2xxSXhJQ1FaYTFpa3hOX1kxaHhKSGV4c21zTE1TQUcyX0dkUVpYU2VMdVpnVkNqaXBobzcw?oc=5",
+    "original_title": "Reverse AI trade drives foreign inflows back to India but rising US inflation poses challenge: Ajay Bagga - ET Enterprise AI",
+    "original_summary": "Reverse AI trade drives foreign inflows back to India but rising US inflation poses challenge: Ajay Bagga ET Enterprise AI",
+    "published_at": "2026-11-11T13:27:05+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A inversão das negociações com a IA faz com que os fluxos estrangeiros regressem à Índia, mas o aumento da inflação nos EUA representa um desafio: Ajay Bagga - ET Enterprise AI",
+    "translated_summary": "A inversão das negociações relacionadas com a IA faz com que os fluxos de capital estrangeiro regressem à Índia, mas o aumento da inflação nos EUA representa um desafio: Ajay Bagga ET Enterprise AI",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:58+00:00"
+  },
+  {
     "id": "85526b5204b0f8221802",
     "country": "China",
     "category": "Política",
@@ -1615,6 +1767,28 @@
     "translated_summary": "\"Inside CDU\": A série ZDF recebe o prémio media do Bundestag Berliner Morgenpost",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:25:23+00:00"
+  },
+  {
+    "id": "b3099c3720b5fe5992a3",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Deccan Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHI3YUZNVGxCMUpDemJPZENtS2M2VTV6N3o0aXp5dVdqRHRPYmg5OV83ZlI4Q2VnRXRnLUU1dlFPOWVYLVdtODNCVlE4TUo5cjFfTGlLRF9KRk9pS2thVHdrQXFLY0V2MDhkOGFaX012N3p5anU1b3pTQzZOQ1NnNW02bldPbWhPX204dGtIR3dReUJTV2p2UXVLdWlvZEprb1Awd3lDSDZFVXlF0gGyAUFVX3lxTE40bXFUNktmenpwbVFINENRUEk2UUxtaGRFam1RbnFxOWx3SWhwV1Q3NjB4S0FUNE84QUs1eWh6TGk2Szd6dGdHdDNHbFhCS085b21qdFNLc1JFUUxka1BOaUtRSFNYTnFmdU1LYzd1RVhTanJBc0Y5bXRjRWpBbnFLZnRYU1c1N0haSmkzNkVmemdqc0Z2V2RzektHMFoxZFRGVk1MSVMwZWZQNFdhRGxyWUE?oc=5",
+    "original_title": "Moody’s Hikes India’s GDP Growth Forecast to 7% on Robust Demand - Deccan Chronicle",
+    "original_summary": "Moody’s Hikes India’s GDP Growth Forecast to 7% on Robust Demand Deccan Chronicle",
+    "published_at": "2026-11-11T13:24:47+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento do PIB da Índia para 7% devido à forte procura – Deccan Chronicle",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento do PIB da Índia para 7% devido à forte procura Deccan Chronicle",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:08+00:00"
   },
   {
     "id": "104b89f8e971a4e490c1",
@@ -5789,6 +5963,29 @@
     "last_translation_attempt_at": "2026-11-11T16:11:48+00:00"
   },
   {
+    "id": "ae1954cecb401d23ca83",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "India Business Trade",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTFoSXlmOWx1bFdCUWNmdjUzaFJpWGRsaF9hNU9QVlJHYUp2bjVkZ2FsU2FhRkxyOHpMU3VDTFFRdnRtN0RGUmFCZzN2X3dNV2d3ZXlsSVY5Q00xc0lXNWdZN19hcnlBWEt3LU44bHM2bXFXcHNqalhYWlpyalhKM0xNTWNjUm81VXJCaWg5U2t6UQ?oc=5",
+    "original_title": "India bans specified lithium-ion battery scrap exports - India Business Trade",
+    "original_summary": "India bans specified lithium-ion battery scrap exports India Business Trade",
+    "published_at": "2026-11-11T08:22:43+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia proíbe as exportações de sucata de baterias de iões de lítio especificadas - India Business Trade",
+    "translated_summary": "A Índia proíbe as exportações de sucata de baterias de iões de lítio especificadas Índia Comércio Empresas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:27+00:00"
+  },
+  {
     "id": "f62c5f1c6eedf1317a7d",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -6940,11 +7137,11 @@
     "published_at": "2026-11-11T07:14:38+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Festival de compras na China revela persistente fraqueza do consumo interno",
+    "translated_summary": "O Dia dos Solteiros, o maior festival de compras da China, está a revelar dificuldades em estimular o consumo, apesar dos descontos oferecidos pelas plataformas digitais, num contexto de fraca confiança das famílias.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:52+00:00"
   },
   {
     "id": "ef9db710676706672d6b",
@@ -7069,11 +7266,11 @@
     "published_at": "2026-11-11T07:06:11+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "BNU apresenta crescimento homólogo de 13,6% dos lucros nos primeiros nove meses do ano",
+    "translated_summary": "O Banco Nacional Ultramarino (BNU) de Macau registou lucros líquidos de 358,3 milhões de patacas (39,54 milhões de euros) nos primeiros nove meses do ano, um aumento de 13,6% face ao período homólogo anterior.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:53+00:00"
   },
   {
     "id": "85c63758d4103034dcfb",
@@ -7192,11 +7389,11 @@
     "published_at": "2026-11-11T06:54:02+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Lucros da Petrobras sobem 46% nos primeiros nove meses do ano",
+    "translated_summary": "A empresa estatal brasileira Petrobras obteve nos primeiros nove meses do ano um lucro líquido de 24,4 mil milhões de dólares (21,8 mil milhões de euros), mais 46% em termos homólogos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:54+00:00"
   },
   {
     "id": "0fdbaae7a16276a2e483",
@@ -7214,11 +7411,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "EUA defendem relação comercial mais equilibrada com China antes de encontro entre líderes",
+    "translated_summary": "O secretário do Tesouro norte-americano, Scott Bessent, defendeu uma relação comercial \"mais equilibrada\" entre os Estados Unidos e a China, considerando que a economia norte-americana se tornou excessivamente dependente das importações.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:55+00:00"
   },
   {
     "id": "3be9b7dd8a66ce0db045",
@@ -7254,11 +7451,11 @@
     "published_at": "2026-11-11T06:50:29+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Meta multada por tratamento desigual de rivais às presidenciais",
+    "translated_summary": "A justiça do Brasil aplicou uma multa à Meta por não garantir a igualdade de tratamento, nas suas plataformas, entre o Presidente Luiz Inácio Lula da Silva e Flávio Bolsonaro durante a campanha presidencial.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:56+00:00"
   },
   {
     "id": "bb1724c687fab9cdf658",
@@ -7617,6 +7814,48 @@
     "translated_summary": "Grupos independentes: 45,7% das pessoas querem que o governo promova ativamente as relações diplomáticas com os Estados Unidos - Political China News Network",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T11:05:42+00:00"
+  },
+  {
+    "id": "516dbbf2827eb3b3fb84",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中央社 CNA",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Qc09uQkxtek1rNnhQc2lBMDJzZ0RvYzQwaHA2TTFxNmNkNDN5ZFIyQTZUY2tsbVNWaTFOeDlXTDFMUTJBUHhNZVF4YUkwdlVfX2NBR1g2a2RsT1Y1MEpZ?oc=5",
+    "original_title": "獨派團體：45.7%民眾盼政府積極推動和美國建交| 政治 - 中央社 CNA",
+    "original_summary": "獨派團體：45.7%民眾盼政府積極推動和美國建交| 政治 中央社 CNA",
+    "published_at": "2026-11-11T06:37:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Grupos independentistas: 45,7% da população espera que o governo promova ativamente o estabelecimento de relações diplomáticas com os Estados Unidos | Política - Agência Central de Notícias (CNA)",
+    "translated_summary": "Grupos independentistas: 45,7% da população espera que o governo promova ativamente o estabelecimento de relações diplomáticas com os Estados Unidos | Política Agência Central de Notícias (CNA)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:20+00:00"
+  },
+  {
+    "id": "d4faa23eb1f71fc40b87",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fdjRldU9YbmNKNjVWQ1o1TTJKSTJSUTRRUWtuWjdwUFJWVHlDTnByRkZGR2FaeXVWRzhhWVQ4TWhId1Vobk4xdFJSSjZzQWtCMUpUR2tnRGF2NEtTYW1qVkF0dm0teWtrZkMwcGtJeEZ2WVV2dFE?oc=5",
+    "original_title": "Equinix Opens Sixth Singapore Data Center, With $290 Million Initial Investment and Capacity Reaching 20MW - BigGo Finance",
+    "original_summary": "Equinix Opens Sixth Singapore Data Center, With $290 Million Initial Investment and Capacity Reaching 20MW BigGo Finance",
+    "published_at": "2026-11-11T06:35:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Equinix inaugura o sexto centro de dados em Singapura, com um investimento inicial de 290 milhões de dólares e uma capacidade que atinge os 20 MW - BigGo Finance",
+    "translated_summary": "A Equinix inaugura o sexto centro de dados em Singapura, com um investimento inicial de 290 milhões de dólares e uma capacidade que atinge os 20 MW BigGo Finance",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:34+00:00"
   },
   {
     "id": "068ee21f782c6a9693a4",
@@ -12234,11 +12473,11 @@
     "published_at": "2026-11-10T21:00:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "4,1 mil milhões de euros: lucro recorde na Siemens Energy - Allgemeine Zeitung",
+    "translated_summary": "4,1 mil milhões de euros: lucro recorde da Siemens Energy Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:16+00:00"
   },
   {
     "id": "fc7a1b9dc9cce5acb30a",
@@ -12254,11 +12493,11 @@
     "published_at": "2026-11-10T21:00:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Falta 1 semana para o SFF 2026: cinco forças que estão a reconfigurar as finanças globais estarão em destaque em Singapura, de 18 a 20 de novembro - Insurance Asia",
+    "translated_summary": "Falta 1 semana para o SFF 2026: cinco forças que estão a reconfigurar as finanças globais estarão em destaque em Singapura, de 18 a 20 de novembro Insurance Asia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:19+00:00"
   },
   {
     "id": "87d35031f2e803b9f82c",
@@ -12567,6 +12806,28 @@
     "translated_summary": "A visita de Piyush Goyal ao Egito pode impulsionar os laços comerciais e de investimento da Índia: FIEO India Business Trade",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T05:05:16+00:00"
+  },
+  {
+    "id": "2dc785a7d366b012b513",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "India Business Trade",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObk5USzFockhhOFAyczdMOGpaMjB3V05jYXFMVFRMTng3dWdFTlhQT3lXb1hQcnN1TWFzdUxxbmVOdEJvQmhPc21MWjdyLVhnWHR4U1dzRmowN0QybWxldzU3NGF4TGRpSHdFU0k3VE1TdXhFbEwzclN0NEpSbGlrT2pTWkN4TlR2cENsdzRRbE9mZHpYbHpBSWc3Q3dXX0lLVDFTanlrTHpYTU9pTHc?oc=5",
+    "original_title": "Piyush Goyal’s Egypt Visit Could Boost India’s Trade and Investment Ties: FIEO - India Business Trade",
+    "original_summary": "Piyush Goyal’s Egypt Visit Could Boost India’s Trade and Investment Ties: FIEO India Business Trade",
+    "published_at": "2026-11-10T19:39:37+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A visita de Piyush Goyal ao Egito poderá impulsionar as relações comerciais e de investimento da Índia: FIEO - India Business Trade",
+    "translated_summary": "A visita de Piyush Goyal ao Egito poderá impulsionar os laços comerciais e de investimento da Índia: FIEO India Business Trade",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:01+00:00"
   },
   {
     "id": "e0b564699263ce1f6b4a",
@@ -13263,6 +13524,28 @@
     "last_translation_attempt_at": "2026-11-10T16:58:28+00:00"
   },
   {
+    "id": "3217a86edb691013811b",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "The Policy Edge",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUk1QeTNsdHdhTHI4MHk1UF9FNEQ3d0FmemlwM2JfMy0xZkIyS0ZGSlp3cWo3UFgyV1FIME5aemZjRXd1VWJTNjhCTjZFY3l3cjdnX3FjRHBGZEM0ZERMeDFYa1pkZU15Zzg5Q0xkaXBRMk5ja040R0dSdjJuejB6bi13WHdBMTNsalJRTmlIaDQwRzdaREFRWUYzdmJRUUVxRlI5a2ZjdDg3NHZ2SUppMDFUZG5MN0lPaUVtenR6b1d6eXFBUVJmblhZS0djNWlhcU9r?oc=5",
+    "original_title": "India Discusses Food Corridors with Russia and Ukraine, Reiterates Proposals on Black Sea Shipping and Exports - The Policy Edge",
+    "original_summary": "India Discusses Food Corridors with Russia and Ukraine, Reiterates Proposals on Black Sea Shipping and Exports The Policy Edge",
+    "published_at": "2026-11-10T16:26:19+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia discute corredores alimentares com a Rússia e a Ucrânia e reitera as propostas sobre o transporte marítimo e as exportações no Mar Negro - The Policy Edge",
+    "translated_summary": "A Índia discute corredores alimentares com a Rússia e a Ucrânia e reitera as propostas sobre o transporte marítimo e as exportações no Mar Negro The Policy Edge",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:05+00:00"
+  },
+  {
     "id": "a1b801bfaaddd95d82c0",
     "country": "Índia",
     "category": "Economia",
@@ -13893,6 +14176,29 @@
     "last_translation_attempt_at": "2026-11-10T15:55:16+00:00"
   },
   {
+    "id": "550b97720b52eb0d1566",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "India Business Trade",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1kxRXk2cUdiZXhuTGtaSkZzNTB1ekt5c1g3djNKSXNPd3lzRnk0ekFVUFJSZXlhYTNRWEFBU0czUUhBOGo4VUItTlQxbkZQVXFzcWY0dTFVdzJ0Q0NtTjhjb0dzcUlIcFlneVAwUkdva0FoTmFrVW40bVJ6UjJvaW5Oc1FQZkJ4SU5IUGYyV1lHQmN2TEl5bGVTaTVFLWdFY0pxZGg5NW12WE9ZcXUwX2hSNE9hSGt2?oc=5",
+    "original_title": "India Emerges as Key Bioeconomy Growth Market as Governments Step Up Investment: WEF - India Business Trade",
+    "original_summary": "India Emerges as Key Bioeconomy Growth Market as Governments Step Up Investment: WEF India Business Trade",
+    "published_at": "2026-11-10T14:53:45+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia surge como um mercado-chave de crescimento da bioeconomia à medida que os governos aumentam o investimento: FEM – Comércio empresarial da Índia",
+    "translated_summary": "A Índia surge como um mercado-chave de crescimento da bioeconomia à medida que os governos intensificam os investimentos: WEF India Business Trade",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:24+00:00"
+  },
+  {
     "id": "bb9fbce9c3c31f83212e",
     "country": "Alemanha",
     "category": "Política",
@@ -14224,6 +14530,26 @@
     "translated_summary": "Trofa recebe um dos maiores centros de carregamento ultrarrápido de veículos elétricos da Área Metropolitana do Porto Jornal do Ave",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:21:03+00:00"
+  },
+  {
+    "id": "88efbe79e3ecac6a1835",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "India Business Trade",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDBtUWN0SE1zZm1OQ1RBSmlKQkZHYmtBNzAwLU8wMDBBdTNJZmYtQnBJOE1iSDV2czN4UTc5SFpRcU9kTTAtS0MzOFo4aFRFRWJ1OFNDZTVYclNGQ2NBSzZRSGlEcjVOYUR3MTNvR3NBV2dGQWpydjRLdHc2WEZTRXJaVVNLMUE5OXVRZDVSU2d3UQ?oc=5",
+    "original_title": "Moody’s Sees Global Credit Conditions Weakening in 2027 - India Business Trade",
+    "original_summary": "Moody’s Sees Global Credit Conditions Weakening in 2027 India Business Trade",
+    "published_at": "2026-11-10T14:11:33+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Moody's prevê um enfraquecimento das condições de crédito globais em 2027 - India Business Trade",
+    "translated_summary": "A Moody's prevê um enfraquecimento das condições de crédito globais em 2027 Comércio empresarial na Índia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:30+00:00"
   },
   {
     "id": "4a749fb6c3416d07f40a",
@@ -14944,11 +15270,11 @@
     "published_at": "2026-11-10T13:04:46+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Merz ameaça bloquear o orçamento da UE e exige ajuda à Ucrânia de todos os Estados-Membros - WELT",
+    "translated_summary": "Merz ameaça bloquear o orçamento da UE e exige ajuda à Ucrânia de todos os Estados-Membros WELT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:22+00:00"
   },
   {
     "id": "e85e1c715e50f0c4ea82",
@@ -17303,11 +17629,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] \"Os trabalhadores da área metropolitana conseguem respirar?\"… 11 biliões investidos na \"expansão cirúrgica\" - The Korea Economic Daily",
+    "translated_summary": "[Exclusivo] \"Os trabalhadores da área metropolitana conseguem respirar?\"… O Korea Economic investe 11 biliões de KRW na \"expansão precisa\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:25+00:00"
   },
   {
     "id": "e927857318b405650d26",
@@ -17432,11 +17758,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Economia da Felicidade\" 40% dos taiwaneses entram na terceira idade! Uma geração com dinheiro e tempo livre prefere investir em si própria. Surgem oportunidades de negócio no valor de biliões de dólares no setor da felicidade - CommonWealth Magazine",
+    "translated_summary": "\"Economia da Felicidade\" 40% dos taiwaneses estão a entrar na idade madura! Uma geração com dinheiro e tempo livre prefere investir em si própria. Surgem oportunidades de negócio no valor de biliões de dólares no setor da felicidade. CommonWealth Magazine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:29+00:00"
   },
   {
     "id": "a10ce5953fb3e61e8ea2",
@@ -18888,6 +19214,26 @@
     "last_translation_attempt_at": "2026-11-10T08:22:44+00:00"
   },
   {
+    "id": "120f6dbca5de4d107e14",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fYWVjeEhEN0dQMXlINVJ5U1FrcjFIcF9hZzlpbl9xWENaaEpyMlhhUjdVX0tWaUctRkdVSlcwQW9udFFKQ01EQUU4QzV0Nk96NHNDTXljYzNhcGdZcEZsampNbWVxQjlIQml0LV85Q2N5bmg1?oc=5",
+    "original_title": "한국투자증권, 모간스탠리운용 리서치 자료 국내 독점 공급한다 | - 연합인포맥스",
+    "original_summary": "한국투자증권, 모간스탠리운용 리서치 자료 국내 독점 공급한다 | 연합인포맥스",
+    "published_at": "2026-11-10T07:39:38+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Korea Investment & Securities fornece exclusivamente dados de pesquisa da Morgan Stanley Investment Management na Coreia | - Yonhap Infomax",
+    "translated_summary": "A Korea Investment & Securities fornece exclusivamente dados de pesquisa da Morgan Stanley Investment Management no país | Yonhap Infomax",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:46+00:00"
+  },
+  {
     "id": "962a95361cc058e3dc2c",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -18924,11 +19270,11 @@
       "Crescimento e PIB",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Orçamento Federal de 2027: os recordes sombrios deste Governo Federal - WirtschaftsWoche",
+    "translated_summary": "Orçamento Federal de 2027: os recordes sombrios deste governo federal WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:32+00:00"
   },
   {
     "id": "2e03577a1ad60289ec14",
@@ -25452,6 +25798,28 @@
     "last_translation_attempt_at": "2026-11-10T00:05:15+00:00"
   },
   {
+    "id": "9b0f8508ca91ba516d23",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "ビジネス+IT",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKejNpVmY5d2hjcnFtbFlZWmRYdmZGSDBUejZRVHJ1anBqc3VoUzVpTmxYdURyYU5obkZNZkI5MDMxM1hOMzhnLU9BckhIZ0U?oc=5",
+    "original_title": "日本人はまだ知らない…BYD・ファーウェイ現地取材で実感「クルマ競争の衝撃変化」 - ビジネス+IT",
+    "original_summary": "日本人はまだ知らない…BYD・ファーウェイ現地取材で実感「クルマ競争の衝撃変化」 ビジネス+IT",
+    "published_at": "2026-11-09T21:20:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os japoneses ainda não sabem... A reportagem local sobre a BYD e a Huawei revela \"a mudança radical na concorrência automóvel\" - Business+IT",
+    "translated_summary": "Os japoneses ainda não sabem... A reportagem local sobre a BYD e a Huawei revela \"a mudança radical na concorrência automóvel\" Business+IT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:17+00:00"
+  },
+  {
     "id": "456c6906662b085b8ea8",
     "country": "Portugal",
     "category": "Economia",
@@ -26864,11 +27232,11 @@
     "published_at": "2026-11-09T16:56:46+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Aguiar-Branco pede aos partidos para resistirem à \"tentação\" da rua",
+    "translated_summary": "O presidente da Assembleia da República, José Pedro Aguiar-Branco, considerou hoje, em Maputo, que as assembleias populares nunca resolveram problemas e apelou aos partidos para resistirem à \"tentação\" de resolver na rua o que compete ao Parlamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:35+00:00"
   },
   {
     "id": "5611113f1317d4a1422e",
@@ -30408,11 +30776,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Proprietários de Cavira, Bria e n7 participam juntos do primeiro \"Festival da Vida Elétrica\" da Foxtron. 200 veículos elétricos reúnem-se do norte ao sul — DDCAR Veículos Elétricos",
+    "translated_summary": "Os proprietários dos modelos Cavira, Bria e n7 divertem-se juntos. No primeiro \"Festival da Vida Elétrica\" da Foxtron, 200 veículos elétricos de todo o país se reuniram. Veículos elétricos DDCAR.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:36+00:00"
   },
   {
     "id": "6152d8eec1b4cb4ec826",
@@ -33653,6 +34021,29 @@
     "translated_summary": "O primeiro-ministro Takashi propôs o uso de cães especialmente treinados como uma contramedida contra danos causados por ursos em um concurso de políticas por estudantes do ensino médio em todo o país, reuniu-se com estudantes do ensino médio da prefeitura de Hiroshima que ganharam o prêmio principal, disse que era uma \"proposta ambiciosa\" e elogiou a iniciativa...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T07:32:40+00:00"
+  },
+  {
+    "id": "9170ddd2e6c65c3799fd",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Link To Leaders",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1hYQ3VHbzZGMmUtQ0ctQ2ZzQy05ZE50SjdNVGxPRzJjeFp6ZGFOTHZnTFp5azBSYWNYSnJHaV9kMW1raUE4dTgwRWdhNzI4WmVDMWtWQlNFczJIQTIyMXR2VzRhTmo4SG1xVmFRYWZMYk5jc0VlcjFQUUM1anFhalVaTFJ3ZEwwVURlNDVoVmctdnpYZUY3ZHdqSDFHQkFWRUpHUkxNaVJZV3owdk1LUHFQZjljeHlxZlVuWk54M2VKNlE?oc=5",
+    "original_title": "\"Portugal continua a reunir condições muito favoráveis ao investimento imobiliário\" - Link To Leaders",
+    "original_summary": "\"Portugal continua a reunir condições muito favoráveis ao investimento imobiliário\" Link To Leaders",
+    "published_at": "2026-11-09T06:29:14+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Investimento e empresas",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Portugal continua a reunir condições muito favoráveis ao investimento imobiliário\" - Link To Leaders",
+    "translated_summary": "\"Portugal continua a reunir condições muito favoráveis ao investimento imobiliário\" Link To Leaders",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:13+00:00"
   },
   {
     "id": "fb5e71cbca1b245d4ccb",
@@ -39750,6 +40141,29 @@
     "last_translation_attempt_at": "2026-11-08T15:43:10+00:00"
   },
   {
+    "id": "c66ec574bdb0dde1d34a",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "국민일보",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43dGhsZ1JrSHBhMHVlY3NsYUR2azFKRnlJbmJIa3hGWThRZjl1Z0FYSzhZMmp3MURQNEJkSElydmRCQjBhZzFRUlBpYTBYT3BsN0RtS2JOeVk?oc=5",
+    "original_title": "‘블루 쓰나미’ 후폭풍⋯‘반도체 의존’ 한국 경제가 흔들린다 - 국민일보",
+    "original_summary": "‘블루 쓰나미’ 후폭풍⋯‘반도체 의존’ 한국 경제가 흔들린다 국민일보",
+    "published_at": "2026-11-08T14:06:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Semicondutores",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As consequências do \"tsunami azul\"... A economia sul-coreana, \"dependente dos semicondutores\", está a ser abalada - Kukmin Ilbo",
+    "translated_summary": "As consequências do \"tsunami azul\"... A economia sul-coreana, \"dependente dos semicondutores\", está a ser abalada — Kukmin Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:01:54+00:00"
+  },
+  {
     "id": "00ea2b985230ad0794fb",
     "country": "Taiwan",
     "category": "Automóvel",
@@ -41682,6 +42096,26 @@
     "translated_summary": "Todos os caminhos levam ao Forum Braga Correio do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:32:39+00:00"
+  },
+  {
+    "id": "fbf0f8611e670d53e106",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2RncW41MjVKWkVyYnNCMGFSNkIwVEFHZU02Sy0teUhTdDI5YVBjNGlLUlJMN21zQ1VpQTZlVWZXLWg0OFhwTDl6S0NsaHdoUVVZdXlDZnVHaGhfMktIcl9UanR1SEROVlAzTVlmMlE5RW91UmpIdDVwNVQ0Z1g0akhLWmQ5MkRveUpsUnJwVlQ3aHEtSDd6N3dNX09ySHk3d180emNwbjFjdXox?oc=5",
+    "original_title": "Tribunal de Braga tem cão para acalmar crianças nas audiências - Correio do Minho",
+    "original_summary": "Tribunal de Braga tem cão para acalmar crianças nas audiências Correio do Minho",
+    "published_at": "2026-11-08T06:01:35+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tribunal de Braga tem cão para acalmar crianças nas audiências - Correio do Minho",
+    "translated_summary": "Tribunal de Braga tem cão para acalmar crianças nas audiências Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:15+00:00"
   },
   {
     "id": "d96825dbc32d70914e88",
@@ -44265,11 +44699,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Governo anuncia política automóvel com foco em veículos mais baratos e veículos elétricos - Dawn",
+    "translated_summary": "Governo anuncia política automóvel com foco em veículos mais baratos, EVs Dawn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:39+00:00"
   },
   {
     "id": "65d32e0ea443ef5dd879",
@@ -47792,11 +48226,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos - XXV Governo Constitucional",
+    "translated_summary": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos XXV Governo Constitucional",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:43+00:00"
   },
   {
     "id": "6b2783c34e45306d090c",
@@ -50956,11 +51390,11 @@
     "published_at": "2026-11-06T11:15:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal procura afirmar-se na corrida à IA - Jornal Económico",
+    "translated_summary": "Portugal procura afirmar-se na corrida à IA Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:44+00:00"
   },
   {
     "id": "d008ea493288196017af",
@@ -57943,6 +58377,26 @@
     "last_translation_attempt_at": "2026-11-07T01:46:15+00:00"
   },
   {
+    "id": "bb65970d78eda5bb8358",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Dinheiro Vivo",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3UyOU9nQ2VDTWVhSXp4QzdqQ2QyRU5CS3MtbmNsVmc0ZmQzX3JmMkQxSmhyN3VmYi1rRFJCTFpwYnhZTWpsZk1HODh2SjFZZkhrSkp0cFRkRGhoOU1qNEI4LWdOTDk2dnhmLTJ3OUtnVlI3dHI4QWVFMGdlZFVaY2c1RlI0VU1mUGVjVE4zM2pSRFV6RzFhd29GbThJc2Y0WnpveDdlWGpuR3kzbnBBMVhWMA?oc=5",
+    "original_title": "Despedimentos coletivos nunca foram tão eficazes: taxa de concretização atinge 96% - Dinheiro Vivo",
+    "original_summary": "Despedimentos coletivos nunca foram tão eficazes: taxa de concretização atinge 96% Dinheiro Vivo",
+    "published_at": "2026-11-05T22:00:59+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Despedimentos coletivos nunca foram tão eficazes: taxa de concretização atinge 96% - Dinheiro Vivo",
+    "translated_summary": "Despedimentos coletivos nunca foram tão eficazes: taxa de concretização atinge 96% Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:14+00:00"
+  },
+  {
     "id": "0c8c420beb7198d216a0",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -59544,11 +59998,11 @@
     "published_at": "2026-11-05T14:55:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura colabora com os países da Commonwealth para reduzir os custos comerciais e diminuir o custo de vida: vice-primeiro-ministro Gan - CNA",
+    "translated_summary": "Singapura a trabalhar com os países da Commonwealth para reduzir os custos comerciais e diminuir o custo de vida: vice-primeiro-ministro Gan CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:45+00:00"
   },
   {
     "id": "e1702b2730c7989ab69e",
@@ -61002,6 +61456,28 @@
     "translated_summary": "O novo modelo visa mercados estrangeiros, com a Zotye focada na Índia e na Indonésia. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T02:06:08+00:00"
+  },
+  {
+    "id": "2f27bc627b38d25b8a9b",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Agência ECCLESIA",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZHJKak5WLVMzR2M2SVNpejRPdVJpb2NBRkd6WUJoaXNxVU9mS1BvMHA2WmkzVV95TkJBZWpxa0lqWnd5c20yWXVPc05IRG5JNDFMTzhjRFVYX3dFSjVMRjNuWGx3UmlGVXA2bl9qLVhBZ1hURkRZSldQZjh1YmdrT0tGOE9XT2VUU0VkcjRKakZmZUpINklReG83Mmx4aHNFcjg1UDhtM1hSRGdoNE01WHpYSjFuQmhtTldvNFFXeHJBaFR4VnpKODltcWlSUzdIYVVSd0lJTU9GNkZ4NGRuVnExczFIR09CWEI0czk4V0sySWE5SzZfTU9OZUk1TjFPUzY2WUpLTjY5bGhw?oc=5",
+    "original_title": "Igreja/Portugal: Reitor do Seminário dos Olivais apela ao investimento nas vocações sacerdotais e propõe pensar tema em conjunto a nível nacional - Agência ECCLESIA",
+    "original_summary": "Igreja/Portugal: Reitor do Seminário dos Olivais apela ao investimento nas vocações sacerdotais e propõe pensar tema em conjunto a nível nacional Agência ECCLESIA",
+    "published_at": "2026-11-05T11:11:00+00:00",
+    "first_seen_at": "2026-11-11T19:00:42+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Igreja/Portugal: Reitor do Seminário dos Olivais apela ao investimento nas vocações sacerdotais e propõe pensar tema em conjunto a nível nacional - Agência ECCLESIA",
+    "translated_summary": "Igreja/Portugal: Reitor do Seminário dos Olivais apela ao investimento nas vocações sacerdotais e propõe pensar tema em conjunto a nível nacional Agência ECCLESIA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:12+00:00"
   },
   {
     "id": "e58fc5094d55d9c2db15",
@@ -62504,11 +62980,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como a Prudential, a Coca-Cola Singapore e a Grab estão a utilizar a IA em Singapura – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Como a Prudential, a Coca-Cola Singapura e a Grab estão a utilizar a IA em Singapura Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T19:02:48+00:00"
   },
   {
     "id": "b6167e5782560afd6f9c",
