@@ -80,6 +80,154 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "b0ec2ba9fc1d826aafb3",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Spiegel",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSmM3eHlROUVLZW1COU41MDcxbE9nNm1KdHp2UnRLUTFlUmQ0cDFaYmVwVFM3WWd4VmFnTjVNMG50VjNad18tRmN0eFkyTklwbVFWRVFGSDk1RERlemJPODFJZE9VR2FLOFBKMG9EcGFBS2FreXhwZlRneEJLSFliU3FSVjJYWEFYMEx6SUZwdm5KbGJ3U0VmdTVxdXQ1S0x0NDcxMVozQkNaT3pNRjgyLXNzLW82WFYtLUIxMU1NNjE4QmlJc2ZtbWxFOEJtdXpQd19IRTNhYUY1WWIxRnowdlpiOWt0OWswMXhoSw?oc=5",
+    "original_title": "Haushalt 2027: Bundesregierung will Stromsteuer für Privathaushalte vorerst nicht senken - Spiegel",
+    "original_summary": "Haushalt 2027: Bundesregierung will Stromsteuer für Privathaushalte vorerst nicht senken Spiegel",
+    "published_at": "2026-11-11T19:56:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Orçamento de 2027: o Governo Federal não pretende, por enquanto, reduzir o imposto sobre a eletricidade para os agregados familiares privados - Spiegel",
+    "translated_summary": "Orçamento de 2027: o Governo Federal não pretende, por enquanto, reduzir o imposto sobre a eletricidade para os agregados familiares Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:15+00:00"
+  },
+  {
+    "id": "6edd6119dda07aeafe2c",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/depressao-charles-mais-vale-prevenir-do-que-remediar-afirma-luis-montenegro_e1778319",
+    "original_title": "Depressão Charles. \"Mais vale prevenir do que remediar\", afirma Luís Montenegro",
+    "original_summary": "O primeiro-ministro afirmou que a depressão Charles \"não teve o impacto que as previsões anteciparam\" e que ninguém pretende fazer \"parar o país\". Luís Montenegro afirmou, no entanto, que \"mais vale prevenir do que remediar\". Atualizamos aqui, ao minuto, todas as informações sobre a intempérie. Atualizamos aqui, ao minuto, todas as informações sobre a intempérie.",
+    "published_at": "2026-11-11T19:36:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Depressão Charles. \"Mais vale prevenir do que remediar\", afirma Luís Montenegro",
+    "translated_summary": "O primeiro-ministro afirmou que a depressão Charles \"não teve o impacto que as previsões anteciparam\" e que ninguém pretende fazer \"parar o país\". Luís Montenegro afirmou, no entanto, que \"mais vale prevenir do que remediar\". Atualizamos aqui, ao minuto, todas as informações sobre a intempérie. Atualizamos aqui, ao minuto, todas as informações sobre a intempérie.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:52+00:00"
+  },
+  {
+    "id": "628456730e717b84f823",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DR05hWVJBNHFrU19YaWh4V01yLXRpbU5sa3h5WEFJQmhqcVl2RHFsaEtzS3FCSzJjdXh2Q1AyMHpubUN4UkkyZmVnQmtrcGQ3MlBIQ2gxYkhlTW53elZpeXJHaDZYaXUxa21BbmppUGRCM0Nx?oc=5",
+    "original_title": "中 전기차에 유럽은 빗장, 한국은 무방비… K자동차 ‘내우외환’ - 서울신문",
+    "original_summary": "中 전기차에 유럽은 빗장, 한국은 무방비… K자동차 ‘내우외환’ 서울신문",
+    "published_at": "2026-11-11T19:33:29+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul fica vulnerável... A indústria automóvel coreana enfrenta \"problemas internos e externos\" - The Seoul Shinmun",
+    "translated_summary": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul está vulnerável… A indústria automóvel coreana enfrenta \"problemas internos e ameaças externas\" – The Seoul Shinmun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:20+00:00"
+  },
+  {
+    "id": "7f66ec11a52096cd7eee",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74484",
+    "original_title": "フィリピン外相 南シナ海の紛争防止ルールで論点の8割議論",
+    "original_summary": "ASEAN＝東南アジア諸国連合の首脳会議が今月開かれるのを前に議長国フィリピンの外相がNHKのインタビューに応じ、南シナ海での紛争を防ぐために中国などと協議している「行動規範」について、論点全体の8割…",
+    "published_at": "2026-11-11T19:29:36+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ministro dos Negócios Estrangeiros das Filipinas discute 80% dos pontos de discórdia sobre as regras de prevenção de conflitos no Mar da China Meridional",
+    "translated_summary": "Antes da cimeira da ASEAN (Associação das Nações do Sudeste Asiático), que terá lugar este mês, o Ministro dos Negócios Estrangeiros das Filipinas, país que preside à associação, concedeu uma entrevista à NHK e afirmou que 80% de todos os pontos de discussão sobre o \"código de conduta\", que está a ser debatido com a China e outros países para evitar conflitos no Mar da China Meridional,...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:04+00:00"
+  },
+  {
+    "id": "9115d1c0dd88c3fc88f1",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0c5MHBhRjhqUkFuVnJfTHREYjZjXy1wVkRpRWwybkJHUkJ5ZGJvT2w4UXVTeW9UM3NuOWRrYzJvdkdkNmVhM3dLTUdicWItNUlUR3NXak9VcDZsa3BULV8zYk91eDFXLTZ0ZHhrOG5RVDFSSU05YWFzNG5tdDlSOUJldEpJT2E1Nk56emZpTnl4RXFVOTNDbzdXUHJkY2M?oc=5",
+    "original_title": "Wie KI die deutsche Wirtschaft stärkt - ZDFheute",
+    "original_summary": "Wie KI die deutsche Wirtschaft stärkt ZDFheute",
+    "published_at": "2026-11-11T19:07:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Como a IA fortalece a economia alemã - ZDFheute",
+    "translated_summary": "Como a IA fortalece a economia alemã ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:38+00:00"
+  },
+  {
+    "id": "e2bea5752705a102a369",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Deutschlandfunk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnlEc1NsdkkzRUVDQVR4NkNhcnJCTzNmbTVRSmk0VGs1cF80R09FX2hqZWhicW5ZNTVhM2FERUtlUndCd2pjOXFnVGFDaUloMHpHazc0MkVWYUVsdGp5cG5QYXhCTFVRNkpmNnAtZXNuOVdCVF9BeW5xVGswN2JFb2w4dmkzV2tUUVFFbGpYNGlKT29ueXUxUXUzN2lZMkpMMF9ydTVYeHJWUzl1RkgybE9SRnF6dldxSDV3?oc=5",
+    "original_title": "Konjunkturprognose - Wirtschaftsweise erwarten deutlich höheres Wachstum - weitere Reformen angemahnt - Deutschlandfunk",
+    "original_summary": "Konjunkturprognose - Wirtschaftsweise erwarten deutlich höheres Wachstum - weitere Reformen angemahnt Deutschlandfunk",
+    "published_at": "2026-11-11T18:44:52+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Previsão económica - Os especialistas em economia esperam um crescimento significativamente mais elevado - Apelo a mais reformas - Deutschlandfunk",
+    "translated_summary": "Previsão económica – Os especialistas em economia esperam um crescimento significativamente mais elevado – Mais reformas exigidas pela Deutschlandfunk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:44+00:00"
+  },
+  {
+    "id": "f9d79947f0e1c37ea81b",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/bom-jesus-do-monte-recebe-imagem-peregrina-do-divino-pai-eterno/",
+    "original_title": "Bom Jesus do Monte recebe imagem peregrina do Divino Pai Eterno",
+    "original_summary": "A Basílica do Bom Jesus do Monte, em Braga, vai acolher, no próximo dia 18 de novembro, às 16h00, a celebração de entronização da Imagem Peregrina do Divino Pai Eterno, proveniente do Santuário Basílica do Divino Pai Eterno, em Trindade, no estado brasileiro de Goiás. O momento religioso pretende assinalar um importante sinal de fé, […]",
+    "published_at": "2026-11-11T18:43:39+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bom Jesus do Monte recebe imagem peregrina do Divino Pai Eterno",
+    "translated_summary": "A Basílica do Bom Jesus do Monte, em Braga, vai acolher, no próximo dia 18 de novembro, às 16h00, a celebração de entronização da Imagem Peregrina do Divino Pai Eterno, proveniente do Santuário Basílica do Divino Pai Eterno, em Trindade, no estado brasileiro de Goiás. O momento religioso pretende assinalar um importante sinal de fé, […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:56+00:00"
+  },
+  {
     "id": "8d48cfb9d298754805cd",
     "country": "Portugal",
     "category": "Economia",
@@ -124,6 +272,26 @@
     "last_translation_attempt_at": "2026-11-11T19:01:13+00:00"
   },
   {
+    "id": "cc731b14d66dddeef7ac",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "Jornal O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkx2MUV5TVY2b3NvWlJYZzU5aXRhZll5b2NTTjNFU0k2Z21RaW1Fd0hhLWVjaXd1OWdzdmRHbHh6QnFiOHEtVDZKOFNiM2hVRzlYdk91cWltaTVFMmo1dVQxSXpSZ3JBUDRMYjYtZUxLOHpFWEpNazdVdllLRlRqUFJTbGhISkxhTUk3WlZDSW1vSWRtVHJQZnRyd0FTckhYT05GVXRhbTd3dlU?oc=5",
+    "original_title": "Hospital de Braga opera com êxito mulher com cancro da mama através de técnica inovadora - Jornal O MINHO",
+    "original_summary": "Hospital de Braga opera com êxito mulher com cancro da mama através de técnica inovadora Jornal O MINHO",
+    "published_at": "2026-11-11T18:16:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Hospital de Braga opera com êxito mulher com cancro da mama através de técnica inovadora - Jornal O MINHO",
+    "translated_summary": "Hospital de Braga opera com êxito mulher com cancro da mama através de técnica inovadora Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:55+00:00"
+  },
+  {
     "id": "c7a1d5b4379e01624604",
     "country": "Alemanha",
     "category": "Economia",
@@ -144,6 +312,26 @@
     "translated_summary": "A Alemanha é o segundo maior exportador de sistemas de climatização FAZ",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T19:01:44+00:00"
+  },
+  {
+    "id": "56a39d0aa04be1cf9e3b",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/braga-nao-regista-incidentes-graves-durante-passagem-da-tempestade-charles/",
+    "original_title": "Braga não regista incidentes graves durante passagem da tempestade Charles",
+    "original_summary": "O concelho de Braga manteve uma situação de normalidade durante a passagem da tempestade Charles, sem registo de feridos, desalojados ou cortes na rede viária, segundo o balanço do Centro de Coordenação Operacional Municipal (CCOM). O presidente da Câmara Municipal, João Rodrigues, considerou que as medidas preventivas adotadas foram adequadas, apesar de as previsões mais […]",
+    "published_at": "2026-11-11T18:12:55+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga não regista incidentes graves durante passagem da tempestade Charles",
+    "translated_summary": "O concelho de Braga manteve uma situação de normalidade durante a passagem da tempestade Charles, sem registo de feridos, desalojados ou cortes na rede viária, segundo o balanço do Centro de Coordenação Operacional Municipal (CCOM). O presidente da Câmara Municipal, João Rodrigues, considerou que as medidas preventivas adotadas foram adequadas, apesar de as previsões mais […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:57+00:00"
   },
   {
     "id": "11071e2d922e203e6e24",
@@ -313,6 +501,53 @@
     "translated_summary": "A organização da Web Summit está totalmente concentrada na realização do último dia do evento, o mais intenso de sempre, disse hoje à Lusa fonte oficial, adiantando que o presidente executivo dará uma conferência de imprensa na quinta-feira.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T18:00:16+00:00"
+  },
+  {
+    "id": "4ad43ca11511c2ca1c4c",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblpkLU85NG5VeFhWckExczd5b01HWDN4OW5vdXhKaG4xbW9hYXBySXVYUzdzcUhDUjdtTVJzWjh5OGM1MkJYdlRMWmlyNW9YckdvV3RtbjRaNjgyNVltY284OS1wejNKamZqT2d2XzdwRW1UNm1TUjg0WnRhQWZtdjBPTmF2U1d4Wk12UmJvOEJ5MXVfb3RfVGVnaFJUbnFaVmZfT09ta1o1TXh4MnVKN3dvN29oUXhCVTBkekNiclBMQQ?oc=5",
+    "original_title": "Bundesregierung: Kritik an Schweitzers Reformplänen für Arbeitsmarkt - WirtschaftsWoche",
+    "original_summary": "Bundesregierung: Kritik an Schweitzers Reformplänen für Arbeitsmarkt WirtschaftsWoche",
+    "published_at": "2026-11-11T17:14:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Emprego e trabalho",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governo federal: críticas aos planos de reforma de Schweitzer para o mercado de trabalho - WirtschaftsWoche",
+    "translated_summary": "Governo federal: críticas aos planos de reforma de Schweitzer para o mercado de trabalho WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:18+00:00"
+  },
+  {
+    "id": "7717140190692b57e2f9",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Público",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3dldzNJRWxoU2kyVWUyM0YyVWlxMVE4eUZ1UDROeVFzY3BORnU4R3NzNVU3N19OZjUwZUFQdmtaQnVMb1ZPWHFIRkRTTWEyWl9WSFpLeE1YMmVqU2JzVUFuaXJyWUhERFA4VmxoRE5hbVBqWjJrYldIei1VOFIzZFNaaVh5bFB3MEIxWUlNSUdiYk50UXBaaDZyLUZfeTZhN0oweTlpak9za2xkNmU4cDlUUlZvMWFrbk1KcFJB?oc=5",
+    "original_title": "Transportes, alimentos e alojamento explicam mais de dois terços da inflação - Público",
+    "original_summary": "Transportes, alimentos e alojamento explicam mais de dois terços da inflação Público",
+    "published_at": "2026-11-11T17:07:17+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Inflação e preços",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Transportes, alimentos e alojamento explicam mais de dois terços da inflação - Público",
+    "translated_summary": "Transportes, alimentos e alojamento explicam mais de dois terços da inflação Público",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:53+00:00"
   },
   {
     "id": "4758eda22510bbdf6d16",
@@ -523,6 +758,48 @@
     "last_translation_attempt_at": "2026-11-11T18:00:22+00:00"
   },
   {
+    "id": "b9a1874409725086f755",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Z3NmZUtnYlNhak51SGd4VHlUaVJPMy1LUDk2RHJYLWx4Y25YUk1kSmRjV2NjMjY3M1k4RGNYX01oaWtEaTBjOGlaTThQV0RnSnBYOGZpUUtNSGVkNGhzZm5Md1JmM0luc1FsZWxJdGRuaE5keU4yUg?oc=5",
+    "original_title": "Os olhos invisíveis de Braga - Correio do Minho",
+    "original_summary": "Os olhos invisíveis de Braga Correio do Minho",
+    "published_at": "2026-11-11T16:31:29+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os olhos invisíveis de Braga - Correio do Minho",
+    "translated_summary": "Os olhos invisíveis de Braga Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:54+00:00"
+  },
+  {
+    "id": "53c260d77a46bf1174b7",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "tagesschau.de",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS21CaTI5NGpLN3FiOVJXM0ZZQmgwTEVwQ21CdGhVSmVpeHRzRGFwR2Y5NW43Si1zV2RON3pTNG9YXzdNNlowa00wdFF5NWI5d3lwX3lCMzNib0hZSGtR?oc=5",
+    "original_title": "Die deutsche Wirtschaft entwickelt sich besser als erwartet - tagesschau.de",
+    "original_summary": "Die deutsche Wirtschaft entwickelt sich besser als erwartet tagesschau.de",
+    "published_at": "2026-11-11T16:28:01+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A economia alemã está a evoluir melhor do que o esperado - tagesschau.de",
+    "translated_summary": "A economia alemã está a evoluir melhor do que o esperado tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:35+00:00"
+  },
+  {
     "id": "89826bc752dc6184e82c",
     "country": "Singapura",
     "category": "Automóvel",
@@ -625,6 +902,26 @@
     "translated_summary": "O Governo central prolonga o Programa Stand-Up India até 31 de março de 2031 ET Governo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T16:10:53+00:00"
+  },
+  {
+    "id": "8db6368529044463ecc6",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGRGWFYwcmthSmlJdXNUcVdvT1Y1akxXUkNLTG4wUE0tczBsbU1iWGc0Y2NsMTd4SWFINWRZeVd6bDBWRjQ5WG5GWVpqWlNsV2p6Q3Yyek04ekh2eWJsVzh6anNVX2FDN3Bqd3pXNEpkT0c1ZzFjcU5ZeWJ1cWJMWDFhaFlOcHY5T19weg?oc=5",
+    "original_title": "Experten-Appell: \"Erhebliche Wachstumspotenziale ungenutzt\" - ZDFheute",
+    "original_summary": "Experten-Appell: \"Erhebliche Wachstumspotenziale ungenutzt\" ZDFheute",
+    "published_at": "2026-11-11T16:05:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Apelo de especialistas: \"Potencial de crescimento significativo por explorar\" – ZDFheute",
+    "translated_summary": "Apelo de especialistas: \"Potencial de crescimento significativo por explorar\" ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:40+00:00"
   },
   {
     "id": "ed62e3449e6b55c5f34d",
@@ -887,6 +1184,28 @@
     "translated_summary": "Acho que só agora, décadas após a minha graduação, é que finalmente percebi que as experiências e as relações interpessoais que tive durante a minha vida estudantil, embora não me tenha apercebido da sua importância na altura, são realmente insubstituíveis. De qualquer forma, durante a minha vida estudantil, era chamada de \"personagem rara\" até mesmo nas aulas e nos seminários (risos), e passava o tempo a fazer tudo menos estudar, mas mesmo assim os professores não me repreendiam muito. Talvez tivessem decidido deixar-me seguir o meu caminho, pois sabiam que essas experiências e contactos não se criam apenas ao estar sentado à secretária.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T15:35:05+00:00"
+  },
+  {
+    "id": "d743aafb2a4429bc48bc",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DbXJvRTdBbzBaSEVDLVB3Z213eTMzNUI0UnhmQUpKQl95ZjVJWWQ0b1lZVEFXUExjd3dRUWZudnkwWm01VEQzNEN6THJnb3dQbHB6WnlrMHd1azFPbFRWTUUtcGVuUzJQb2QyLQ?oc=5",
+    "original_title": "春秋（11月12日）気候変動と芥川 - 日本経済新聞",
+    "original_summary": "春秋（11月12日）気候変動と芥川 日本経済新聞",
+    "published_at": "2026-11-11T15:00:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shunjū (12 de novembro) As alterações climáticas e Akutagawa — Nikkei",
+    "translated_summary": "Primavera e outono (12 de novembro) Alterações climáticas e Ryunosuke Akutagawa Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:27+00:00"
   },
   {
     "id": "d3ba164c5f71cd544ff0",
@@ -1460,6 +1779,28 @@
     "last_translation_attempt_at": "2026-11-11T14:25:59+00:00"
   },
   {
+    "id": "63ac87cdfbda76613d7c",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Sachverständigenrat Wirtschaft",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVYQVBNSERvcjRkYWt4bEJYYnZsdXY0T2hqeFRRR1FrNmJmem95MmtrcWFraXN4SklKYjRGR0JlMm1oeXdDa21kbGZzSEdaOEE2VGtPNWs5OW9IWE9HYUxySFJEQVBHbmN2Z1ZoUWhwRVJjTUdzN2ZKV3RrYnpBSF9xSlNIcWd1YUVwWC1NTjRaT3BKbll5a2JMWmNxaElO?oc=5",
+    "original_title": "Jahresgutachten 2026/27 - Sachverständigenrat Wirtschaft",
+    "original_summary": "Jahresgutachten 2026/27 Sachverständigenrat Wirtschaft",
+    "published_at": "2026-11-11T13:33:25+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Relatório Anual 2026/27 - Conselho de Peritos Económicos",
+    "translated_summary": "Relatório Anual 2026/27 do Conselho de Peritos Económicos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:32+00:00"
+  },
+  {
     "id": "8b8a9af30335d58a7b47",
     "country": "Índia",
     "category": "Automóvel",
@@ -1481,6 +1822,52 @@
     "translated_summary": "O governo proibiu a exportação de massa preta de bateria de íons de lítio para garantir maior disponibilidade do material para reciclagem doméstica e recuperação mineral crítica.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:26:05+00:00"
+  },
+  {
+    "id": "8f5f45c8f228dc8a2401",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5JWTN4eWdKTWR5M0J6UVlmU016TmNfUU5aMnMzaGlIWEZlUDRuajNyVDJRVXJHVTRpU1FCenFmaUFXSFJxekxyMXVIQ1BxMXoxNk9Fd1pnUFJNcFd0aFdRU1JMVlN1d2MzQWZES0VNRnRqRWliSmU2aXZkTFc3Sko5OEstRTV1OGtOcC11cVQ0MGNMRE0yZk9UWkRwNGxvZkhUVWd0Z2J1Q1dRSkZjcDJDMWJtd9IBuwFBVV95cUxPWFFlNWs1MkVwVGN0VVhIRVRocVFxVlJuNnV4MmUzdEgzUnhyVXpJSjdRYXZHU2tidC1zak1DUHI4emJQOVdGalNtYkxJZWtCWjN3WFNlWHUxS054RGpIS21MdG5KTjdkZzAxTWdUMEZ6b196Rl8zVGppM1BZc2E3Rm5BRDc0UUZDMjdwRXRJVzI0MHp0QW83NXZjMXF2LUZVSXE2d1RNRjdoWWJ3NnNUbFBBeHJvcGhQbXln?oc=5",
+    "original_title": "India bans lithium-ion battery black mass exports - ET Auto",
+    "original_summary": "India bans lithium-ion battery black mass exports ET Auto",
+    "published_at": "2026-11-11T13:32:56+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Índia proíbe exportações de massa negra de baterias de iões de lítio - ET Auto",
+    "translated_summary": "Índia proíbe exportações de massa negra de baterias de iões de lítio ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:24+00:00"
+  },
+  {
+    "id": "cce2726da16e04225a76",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "ET Auto",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5JWTN4eWdKTWR5M0J6UVlmU016TmNfUU5aMnMzaGlIWEZlUDRuajNyVDJRVXJHVTRpU1FCenFmaUFXSFJxekxyMXVIQ1BxMXoxNk9Fd1pnUFJNcFd0aFdRU1JMVlN1d2MzQWZES0VNRnRqRWliSmU2aXZkTFc3Sko5OEstRTV1OGtOcC11cVQ0MGNMRE0yZk9UWkRwNGxvZkhUVWd0Z2J1Q1dRSkZjcDJDMWJtd9IBuwFBVV95cUxPWFFlNWs1MkVwVGN0VVhIRVRocVFxVlJuNnV4MmUzdEgzUnhyVXpJSjdRYXZHU2tidC1zak1DUHI4emJQOVdGalNtYkxJZWtCWjN3WFNlWHUxS054RGpIS21MdG5KTjdkZzAxTWdUMEZ6b196Rl8zVGppM1BZc2E3Rm5BRDc0UUZDMjdwRXRJVzI0MHp0QW83NXZjMXF2LUZVSXE2d1RNRjdoWWJ3NnNUbFBBeHJvcGhQbXln?oc=5",
+    "original_title": "India bans lithium-ion battery black mass exports - ET Auto",
+    "original_summary": "India bans lithium-ion battery black mass exports ET Auto",
+    "published_at": "2026-11-11T13:32:56+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia proíbe as exportações de massa negra de baterias de iões de lítio - ET Auto",
+    "translated_summary": "A Índia proíbe as exportações de massa negra de baterias de iões de lítio ET Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:49+00:00"
   },
   {
     "id": "e55a8aee919b27ebe835",
@@ -1703,6 +2090,28 @@
     "last_translation_attempt_at": "2026-11-11T15:35:58+00:00"
   },
   {
+    "id": "f3e879372bdaa327ca23",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGRGS1MzZkNsTW42NWRFQ1kwU2pncF9YQWsxR09aSFI3U3d1S1EzUW5BQkZ5TXdQaWpHSGstY3ZWcHpTc3dGTV9FNGVManRWbEZMVkdyNWpNTW9hNVA4MnhOek9jSVJ5XzZiQi0xSU54NFZoSmJaVmktcVBWODBRYjFhM3NGeVlvUGF1RU9ubVNuUEFzRl95LWNjSFlLQQ?oc=5",
+    "original_title": "Wirtschaft wächst wieder, aber Haushalt unter Druck - ZDFheute",
+    "original_summary": "Wirtschaft wächst wieder, aber Haushalt unter Druck ZDFheute",
+    "published_at": "2026-11-11T13:30:00+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A economia volta a crescer, mas o orçamento está sob pressão - ZDFheute",
+    "translated_summary": "A economia está a crescer novamente, mas o orçamento está sob pressão ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:09+00:00"
+  },
+  {
     "id": "48fb8d6f4021bf15120b",
     "country": "Índia",
     "category": "Economia",
@@ -1767,6 +2176,28 @@
     "translated_summary": "\"Inside CDU\": A série ZDF recebe o prémio media do Bundestag Berliner Morgenpost",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:25:23+00:00"
+  },
+  {
+    "id": "945e929d370d9a3312c6",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Hamburger Abendblatt",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzA4VmV2cHAxZ002ZFh0VXAxclVMc0RtbHcxTEZ4dVRveks2UU1vSFA5ckplRFdLZnIxWVdpa2ZGTld5QjVCZFRvUl9Pbzd1UjNzMjJwMFRtdHd5VmNfLXFWMHI3TTREZG4yOGVkay1xemRhX1RLTkZTSFdQc3lhSXBYVlRDMkVTQzNva0JXRQ?oc=5",
+    "original_title": "„Inside CDU“: Die ZDF-Serie bekommt den Medienpreis des Bundestags - Hamburger Abendblatt",
+    "original_summary": "„Inside CDU“: Die ZDF-Serie bekommt den Medienpreis des Bundestags Hamburger Abendblatt",
+    "published_at": "2026-11-11T13:25:48+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Inside CDU\": A série da ZDF recebe o Prémio de Comunicação Social do Bundestag - Hamburger Abendblatt",
+    "translated_summary": "\"Inside CDU\": A série da ZDF recebe o Prémio de Comunicação Social do Bundestag Hamburger Abendblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:11+00:00"
   },
   {
     "id": "b3099c3720b5fe5992a3",
@@ -3974,6 +4405,28 @@
     "translated_summary": "Proibição de exportação em massa de baterias de íons de lítio da Índia: o que isso significa para recicladores e fabricantes de veículos elétricos The Financial Express",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T11:05:55+00:00"
+  },
+  {
+    "id": "66525842eeeae60f0fa4",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50bkZoWmY3Z19jR2RoS0g1dGZDTVBJU2YzSExRRmU4eU1hSElFTnBSVk1TVkRxbHRnMzNVc2VROHBCOHhGdDIweWdwRGRWeGptVE5raTFmUHh1dGNTZEJsbDA1TG9FR21LbDFlaA?oc=5",
+    "original_title": "ソフトバンクG、発電設備計画の説明修正 マスク氏投稿は「事実無根」 - 日本経済新聞",
+    "original_summary": "ソフトバンクG、発電設備計画の説明修正 マスク氏投稿は「事実無根」 日本経済新聞",
+    "published_at": "2026-11-11T10:39:57+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "SoftBank Group corrige explicação sobre projeto de instalações de produção de energia: publicação de Elon Musk é \"infundada\" - Nikkei",
+    "translated_summary": "SoftBank Group corrige a explicação sobre o projeto de instalações de produção de energia. A publicação de Elon Musk é \"infundada\". Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:29+00:00"
   },
   {
     "id": "4cc51d34a335aadd1e4f",
@@ -7144,6 +7597,28 @@
     "last_translation_attempt_at": "2026-11-11T19:02:52+00:00"
   },
   {
+    "id": "a140b8e91182ca18e78b",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0dlazlVbXdXVUN4QmFDYzNEQ3JScFJMdGhvZkVzcnNxUHZXanVhYi1nNzltZDAxY2hKOWFKbkdhUFZmeDdpQm92NldFX1N2Q1AyQWJiM3hlTGstZTF5ZTUwbkZQUkNfVW1LS2tWVU1GOVotQ3FjQldOVVNmTGdsTlpoZW5icWwzZ3NPSlpvVWc0cEU2Q3dHUlpGNE0?oc=5",
+    "original_title": "Verbraucherpreise im Oktober: Tankrabatt drückt Inflation wieder unter Drei-Prozent-Marke - DIE ZEIT",
+    "original_summary": "Verbraucherpreise im Oktober: Tankrabatt drückt Inflation wieder unter Drei-Prozent-Marke DIE ZEIT",
+    "published_at": "2026-11-11T07:14:22+00:00",
+    "first_seen_at": "2026-11-11T20:04:18+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Preços no consumidor em outubro: o desconto nos combustíveis faz descer novamente a inflação para abaixo da fasquia dos 3% - DIE ZEIT",
+    "translated_summary": "Preços no consumidor em outubro: o desconto nos combustíveis faz baixar novamente a inflação para abaixo da fasquia dos três por cento DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:46+00:00"
+  },
+  {
     "id": "ef9db710676706672d6b",
     "country": "Alemanha",
     "category": "Economia",
@@ -7533,11 +8008,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Executiva suspeita de espionagem para a China tinha ligações a investidor sancionado",
+    "translated_summary": "A executiva chinesa Alice Huang, suspeita pelos serviços secretos norte-americanos de espionar para Pequim e de manter uma relação com o presidente da Nvidia, construiu parte da carreira ao lado de um investidor sancionado pelas autoridades chinesas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:58+00:00"
   },
   {
     "id": "bc1bfb67d9b7e1c4b8cd",
@@ -7595,11 +8070,11 @@
     "published_at": "2026-11-11T06:46:57+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China pede a França e Eslováquia papel construtivo nos laços com União Europeia",
+    "translated_summary": "A China pediu à França e à Eslováquia que desempenhem um papel construtivo nas relações entre Pequim e a União Europeia (UE) e defendeu que as divergências comerciais sejam resolvidas através do diálogo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:05:59+00:00"
   },
   {
     "id": "1d4ebc50d2f4702db8c3",
@@ -7725,11 +8200,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia Azul na Índia: crescimento, oportunidades e perspetivas futuras - IBEF",
+    "translated_summary": "Economia Azul na Índia: crescimento, oportunidades e perspetivas futuras IBEF",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:00+00:00"
   },
   {
     "id": "19fe70fa71f3bd8a3bf9",
@@ -8108,11 +8583,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia laranja: tradição, criatividade e meios de subsistência na Índia - ThePrint",
+    "translated_summary": "A economia laranja: tradição, criatividade e meios de subsistência na Índia ThePrint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:03+00:00"
   },
   {
     "id": "0b7c1a96adf2e1906fb5",
@@ -12533,11 +13008,11 @@
     "published_at": "2026-11-10T20:59:47+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Corrida aos supermercados. Produtos mais procurados são enlatados e água",
+    "translated_summary": "Já há prateleiras vazias em várias lojas e supermercados. A corrida aos bens essenciais surge depois de ter sido declarada situação de alerta em Portugal devido à depressão Charles.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:06+00:00"
   },
   {
     "id": "4a4593ed1cbd978155c6",
@@ -21082,11 +21557,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cotação, notícias, cotação e histórico das ações da CapitaLand Investment Limited (9CI.SI) - Yahoo Finanças Singapura",
+    "translated_summary": "Cotação das ações, notícias, cotação e histórico da CapitaLand Investment Limited (9CI.SI) Yahoo Finanças Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:07+00:00"
   },
   {
     "id": "92b7b761803d2487a5cb",
@@ -21142,11 +21617,11 @@
     "published_at": "2026-11-10T05:15:00+00:00",
     "first_seen_at": "2026-11-11T07:18:50+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Carros eléctricos reduziram em cinco vezes a queima de petróleo - dnoticias.pt",
+    "translated_summary": "Carros eléctricos reduziram em cinco vezes a queima de petróleo dnoticias.pt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:10+00:00"
   },
   {
     "id": "6059b627f79242fbb10d",
@@ -24636,11 +25111,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Peso de carros e máquinas nas exportações teve 3.ª maior subida na UE - Jornal Económico",
+    "translated_summary": "Peso de carros e máquinas nas exportações teve 3.ª maior subida na UE Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:11+00:00"
   },
   {
     "id": "332b3c42c691b9c311a0",
@@ -60397,11 +60872,11 @@
       "Crescimento e PIB",
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Com a subida dos preços no Reino Unido… A taxa de juro de referência sobe para 4% ao ano - The Korea Economic Daily",
+    "translated_summary": "Com a subida dos preços no Reino Unido… A economia sul-coreana aumenta a taxa de juro de referência para 4% ao ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:12+00:00"
   },
   {
     "id": "9255e6eb35b661c8e539",
@@ -61041,11 +61516,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Hipoges reforça aposta na gestão de Sociedades de Investimento Coletivo em Portugal via Finprop Capital - Jornal Económico",
+    "translated_summary": "Hipoges reforça aposta na gestão de Sociedades de Investimento Coletivo em Portugal via Finprop Capital Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:15+00:00"
   },
   {
     "id": "300ee680650e0c3f6d36",
@@ -61391,11 +61866,11 @@
     "published_at": "2026-11-05T11:22:09+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inquérito económico da DIHK: a Câmara de Comércio e Indústria Alemã aumenta a previsão de crescimento - DIE ZEIT",
+    "translated_summary": "Inquérito económico da DIHK: a Câmara de Comércio e Indústria Alemã aumenta a previsão de crescimento DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:16+00:00"
   },
   {
     "id": "1aa62bc6fa29ea878473",
@@ -62181,11 +62656,11 @@
     "published_at": "2026-11-05T09:10:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Volkswagen prepara regresso do nome Up com produção em Portugal - Notícias ao Minuto",
+    "translated_summary": "Volkswagen prepara regresso do nome Up com produção em Portugal Notícias ao Minuto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:19+00:00"
   },
   {
     "id": "35924f96ae9c29f99b11",
@@ -62650,11 +63125,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Estado de espírito na Alemanha – Barómetro das preocupações – Ipsos",
+    "translated_summary": "Estado de espírito na Alemanha – Barómetro das preocupações da Ipsos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:20+00:00"
   },
   {
     "id": "53e081c57c8275debbf4",
@@ -62672,11 +63147,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia coreana é superior à economia japonesa. Será verdade? [Análise estatística do FMI] - EKOREA",
+    "translated_summary": "A economia coreana é superior à economia japonesa. Será verdade? [Análise estatística do FMI] EKOREA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:22+00:00"
   },
   {
     "id": "7c5de2e11ffcad4d16f7",
@@ -62692,11 +63167,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O que faz de Singapura a potência económica da Ásia – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "O que faz de Singapura a potência económica da Ásia Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:26+00:00"
   },
   {
     "id": "5aa497a3d3670349fd28",
@@ -62714,11 +63189,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Relatório sobre a Economia Digital de Singapura de 2026 – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Relatório da Economia Digital de Singapura 2026 Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:31+00:00"
   },
   {
     "id": "890db6e4fe8318dca13f",
@@ -62736,11 +63211,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Plaud inaugura a sua sede na Ásia-Pacífico em Singapura e duplica o investimento para 20 milhões de SGD - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A Plaud inaugura a sede da Ásia-Pacífico em Singapura e duplica o investimento para 20 milhões de SGD Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:34+00:00"
   },
   {
     "id": "aa17fdb6105ea4895ea4",
@@ -62756,11 +63231,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A WuXi Biologics dá início à construção do centro CRDMO em Singapura - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A WuXi Biologics dá início à construção do centro CRDMO em Singapura Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T20:06:38+00:00"
   },
   {
     "id": "60e22294045f24b13752",
