@@ -80,6 +80,235 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "97d2a5d68147505e2a0d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTVqdmxlemZWOENvOEhFTFJUeTQ0TDhjTjd0TXZLbDBjMlhVNDlaMHVHR0htdDkxck52MnJ6MGpfcnNUOXQtekluZjVITGdURFpOaUVWMnI5a3JKTDE5UDI0WUZnYjF6eXZDV2Ryc1MwLXoteHhYQ2RnNUhuOHU3R3ZrNF9aX0F1bW5TTjBDRmotOXpIVjFoVXAyeFdKNElCT3c?oc=5",
+    "original_title": "Zuckersteuer kommt später, Plastiksteuer vom Tisch - ZDFheute",
+    "original_summary": "Zuckersteuer kommt später, Plastiksteuer vom Tisch ZDFheute",
+    "published_at": "2026-11-11T21:28:03+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O imposto sobre o açúcar virá mais tarde, o imposto sobre o plástico está fora de questão - ZDFheute",
+    "translated_summary": "O imposto sobre o açúcar virá mais tarde, o imposto sobre o plástico está fora de questão ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:24+00:00"
+  },
+  {
+    "id": "e5e69860aa5a051e356d",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261112de74498",
+    "original_title": "消費税減税法案 参院で審議入り 13日から特別委員会で質疑へ",
+    "original_summary": "食料品の消費税減税関連法案は参議院で審議入りし、13日から特別委員会で質疑が行われます。与党側は、高市総理大臣の出席など野党側の求めに応じることで審議を円滑に進め、法案の成立を図りたいとしている一方、…",
+    "published_at": "2026-11-11T21:26:09+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Projeto de lei de redução do imposto sobre o consumo entra em debate no Senado. Período de perguntas e respostas no comité especial a partir do dia 13.",
+    "translated_summary": "O projeto de lei relativo à redução do imposto sobre o consumo de produtos alimentares entrou em debate na Câmara dos Conselheiros, e as perguntas e respostas terão lugar numa comissão especial a partir do dia 13. Enquanto o partido no poder pretende fazer avançar as deliberações sem problemas e aprovar o projeto de lei, respondendo aos pedidos da oposição, como a presença da Primeira-Ministra Takaichi, por outro lado,…",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:08+00:00"
+  },
+  {
+    "id": "69515ddf801efb505cb5",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "BSAktuell",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY19tZWUtX2ZsNFlWdHh3YjlHcW90Z1VYQkdJWWR4d2NacUZueDQ1SEh2RTg2UWNpYlZXUG40WHBmUm5QaEU1UFc4QXpfSnp3aVNwc21XOHp2bXZqaXRXdDY0ZWd6Y0cya3FlMFUzeEZQNlVTLUVKd1pvT2VMcXdUc2EydllBZUN0UDJadWtUb2QyemxfS0ZqSHA5ZmI2X0UxYWl6cUltUHJaLXhTRTBvS2c2bFh4RUxGRkdoRHdWa1ZaR2JtRWhRblItQURLN25xbFc5TGNzUlVLZEtiRFJnT0xn?oc=5",
+    "original_title": "Verdacht auf verbotenes Autorennen: Zwei BMW-Fahrer auf der Leopoldstraße in München kontrolliert - BSAktuell",
+    "original_summary": "Verdacht auf verbotenes Autorennen: Zwei BMW-Fahrer auf der Leopoldstraße in München kontrolliert BSAktuell",
+    "published_at": "2026-11-11T21:18:39+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Suspeita de corrida automóvel ilegal: dois condutores de BMW controlados na Leopoldstraße, em Munique - BSAktuell",
+    "translated_summary": "Suspeita de corrida automóvel ilegal: dois condutores de BMW controlados na Leopoldstraße, em Munique BSAktuell",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:39+00:00"
+  },
+  {
+    "id": "9075fd1cc2c6e6173fd8",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374125/did-china-and-cuba-fund-us-socialists-floridas-attorney-general-demands-answers",
+    "original_title": "Did China and Cuba fund US socialists? Florida’s attorney general demands answers",
+    "original_summary": "Florida’s attorney general has issued an investigative subpoena to the Democratic Socialists of America (DSA) to determine whether the group accepted money or other support from the Chinese and Cuban governments. Attorney General James Uthmeier announced the move in a video posted on social media on Tuesday, saying his office wanted to establish whether the organisation “accepted contributions or support from foreign sources of concern, including the regimes in Cuba and China”, and whether its...",
+    "published_at": "2026-11-11T20:49:28+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A China e Cuba financiaram socialistas dos EUA? O procurador-geral da Flórida exige respostas",
+    "translated_summary": "O procurador-geral da Flórida emitiu uma intimação de investigação aos Socialistas Democráticos da América (DSA) para determinar se o grupo aceitou dinheiro ou outro tipo de apoio dos governos chinês e cubano. O procurador-geral James Uthmeier anunciou a medida num vídeo publicado nas redes sociais na terça-feira, afirmando que o seu gabinete queria determinar se a organização \"aceitou contribuições ou apoio de fontes estrangeiras preocupantes, incluindo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:04+00:00"
+  },
+  {
+    "id": "77ea67315670436a50e2",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFM2b19oSWExY1J2UlhzaUxDWTRWZ1R4RUZtQnd5TE43UlFzZEJXMm4wNmo0U281VVJyMFdvNzF5YnIydmxZbXNfUnJtSTBmMG5qNDM5ekxpT05nSVl2dm8zaWZGOXZqVlEtOGUyNFhJOXd2TkVkSWxoc0JQWG5FMXlfUm1oenhyN3dMejdJM0tWdHdDWGktc2s0eWdvODE1NmRPbHpKUDlzOFYzdmlsUlJZNnV2a1JTMlFmcVljMXVMQQ?oc=5",
+    "original_title": "Koalition findet bisher kein Geld für Stromsteuer-Senkung - T-Online",
+    "original_summary": "Koalition findet bisher kein Geld für Stromsteuer-Senkung T-Online",
+    "published_at": "2026-11-11T20:35:48+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Até agora, a coligação não encontrou dinheiro para reduzir o imposto sobre a eletricidade - T-Online",
+    "translated_summary": "Até agora, a coligação não encontrou dinheiro para reduzir o imposto sobre a eletricidade T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:33+00:00"
+  },
+  {
+    "id": "7110d1deea297d8abf53",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "AutoApp",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWdvSG9FX3VvWkpNWFQ5VzJOeGhHMU5VaTRieWpxN3YxT0phY0hFRWJJeGt6bk9wQ1NSLVo1NE5tZXBIdW5VYng4UGlVdmhHZkRqVkRmdjdmei1iSGhfb01tQzIxMUNIbXo0UjJXMDA3ZEk3b01GOS15OWVlaFYtOFNWbWFRVXhLbWNuYWFqLUx6R1hyRnJFd0ZFRHpNNUNzYlE?oc=5",
+    "original_title": "SINGAUTO Advances Driverless Electric Cold-Chain Vehicle Deployment In China - AutoApp",
+    "original_summary": "SINGAUTO Advances Driverless Electric Cold-Chain Vehicle Deployment In China AutoApp",
+    "published_at": "2026-11-11T20:29:09+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A SINGAUTO avança com a implementação de veículos elétricos autónomos de cadeia de frio na China - AutoApp",
+    "translated_summary": "A SINGAUTO avança com a implementação de veículos elétricos autónomos de cadeia de frio na China AutoApp",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:57+00:00"
+  },
+  {
+    "id": "dbcc138b1421670e511d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDVWZHdPNlhjaW5Wdk80VldBdWxZY0E1QWctcDBwOGRVMGxmR0lBSEZiTGFwV05pRHZPQ3VqWVE5aEN6SEpxRmpzOU44RzJfcF85Y0FOSTNIbnBmLS1WSk5kUlBETzNMa0ZxSkZIa1FqaUI5dkRHby1KTThybU9ES2RvV2VmOXI4UG9ZR2ktSjRQQzhrVWN6QXNBU3czQjVCUW1fbUhZM01hT0FVekJDaQ?oc=5",
+    "original_title": "Haushalt 2027: Keine Senkung der Stromsteuer, Zuckersteuer verschoben - DIE ZEIT",
+    "original_summary": "Haushalt 2027: Keine Senkung der Stromsteuer, Zuckersteuer verschoben DIE ZEIT",
+    "published_at": "2026-11-11T20:26:33+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento de 2027: sem redução do imposto sobre a eletricidade, imposto sobre o açúcar adiado - DIE ZEIT",
+    "translated_summary": "Orçamento de 2027: sem redução do imposto sobre a eletricidade, imposto sobre o açúcar adiado DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:21+00:00"
+  },
+  {
+    "id": "daf7506882e8722a053d",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "AutoApp",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmFpcXE3c3VxWEVvTmlnQXlxZmZ0YWExZWdPZ3NpN01pQ2lLa25YZ25kemZBZkdMMTE4RDlwUlVmdXd1NUhzVlkxTEVfQzdUV2g3ZFBuZ2xNeWJEZWRoYkFyU1JLSWNhXzRXaS0zSmU0NDg5NW1zLW5ueUJyQ1ZlY0p6MVBuVWhXR2ZXX0QtZlJhUHIxdVpfb2xUVmptWFFVSnMzS1QySEMwMDMwUlFR?oc=5",
+    "original_title": "BYD Singapore And STRIDES Premier Strengthen Partnership To Support Electric Bus Fleet - AutoApp",
+    "original_summary": "BYD Singapore And STRIDES Premier Strengthen Partnership To Support Electric Bus Fleet AutoApp",
+    "published_at": "2026-11-11T20:24:28+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A BYD Singapore e a STRIDES Premier reforçam a parceria para apoiar a frota de autocarros elétricos - AutoApp",
+    "translated_summary": "A BYD Singapore e a STRIDES Premier reforçam a parceria para apoiar a aplicação AutoApp para frotas de autocarros elétricos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:00+00:00"
+  },
+  {
+    "id": "e7faf5a2f14ed8eee381",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVBTS1YtZkIwb0xLVFNyV0t6ZUhYaENZTkcwMUZPd213dThtZjAyaElFU0ZXZGxxTWpZbUloZnJpeEVhLWp1VlcxYmdwVHk4ZVktTHF0NmVfRWRMMzZKRTJPS2dhRjd3OU5Ja0xkU0NuUmpNZ0QxTndQclFPUjNNd1kwRUs3dlZQ?oc=5",
+    "original_title": "トヨタ第6ブランド「サイオン」日本上陸がナシとは言い切れない？ 右ハン軽トラ米国現地生産の逆パターン - Yahoo!ニュース",
+    "original_summary": "トヨタ第6ブランド「サイオン」日本上陸がナシとは言い切れない？ 右ハン軽トラ米国現地生産の逆パターン Yahoo!ニュース",
+    "published_at": "2026-11-11T20:08:27+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Não se pode afirmar que a \"Scion\", a sexta marca da Toyota, não vai chegar ao Japão? O padrão inverso da produção local de carrinhas ligeiras com volante à direita nos Estados Unidos - Yahoo! Notícias",
+    "translated_summary": "Não se pode afirmar que a \"Scion\", a sexta marca da Toyota, não vai chegar ao Japão? O padrão inverso da produção local de carrinhas ligeiras com volante à direita nos Estados Unidos Yahoo! Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:18+00:00"
+  },
+  {
+    "id": "1c9064cc6e97734957a5",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "한겨레",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5idWxQbURwSmVJUkxmRkRhc0h1cGVIRkgwM3ZZYnJwWndnV0dndGFOMWZwbGI5LXN3SUwzb3VvRjQ2dEtTSkRMSFhpTVF6Q1RwZ2pwdmFLbDVmVGxXelpkV3JBVmdTTVloaVR4RC05REMyQQ?oc=5",
+    "original_title": "자동차 공장·제철·조선소 미국행…국내 제조업 기반·일자리 축소 ‘경보’ - 한겨레",
+    "original_summary": "자동차 공장·제철·조선소 미국행…국내 제조업 기반·일자리 축소 ‘경보’ 한겨레",
+    "published_at": "2026-11-11T20:01:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fábricas automóveis, siderurgias e estaleiros rumam aos EUA… \"Alerta\" para a redução da base da indústria transformadora e do emprego no país - The Hankyoreh",
+    "translated_summary": "Fábricas de automóveis, siderurgias e estaleiros rumam aos EUA... \"Alerta\" para a redução da base da indústria transformadora e do emprego no país — The Hankyoreh",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:42+00:00"
+  },
+  {
+    "id": "2713d538ad1040fa2007",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelA1RGJmZW8tb0JTSTg3a25URVJZSjllTmRhMnJmbXBaYmJraFdGV3Y4RGlhVTgzYTNhYm95Rm1wRmN0NzJ5NjdmQXR4b2ZvMlVVb2JER25INjF5LWhPSEh2VFgwNGRmaUp2YnVmdE9vZ3hjUFpvZ0JFcVg3VDRUcUlUNElxRk56bkFwcUU5c250OTVoSGJYcV9qODBPSmozQTFTb3lwcjNZMGJCZ0tUbDRGSnhIckJ5bXFiWVhJOXUzSmc?oc=5",
+    "original_title": "Koalition findet Haushalts-Kompromisse – Zuckersteuer später - T-Online",
+    "original_summary": "Koalition findet Haushalts-Kompromisse – Zuckersteuer später T-Online",
+    "published_at": "2026-11-11T19:59:30+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A coligação chega a compromissos orçamentais – imposto sobre o açúcar mais tarde - T-Online",
+    "translated_summary": "A coligação chega a compromissos orçamentais – imposto sobre o açúcar mais tarde T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:30+00:00"
+  },
+  {
     "id": "b0ec2ba9fc1d826aafb3",
     "country": "Alemanha",
     "category": "Política",
@@ -100,6 +329,26 @@
     "translated_summary": "Orçamento de 2027: o Governo Federal não pretende, por enquanto, reduzir o imposto sobre a eletricidade para os agregados familiares Spiegel",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T20:05:15+00:00"
+  },
+  {
+    "id": "608f269020c2004ee5ea",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Volvo",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmY3Z3QnBJejdWMjlKMmI0UU1qYzNJaGh4Yk5IS1d5SEstSUNWNW91emVSVUVTMUZLMGVVVk5vNmxBeF9QV1E2VDlXZ3MxdUt4N1haYzhxODh4aGlBMHlqZ1duWElrWDhoRDd3SVNLMUI?oc=5",
+    "original_title": "ボルボ ES90 / EX90が「日本自動車殿堂インポートカーオブザイヤー」を受賞 - Volvo",
+    "original_summary": "ボルボ ES90 / EX90が「日本自動車殿堂インポートカーオブザイヤー」を受賞 Volvo",
+    "published_at": "2026-11-11T19:49:39+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os Volvo ES90/EX90 recebem o prémio \"Carro Importado do Ano do Hall da Fama do Automóvel do Japão\" - Volvo",
+    "translated_summary": "O Volvo ES90/EX90 vence o prémio \"Carro Importado do Ano do Hall da Fama do Automóvel do Japão\" Volvo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:12+00:00"
   },
   {
     "id": "6edd6119dda07aeafe2c",
@@ -144,6 +393,28 @@
     "last_translation_attempt_at": "2026-11-11T20:05:20+00:00"
   },
   {
+    "id": "01f20246233e94d8240e",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LNjZoOGo2RnN3NlpjcHRhMjFUa3JlX05jSmg3RVZWeVlyeWNSQ0Rvd1A4cUxwdmpVUDZxNVlNVlhLUHpBM0NZdW9KX0hoTFpXZTkzTFd2cw?oc=5",
+    "original_title": "中 전기차에 유럽은 빗장, 한국은 무방비… K자동차 ‘내우외환’ - 서울신문",
+    "original_summary": "中 전기차에 유럽은 빗장, 한국은 무방비… K자동차 ‘내우외환’ 서울신문",
+    "published_at": "2026-11-11T19:33:29+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul fica vulnerável... A indústria automóvel coreana enfrenta \"problemas internos e externos\" - The Seoul Shinmun",
+    "translated_summary": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul está indefesa... A indústria automóvel coreana enfrenta \"problemas internos e externos\" — The Seoul Shinmun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:45+00:00"
+  },
+  {
     "id": "7f66ec11a52096cd7eee",
     "country": "Japão",
     "category": "Política",
@@ -162,6 +433,28 @@
     "translated_summary": "Antes da cimeira da ASEAN (Associação das Nações do Sudeste Asiático), que terá lugar este mês, o Ministro dos Negócios Estrangeiros das Filipinas, país que preside à associação, concedeu uma entrevista à NHK e afirmou que 80% de todos os pontos de discussão sobre o \"código de conduta\", que está a ser debatido com a China e outros países para evitar conflitos no Mar da China Meridional,...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T20:05:04+00:00"
+  },
+  {
+    "id": "90e3b083ff84f23992a5",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Turismo de Portugal",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUy0ta3pzN3pFcEFjV25wZ2RLVzkzZzNUcUY1T1RYWENER0wwbjNkYUZiOHc5STBYMHkzamJiNWtMOVJEdVVoUVR3NFRxZ1ZDVGNFYVFLbmhRdmtQQWtZZmF1QXFxYUI2TE1vZy1EVEs0anJ6ZHlLQXhWWEdJa3NfZGphdFcydXRtaFY4?oc=5",
+    "original_title": "Programa Empresas Turismo 360º: Da adesão ao reconhecimento – prepare a sua agência de viagens para o selo ESG Engaged 2025 – 17 nov 2026 - Turismo de Portugal",
+    "original_summary": "Programa Empresas Turismo 360º: Da adesão ao reconhecimento – prepare a sua agência de viagens para o selo ESG Engaged 2025 – 17 nov 2026 Turismo de Portugal",
+    "published_at": "2026-11-11T19:28:59+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Programa Empresas Turismo 360º: Da adesão ao reconhecimento – prepare a sua agência de viagens para o selo ESG Engaged 2025 – 17 nov 2026 - Turismo de Portugal",
+    "translated_summary": "Programa Empresas Turismo 360º: Da adesão ao reconhecimento – prepare a sua agência de viagens para o selo ESG Engaged 2025 – 17 nov 2026 Turismo de Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:49+00:00"
   },
   {
     "id": "9115d1c0dd88c3fc88f1",
@@ -184,6 +477,48 @@
     "translated_summary": "Como a IA fortalece a economia alemã ZDFheute",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T20:05:38+00:00"
+  },
+  {
+    "id": "b30ab3f1613c840fe707",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Asia Pacific Foundation of Canada",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXUzM3I5eFlaN0lNRkJQTUEzS2VReXRva3lLOTJ1MWZQMlJpTlFhSW4yVWVZc2hZaHFCVmFEZlA5NnRPOEV4MkQ3T3BMcHNmbmEyTHpvWnQ5Nkl6OGx3VFBMSldRa05tYXRXZVo3WUluUDE4dzducFpXemRrcEtGSGhKMm0wcHoxZWM3cmgyekNrUnZDUllpb0NjdnRzUQ?oc=5",
+    "original_title": "Beyond Trade Deals: Reflections on Canada’s Trade Mission to India - Asia Pacific Foundation of Canada",
+    "original_summary": "Beyond Trade Deals: Reflections on Canada’s Trade Mission to India Asia Pacific Foundation of Canada",
+    "published_at": "2026-11-11T18:51:57+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Para além dos acordos comerciais: reflexões sobre a missão comercial do Canadá à Índia - Fundação Ásia-Pacífico do Canadá",
+    "translated_summary": "Para além dos acordos comerciais: reflexões sobre a missão comercial do Canadá à Índia Asia Pacific Foundation of Canada",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:52+00:00"
+  },
+  {
+    "id": "1b6425402d5bbe41fae7",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "WDR",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1loUDZSaFNiWE1VMFFaaTZQSWI5TllWY3hjZ1NCRWQ3NjY3VENEbzl2QlZqYU9hazdMeFU0SDRSTHlKRjM5OWJBRFhwcVBtNVRyaXNLRVBxdUhVQVpsTmtNM3RVanZvd1NtSFdBN0NFbHQ5NFQyd1c3cmtXY1FQcmVyMXpEakNjcGkxaDJPWmlJUHZIUXR5RXhQLXNISDZ5NklXTGh1c3BCbXdLUXlxa3FBdG5XOUVqQU5CV1lMbHJJa1FGT2tjdG83Q0tiWFZ1Vkhz0gHSAUFVX3lxTE9OSHhkOUZuWnkzZS1MYnY5ekkxX1gxNDJfV3pWU0pIVEx2ZnFQQWNvaHFPaFduUy15NThGTHlWT2dHYl9UUUlkMDhmX0IxVi1KY09kdEJWRDQ5eE1HLVE2SmFpS0E3aGRFLVppOGE1ZWVtbFV1Y1dvbzJkenNhTkFiNkVyc3QxV0ZyeDVBam1tOVA5a045Sk1WSFNBN29OMVdaYTlOUHpmYnlBdTdwRV9BUTFoVzJtcDlfZWlSS0NacjZ0V3FhTThaX2s3MUhDQ0lLQQ?oc=5",
+    "original_title": "Jahresgutachten: Ein Hoffnungsschimmer für die deutsche Wirtschaft - WDR",
+    "original_summary": "Jahresgutachten: Ein Hoffnungsschimmer für die deutsche Wirtschaft WDR",
+    "published_at": "2026-11-11T18:47:29+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Relatório anual: um vislumbre de esperança para a economia alemã - WDR",
+    "translated_summary": "Relatório anual: um vislumbre de esperança para a economia alemã WDR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:26+00:00"
   },
   {
     "id": "e2bea5752705a102a369",
@@ -248,6 +583,50 @@
     "translated_summary": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T19:02:11+00:00"
+  },
+  {
+    "id": "188b47111e968f2a63b0",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505",
+    "original_title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+    "original_summary": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
+    "published_at": "2026-11-11T18:41:45+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+    "translated_summary": "Espanha teve esta quarta-feira a primeira greve geral em 14 anos. Uma paralisação que perturbou transportes e indústrias e com um sucesso que surpreendeu até os sindicatos, enquanto patrões contrapõem com “mínimos históricos”.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:48+00:00"
+  },
+  {
+    "id": "ad95d309195ac821ca18",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZE85WXcyY2tRMWJQeUJiQTRPckNqYXdrNVRwcDZIQU1pYlVSV0pkRUJXRHV5MHZENndkWjMyUHBDakNUQTRNNlB6SS1kRWJaZS1pSU5CTHlVTlZWb0xOQXM1UTIteUFrMzd5czBUWkdfTnBwdmZFV0wwUzBJa2R2ZEs0eXlEaHJ6Si1xMHlhUUEybEJoYUwyODhmNS1mYTlnaEdUOTlQelM1NjFEai1qQmtORFlsd9IBtgFBVV95cUxOZE85WXcyY2tRMWJQeUJiQTRPckNqYXdrNVRwcDZIQU1pYlVSV0pkRUJXRHV5MHZENndkWjMyUHBDakNUQTRNNlB6SS1kRWJaZS1pSU5CTHlVTlZWb0xOQXM1UTIteUFrMzd5czBUWkdfTnBwdmZFV0wwUzBJa2R2ZEs0eXlEaHJ6Si1xMHlhUUEybEJoYUwyODhmNS1mYTlnaEdUOTlQelM1NjFEai1qQmtORFlsdw?oc=5",
+    "original_title": "Turning battery waste into strategic mineral wealth - The Hindu",
+    "original_summary": "Turning battery waste into strategic mineral wealth The Hindu",
+    "published_at": "2026-11-11T18:38:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Transformar os resíduos de baterias em riqueza mineral estratégica - The Hindu",
+    "translated_summary": "Transformar resíduos de baterias em riqueza mineral estratégica The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:55+00:00"
   },
   {
     "id": "60db91f0bca785874e21",
@@ -634,6 +1013,28 @@
     "last_translation_attempt_at": "2026-11-11T19:01:40+00:00"
   },
   {
+    "id": "39bd133ec43dec61a734",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBTkZKaHZRR09qbnc4cVFYdkdhTFVXVF9pZklTQTVxQnkyT0NhVzBJaGE5dk5sR1MtM21Bd1lBWWhUSkFncGVuVmNJM0tZX1dIZXFJZmp4ajJ3N05GTTh6MzF5NHU2aTB5YW53QQ?oc=5",
+    "original_title": "在宅介護に感じる限界 永田嘉弘氏 - 日本経済新聞",
+    "original_summary": "在宅介護に感じる限界 永田嘉弘氏 日本経済新聞",
+    "published_at": "2026-11-11T17:00:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Limitações sentidas nos cuidados domiciliários Yoshihiro Nagata - Nihon Keizai Shimbun",
+    "translated_summary": "Limitações sentidas nos cuidados domiciliários Yoshihiro Nagata, Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:14+00:00"
+  },
+  {
     "id": "d6108868fbb3bb3bbd4b",
     "country": "Alemanha",
     "category": "Política",
@@ -922,6 +1323,29 @@
     "translated_summary": "Apelo de especialistas: \"Potencial de crescimento significativo por explorar\" ZDFheute",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T20:05:40+00:00"
+  },
+  {
+    "id": "04bb0a2da0ca97ca352f",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Handelsblatt",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWnhnSFhhTVFsa1lSaHlNSS1mM1d4M1lWXzU3VVlQLUM0aXBVMk1OV3d4czBpb2VwQkRJQlVzVF9qc0dfSURTdzhSSF93MEVCeUJOSF9nSHVQa2poQTFuS3BFQllnUWJUUDdDeEFUQng3WmtnSkpIU2QtdHZsMHRIdTA0UjVLcnpKN3NaRW1kaVo1OWhXYlYzR1lhbVpSWXNyNkd1bGMtZzRTb0lNRjdkUk5IMFNuODVuTFdZVWxFUnZFMnlVWUExSg?oc=5",
+    "original_title": "Energie: Bundesregierung bereitet Kohlekraftwerke für Notfall vor - Handelsblatt",
+    "original_summary": "Energie: Bundesregierung bereitet Kohlekraftwerke für Notfall vor Handelsblatt",
+    "published_at": "2026-11-11T16:04:10+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Energia: Governo federal prepara centrais elétricas a carvão para emergências - Handelsblatt",
+    "translated_summary": "Energia: Governo federal prepara centrais elétricas a carvão para emergências Handelsblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:27+00:00"
   },
   {
     "id": "ed62e3449e6b55c5f34d",
@@ -1397,6 +1821,28 @@
     "translated_summary": "Ações, deve conhecer a Korea Economic TV",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:26:40+00:00"
+  },
+  {
+    "id": "eb542e2c134bdadc9632",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "经济参考报",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2JDdS1sZTZhSmVkRVZWOVUyUEJ2YnhDdlZ1SGR4LXVNQ3FmaFZPYmpEYnJjTzJzVldGMFFFbEJUOEtCSnlOZlVzQmJqU0dYYjRITzlPNEtvbVIzNUM1NXBGTU9ya21NdWNrcHJiaUw5Nmdzdk84V1d3cGRiS2tXXw?oc=5",
+    "original_title": "中国财富ESG平台正式上线 - 经济参考报",
+    "original_summary": "中国财富ESG平台正式上线 经济参考报",
+    "published_at": "2026-11-11T14:13:02+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Lançamento oficial da Plataforma ESG da China Wealth - Economic Information Daily",
+    "translated_summary": "Lançamento oficial da Plataforma ESG da China Wealth Jornal de Referência Económica",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:11+00:00"
   },
   {
     "id": "8b33d22c62bfa4dd426a",
@@ -3917,6 +4363,28 @@
     "last_translation_attempt_at": "2026-11-11T13:14:45+00:00"
   },
   {
+    "id": "fce6fe9d23d62497eee9",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "環境部新聞專區",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yN0Z4cU92X3NyVUx3WDhVZXVrUWl5bWFhR242dnVUaXlvY0RSc3dZemI3WkVXRXR2WHNZdW9HMG5XWnRXNDhRd3IybDJaT0Y0YW1lVXliS044Z296ZjVjS19RZy0?oc=5",
+    "original_title": "呼應 COP31 零廢棄議題 臺灣分享 2050 循環經濟三大目標 - 環境部新聞專區",
+    "original_summary": "呼應 COP31 零廢棄議題 臺灣分享 2050 循環經濟三大目標 環境部新聞專區",
+    "published_at": "2026-11-11T11:20:08+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Em resposta à questão dos resíduos zero da COP31, Taiwan partilha os três principais objetivos da economia circular para 2050 - Área de notícias do Ministério do Ambiente",
+    "translated_summary": "Em resposta à questão dos resíduos zero da COP31, Taiwan partilha os três principais objetivos da economia circular para 2050. Área de notícias do Ministério do Ambiente",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:41+00:00"
+  },
+  {
     "id": "07e32411f65dc4da7efd",
     "country": "Portugal",
     "category": "Economia",
@@ -4860,6 +5328,29 @@
     "last_translation_attempt_at": "2026-11-11T10:05:08+00:00"
   },
   {
+    "id": "d72b1b487200cfdcba2b",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yaDhkZVF6VV9uUV9JcFRIcWJVeG4zRGp0RUxMR3BMVmlJLU1kQldKZTJ6UEFBYzBVdFVzNXU1U3Q3eU13Nlhzc2VZa1U1ZkFJMlhPaTcwa1lkMXFoRHRVVUx5bm1mVWlZNUZfYQ?oc=5",
+    "original_title": "［社説］世界の安定へ米国は外交立て直せ - 日本経済新聞",
+    "original_summary": "［社説］世界の安定へ米国は外交立て直せ 日本経済新聞",
+    "published_at": "2026-11-11T10:00:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Geopolítica",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Editorial] Os Estados Unidos devem reestruturar a sua diplomacia para a estabilidade mundial - Nikkei",
+    "translated_summary": "[Editorial] Os EUA devem reestruturar a sua diplomacia para a estabilidade mundial – Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:17+00:00"
+  },
+  {
     "id": "5575fe0fc2886387d470",
     "country": "Alemanha",
     "category": "Economia",
@@ -5360,6 +5851,29 @@
     "last_translation_attempt_at": "2026-11-11T15:35:44+00:00"
   },
   {
+    "id": "eb2d34018d7b87cd52a2",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "人大新闻网",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNTdPNkp6dHV2X1RjdnY1QVE2UjdhcXZxM2p0Q2Z2QXBWZlpfaFg4MXZSa0NUbUZpNk9sdkttbDV6YmZ4SzZQNXB2OU12TzdWRWh0Z3JlcGp1OHRz?oc=5",
+    "original_title": "张东刚书记会见俄罗斯圣彼得堡国立经济大学校长伊戈尔·马克西姆采夫一行 - 人大新闻网",
+    "original_summary": "张东刚书记会见俄罗斯圣彼得堡国立经济大学校长伊戈尔·马克西姆采夫一行 人大新闻网",
+    "published_at": "2026-11-11T09:27:16+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Secretário Zhang Donggang reúne-se com Igor Maksimtsev, Reitor da Universidade Estatal de Economia de São Petersburgo, e sua comitiva - Portal de Notícias da Universidade Renmin da China",
+    "translated_summary": "O Secretário Zhang Donggang reúne-se com Igor Maksimtsev, Reitor da Universidade Estatal de Economia de São Petersburgo, Rússia — Portal de Notícias da Universidade Renmin",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:07+00:00"
+  },
+  {
     "id": "ebd37b2f729fb794cbb8",
     "country": "Singapura",
     "category": "Economia",
@@ -5424,6 +5938,28 @@
     "translated_summary": "Pequim, 11 de novembro (Agência de Notícias Xinhua) (Repórter Liu Dawei Chen Jianxin) A conferência de imprensa regular do Gabinete de Assuntos de Taiwan do Conselho de Estado foi realizada em Pequim no dia 11. O porta-voz Zhang Han respondeu às perguntas dos repórteres sobre os recentes pontos quentes, como o \"retorno das empresas de Taiwan\" ao continente.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T10:04:01+00:00"
+  },
+  {
+    "id": "c78d4d21568b8f390b4e",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "台灣華報",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NTlpkcW5SNUpzV1ZudkJrYlhaa3I0cnNITDg5VG5OZ21PWjgzcXFlOFpOWFM3ajRPVUFrc19OOHJNaHUxSVNpaXprQml0TUFrY3Q3OEJyN2VmRlVGYk5Gck9LXzBGZWF1VWRj?oc=5",
+    "original_title": "台南公車路網優化運量增五成 今年再添61輛電動車 - 台灣華報",
+    "original_summary": "台南公車路網優化運量增五成 今年再添61輛電動車 台灣華報",
+    "published_at": "2026-11-11T09:24:22+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Otimização da rede de autocarros de Tainan aumenta a capacidade de transporte em 50%. Este ano, serão adicionados mais 61 veículos elétricos - Taiwan News",
+    "translated_summary": "Otimização da rede de autocarros de Tainan aumenta a capacidade de transporte em 50%. Este ano, serão adicionados mais 61 veículos elétricos. Taiwan News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:48+00:00"
   },
   {
     "id": "902fad54acee1b1b3ecd",
@@ -5988,6 +6524,28 @@
     "translated_summary": "O ex-Secretário-Geral do Partido Liberal Democrata, Moriyama, apontou que o debate interno do partido sobre questões como as fontes de financiamento não foi suficiente no que diz respeito ao projeto de lei relativo à redução do imposto sobre o consumo de bens alimentares. Em seguida, afirmou que as ações de quatro pessoas, incluindo o ex-Primeiro-Ministro Shigeru Ishiba, que abandonaram a sessão plenária da Câmara dos Representantes antes da votação, refletiam os sentimentos do povo...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T16:11:23+00:00"
+  },
+  {
+    "id": "611827b4bdee44f6231c",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2dS1OUFdfSWRtd0s4ZkFNRFByM2NCOGxud2xvMHU4aHFSWWtrTjUxNWxBUWpxSnItb3lOMS1SSDgyZlppUTdMZ3o5TXRBazNWZEk3VWQ5Mzk3Zw?oc=5",
+    "original_title": "[단독] 총 만드는 SNT그룹, 총알도 만든다 - 한국경제",
+    "original_summary": "[단독] 총 만드는 SNT그룹, 총알도 만든다 한국경제",
+    "published_at": "2026-11-11T08:46:47+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] O Grupo SNT, que fabrica armas, também fabrica munições - The Korea Economic Daily",
+    "translated_summary": "[Exclusivo] O Grupo SNT, que fabrica armas de fogo, também fabrica munições Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:35+00:00"
   },
   {
     "id": "5237f9a23966f8e53c66",
@@ -9055,6 +9613,28 @@
     "last_translation_attempt_at": "2026-11-11T06:05:04+00:00"
   },
   {
+    "id": "d4bb4f5d1e49feb9f131",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "aero.de",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zanNTQW5vNC16MXBnQnE5cTN6ZEo0N09CSDdqbTZDd2VwdVo1cXl3VV9yNXVSeU5FcURUakJ0RGZQUDRvZlFiMk5UREo2TXdCMjdiRmdMWlFFenVBNWR4TVN4TUh4MnBWV0VFd2FyeDQ?oc=5",
+    "original_title": "Bundesregierung: \"Sehr klares Abkommen\" - aero.de",
+    "original_summary": "Bundesregierung: \"Sehr klares Abkommen\" aero.de",
+    "published_at": "2026-11-11T05:12:52+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governo Federal: \"Acordo muito claro\" - aero.de",
+    "translated_summary": "Governo Federal: \"Acordo muito claro\" aero.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:36+00:00"
+  },
+  {
     "id": "b0033da05be05b77bfad",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -11219,6 +11799,26 @@
     "last_translation_attempt_at": "2026-11-11T02:07:54+00:00"
   },
   {
+    "id": "fdad4be38cfbe50a402f",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "네이버페이 머니스토리",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdXdFVEItZnI2MnlLdDU0TFF5bVBhX0JYT2xIMThWbzNqVTd6cWMwcWl3bVhUbWpNTmdueU50M0U5SjBYSkpyVmdDOEgyWkw3a3NDSHlPM1Rrclk?oc=5",
+    "original_title": "美 선거 후 코인 시장은 더 흔들렸다! - 네이버페이 머니스토리",
+    "original_summary": "美 선거 후 코인 시장은 더 흔들렸다! 네이버페이 머니스토리",
+    "published_at": "2026-11-11T01:19:19+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O mercado de criptomoedas ficou ainda mais instável após as eleições nos EUA! - Naver Pay Money Story",
+    "translated_summary": "O mercado de criptomoedas ficou ainda mais instável após as eleições nos EUA! Money Story do Naver Pay",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:38+00:00"
+  },
+  {
     "id": "1141c385ca7d91f04001",
     "country": "Japão",
     "category": "Automóvel",
@@ -13303,6 +13903,26 @@
     "translated_summary": "A visita de Piyush Goyal ao Egito poderá impulsionar os laços comerciais e de investimento da Índia: FIEO India Business Trade",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T19:02:01+00:00"
+  },
+  {
+    "id": "383da8441ee017d9608c",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajFXX1AtQklKYU1MLXVkQmluQUxrdWtuTy1CN083MWp6cmd5alR3QlA5SEx5aENGN21ObXZjNHh5QVNrOFZ6NzlCM3lPTEhNdHQ4Z2h4UnpVUG5aZFRfNVJnaVl5cFVKTHlmc3kzT0pQNEIwaFh1cm1ybWJFSGcxOVFSWnM2Mjd6cWVERmVoWkxJRWZxOGJDdHRtUFBGTEFlWnk1UjJvZw?oc=5",
+    "original_title": "Produção da Autoeuropa em Palmela suspensa por mau tempo - SAPO",
+    "original_summary": "Produção da Autoeuropa em Palmela suspensa por mau tempo SAPO",
+    "published_at": "2026-11-10T19:18:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Produção da Autoeuropa em Palmela suspensa por mau tempo - SAPO",
+    "translated_summary": "Produção da Autoeuropa em Palmela suspensa por mau tempo SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:47+00:00"
   },
   {
     "id": "e0b564699263ce1f6b4a",
@@ -19480,6 +20100,28 @@
     "last_translation_attempt_at": "2026-11-10T13:07:28+00:00"
   },
   {
+    "id": "600f7e10d826e21c6f63",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQREs0SFhOQWhoQS1nY0w4QTd6ZlRBZFNlU0gtVXBLREtSX1htdUdaQ1hUQktDQUxheVU1R2lKYThDOGM0T3h2YTZEcTdVbERDeG13X2ZfSmhZWWFtb3QzdkFnY1YzSkNvSktBa1NjU0c0UUdXMnpaaXFpMUdPZUk?oc=5",
+    "original_title": "特別なアキュラ ADX アーバンスペック登場!!! 日本でも乗りたいホンダの高級SUVとは - Yahoo!ニュース",
+    "original_summary": "特別なアキュラ ADX アーバンスペック登場!!! 日本でも乗りたいホンダの高級SUVとは Yahoo!ニュース",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Chegou o Acura ADX Urban Spec especial!!! O SUV de luxo da Honda que também se quer conduzir no Japão - Yahoo! Notícias",
+    "translated_summary": "Chegou o Acura ADX Urban Spec especial!!! O SUV de luxo da Honda que também queremos conduzir no Japão — Yahoo! Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:41:15+00:00"
+  },
+  {
     "id": "d083eaf604416667d9c2",
     "country": "Japão",
     "category": "Automóvel",
@@ -22258,6 +22900,26 @@
     "translated_summary": "Antalya, 10 nov (Xinhua) -- \"A confiança é um recurso escasso na política climática internacional. A trigésima primeira sessão da Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (COP31) está sendo realizada em Antália, Turquia. Michael Schumann, presidente do Conselho de Administração da Associação Federal Alemã de Desenvolvimento Econômico e Comércio Exterior (BWA), deu uma entrevista exclusiva a um repórter da China New Network e trocou opiniões sobre tópicos como a entrada da China de veículos elétricos na Europa, a cooperação de desenvolvimento verde China-Europa e a regulamentação dos EUA de chips de IA na China. Ele enfatizou repetidamente que, diante da interseção entre clima e comércio,\" o que precisamos não é de um campo de batalha, mas de uma bancada de trabalho \".",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T04:57:59+00:00"
+  },
+  {
+    "id": "ad3e55fcc87d0fcba319",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Asian Power",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcEJKdS1MSE5BVW1kQ2pYR1FUVlRBWEtrYm5pQUVxNWktalVOcEZPU2k0bU95WFA0d0dVbEkzeEFuNkplMklwMzNaaEdRYVBKaGUxeFM1eWJac05TWWxfQmhvdjc0QVVXeTh0akc4VXB2cDQ5RER3azhSZkp3aDRVRERZRWRQRUE1TjdJWUhEd0ZqNVNDcjhpUHo5WQ?oc=5",
+    "original_title": "India and Pakistan claim two-thirds of emerging APAC’s renewables rise - Asian Power",
+    "original_summary": "India and Pakistan claim two-thirds of emerging APAC’s renewables rise Asian Power",
+    "published_at": "2026-11-10T04:19:59+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia e Paquistão reivindicam dois terços do aumento das energias renováveis na APAC emergente - Asian Power",
+    "translated_summary": "Índia e Paquistão reivindicam dois terços do aumento das energias renováveis na APAC emergente Asian Power",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:44+00:00"
   },
   {
     "id": "6095c7e55b7358a84ddc",
@@ -39632,6 +40294,28 @@
     "last_translation_attempt_at": "2026-11-10T21:49:16+00:00"
   },
   {
+    "id": "77c72da82d9dc1ecc708",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVpiRGd2SHZxM0VOT0V3aHVQaGJaZnhRcVFrTS1MUFBOa2xIU1o2dGtSUDF6dDBZejFjVnVKX3BTVGhSdUpqbmRoemF0TmM4ZXJrY3lnbjlDSDZJbUkxREdTVm5KR2xodDVQLTd3Y281bW5NUUNtTmRwem1MOUJ6Q3NYUmVBcFBBM2Y4VUozR09UaUpKU0Z6VzRucUl1WmNNTERidXJJbDY2OVVRYW5HNEY2cDFWNUVlOVZiRThKWXdGWTdjZ3QtQg?oc=5",
+    "original_title": "Wirtschaftsaufschwung in Deutschland: Wo er ankommt und wo nicht - FAZ",
+    "original_summary": "Wirtschaftsaufschwung in Deutschland: Wo er ankommt und wo nicht FAZ",
+    "published_at": "2026-11-08T19:44:37+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Retoma económica na Alemanha: onde está a chegar e onde não – FAZ",
+    "translated_summary": "Retoma económica na Alemanha: onde está a chegar e onde não FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:20+00:00"
+  },
+  {
     "id": "874717d2ac53609c6945",
     "country": "Taiwan",
     "category": "Política",
@@ -53931,6 +54615,28 @@
     "last_translation_attempt_at": "2026-11-11T06:06:06+00:00"
   },
   {
+    "id": "3e84087eb67d7eac057c",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzByUXFhZjd3YXY4UVJGR3NWZUJFcmJ0WVRINTRYMGJBRjQ4ajdldUxOMVFtU3ZxOXhsUGE0OHZXLW03eUVfOG51NGtWeF9jX1I4SnV3VEh5bHF3bmFzN1k0NVUtYW9vTnhKRm81TVRZZGhKeENhRWN6cDVVVGpqdEU2U2xZRTNkb0habDM3QUpYRWtfbXBB?oc=5",
+    "original_title": "Konjunktur: Industrieproduktion in Deutschland wächst überraschend - DIE ZEIT",
+    "original_summary": "Konjunktur: Industrieproduktion in Deutschland wächst überraschend DIE ZEIT",
+    "published_at": "2026-11-06T08:11:20+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Economia: a produção industrial na Alemanha cresce surpreendentemente - DIE ZEIT",
+    "translated_summary": "Economia: a produção industrial na Alemanha cresce surpreendentemente DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:23+00:00"
+  },
+  {
     "id": "38471a3d3f907ce1052e",
     "country": "China",
     "category": "Política",
@@ -63251,11 +63957,11 @@
     "published_at": "2026-11-05T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O \"padrinho\" da IA angaria 1,3 mil milhões de dólares singapurenses para uma startup com Singapura como base principal - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "O \"padrinho\" da IA angaria 1,3 mil milhões de dólares singapurenses para uma startup com Singapura como base principal Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:50+00:00"
   },
   {
     "id": "b7a717a15c4a571a5a8c",
@@ -63723,11 +64429,31 @@
     "published_at": "2026-11-05T07:35:36+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities regista um lucro operacional de 348,7 mil milhões de KRW no terceiro trimestre… uma queda de 58,3% em relação ao ano anterior - Yonhap Infomax",
+    "translated_summary": "Korea Investment & Securities: lucro operacional de 348,7 mil milhões de KRW no terceiro trimestre... queda de 58,3% em relação ao ano anterior – Yonhap Infomax",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:54+00:00"
+  },
+  {
+    "id": "510b01ff166a68adba60",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVnNMejFWNUJNMVhRbkJRV0VoOWtRVmg3M0UzMDNpVUM0Z0FwU1NfTURaUEZUV3djWXd1UDRTYmpodlEzNWxkMUd4V3IzYTdtSjF4QTRrVXpQRW9xcWdPRExPV3VGWEE4SEk3QVJlbjV0UQ?oc=5",
+    "original_title": "한국투자증권, 3분기 영업이익 3천487억…작년 대비 58.3%↓ - KB Think",
+    "original_summary": "한국투자증권, 3분기 영업이익 3천487억…작년 대비 58.3%↓ KB Think",
+    "published_at": "2026-11-05T07:35:31+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities regista um lucro operacional de 348,7 mil milhões de KRW no terceiro trimestre... uma queda de 58,3% em relação ao ano anterior - KB Think",
+    "translated_summary": "Korea Investment & Securities: lucro operacional de 348,7 mil milhões de KRW no terceiro trimestre… queda de 58,3% em relação ao ano anterior – KB Think",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:32+00:00"
   },
   {
     "id": "4aaf8b9e4c7895429aa1",
@@ -63972,11 +64698,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"A economia sul-coreana sofreria um prejuízo de 45,3 mil milhões de dólares se o Estreito de Ormuz fosse bloqueado durante 60 dias\"... Realização do \"Seminário Académico Conjunto sobre Segurança Marítima 2026\" - Jornal Marítimo",
+    "translated_summary": "\"A economia sul-coreana sofreria um prejuízo de 45,3 mil milhões de dólares se o Estreito de Ormuz fosse bloqueado durante 60 dias\"... Realização do \"Seminário Académico Conjunto sobre Segurança Marítima 2026\" Jornal Marítimo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:57+00:00"
   },
   {
     "id": "bc09af346a773e2a9bc2",
@@ -65118,11 +65844,11 @@
     "published_at": "2026-11-05T03:46:31+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Pyvio obtém a licença de instituição de pagamentos principal da MAS – Fintech Singapura",
+    "translated_summary": "A Pyvio obtém a licença de instituição de pagamentos principal da MAS para a fintech em Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:43:01+00:00"
   },
   {
     "id": "ef9b2e7a954d97ae84b1",
@@ -65161,11 +65887,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O que acontecerá com a \"grande derrota\" de Trump? \"Três impactos\" na economia japonesa (TV Asahi (ANN)) - Yahoo! Notícias",
+    "translated_summary": "O que acontecerá com a \"grande derrota\" de Trump? \"Três impactos\" na economia japonesa (TV Asahi (ANN)) Yahoo! Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:43:04+00:00"
   },
   {
     "id": "65a8c2f56e3e1882f041",
@@ -66086,6 +66812,28 @@
     "translated_summary": "Ruan Qingyi, membro do Birô Político do Comitê Central do Partido Comunista do Vietnã, secretário do Secretariado Central e ministro do Departamento Central de Política e Estratégia, visitou a província chinesa de Zhejiang",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T02:57:29+00:00"
+  },
+  {
+    "id": "8fe8c236fb51353965a2",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "YTN",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1maWpIQkNVbmhoYWpSemRVTTIyLUdJX3Fvclpic1YwYzloek9yRkIwYkx3RWpVekZLSkRBX19OSGotTHZldkJzRWU4WjRFN1otOXBzOVhoV3lsVHJLMFE?oc=5",
+    "original_title": "미 중간선거 '블루 쓰나미'...한국 경제 영향은? [뉴스UP] - YTN",
+    "original_summary": "미 중간선거 '블루 쓰나미'...한국 경제 영향은? [뉴스UP] YTN",
+    "published_at": "2026-11-04T23:56:00+00:00",
+    "first_seen_at": "2026-11-11T21:40:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Tsunami azul\" nas eleições intercalares dos EUA... Qual o impacto na economia sul-coreana? [NewsUP] - YTN",
+    "translated_summary": "\"Tsunami azul\" nas eleições intercalares dos EUA... Qual o impacto na economia sul-coreana? [NewsUP] YTN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T21:42:29+00:00"
   },
   {
     "id": "57c65e5f42d8f3dec50e",
