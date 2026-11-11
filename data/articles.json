@@ -80,6 +80,237 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "11071e2d922e203e6e24",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnVsdDk5bHdzRWplZDROVVVWNjhGUzFLLUJJQjRzWnh5U2UxQzU2R095RXBQdno0aklEbDNEY0NxLS1WY3A2UFB1U0JnOXlxVDJabUMzdmNWOXh6YXZNUDMtTkRDTXBIcEhKTUhsRDJYS2lWWkN6QU1hTU80TEtFelBGWm4taGhZeldOM2FOZll3ZE43Z2kzLTd3?oc=5",
+    "original_title": "Positive Wirtschaftsprognosen: Trend oder Eintagsfliege? - ZDFheute",
+    "original_summary": "Positive Wirtschaftsprognosen: Trend oder Eintagsfliege? ZDFheute",
+    "published_at": "2026-11-11T17:48:02+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Previsões económicas positivas: tendência ou fogo de vista? - ZDFheute",
+    "translated_summary": "Previsões económicas positivas: tendência ou fogo de vista? ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:47+00:00"
+  },
+  {
+    "id": "dfe942ab042f8caeb578",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01VWpSdXFkTi1OVGtWbWpiVE9kRDRjZkdUTTByU0hYLTcwR08wcXkwV1BaUmVSQjhQZXI5WEV3bnJWN2lWcVRqcEVQV21EdXNX0gFWQVVfeXFMTjNqX3BESGdJUGttNk43bDkwM21KdUVFc2FGTmJzd29aSExWRHdZeHN0NlhIZng4S0ZPUllwZnZlQnc3am5kQU4tbVE4SFJrTW50bm1HUVE?oc=5",
+    "original_title": "舊車換電動車補助 延至2030年 - UDN",
+    "original_summary": "舊車換電動車補助 延至2030年 UDN",
+    "published_at": "2026-11-11T17:41:31+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Política industrial"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Subsídio para troca de veículos antigos por veículos elétricos prorrogado até 2030 - UDN",
+    "translated_summary": "Subsídio para troca de veículos antigos por veículos elétricos prolongado até 2030 UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:28+00:00"
+  },
+  {
+    "id": "0cb0eec99075eb9926ba",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/mp-vehicle-registrations-fall-47-yoy-in-october-but-rise-36-month-on-month/135745186",
+    "original_title": "MP vehicle registrations fall 47% YoY in October, but rise 36% month-on-month",
+    "original_summary": "Madhya Pradesh recorded 1.69 lakh vehicle registrations in October, down 46.88 per cent year-on-year but up 36 per cent from September, as festive demand supported a monthly recovery.",
+    "published_at": "2026-11-11T17:30:52+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As matrículas de veículos MP caem 47% em termos homólogos em outubro, mas aumentam 36% em termos mensais",
+    "translated_summary": "Madhya Pradesh registou 1,69 lakh de matrículas de veículos em outubro, o que representa uma queda de 46,88% em relação ao ano anterior, mas um aumento de 36% em relação a setembro, já que a procura durante a época festiva apoiou uma recuperação mensal.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:34+00:00"
+  },
+  {
+    "id": "6cc28632b06b0fb48800",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/volkswagens-china-ev-venture-shelves-new-model-plans-for-2027-and-2028-amid-weak-demand/135745291",
+    "original_title": "Volkswagen's China EV venture shelves new model plans for 2027 and 2028 amid weak demand",
+    "original_summary": "Volkswagen Anhui has no new models planned for 2027 and 2028 after sales of its ID. UNYX range fell short of expectations in China's highly competitive EV market.",
+    "published_at": "2026-11-11T17:30:32+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A empresa de veículos elétricos da Volkswagen na China adia os planos para novos modelos em 2027 e 2028 devido à fraca procura",
+    "translated_summary": "A Volkswagen Anhui não tem novos modelos planeados para 2027 e 2028 após as vendas da sua gama ID. A gama UNYX ter ficado aquém das expectativas no mercado de veículos elétricos altamente competitivo da China.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:37+00:00"
+  },
+  {
+    "id": "9919be97013c6501262e",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Deutscher Bundestag",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLXo0VEItS281a09DMlYyb1VjWXFXREk3LV90OERtWkd3NjFHVzhRRXVPSUl6UUVTR25Ia212dW9VR28zRjRJZTJCdE5LX2pucVhVbXlDaVBBc21EVmlveTlvR2h5bXV3XzNiVVhXeDFBbTZwVnBLRWhwWXY1clEzb01HWE9wdlI2NWlCTmNmVEtUUWsyOUpic0huX1ZEQQ?oc=5",
+    "original_title": "Debatte zur Entfernung der Einheitsflagge durch Palästina-Aktivist - Deutscher Bundestag",
+    "original_summary": "Debatte zur Entfernung der Einheitsflagge durch Palästina-Aktivist Deutscher Bundestag",
+    "published_at": "2026-11-11T17:26:19+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Debate sobre a remoção da bandeira nacional por um ativista palestiniano - Bundestag alemão",
+    "translated_summary": "Debate sobre a remoção da bandeira nacional pela ativista pró-Palestina no Bundestag alemão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:15+00:00"
+  },
+  {
+    "id": "640f2cf170a32edd9667",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/pune-airport-to-impose-500-fine-on-vehicles-overstaying-15-minute-limit-from-december/135745075",
+    "original_title": "Pune airport to impose ₹500 fine on vehicles overstaying 15-minute limit from December",
+    "original_summary": "Pune airport will enforce a 15-minute limit for vehicles entering its premises to drop off or pick up passengers, with violators facing a ₹500 fine from December.",
+    "published_at": "2026-11-11T17:22:03+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O aeroporto de Pune vai aplicar uma multa de 500 ₹ aos veículos que excedam o limite de 15 minutos a partir de dezembro",
+    "translated_summary": "O aeroporto de Pune vai aplicar um limite de 15 minutos para os veículos que entrarem nas suas instalações para deixar ou recolher passageiros, sendo que os infratores terão de pagar uma multa de 500 ₹ a partir de dezembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:40+00:00"
+  },
+  {
+    "id": "1e379b7bde4c2391e32d",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/doze-pessoas-realojadas-devido-aos-efeitos-da-chuva-em-palmela_n1778483",
+    "original_title": "Doze pessoas realojadas devido aos efeitos da chuva em Palmela",
+    "original_summary": "Doze pessoas tiveram de abandonar as habitações onde residem devido a infiltrações e entrada de água pelos telhados no concelho de Palmela, mas já estão todas realojadas, revelou à Lusa fonte da Câmara Municipal",
+    "published_at": "2026-11-11T17:17:34+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Doze pessoas realojadas devido aos efeitos da chuva em Palmela",
+    "translated_summary": "Doze pessoas tiveram de abandonar as habitações onde residem devido a infiltrações e entrada de água pelos telhados no concelho de Palmela, mas já estão todas realojadas, revelou à Lusa fonte da Câmara Municipal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:15+00:00"
+  },
+  {
+    "id": "46f7c267fa45d5345aea",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/organizacao-totalmente-concentrada-na-realizacao-do-ultimo-dia_n1778474",
+    "original_title": "Organização totalmente concentrada na realização do último dia",
+    "original_summary": "A organização da Web Summit está totalmente concentrada na realização do último dia do evento, o mais intenso de sempre, disse hoje à Lusa fonte oficial, adiantando que o presidente executivo dará uma conferência de imprensa na quinta-feira.",
+    "published_at": "2026-11-11T17:16:14+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Organização totalmente concentrada na realização do último dia",
+    "translated_summary": "A organização da Web Summit está totalmente concentrada na realização do último dia do evento, o mais intenso de sempre, disse hoje à Lusa fonte oficial, adiantando que o presidente executivo dará uma conferência de imprensa na quinta-feira.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:16+00:00"
+  },
+  {
+    "id": "4758eda22510bbdf6d16",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374120/rubio-wang-hold-phone-call-trump-xi-meeting-next-week",
+    "original_title": "Rubio, Wang hold phone call before Xi-Trump meeting next week",
+    "original_summary": "US Secretary of State Marco Rubio held a phone call with Chinese Foreign Minister Wang Yi on Wednesday to finalise preparations for next week’s meeting between US President Donald Trump and Chinese leader Xi Jinping in Shenzhen, China. “The two heads of state agreed to enrich the connotation of a new vision of China-US relations, providing clearer strategic guidance for exploring a right approach for the two countries to get along with each other,” Chinese state news agency Xinhua quoted Wang as...",
+    "published_at": "2026-11-11T17:07:10+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Rubio e Wang mantêm conversa telefónica antes da reunião entre Xi e Trump na próxima semana",
+    "translated_summary": "O Secretário de Estado dos EUA, Marco Rubio, teve uma conversa telefónica com o Ministro dos Negócios Estrangeiros da China, Wang Yi, na quarta-feira, para finalizar os preparativos para a reunião da próxima semana entre o Presidente dos EUA, Donald Trump, e o líder chinês, Xi Jinping, em Shenzhen, China. \"Os dois chefes de Estado concordaram em enriquecer a conotação de uma nova visão das relações entre a China e os EUA, fornecendo orientações estratégicas mais claras para explorar uma abordagem adequada para que os dois países se entendam.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:44+00:00"
+  },
+  {
+    "id": "2c59b8bff0b9c30d3568",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Capital.de",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXdtV25MWUZQVzR0cDE1T2NTbEp3cmhzWU1JeXlsMWFSZEV2VE1MZ2MxdEVjbDh1SU00T2Z1QWpSUWRkVlR3bk1oTG1nZU95enhqN0dBUkZKUkJKOWs2eVZ6N29yem14VkhJRFRkMUpMQWY0MGJYc2VEZWJIaVVXZnYwVGk4ZVlRQnlvRk9Idk1TekJFMTlsRVZNUG4yeWlvWUZIemVLeVVobmU4YkQzMTViQ0FtMFRpRzRDcVBZdzBwS0x2ZVZr?oc=5",
+    "original_title": "Ökonom Martin Werding: „Wir sind auf riesige Lücken gestoßen“ - Capital.de",
+    "original_summary": "Ökonom Martin Werding: „Wir sind auf riesige Lücken gestoßen“ Capital.de",
+    "published_at": "2026-11-11T17:00:00+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Economista Martin Werding: \"Deparámo-nos com lacunas enormes\" - Capital.de",
+    "translated_summary": "Economista Martin Werding: \"Deparámo-nos com lacunas enormes\" Capital.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:50+00:00"
+  },
+  {
+    "id": "d6108868fbb3bb3bbd4b",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "WELT",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX1VUVVp2XzVsNWlpYmVyYlJLUmlyWnRuOXZxSXFHNXFFWk8xR1VpR09Eenk2dlU1LW9fRGtSTmtCSEx3cDhoMi0xQVh4TmVRSW5GSFl1eWR6UjZhQXlRLU1wRXZmbnVRT2RfVDdWWDVESkYwc01NOE4wTFpveERDVVJ5T2huRUVVX3pDTEI2U0o0Qi1SbWlZTEotWkVKZERzLVBPQjFoNnc0WWFKek9MUTZhR2ViUWxqWE1JZUN6WV9RenJDcERBWUI1UlZ5WW5qdXNiREgzM2hjR0RBR3JMRXcybF9YMXM3eHJKaVZNRTNqblhkOWZxZkt6NDUydEpxRElYZWZXOA?oc=5",
+    "original_title": "„Propalästinensischer Blödsinn“ – Flaggen-Eklat entfacht heftigen Streit im Bundestag - WELT",
+    "original_summary": "„Propalästinensischer Blödsinn“ – Flaggen-Eklat entfacht heftigen Streit im Bundestag WELT",
+    "published_at": "2026-11-11T16:50:20+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Absurdos pró-palestinianos\" – Escândalo das bandeiras desencadeia acesa disputa no Bundestag - WELT",
+    "translated_summary": "\"Absurdo pró-palestiniano\" – O escândalo das bandeiras desencadeia uma disputa acesa no Bundestag WELT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:18+00:00"
+  },
+  {
     "id": "8020fbadbc297e70e5cd",
     "country": "Índia",
     "category": "Política",
@@ -140,6 +371,26 @@
     "translated_summary": "Os olhos invisíveis de Braga Correio do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T17:01:24+00:00"
+  },
+  {
+    "id": "58fdbc9f58d8942bdb06",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEg0ZjdfLTlVZ3BKNExmQXpBZlgxR2xhZEFHRmJnMEc4eUNaTUV0MkU5ZFZJaTdsWG02WndkTXdfS2R0djU3cUU1Mi1id3RUQnBfMnIta05PaF9kcGhqQUc3TFlLczhKOEFyNVEzNGRnZlBpbWo5aWg4QkJyZWFVaXRscHhQM0dqV0RKU2dldWFRLWxSbGpxZXcxM1VjZEYxOFFTcGFYVUM5SnAtU0ZOa0t3SWZOTF9zbEpTZFo0SVlmbS1zTlHSAcsBQVVfeXFMUE44MjVNUHptQWxuV2pjT1kyOUEzYm9aVFFpckFSR29DY19WVll4X254ZVVlQ2JBcFNYU0ZXNkZRY3NFU1Z2NkN2Q1gtODh6NXU5dmZDQ3RNaVdFQjI1VDBPd3VXVkJ2WGtXZU5oLVFRUUVQeURUa0UtU1dxR29lOTJHa1daRWpPUjBPUzNOVUh1c2Zha21jQ0oxQkdydWN4OVNRX090bElyd2RLQXRySmtJTmtxMUNGaW4wWWdpV3V0MlUzWTBzRTFyZlU?oc=5",
+    "original_title": "Go Go Food. O molho de francesinha de Braga pronto a servir - Diário do Minho",
+    "original_summary": "Go Go Food. O molho de francesinha de Braga pronto a servir Diário do Minho",
+    "published_at": "2026-11-11T16:32:00+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Go Go Food. O molho de francesinha de Braga pronto a servir - Diário do Minho",
+    "translated_summary": "Go Go Food. O molho de francesinha de Braga pronto a servir Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:22+00:00"
   },
   {
     "id": "89826bc752dc6184e82c",
@@ -526,6 +777,48 @@
     "translated_summary": "Taiwan e os Estados Unidos assinam o Programa de Bolsas de Estudo para Académicos. Lin Chia-lung: Permitir que mais profissionais dos Estados Unidos conheçam Taiwan. UDN",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T15:35:20+00:00"
+  },
+  {
+    "id": "4c741d6ec9b714e6c912",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Börse Express",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVJELWhlc0w4c0FaenlIZFV1MXVxV29JektnSGVqeXZXa28wT0pucG9TZTcxNDluU3g0YWZHZ0JFU1VqY3d4OHE3ZkFKY0dUZkpRb1VTWU5zZ0FSclUzMkJtZHZpaWg1Znd5TzhtVFZRRUVIa3JEbER3OGJidm1YRW9uZExmZElERi1td2pLMEozMVJDX243b2VvMUU2VTZMc2VEMGtMUG5IaGVPSTZmSnlB?oc=5",
+    "original_title": "Mercedes-Benz Aktie: Källenius will an die Arbeitskosten ran - Börse Express",
+    "original_summary": "Mercedes-Benz Aktie: Källenius will an die Arbeitskosten ran Börse Express",
+    "published_at": "2026-11-11T14:43:06+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ação da Mercedes-Benz: Källenius quer reduzir os custos de mão de obra - Börse Express",
+    "translated_summary": "Ação da Mercedes-Benz: Källenius quer abordar os custos laborais Börse Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:22+00:00"
+  },
+  {
+    "id": "9511b244fe7ad824cf99",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Idealista",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX05xT0c5LUFwNlBaZXlXeDFERUxNUEpGbXRad181SkZHbndQQ0NYNW1VMFRzZWxkM093M211TDh1ZjR5RFRGdU51TTJlSUY5S3U4WjdXVUVGeTZrWFhqbDYzRlNUN0Q1UFVPNUR0c25Qc3lKSWNELU1TNkpVTWFXZ19STUtlbkx1WWpxNEoxTGtZbmo0U3Y0em16N0pCdGZVa1V3SnNyaGhCM212S0Nqd1dzYk1wVF9SaGdtT3dGeGQySEtLUUdV?oc=5",
+    "original_title": "Inflação sobe para 3,8% em outubro – está a aumentar há três meses - Idealista",
+    "original_summary": "Inflação sobe para 3,8% em outubro – está a aumentar há três meses Idealista",
+    "published_at": "2026-11-11T14:39:32+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Inflação sobe para 3,8% em outubro – está a aumentar há três meses - Idealista",
+    "translated_summary": "Inflação sobe para 3,8% em outubro – está a aumentar há três meses Idealista",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:18+00:00"
   },
   {
     "id": "51d706b09c13bbff953e",
@@ -953,6 +1246,26 @@
     "translated_summary": "Agência de Notícias Xinhua, Pequim, 11 de novembro (Agência de Notícias Xinhua) O relatório da Missão Central de Propaganda para Implementar o Espírito da Quinta Sessão Plenária do 20º Comitê Central do PCCh foi realizado no Departamento Central de Propaganda em 11 de novembro. Li Shulei, membro do Grupo Central de Propaganda, membro do Birô Político do Comitê Central do Partido Comunista da China e chefe do Departamento Central de Propaganda, fez um discurso.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:25:01+00:00"
+  },
+  {
+    "id": "1400519051b033ea7bd9",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1JjQ0toMEdEZXc1SlgzNUpwb0g1NkhDcEFPQjMzckpjbnJaMDhwcFFoa3RCZnplc2hPN3R6RUZJRndMcC1NVkpYUmNTWHo2VW1rQlg1NlVhOUZodFNrcU1uV3c2QVBpTkk3OHU5LXBzcTdJSHhDSlA5azB2VS10MFo0SlVLUmtkWFZCZG11d0FWSHZUbmNZVmtsUFlldTJ4UV9HSEpFQ1Rpc0VCSzlldHZVeVNXUmltYjhob0JodG82Um9rclg5bFZabFhZNm1LX1HSAdcBQVVfeXFMTWFubF9WOEU2OThfNFRudHJMWDlNVTVlWExVd3RFeHNQWWM3Wm1FWGhQY19NREwxbVl1aHdTd0Mxa2h0WnFJZjdKVy15RU9qWm9FbFhZVmhzUk5MZ2k0dVo1b1o2b1JlUzRxckt5WXgzNjhBU2R4aXdxajdzckZGWWdyQzUxbzNaZDNWcUdZRkhoY2hfTXFrcW5vZnVteHA2VHZuZGdfRS0waENrTWJNLW1QQkxXUmhUdXQycWFDMzd3MVpmbFZZWFBuRHE1eUQySEJnWVM0WGs?oc=5",
+    "original_title": "Moody's retains India's FY27 growth forecast at 7% on resilient demand - Business Standard",
+    "original_summary": "Moody's retains India's FY27 growth forecast at 7% on resilient demand Business Standard",
+    "published_at": "2026-11-11T13:41:16+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Moody's mantém a previsão de crescimento da Índia para o ano fiscal de 2027 em 7% devido à procura resiliente - Business Standard",
+    "translated_summary": "A Moody's mantém a previsão de crescimento da Índia para o ano fiscal de 2027 em 7%, devido à procura resiliente Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:12+00:00"
   },
   {
     "id": "342e62e52184da2d44e3",
@@ -2572,6 +2885,28 @@
     "translated_summary": "A denso, pioneira dos veículos elétricos fabricados no Japão, foi registrada como Heritage Car! Yahoo! News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:25:15+00:00"
+  },
+  {
+    "id": "5f5a88f731dbe4125826",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "くるまのニュース",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zWXlETW41UV9zdWVCVFo1V3JCRk8tZnFnbHB4RnBaN1dnckZRcThhT3RZS09wc3ZXOGdNMXBPX245cGxMeUxmMjFMaw?oc=5",
+    "original_title": "「シエンタ」サイズの日本製「\"超レトロ\"電気自動車」がスゴイ！ \"6人乗り\"ボディに「自社開発モーター」搭載し\"195km\"走る！ めちゃ先進設計で\"即完売\"した日本電装「デンソー号」とは！ - くるまのニュース",
+    "original_summary": "「シエンタ」サイズの日本製「\"超レトロ\"電気自動車」がスゴイ！ \"6人乗り\"ボディに「自社開発モーター」搭載し\"195km\"走る！ めちゃ先進設計で\"即完売\"した日本電装「デンソー号」とは！ くるまのニュース",
+    "published_at": "2026-11-11T11:45:00+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O \"veículo elétrico \"super retro\"\" de fabrico japonês do tamanho do \"Sienta\" é incrível! Equipado com um \"motor desenvolvido internamente\" numa carroçaria \"de 6 lugares\", percorre \"195 km\"! O que é o \"Denso-go\" da Denso, que \"esgotou imediatamente\" graças ao seu design extremamente avançado! - Notícias automóveis",
+    "translated_summary": "O \"veículo elétrico \"super-retro\"\" fabricado no Japão, do tamanho do \"Sienta\", é incrível! Equipado com um \"motor desenvolvido internamente\" numa carroçaria \"de 6 lugares\", percorre \"195 km\"! O que é o \"Denso-go\" da Denso, que \"esgotou imediatamente\" graças ao seu design extremamente avançado! Notícias automóveis",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:09+00:00"
   },
   {
     "id": "1a3e1569d754c14dcf39",
@@ -5174,6 +5509,26 @@
     "last_translation_attempt_at": "2026-11-11T15:36:32+00:00"
   },
   {
+    "id": "86b1bbfef5ede55fb9c6",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk5zRkIydWNkNGk2d3JXZHNRbUVFRGdHYXpKaTRST2E0RXlGUVZ1YWVaX2FZbl9abUNud25BM3NTSHVBZklFQUR1MzNRVGRueDRXS2twc1VkbzcxQ2NEcEs5aldncTdxV3JQcHpuazh3LTFGaEVHSnVrTUFoSER3Z2ZsR0dZcXc3cnR1ZzhiVnRhRUhudlM5ZUt1MzN3aUo5aGJTNlpBbjB0V3RhN21aOEVRM2Rfb3I3M2FrWTc1dUZfc0lrMERmUzVvUW14eXVIM1hFZGpOWGlwS0RQd0lhYS1tVTVTNTVRb09TR1hfSFZhd9IB9wFBVV95cUxQZDIwbzFfWkd0eG9zSjgxalFTSnZiWWswcWJDdENGYXRQblYySEpuTTAtekVBRm8yM0VBS1dZTm00WGlkTDJDYUduWjZRTE5SbTdkTnpGX0hDcFM1SnZCaTVXVW81QlZZa2xIS3hEbnBCeUFjV2lHSG1IY0d3X3ZjdDRhcnBXdGFxclR6VURwZnpoR2lPc2hBejNjWlhQSE9ibUF0SE9jaklxemlDYTlTYTNrM0M0bW43X0dmTmpEQjg4ZnhwZnpobG9vQ0NpR2hSc3Ztbk9fMXRHeUJ0dWZPMk01R3pfWjRodE5KcF93QU5fem5iMlAw?oc=5",
+    "original_title": "Moody’s raises India’s FY27 growth forecast to 7% on strong economic momentum - The Times of India",
+    "original_summary": "Moody’s raises India’s FY27 growth forecast to 7% on strong economic momentum The Times of India",
+    "published_at": "2026-11-11T08:37:00+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7% devido ao forte dinamismo económico - The Times of India",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7% devido ao forte dinamismo económico The Times of India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:03+00:00"
+  },
+  {
     "id": "7ae41b40d73cc2ab21c1",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -6378,6 +6733,28 @@
     "translation_error": "RuntimeError"
   },
   {
+    "id": "a32f2b180df9146ad3f9",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBScVhjbjlmcG5SdFJkb3BTa3ZyQW5VanAzQXZnZWZlLWdObHRkZ2hlaFltTzBXQV83M3JlVng2aDFsLWJIVWdsNGpaWncyRk8xRnEwYXZINW4xdw?oc=5",
+    "original_title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 11일) - 한국경제",
+    "original_summary": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 11일) 한국경제",
+    "published_at": "2026-11-11T07:23:12+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Resumo dos conteúdos Premium9 de hoje (11 de novembro) - The Korea Economic Daily",
+    "translated_summary": "Resumo de conteúdos Premium9 de hoje (11 de novembro) Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:53+00:00"
+  },
+  {
     "id": "073a2b13f17a716c2833",
     "country": "China",
     "category": "Economia",
@@ -7092,6 +7469,28 @@
     "last_translation_attempt_at": "2026-11-11T17:02:07+00:00"
   },
   {
+    "id": "1e55bc13820c0b72ec34",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Eastspring Investments",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGQ2QkxsSnlHNjZBNk8wSTc1WndYWjdhdXFXSnFRNV9OVWJ4NTJGeXdST2dZZkNLaHpqTi10VFB1X2xVQVlGRC01Vjc3V1lpUlNNc2R6bndyUHZ2OTlkMTJTUGtRWFZuci1iNVh5V2k3ZFluSERFV3JLcmpaUzBHUnlNMFpBZjBza1VKTG9Penc5bDRjNmZjbnRn?oc=5",
+    "original_title": "India equities: A different view from the ground - Eastspring Investments",
+    "original_summary": "India equities: A different view from the ground Eastspring Investments",
+    "published_at": "2026-11-11T06:44:40+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ações indianas: uma perspetiva diferente a partir do terreno – Eastspring Investments",
+    "translated_summary": "Ações indianas: uma perspetiva diferente a partir do terreno Eastspring Investments",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:09+00:00"
+  },
+  {
     "id": "997a681fa8602a917ec9",
     "country": "China",
     "category": "Política",
@@ -7329,6 +7728,26 @@
     "translated_summary": "Prova de Heungkuk \"O dólar do próximo ano - ganhou uma média de 1.327 won... caindo gradualmente para 1.300 won no final do ano\" KB Think",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:21:11+00:00"
+  },
+  {
+    "id": "cd57be4f7b3f87b0458b",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwODU3N0NyYnNaNmhSWUUtRVQ0THJWRzI2MWhNbGxuU1B2Ml9UT1lCMkFOLWF5aThIWUkzLVdzd0lMN1g3VjIzMHBQVzZlVWxFN2J3U3FEQnhFQUNGVFY3WGhQc1FvdExLS3c?oc=5",
+    "original_title": "김혜경 여사, 재일본대한민국민단 부인회 차담회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "김혜경 여사, 재일본대한민국민단 부인회 차담회 - 포토 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T06:23:02+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Sra. Kim Hye-kyung, Reunião de Conversa do Clube das Senhoras da Associação dos Residentes Coreanos no Japão - Fotos | Multimédia - Briefing sobre as Políticas da República da Coreia",
+    "translated_summary": "Sra. Kim Hye-kyung, Reunião de Conversa do Clube das Senhoras da Associação dos Residentes Coreanos no Japão - Fotografia | Multimédia Informações sobre as Políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:25+00:00"
   },
   {
     "id": "41342e38460dfd4d021f",
@@ -7749,11 +8168,11 @@
     "published_at": "2026-11-11T05:31:37+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Bosch Limited espera um segundo semestre mais modesto após um segundo trimestre recorde - Multibagg AI",
+    "translated_summary": "A Bosch Limited espera um segundo semestre mais modesto após um segundo trimestre recorde com a Multibag AI",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:23+00:00"
   },
   {
     "id": "4e781ea6a2a4a2ff9c97",
@@ -8315,11 +8734,11 @@
     "topics": [
       "Condução autónoma"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Sociedade Coreana de Engenharia Automóvel realiza conferência académica de outono em Yeosu no dia 18… Discussão sobre tecnologias de veículos do futuro, como IA e condução autónoma - Etoday",
+    "translated_summary": "Sociedade Coreana de Engenharia Automóvel realiza conferência académica de outono em Yeosu no dia 18… Discussão sobre tecnologias de veículos do futuro, como IA e condução autónoma - Etoday",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:26+00:00"
   },
   {
     "id": "9e2b2389ffe5293d2cde",
@@ -9504,11 +9923,11 @@
     "published_at": "2026-11-11T02:04:46+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Pan Pacific Singapore recebe um galardão nos Travel Daily Media Travel Trade Excellence Awards 2026 – Ásia – Travel Daily Media",
+    "translated_summary": "O Pan Pacific Singapore recebe um galardão nos Travel Trade Excellence Awards 2026 da Travel Daily Media – Asia Travel Daily Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:29+00:00"
   },
   {
     "id": "5844854538889842df9c",
@@ -9674,11 +10093,11 @@
     "published_at": "2026-11-11T02:00:35+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Polícias reunidos ao lado de uma criança com o slogan \"Todos a sério\" - Vídeo | Multimédia - Briefing sobre as políticas da Coreia do Sul",
+    "translated_summary": "Polícias reunidos ao lado de uma criança com o lema \"Todos a sério\" - Vídeo | Briefing de Políticas da Coreia do Sul Multimédia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:33+00:00"
   },
   {
     "id": "6b0a4fd9f7c067acae75",
@@ -9822,11 +10241,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Queda coletiva! Grande notícia sobre o aumento das taxas de juro da Reserva Federal — China Economic Net",
+    "translated_summary": "Mergulho coletivo! Reserva Federal, grandes notícias sobre o aumento das taxas de juro China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:36+00:00"
   },
   {
     "id": "3221586e64c90a2d669e",
@@ -9929,11 +10348,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cidade de Chenzhou, província de Hunan: o desenvolvimento das empresas nas regiões antigas conta com apoio - China Economic Net",
+    "translated_summary": "Cidade de Chenzhou, província de Hunan: O desenvolvimento económico das regiões antigas conta com apoio — China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:39+00:00"
   },
   {
     "id": "8bf35642ae3eee2aad9c",
@@ -10205,11 +10624,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os singapurenses querem investir mais, mas as exigências financeiras da vida impedem-nos de o fazer: Inquérito - The Straits Times",
+    "translated_summary": "Os singapurenses querem investir mais, mas as exigências financeiras da vida impedem-nos: Inquérito do The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:41+00:00"
   },
   {
     "id": "6527160fe0126b3451e7",
@@ -10444,6 +10863,28 @@
     "last_translation_attempt_at": "2026-11-11T04:00:23+00:00"
   },
   {
+    "id": "f26c1f086f65cb8ba2ea",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "朝日新聞",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JVk1vaGZGRnZEYU90cmZuT1FuLWgyajZFcklvd2laOE04OE84UDhoOFBSRGdQUDdhVmJrNFVhQllKWk03Qjd1RGxGamo1MldnenoyY0ttdlFJMktPcm9penJSTXd1eDQ?oc=5",
+    "original_title": "トヨタが米国で軽トラック発売へ 最高時速は40キロの「低速車両」 - 朝日新聞",
+    "original_summary": "トヨタが米国で軽トラック発売へ 最高時速は40キロの「低速車両」 朝日新聞",
+    "published_at": "2026-11-11T00:29:47+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Toyota vai lançar um veículo ligeiro nos Estados Unidos: um \"veículo de baixa velocidade\" com uma velocidade máxima de 40 km/h - Asahi Shimbun",
+    "translated_summary": "A Toyota vai lançar um veículo utilitário ligeiro nos Estados Unidos. Trata-se de um \"veículo de baixa velocidade\" com uma velocidade máxima de 40 km/h. Asahi Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:12+00:00"
+  },
+  {
     "id": "46f04b85dc5ab74e4cbf",
     "country": "Portugal",
     "category": "Automóvel",
@@ -10605,11 +11046,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Política de aviação abrangente a ser apresentada na próxima reunião do Conselho de Ministros: Min - The Hans India",
+    "translated_summary": "Política de aviação abrangente a ser apresentada na próxima reunião do Conselho de Ministros: Min The Hans India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:45+00:00"
   },
   {
     "id": "5347604dce386b7d3d27",
@@ -11006,11 +11447,11 @@
     "published_at": "2026-11-10T23:00:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A IA não deve conduzir a um cenário em que o vencedor leva tudo: Chia Der Jiun, da MAS - The Business Times",
+    "translated_summary": "A IA não deve conduzir a um cenário em que o vencedor leva tudo: Chia Der Jiun, da MAS The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:48+00:00"
   },
   {
     "id": "6ad0b6d897475c45e8cc",
@@ -11124,6 +11565,26 @@
     "translated_summary": "Coisas boas andam ao vento China Economic Net",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T23:42:37+00:00"
+  },
+  {
+    "id": "1b80a820a57bdf43d4d4",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "凤凰网",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJSUYzUFNQSXIyY0lmbWREYklZT2dKZjR3OFZxNnd1SmY0bTUycVAzQ1Q0QVhLTzl4cHVCYVptMldpVkpwRkNidElUc1E?oc=5",
+    "original_title": "立陶宛的必答题：一个中国原则 - 凤凰网",
+    "original_summary": "立陶宛的必答题：一个中国原则 凤凰网",
+    "published_at": "2026-11-10T22:38:33+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Pergunta obrigatória para a Lituânia: o princípio de uma só China - Phoenixnet",
+    "translated_summary": "Pergunta obrigatória na Lituânia: o princípio de uma só China — Phoenixnet",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:05+00:00"
   },
   {
     "id": "9430977d113c02042625",
@@ -11245,11 +11706,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A resposta da era da fermentação milenar - China Economic Net",
+    "translated_summary": "Resposta da era da fermentação milenar China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:51+00:00"
   },
   {
     "id": "a05f63b6175c44c0b1d8",
@@ -12698,6 +13159,28 @@
     "translated_summary": "Novas soluções híbridas metal-plástico oferecem até 37% de redução de peso e 66% menos emissões relacionadas ao material do que um conceito de alumínio",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T17:53:09+00:00"
+  },
+  {
+    "id": "e21bfa921ab363c06651",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFzWkFwZE84d1VMQnU2WThJdFotUnZHRG9NOTZUMTRvc2hJQlc2dlZIOVZpaUtEeXBINTB3RnRGcFNoaHFTTnhBRzU2WmROSkwwQ2w1aTJzSHU1WlBLaGh5RldRSFhfTnF6bmx4ZFZJRUFZVjdMR1BhNTdDeG0yUGk1TTlTMjU5MjJxU2VSQVp6YU1NMTYwTDhR?oc=5",
+    "original_title": "Piyush Goyal says India on track to achieve $1 trillion export target - News On AIR",
+    "original_summary": "Piyush Goyal says India on track to achieve $1 trillion export target News On AIR",
+    "published_at": "2026-11-10T16:53:04+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Piyush Goyal afirma que a Índia está no caminho certo para atingir a meta de exportações de 1 bilião de dólares - Notícias na AIR",
+    "translated_summary": "Piyush Goyal afirma que a Índia está no bom caminho para atingir a meta de exportações de 1 bilião de dólares Notícias na AIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:06+00:00"
   },
   {
     "id": "71c20cc649ee8f60ff32",
@@ -14663,6 +15146,26 @@
     "last_translation_attempt_at": "2026-11-10T17:52:58+00:00"
   },
   {
+    "id": "2998340cd9634aa56019",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Notícias U.Porto",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzVxM0drUUpDWUR2UEl0OHctQWRwcjRWRWQybmRJUFlrS2FDc0tLemNITjQxSDhOTTZWTl9LS2x1VlNkVWUtdVJWaWozS0xSbkJYOWpNOU9lTmtlUFM0bUdjd0RKVGZfclFEZTdPQUN5d2hyaHFHOXZpWHNvc2FQQ0pNQ3gzVlowVlBYeFpkZXZ2RFFTXzlveC1sYzVIZlU5RUdDVmU3U0p0dw?oc=5",
+    "original_title": "U.Porto acolheu Fórum de Cooperação Estratégica entre Portugal e México - Notícias U.Porto",
+    "original_summary": "U.Porto acolheu Fórum de Cooperação Estratégica entre Portugal e México Notícias U.Porto",
+    "published_at": "2026-11-10T12:46:05+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "U.Porto acolheu Fórum de Cooperação Estratégica entre Portugal e México - Notícias U.Porto",
+    "translated_summary": "U.Porto acolheu Fórum de Cooperação Estratégica entre Portugal e México Notícias U.Porto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:20+00:00"
+  },
+  {
     "id": "8d37a93b390ad4981d31",
     "country": "China",
     "category": "Automóvel",
@@ -15716,6 +16219,28 @@
     "last_translation_attempt_at": "2026-11-10T23:42:26+00:00"
   },
   {
+    "id": "34c7152ec6ce2dfef7b6",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjBlMkpJdksyQW1Yc3lQTDM2VEtTZ3VKUGhSMjhQUW5GOTd6TWdBVklQWEhQVmVwVzctN01lSUpzZmVJSTBET3F3bEVlbi1uOFhHNDIzS0ExRHpuWnQxR0xMd0RiZnhJNGlPUmU1Yi1pU1dvcERRV1JwaGM5RHhKN0ZLdG5lNHpRQ3VYYW02bURUaHJtNUVnY05PY0htYnZXZUtxMVJSQWVhNDViZ2VaT2l4QnRjdkZHN2NUOVRn?oc=5",
+    "original_title": "Adani Group to invest more than $120 billion in capex over five years, execs tell Fortune India - Reuters",
+    "original_summary": "Adani Group to invest more than $120 billion in capex over five years, execs tell Fortune India Reuters",
+    "published_at": "2026-11-10T11:06:09+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Grupo Adani vai investir mais de 120 mil milhões de dólares em despesas de capital ao longo de cinco anos, dizem os executivos à Fortune India - Reuters",
+    "translated_summary": "O Grupo Adani vai investir mais de 120 mil milhões de dólares em despesas de capital ao longo de cinco anos, afirmam executivos à Fortune India Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:56+00:00"
+  },
+  {
     "id": "7af4394796d80c2ed616",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -16175,6 +16700,28 @@
     "translated_summary": "Wang Yi encontra-se com o Ministro dos Negócios Estrangeiros eslovaco Branal na Embaixada em Singapura",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T23:42:12+00:00"
+  },
+  {
+    "id": "e9466451a279382a249d",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVBaUW1kQ1J4TUVZV1F4SlFONEh5UWZkNzduMUhPa0JxTnRZaVk1Y1E5bGVfRGtRbS0xc1FyUlhfdjUwYzhJdUVISUVxZTdqREFmRmR2WVJZeHQ5LVYyMTJ0WEJPalVjT2FiVnNLSkk3NDdTTTNSMGthOFVndWlPME1wdzA4MUNfQ0MyVVlqZUl2bXNTRXpqUmI1YkVHbHpvRW03enRhNktDanVRSnhXQ0EzbXRFNzJNT2N2M0dUdFNtOE80Z3ktcFB6MFHSAdMBQVVfeXFMUGNOZ092X0t6bzZ6b0hnUEppcW90MUVoaTF5UDlRZWF1ZUhlNzE4XzVDMlFVc242QU1vT0V3OGktZl9qTzlzMVc1bFJqcHNUS2VNNV8wRlpmdEhRMGgtYmJoUjVrcnI2Y3hIU2J1YVpkb0VGOEpiQWFaUEQ2ZjREVTZNNWZLOXRYVkdpR09jejhiZVUtb05RT2pUUWhTTXJhUzFFWnB1Mm9WY19rMkdoNHBFZzc5dlZWa3NwbFFYaVNwOGJBR3dqYkdTQUlRaUNTVEladw?oc=5",
+    "original_title": "Higher US yields could push India towards export-led growth: SBICAPS - BusinessLine",
+    "original_summary": "Higher US yields could push India towards export-led growth: SBICAPS BusinessLine",
+    "published_at": "2026-11-10T10:20:45+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As taxas de rendimento mais elevadas nos EUA poderão impulsionar o crescimento orientado para as exportações na Índia: SBICAPS - BusinessLine",
+    "translated_summary": "O aumento das taxas de rendimento nos EUA poderá impulsionar o crescimento da Índia impulsionado pelas exportações: SBICAPS BusinessLine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:59+00:00"
   },
   {
     "id": "5df9b15fb7ebd7e7b4e0",
@@ -18992,6 +19539,28 @@
     "translated_summary": "O jornal do Brasil em Portugal DN Brasil",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T13:07:33+00:00"
+  },
+  {
+    "id": "44b2ffd9d49be7ef4a5b",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQlF5Z20wemRpWm1QVzNFN2R4aXBlblkxTXM1el9HNHpFT0QwN3RUbFpkbGhnaUQ1ZmhjY3c4WGRrTU12cHFBcnFVdTMyOEhRcVNLeV9TWW1aU2ZPdTA4ZUQ3cmdyd3lvS2Zjcld1UjlUTFZVUVFSVG5VV1NqMWhEVDdjNFE0bDE2YkJmODdIWGxnckNHNGJFNHROb21pdEs1YzdfWUxQb0YtTzN4YVM0SWx5Q0Z2aXdPN0FTd0JEN09TcUoxWlF3Zmd5Y3hob2NadlBqakFMQmZxRVF0VUcxYzFOdkpTN3NaLUYtQXdKS0lubXZMVWp0NXJoYV9aQQ?oc=5",
+    "original_title": "Projeto da Gulbenkian e da Efanor para gerir a floresta portuguesa atrai €30 milhões de investimento estrangeiro - Expresso",
+    "original_summary": "Projeto da Gulbenkian e da Efanor para gerir a floresta portuguesa atrai €30 milhões de investimento estrangeiro Expresso",
+    "published_at": "2026-11-10T07:00:00+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Projeto da Gulbenkian e da Efanor para gerir a floresta portuguesa atrai €30 milhões de investimento estrangeiro - Expresso",
+    "translated_summary": "Projeto da Gulbenkian e da Efanor para gerir a floresta portuguesa atrai €30 milhões de investimento estrangeiro Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:19+00:00"
   },
   {
     "id": "c655ab099123e492be81",
@@ -46467,6 +47036,28 @@
     "last_translation_attempt_at": "2026-11-08T21:42:10+00:00"
   },
   {
+    "id": "cafcdf4610f674139400",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUV3TjVlbVlmUGxPV2dSNGVGSDU3MXcyTmEwU014UVJWdHAwT0FwdWV0dTJZWkdiVDZpT2xNeURTVEJSNzREenBaYXU5ai1aSE81WnMyYlloeEpKT1dCeDRvV1laZHhWZDc4LXlybzNVckphMGxyclBWeklMeTc5Nk9nNXo2MGJhcFl1NTl3?oc=5",
+    "original_title": "Musk axes Tesla's Cybertruck in favour of self-driving taxis - ABC News & Headlines – Australian Broadcasting Corporation",
+    "original_summary": "Musk axes Tesla's Cybertruck in favour of self-driving taxis ABC News & Headlines – Australian Broadcasting Corporation",
+    "published_at": "2026-11-07T00:38:10+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Condução autónoma"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Musk abandona o Cybertruck da Tesla em favor dos táxis autónomos - ABC News & Headlines – Australian Broadcasting Corporation",
+    "translated_summary": "Musk abandona o Cybertruck da Tesla em favor dos táxis autónomos ABC News & Headlines – Australian Broadcasting Corporation",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:59:31+00:00"
+  },
+  {
     "id": "895146d512899cad5dfb",
     "country": "Japão",
     "category": "Automóvel",
@@ -60294,6 +60885,26 @@
     "last_translation_attempt_at": "2026-11-07T04:56:51+00:00"
   },
   {
+    "id": "82e03a46fbcc1f013947",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Jornal SOL",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNzRDdFNCSjFtdjJsNmZMY2dzZHM5ZzhCbWkwV0N6eF8zQWc1Q0RDU1ZDWmMyR1g5MGF3bjFzMHgzWGVvR1NyMW1FMUgwN2oxbjYxZlV5ZUlvLXdxTEJMS050alI5dGJDbDQyNk5HY3JGc0JnYkJhMmtQU0w2VExRVmNKQ05mRDkyRmhpRFFSMTlycVFzS1N6V3FSaWo0c2diVmpyYmstNllSUDRtcFB2b2VRXzl5UzVtSWk3WUxjcWp4VXVWdHVuWk50ZzRFcW1LVjExRkQ2b1ktZEdsU1Q1SFhoNGJwSFhiQjdnRFZVcm5iUmpJOGQ0X3pKWFlZNnREZHdBQUF4VQ?oc=5",
+    "original_title": "Quase um em cada cinco jovens está desempregado em Portugal. Esta plataforma quer ajudar a mudar o cenário - Jornal SOL",
+    "original_summary": "Quase um em cada cinco jovens está desempregado em Portugal. Esta plataforma quer ajudar a mudar o cenário Jornal SOL",
+    "published_at": "2026-11-05T11:27:33+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Quase um em cada cinco jovens está desempregado em Portugal. Esta plataforma quer ajudar a mudar o cenário - Jornal SOL",
+    "translated_summary": "Quase um em cada cinco jovens está desempregado em Portugal. Esta plataforma quer ajudar a mudar o cenário Jornal SOL",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:21+00:00"
+  },
+  {
     "id": "213a8fa11dbb503ebc73",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -65342,6 +65953,28 @@
     "translated_summary": "A negociação do Congresso levará a uma restrição à política de Trump em relação à China? Resposta da Casa Branca: A política externa presidencial nunca teve motivação política Voz da América",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T16:56:32+00:00"
+  },
+  {
+    "id": "9d46c1415819e27f2b0d",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "ECO",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnB5N0RfdDlyaDBEeWhCU0tRcUFHb0Nsb2FNZUtFSTIwVE9mRjJJWVVpX2I4N0F4c0QwRDBiTURtLTFzb2piWGo4Z0ZKVGF2YWFRaVI3VVdKNXVnMXpkTFJoMXV4X01ISThFcG84alFzZnJTRjVjdXBEUk9FNDRBV3B1UUpBdWlBMXZhV196eDUwT2xzWTF6TjVWcGJGOW84akFXZ3RLc0JzR3k1T1FvLWQycmM?oc=5",
+    "original_title": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África - ECO",
+    "original_summary": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África ECO",
+    "published_at": "2026-11-04T18:10:37+00:00",
+    "first_seen_at": "2026-11-11T17:58:38+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África - ECO",
+    "translated_summary": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T18:00:17+00:00"
   },
   {
     "id": "ec5bb8a4bffca1d5b383",
