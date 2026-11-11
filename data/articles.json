@@ -1,5 +1,422 @@
 [
   {
+    "id": "2460286e3905999fdeec",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730364.shtml",
+    "original_title": "“汉交会”即将启幕 海内外客商武汉黄陂觅商机",
+    "original_summary": "中新网武汉11月11日电 (王梦媛)据武汉市政府新闻办11日发布会消息，11月19日至22日，2026武汉商品交易会(简称“汉交会”)将在武汉黄陂举办。届时，来自19个国家的40余名外交使节将参会，境外政府机构、商协会及侨领侨商代表齐聚展会。",
+    "published_at": "2026-11-11T11:01:42+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A \"Feira Han\" está prestes a começar. Empresários nacionais e estrangeiros Wuhan Huangpi buscam oportunidades de negócios",
+    "translated_summary": "China News Network, Wuhan, 11 de novembro (Wang Mengyuan) De acordo com o escritório de informações do Governo Municipal de Wuhan, de 19 a 22 de novembro, a Feira de Mercadorias de Wuhan de 2026 (doravante denominada \"Feira de Han\") será realizada em Huangpi, Wuhan. Na ocasião, mais de 40 enviados diplomáticos de 19 países participarão da exposição, e agências governamentais estrangeiras, associações empresariais e representantes empresariais chineses no exterior se reunirão na exposição.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:04:55+00:00"
+  },
+  {
+    "id": "a3006bb291c9d3435f6f",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "India Today",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXpJQVF6NFM5eDlfS2RKVVFQZGRjcF9vdFdUMzNnWjFoRzFPWjBLY0tlSUQwREkydEc5cG1pRGxtdDQxdVhJRnNpRnMtOGRhVFpKbGRGTjl0aVdRM2lfM1A3ZndCQ3RWM3I4N1hCT1J5aXc1WE5HdzhZT0doMW5WZWNvbnFmTklsZGtTeEZkOC1uc3plbGNIbUNaT2diaDhVUERsajhSRkF2NWtKeUxDUFhBNklpRTZnXzEwNUk1M0JXcG9IUEI4UWEyOVVzRWtjdTNuNEpnS2g4Z1BY0gHcAUFVX3lxTE9peklBUXo0Uzl4OV9LZEpVUVBkZGNwX290V1QzM2daMWhHMU9aMEtjS2VJRDBESTJ0RzlwbWlEbG10NDF1WElGc2lGcy04ZGFUWkpsZEZOOXRpV1EzaV8zUDdmd0JDdFYzcjg3WEJPUnlpdzVYTkd3OFlPR2gxblZlY29ucWZOSWxka1N4RmQ4LW5zemVsY0htQ1pPZ2JoOFVQRGxqOFJGQXY1a0p5TENQWEE2SWlFNmdfMTA1STUzQldwb0hQQjhRYTI5VXNFa2N1M240SmdLaDhnUFg?oc=5",
+    "original_title": "India's economy holds firm against energy shock, Moody's lifts growth forecast to 7% - India Today",
+    "original_summary": "India's economy holds firm against energy shock, Moody's lifts growth forecast to 7% India Today",
+    "published_at": "2026-11-11T11:01:07+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "43ab3fb9d8a2d1302e4b",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261111011000320",
+    "original_title": "Political parties tentatively agree on taxes on digital assets in 2029",
+    "original_summary": "SEOUL, Nov. 11 (Yonhap) -- The ruling and opposition parties have tentatively ag...",
+    "published_at": "2026-11-11T11:00:33+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Partidos políticos tentam chegar a um acordo sobre impostos sobre ativos digitais em 2029",
+    "translated_summary": "SEUL, 11 de novembro (Yonhap) - Os partidos do governo e da oposição tentaram...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:58+00:00"
+  },
+  {
+    "id": "58ae5276e488de4d3563",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "tagesschau.de",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejRoZDBnanhmRl9US2JzeGJLWDEtMWpJQTZrR2hlQjQ5Z1RwQW9DRFRHTVNzY0laY3RzTFlFSTc1b3VmdlBIT2d3dnZvMDR0R3NxNmhiTzl5M2dKeWdkcnAzWkVqVXBaQkdpVU1wWldyT0hFdHAxUUhNcVhRaFUyLVFoT29wcW4yLTN6aHlkV2FVY1YtUHhNcXRiTGRWdw?oc=5",
+    "original_title": "Tankrabatt drückt Inflation im Oktober - tagesschau.de",
+    "original_summary": "Tankrabatt drückt Inflation im Oktober tagesschau.de",
+    "published_at": "2026-11-11T11:00:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Desconto de tanque reduz inflação em outubro - tagesschau.de",
+    "translated_summary": "O desconto no tanque reduz a inflação em outubro tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:13+00:00"
+  },
+  {
+    "id": "dba1de6155a3f99a4a30",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "僑新聞",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FaXFoUUZmblJHZ1k4blVCbUEyQlp3VURGTXc1U04yQjdieEdFcGlBMkVRNVNoZTlrWTUtMTRoWlVuODlxajlzQnhCRQ?oc=5",
+    "original_title": "台經院上修今年經濟成長預測值至12.34% AI軍備競賽轉為穩健成長|政經臺灣 - 僑新聞",
+    "original_summary": "台經院上修今年經濟成長預測值至12.34% AI軍備競賽轉為穩健成長|政經臺灣 僑新聞",
+    "published_at": "2026-11-11T11:00:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Academia de Economia de Taiwan revisou sua previsão de crescimento econômico para este ano para 12,34%. A corrida armamentista da IA se transformou em crescimento constante. | Political Economy Taiwan - Overseas Chinese News",
+    "translated_summary": "A Academia Econômica de Taiwan revisou sua previsão de crescimento econômico para este ano para 12,34%, e a corrida armamentista da IA se transformou em crescimento constante. | Political and Economic Taiwan Overseas Chinese News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:32+00:00"
+  },
+  {
+    "id": "4e37c7b97fa15a627e52",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730359.shtml",
+    "original_title": "西安前三季度进出口总值7644.1亿元 创同期新高",
+    "original_summary": "中新网西安11月11日电 (记者 杨英琦)记者11日从西安市政府新闻办举行的西安市开放型经济情况新闻发布会上获悉，1月至9月，该市进出口总值7644.1亿元(人民币，下同)，同比增长115.5%，进出口规模、增速均创历史同期新高。",
+    "published_at": "2026-11-11T10:59:46+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O valor total de importação e exportação de Xi 'an atingiu uma nova alta de 764,41 bilhões de yuans nos três primeiros trimestres do mesmo período.",
+    "translated_summary": "Xi 'an, 11 de novembro (Repórter Yang Yingqi) O repórter soube da Conferência de Imprensa de Economia Aberta de Xi' an realizada pelo Gabinete de Informação do Governo Municipal de Xi 'an no dia 11 que, de janeiro a setembro, o valor total de importação e exportação da cidade foi de 764,41 bilhões de yuans (RMB, o mesmo abaixo), um aumento de 115,5% ano a ano, e a escala e a taxa de crescimento das importações e exportações atingiram um recorde no mesmo período.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:04:58+00:00"
+  },
+  {
+    "id": "3df918ce4e8a685acbd0",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
+    "original_title": "高市首相 \"予見可能性高い財政運営で成長力強化\" 日銀とも連携",
+    "original_summary": "今後の経済政策のあり方をめぐり、高市総理大臣は、当初予算を中心とした予見可能性が高い財政運営で成長力の強化につなげたいと強調しました。また、持続的な経済成長の実現に向けて、日銀との連携を重視する姿勢を…",
+    "published_at": "2026-11-11T10:58:40+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Primeiro-Ministro Takaichi \"Fortalecendo o Crescimento com Gestão Fiscal Previsível\" Colaboração com o Banco do Japão",
+    "translated_summary": "Relativamente à forma da política económica no futuro, o Primeiro-Ministro Takaichi sublinhou que gostaria de reforçar o crescimento através de uma gestão orçamental previsível centrada no orçamento inicial. Além disso, enfatizamos a importância da cooperação com o Banco do Japão para alcançar um crescimento econômico sustentável...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:04+00:00"
+  },
+  {
+    "id": "249fab8fa3563db1d4f4",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWFQU3J0Y1V6WnhLdlNVNkV0WldHcXBEWmliNWZ4SU5wbU05OXVlVFp0ZkpVenZqdXBTMkpUNXdOQ2FMREJsUEdmbUluek5aRGh4Unp6OFg1ZXpFSjF0NWtDSUdrNjN6M2JTamJ5X0UzT1NfMy1kVWwwMkxXUExPNU90eDQ3Umx3QjlSOElhdTF4eXEzOV9FLWhiT0o0U0RRc2gxLUZKdzlXeVlVVV9RWGx1SUZfdi1Yb1pMTElNVXlWWnZJMTU0OWJpYkpHNHBxOUg4NENtM2RLR0psTXdKeNIB5wFBVV95cUxOS3dkTXpTS0MtdFFwamdKOWdhUzJEYTYxeVY5X1BwaXREWmZaNG1yNkhLVUhNdF9vcFZYRFY1RTFWVmVGTWk2VU53bUozV0N0d2RmcGx0QnduY1FHeVktNWtrT1lTbW5QVENOOWFZdVZLbGRua0tHMDFLWlI1QnFDcFlFQ3l0ZGZXMzVjUzhYajJGUGNQV0RETk1mNEJJNy1HdmZ4dlI0VFJsZ3BDeXRHMDM3MWdJWnh0WG9MVGs5em1xSW1qQmQzaUN4NE44NGVlcE03akxBZUpzT1FqbzBjZFV1Mnc4MTA?oc=5",
+    "original_title": "India’s lithium-ion battery black mass export ban: what it means for recyclers and EV makers - The Financial Express",
+    "original_summary": "India’s lithium-ion battery black mass export ban: what it means for recyclers and EV makers The Financial Express",
+    "published_at": "2026-11-11T10:45:14+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Proibição de exportação em massa de baterias de íons de lítio da Índia: o que isso significa para recicladores e fabricantes de veículos elétricos - The Financial Express",
+    "translated_summary": "Proibição de exportação em massa de baterias de íons de lítio da Índia: o que isso significa para recicladores e fabricantes de veículos elétricos The Financial Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:55+00:00"
+  },
+  {
+    "id": "4cc51d34a335aadd1e4f",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Hawk",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVWdzF1em9iTFloNGNqdW5kUWRKNHk0djIwTkJCNl82cGJHNXQ4Wmo4UmNvbUo1UnIwYjl5VGJhY08zSVI5SElZZ090MU9HMUR1S3d6SjhRZTdVVzFrRkxocTNrVGMyaENaNFppUTBJVE5UOWxMc1d1OUViWjZwamt4RUNoa25DZkZ4SzBReXJrcVpobmhfR2NCc2ZRWFNnWTRaVnZMWUlnZGs0TGVyZk9KREhIcW1lTWc?oc=5",
+    "original_title": "Cabinet hikes fertiliser subsidy for farmers to Rs 62,370 crore as global prices rise - The Hawk",
+    "original_summary": "Cabinet hikes fertiliser subsidy for farmers to Rs 62,370 crore as global prices rise The Hawk",
+    "published_at": "2026-11-11T10:37:44+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Política industrial",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Gabinete aumenta subsídio de fertilizantes para agricultores para Rs 62.370 crore à medida que os preços globais sobem - The Hawk",
+    "translated_summary": "Gabinete aumenta subsídio de fertilizantes para agricultores para Rs 62.370 crore à medida que os preços globais sobem The Hawk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:50+00:00"
+  },
+  {
+    "id": "37b5b37d28209be412e6",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155665.html",
+    "original_title": "スーパー耐久未来機構、11月14日にモータースポーツの入口となる「FIRST S耐」 GRカートを使用して子どもと大人が一緒に楽しむ",
+    "original_summary": "スーパー耐久を運営するスーパー耐久未来機構（STMO）は11月14日、最終戦の開催される富士スピードウェイ内「カート＆モトパーク」において、モータースポーツの裾野を広げる新たな取り組み「FIRST S耐（ファーストエスタイ）」を開催する。",
+    "published_at": "2026-11-11T10:33:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Super Endurance Future Organization usará o “primeiro carrinho GR S-resistente”, que será a entrada para o automobilismo no dia 14 de novembro, para crianças e adultos desfrutarem juntos",
+    "translated_summary": "No dia 14 de novembro, a Super Endurance Future Organization (STMO), que opera a Super Endurance, realizará uma nova iniciativa \"first S Endurance (First Estate)\" para expandir a base do automobilismo no \"Kart & Moto Park\" no Fuji Speedway, onde será realizada a corrida final.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:07+00:00"
+  },
+  {
+    "id": "f678613d7aec84b205b3",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmNNRHdRYTFyemJfT1pPN3pqMzZ5cmFTTkFaQ25pUkkwTFdXWDN6ek44VzRicFotZmNxeWZZVXdDVGszRHJSMk5mZzFCbXBrT0V4MnRQVkVSMjF0azJpYm15MEtCTExSMXVGR1k2eEtoenNmRXVYMElYa2s1NGNPM09uQWpaTENkaWJ4QWJFaEVWWi13Vm9SZ3FpQ1hFNE4tYkt2STBZdTFSQ2tUb05hSkZwRQ?oc=5",
+    "original_title": "Indian firms rush to raise $3 bln in debt as yields plunge ahead of RBI review - Reuters",
+    "original_summary": "Indian firms rush to raise $3 bln in debt as yields plunge ahead of RBI review Reuters",
+    "published_at": "2026-11-11T10:31:45+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "1a946067fe248e4616ed",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rN3JXbHJjU3RYVkJQczVOTnota3ZITU9YckxNOHlFN0Zub0k2SUxYV1JuUUlyM1VDcWljcWVXc2lSMTk2eGpyVXEzUnVIMk55YWctSDd3MXprZmctUFEzSlQ5RjRITUNJWkxDZA?oc=5",
+    "original_title": "石破茂前首相、消費減税「インフレ助長する政策」 高松で講演 - 日本経済新聞",
+    "original_summary": "石破茂前首相、消費減税「インフレ助長する政策」 高松で講演 日本経済新聞",
+    "published_at": "2026-11-11T10:29:41+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shigeru Ishiba, Primeiro-Ministro, Palestras na Takamatsu sobre Redução de Imposto de Consumo \"Políticas para Promover a Inflação\" - Nikkei",
+    "translated_summary": "Shigeru Ishiba, Primeiro-Ministro, Fala no Nikkei em Takamatsu sobre a Redução do Imposto de Consumo \"Políticas para Promover a Inflação\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:05+00:00"
+  },
+  {
+    "id": "de26724d421b19385043",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "Rti 中央廣播電臺",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QUVpPLV9GakJWSXd3NDVwcjRJeTVwSXRwNEpZVkhDZ21YV1BrQ3pfcnNEM3czdEplMmR4Wk5YMjJVUEh2NGFGSFp2dlk5V2lGSUxKYnIweUg?oc=5",
+    "original_title": "瓜地馬拉互動頻密 外交部：台灣值得信賴 - Rti 中央廣播電臺",
+    "original_summary": "瓜地馬拉互動頻密 外交部：台灣值得信賴 Rti 中央廣播電臺",
+    "published_at": "2026-11-11T10:23:19+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ministério Interativo dos Negócios Estrangeiros da Guatemala: Confiável em Taiwan - Rti Central Radio",
+    "translated_summary": "Ministério Interativo das Relações Exteriores da Guatemala: a confiável estação de rádio central Rti de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:40+00:00"
+  },
+  {
+    "id": "4590eeeab1cce2a843c3",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Hawk",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWpOYUNPLWJzVzVyMEJuOFF4WVdZeDN5M1AwbFpJRlh6M2lTSmVxSUtZSU1mVFVxS25FdHo0bG8yV1gxZVdwZmNtQ2NxNUNXZ3RYWlUtOWJsSFM2Q3FRNEJmU2k3YjVneVFjVFJJRjI5QTBBb0l1QUR4N2EwaHdYUExySUJ0SDdhOWQzQklhdHhkUFFCeWNlQllma2ExZk9XTjBrWWFKaUFzRFdFOFY0TDl3ckRQSUFpRnYtZnp3QQ?oc=5",
+    "original_title": "Cabinet approves Rs 5,000 crore for continuation of Credit Guarantee Fund for Micro Units - The Hawk",
+    "original_summary": "Cabinet approves Rs 5,000 crore for continuation of Credit Guarantee Fund for Micro Units The Hawk",
+    "published_at": "2026-11-11T10:17:45+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Gabinete aprova Rs 5.000 crore para continuação do Fundo Garantidor de Crédito para Micro Units - The Hawk",
+    "translated_summary": "Gabinete aprova Rs 5.000 crore para continuação do Fundo de Garantia de Crédito para Micro Unidades The Hawk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:52+00:00"
+  },
+  {
+    "id": "2a2ef4299de1ce7ea6c7",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "Rti 中央廣播電臺",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hbFNYNVZqRjhJQ2paWDVqeG5jczdlekRNZVVtYmhLTU5wSDNxeHZBcUlrOGpFd0FHX3JsOUtjNlMzTExzMFhvZXNYdkdoNTdUNXNuY3pVTDY?oc=5",
+    "original_title": "電電公會發布首部白皮書 推進台灣經濟日不落國 - Rti 中央廣播電臺",
+    "original_summary": "電電公會發布首部白皮書 推進台灣經濟日不落國 Rti 中央廣播電臺",
+    "published_at": "2026-11-11T10:16:12+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "cb1f7eabd78180add8af",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
+    "original_title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
+    "original_summary": "中新社北京11月11日电 11月11日，中共中央政治局委员、外交部长王毅在北京同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯举行会谈。",
+    "published_at": "2026-11-11T10:11:52+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Wang Yi: A China apoiará firmemente Cuba na salvaguarda da soberania nacional e dos direitos e interesses legítimos",
+    "translated_summary": "Beijing, 11 nov (Xinhua) -- Em 11 de novembro, Wang Yi, membro do Birô Político do Comitê Central do Partido Comunista da China e Ministro das Relações Exteriores, conversou em Beijing com o enviado especial do Partido e do governo cubanos, membro do Birô Político do Comitê Central do Partido Comunista de Cuba e Ministro das Relações Exteriores Rodriguez.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:04:51+00:00"
+  },
+  {
+    "id": "7ae62d59c0b2a5c83672",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155638.html",
+    "original_title": "三樹書房、ホンダのF1挑戦を中村良夫監督が自らが記録した書籍の改訂新版「F1 グランプリ ホンダF1とともに 1963-1968」",
+    "original_summary": "三樹書房は10月30日に「F1 グランプリ ホンダF1とともに 1963-1968」を発売した。価格は本体1万円＋税。",
+    "published_at": "2026-11-11T10:10:03+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Miki Shobo, diretor Yoshio Nakamura registrou o desafio da Honda na F1 na edição revisada e nova do livro \"F1 Grand Prix Honda F1 with 1963-1968\"",
+    "translated_summary": "Miki Shobo lançou \"F1 Grand Prix Honda F1 1963-1968\" em 30 de outubro. O preço é de 10.000 ienes + imposto sobre a unidade principal.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:10+00:00"
+  },
+  {
+    "id": "b8c5e055c1f659bc7897",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "China Daily",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PcDBpMERjS3RleFoxaXFnY182Wkc3U21lY2hSMlpsRklsR3gzY2tpbHFoVVdySVVISDJpUHhnX01pR19WNGlyeXVkQlpqVGhOdURIa2dNMVowNTRQTjZpcDUwOFI0UXBPWC1FOFFtd185aWM2R3dkU1NTdC1XQk0?oc=5",
+    "original_title": "视频丨高技术产品成出口新名片中国外贸的APEC底色更浓- 中国日报网 - China Daily",
+    "original_summary": "视频丨高技术产品成出口新名片中国外贸的APEC底色更浓- 中国日报网 China Daily",
+    "published_at": "2026-11-11T10:08:29+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Vídeo: Novos cartões de visita para produtos de alta tecnologia exportados para a APEC, o comércio exterior da China, tem um histórico mais forte - China Daily",
+    "translated_summary": "Vídeo: Novos cartões de visita para produtos de alta tecnologia a serem exportados APEC é mais forte no comércio exterior da China - China Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:03+00:00"
+  },
+  {
+    "id": "61e9425f95b89d97ae84",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730346.shtml",
+    "original_title": "财政部将在香港发行美元主权债券",
+    "original_summary": "中新网11月11日电 据财政部网站消息，经国务院批准，财政部将于2026年11月16日当周在香港特别行政区发行美元主权债券，规模不超过20亿美元。具体发行安排将于发行前另行公布。",
+    "published_at": "2026-11-11T10:04:57+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Tesouro emitirá títulos soberanos em dólares americanos em Hong Kong",
+    "translated_summary": "De acordo com o site do Ministério das Finanças, com a aprovação do Conselho de Estado, o Ministério das Finanças emitirá títulos soberanos em dólares americanos na Região Administrativa Especial de Hong Kong na semana de 16 de novembro de 2026, com uma escala não superior a US $ 2 bilhões. Arranjos específicos de liberação serão anunciados separadamente antes da liberação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:01+00:00"
+  },
+  {
     "id": "1ef470f93208ec234cb5",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -68,6 +485,50 @@
     "last_translation_attempt_at": "2026-11-11T10:04:15+00:00"
   },
   {
+    "id": "09e93eb13410d99511ed",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zNV91dWtURHl6T1BpZG5kN01YZWhiTG5PbEtiZ0tHY3lvMzc0LV9PR1hOazhVbE5aNU50ay1IU2FiVE5WWTQxQk9RMVVZVnhx0gFWQVVfeXFMT2Y4LUlyZ3pLMGhvYXFMVWNCbWJUQXBVRGlaSVJOUWJUNnBnWGtNaUtrQl9ZQ1lCcDhOT3hJUXphQWRUd1drTlZUZ2dqZDNvLUNLZkF2Umc?oc=5",
+    "original_title": "工總理事長：台灣迎39年最佳經濟榮景 AI 發展不能忘記傳統產業 - UDN",
+    "original_summary": "工總理事長：台灣迎39年最佳經濟榮景 AI 發展不能忘記傳統產業 UDN",
+    "published_at": "2026-11-11T09:54:54+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente Gong: Taiwan inaugurou 39 anos da melhor prosperidade económica. O desenvolvimento da IA não deve esquecer as indústrias tradicionais - UDN",
+    "translated_summary": "CEO: Taiwan inaugurou 39 anos da melhor prosperidade económica O desenvolvimento da IA não pode esquecer a indústria tradicional UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:37+00:00"
+  },
+  {
+    "id": "583cf76236f12ac17aa8",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "ETAuto · Indústria automóvel",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-etauto-industry",
+    "publisher": "ETAuto · Indústria automóvel",
+    "url": "https://auto.economictimes.indiatimes.com/news/industry/canadian-defense-firm-roshel-in-talks-with-automakers-to-produce-civilian-vehicles-at-ex-stellantis-plant/135732912",
+    "original_title": "Canadian defense firm Roshel in talks with automakers to produce civilian vehicles at ex-Stellantis plant",
+    "original_summary": "Canadian defence manufacturer Roshel is in talks with several automakers to manufacture civilian vehicles at Stellantis' idled Brampton plant, which it is acquiring.",
+    "published_at": "2026-11-11T09:53:15+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Empresa de defesa canadense Roshel em negociações com montadoras para produzir veículos civis na antiga fábrica de Stellantis",
+    "translated_summary": "A fabricante canadense de defesa Roshel está em negociações com várias montadoras para fabricar veículos civis na fábrica ociosa de Brampton da Stellantis, que está adquirindo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:00+00:00"
+  },
+  {
     "id": "e87230ebe0bfd50045bd",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -86,6 +547,26 @@
     "translated_summary": "Informações sobre como prevenir e responder a danos nos meios de subsistência de pequenas empresas - Vídeo | Multimedia Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T10:04:53+00:00"
+  },
+  {
+    "id": "d6199909941b7b66b265",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObW5KY1lIN0J6TDkyTmFvUEVBa1h0TnlIM0NPenpiU3JrV3RwZTJDa1BSSVhkb1l2VGlqNFFTUUpnR0taSFpWZHhMSV9mNTh2bkdSaEd4djc4dFdOdUU5UkJsM2dsM05wN0JxaTBobldXaU55QllpcG9aQnF5aEhGWnY2NFBGY2tQT1E?oc=5",
+    "original_title": "소상공인 생업 피해 예방 및 대응 방안 안내 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "소상공인 생업 피해 예방 및 대응 방안 안내 - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T09:43:08+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Guide to Preventing and Responding to Livelihood Damage of Small Businesses - Video | Multimedia - South Korea Policy Briefing",
+    "translated_summary": "Informações sobre como prevenir e responder a danos nos meios de subsistência de pequenas empresas - Vídeo | Multimedia Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:29+00:00"
   },
   {
     "id": "98b907c75492bb7c9384",
@@ -308,6 +789,28 @@
     "last_translation_attempt_at": "2026-11-11T10:05:22+00:00"
   },
   {
+    "id": "ebd37b2f729fb794cbb8",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "The Edge Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS29kSXozY0dZanY1SjNKSlBPSmQtTnl6NmRVNEJldDl1UmlDcmJCaWowbG9MUkdfMlVDa1V4N01hUzdGNUhMZENEbkpJcjVYemR4OWNyOG5yM1l6Mk4yVmx2TUE4VnhJalY3VXI4MEliU0NlVHpOYzkwWW12WC0xUWxNQ0ZIZ052MjRQTmo1UnlucVRFc1pvV1VINEtHRkczemRjWGgteV9NNjd4YWFqbVQtR254NkE3TlNtZTJkakJUcEg1eG9hRWp5QQ?oc=5",
+    "original_title": "Airwallex plans over $2 bil Singapore investment to support global growth - The Edge Singapore",
+    "original_summary": "Airwallex plans over $2 bil Singapore investment to support global growth The Edge Singapore",
+    "published_at": "2026-11-11T09:27:14+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "d308c801fe5a5b9b3466",
     "country": "China",
     "category": "Política",
@@ -328,6 +831,26 @@
     "translated_summary": "Pequim, 11 de novembro (Agência de Notícias Xinhua) (Repórter Liu Dawei Chen Jianxin) A conferência de imprensa regular do Gabinete de Assuntos de Taiwan do Conselho de Estado foi realizada em Pequim no dia 11. O porta-voz Zhang Han respondeu às perguntas dos repórteres sobre os recentes pontos quentes, como o \"retorno das empresas de Taiwan\" ao continente.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T10:04:01+00:00"
+  },
+  {
+    "id": "902fad54acee1b1b3ecd",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFpXMVhiNUJubkVqWlRWUC1ZYm5HczJ3Vy1lWVFFa09paU9QUWhPRDRuSUlLckZIaW1MSkIzVHBJY1NubFBSOGZ0eGVUMmdKbUZNbzVMVUMyaEs1RS1wVlp0cExLTU43Mnc2Qk4tYlh0ck4xS21ZOTNBM3Z5UGplQlZsbTQxSGcyR1c4d3FDMXdTSk9OU29vTDZ5MmpYMFBKcVYwdGFhZnBOcDY1Y3hUaUVZSTJsdw?oc=5",
+    "original_title": "COP31: Singapore revises data centre energy-efficiency metrics in updated taxonomy - The Business Times",
+    "original_summary": "COP31: Singapore revises data centre energy-efficiency metrics in updated taxonomy The Business Times",
+    "published_at": "2026-11-11T09:16:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "36db4dcef3ef09411ab0",
@@ -518,6 +1041,28 @@
     "last_translation_attempt_at": "2026-11-11T10:05:19+00:00"
   },
   {
+    "id": "597364b8dc2e308c6726",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "緯來新聞網",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2dxa2FLaTVGSDBkNVlPWWNQMHhpdTBNWkhLM0NPRS0wNGIwV0VIMU1LRWFBUzI3TTNMbFJUVndyZ256aVJFNjlXa1BWTXdLdlVIOTMxaEJDM2s2TzVaLXZtQzZvRzJWNUdVWE1Hb0FoSHNjaGxoZF9VWVpJZ01pTmU2bGJzZw?oc=5",
+    "original_title": "台灣經濟不能只靠AI！工總潘俊榮：傳產才是根基 - 緯來新聞網",
+    "original_summary": "台灣經濟不能只靠AI！工總潘俊榮：傳產才是根基 緯來新聞網",
+    "published_at": "2026-11-11T09:07:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "2d97d921d7c0e241e93e",
     "country": "Alemanha",
     "category": "Economia",
@@ -600,6 +1145,26 @@
     "translated_summary": "Hino \"Contessa 1300 Coupe\", certificado como \"Heritage Car\" do Japan Automobile Hall of Fame... Avaliação da fusão do design italiano e da tecnologia japonesa Primeira resposta de foto/imagem (Response.jp)",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T10:04:44+00:00"
+  },
+  {
+    "id": "ca9ed19592804cf2d864",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "レスポンス（Response.jp）",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0TnVFZWtEalBjeEozX2Z6NzF5YTRpWnBsc0pKcUdmd3FjU0lpMWhWblFZazVLbVoxNVdNb1pIRWVVcXU1NWhWLUNMSFZGQXBlQlFfWFRpVksyVjc5OVhz?oc=5",
+    "original_title": "日野『コンテッサ1300クーペ』、日本自動車殿堂の「歴史遺産車」に認定…イタリアデザインと日本技術の融合を評価 - レスポンス（Response.jp）",
+    "original_summary": "日野『コンテッサ1300クーペ』、日本自動車殿堂の「歴史遺産車」に認定…イタリアデザインと日本技術の融合を評価 レスポンス（Response.jp）",
+    "published_at": "2026-11-11T09:00:03+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Hino \"Contessa 1300 Coupe\", certificado como \"Heritage Car\" do Japan Automobile Hall of Fame... Avaliação da fusão do design italiano e da tecnologia japonesa - Response.jp",
+    "translated_summary": "Hino \"Contessa 1300 Coupe\", certificado como \"Heritage Car\" do Japan Automobile Hall of Fame... Resposta à avaliação da fusão do design italiano e da tecnologia japonesa (Response.jp)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:15+00:00"
   },
   {
     "id": "589adc0aeaf6739526c8",
@@ -766,6 +1331,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "52f0b1d49c248b318a56",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2U1TTBXaXFmVWNLMERiVkJlMFRMREdQTk0yZjdJRUgxdG8zNGM1LW1GX21OSkNiLWx3OU1DbkdoR0NSRnlmQ21NNzBWTURncjJIVHJVemRIaGZCcklzSUNnZFNOTzZFNEdYYWlMWHA2SWxObnE1bWpydTNmbVMxdQ?oc=5",
+    "original_title": "台灣經濟發展創高 工總：勿忘傳產是台灣的基礎 | 產業熱點 | 產業 - 經濟日報",
+    "original_summary": "台灣經濟發展創高 工總：勿忘傳產是台灣的基礎 | 產業熱點 | 產業 經濟日報",
+    "published_at": "2026-11-11T08:42:33+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Taiwan's Economic Development: Don 't Forget Transmission Is the Foundation of Taiwan | Hotspots da indústria | Indústrias - Economic Daily",
+    "translated_summary": "Taiwan's Economic Development: Don 't Forget Transmission Is the Foundation of Taiwan | Industrial Hotspots | Industrial Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:35+00:00"
+  },
+  {
     "id": "9565bfd8b7e988a43246",
     "country": "Taiwan",
     "category": "Economia",
@@ -916,6 +1503,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "6dd711aa1b10b4d75b7b",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "CNA",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZno1akNycE9HaDhaa1ZLSkdxd0NqV25kUHhrTTVMb24wYXZjWWk4REY3cE9sUVJEU3Z4cXpNUTNSRy00M1lMaUl6QzY2azlTcGJpUFlwZjlCNTdjQ3cxZnh0OEVSNlB4T3FLZWFpc3k4UDBsSFlIendrMWlOYzVOQklySFBTMHVVZHptYmZEUEJDVEZ3TzRXSURn?oc=5",
+    "original_title": "Fintech firm Airwallex to invest S$2 billion in Singapore, create around 250 jobs over five years - CNA",
+    "original_summary": "Fintech firm Airwallex to invest S$2 billion in Singapore, create around 250 jobs over five years CNA",
+    "published_at": "2026-11-11T08:30:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "9402923b87481788ef94",
     "country": "China",
     "category": "Política",
@@ -980,6 +1589,28 @@
     "last_translation_attempt_at": "2026-11-11T10:04:34+00:00"
   },
   {
+    "id": "f5df8be49c8d439db07c",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaOUVEZnZkeERNWXBEa2dLcWpTZ3N6ZGJYb0JBbnRBX3B4SkVLRFRwVEZmVHJBT1dnN2hsUUhfdEhRMDhCbHJoSzQ1eV9rOUpJcldDS1VsNzZCNmvSAWBBVV95cUxNY2Fad04yYjVWNXJNVTRnN0xDQ0NqejdvQmg0empYM1JkSTJKS2NrbWQ1TVplUlltUXYwX1h4ZzNwWVZ5Zm5WellIZ0dKd3NjUURLbHVubDhucGVfN3o2TXA?oc=5",
+    "original_title": "經濟部長：今年經濟成長率至少創39年新高 可望見證50年來最好成績 - 經濟日報",
+    "original_summary": "經濟部長：今年經濟成長率至少創39年新高 可望見證50年來最好成績 經濟日報",
+    "published_at": "2026-11-11T08:25:09+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "3ea3aa4c9ac795e1446b",
     "country": "Taiwan",
     "category": "Política",
@@ -998,6 +1629,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "f62c5f1c6eedf1317a7d",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvVVFRRmhrdkN5Rkk5bFJOSUVKVFBRbXVTNTgzTlhoSzZoMjZLUzZFTXVRckp5Z0p3U3FJVEtiRFZaZzhhTEJQUVZzaS0yNEF0dHF4SVNTTWc0eHBFS2k4eTRpdVd1TExuRDRrODRCVQ?oc=5",
+    "original_title": "[보도설명자료][11.11.수 한국경제] 18억 집 있는 노인도 받는 기초연금 관련 - 대한민국 정책브리핑",
+    "original_summary": "[보도설명자료][11.11.수 한국경제] 18억 집 있는 노인도 받는 기초연금 관련 대한민국 정책브리핑",
+    "published_at": "2026-11-11T08:22:38+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Comunicado de Imprensa] [11.11. Korea Economy] Basic Pension for Older People with 1.8 Billion Houses - South Korea Policy Briefing",
+    "translated_summary": "[Comunicado de Imprensa] [11.11. Economia da Coreia] Resumo da Política da Coreia do Sul sobre a Pensão Básica que Recebe 1,8 Bilhões de Idosos Domésticos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:18+00:00"
   },
   {
     "id": "4a5a8a97ede3dd61fd1a",
@@ -1257,6 +1910,50 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "43542da1b9fe34d9ac5c",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zYm9EcV9VRUdfMDBqbmdyNGdGUVFsbFF6M0Q3RnRHQk5wWkNTZ3Y0WU42VDF2V3cwRTdGU3htZEJGLWRraWU3WUFkMTl3Ty1SSVlPcXFUWkFYN1ZrSnFoMHhoTndvRWpERU9jOGtKQ2I2aEhoZ3JXY1hwNXpfalE?oc=5",
+    "original_title": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞（レスポンス） - Yahoo!ニュース",
+    "original_summary": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞（レスポンス） Yahoo!ニュース",
+    "published_at": "2026-11-11T08:00:04+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Denso nomeado 'Heritage Car' do Japan Automobile Hall of Fame… 1950 Electric Car Awarded (Resposta) - Yahoo! News",
+    "translated_summary": "Denso nomeado 'Heritage Car' do Japan Automobile Hall of Fame… 1950 Electric Car Wins Award (Response) Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:13+00:00"
+  },
+  {
+    "id": "7e863723e0287c486a8e",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "carview!",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWU1Ym1zbHBrQ2wyV1RTRXIyM1htLV9TZVFyMEFYb29sWmxJcHpxek84dGl4djVRd2J2R2U0VmJTbEU5RkliVmVma3JTSzlMTzh0R2ctTDVlaHF6MW1NOUw0WWJrY1lENzVyQVREb3pwYi1LbFhrbVhsZFVPZVNVNk8xTTVCaWVsOWJsOVdQeG10R2dy?oc=5",
+    "original_title": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞（レスポンス） | 自動車情報・ニュース - carview!",
+    "original_summary": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞（レスポンス） | 自動車情報・ニュース carview!",
+    "published_at": "2026-11-11T08:00:04+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Denso nomeado 'Heritage Car' do Japan Automobile Hall of Fame… 1950 Electric Car Wins Award (Response) | Car Information & News - carview!",
+    "translated_summary": "Denso Nomeada “Heritage Car” do Japan Automobile Hall of Fame… 1950 Electric Car Wins Award (Response) | Car Information & News carview!",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:18+00:00"
+  },
+  {
     "id": "07fb28e5f7d563472fc7",
     "country": "Alemanha",
     "category": "Economia",
@@ -1342,6 +2039,26 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "24c9fb6c4e9dd14a847a",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "시사저널e",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RXhURUdNOExNb0VkMEhVOTZiUTFEX090NjNCR2hMbzg3WEtjYzhOb3pFS2Z2WERqMzh6ZDJlcGxxb0I2UVd3UlNERkFma1FBYUJidk1sLWxkOGR4WEoyaHhJWWNKa1hEaENlVXlRM2F6UdIBdkFVX3lxTE9fOEZTa2RIeUhTeEVFTEc2b1hCQ1ZfNWNyZ0d1c0psLTZvb2phN1NzMF9LMUVsMk1jeC1VOUxQZDZWNFVsWnc5VUQ4dDJZSjlBdENWSnI1SGp2ZElQb3dMZUd0UEJJRzh1UmhXdEhHS2ZiREx1S0E?oc=5",
+    "original_title": "공모주 양극화에 '환매청구권 공포'···한국투자·삼성證 부담 현실화 - 시사저널e",
+    "original_summary": "공모주 양극화에 '환매청구권 공포'···한국투자·삼성證 부담 현실화 시사저널e",
+    "published_at": "2026-11-11T07:46:01+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Polarização da oferta pública 'promulgação do direito de recompra' · · · Korea Investment · Samsung burden realization - Journal of Current Affairs",
+    "translated_summary": "Public offering polarization 'promulgation of right to repurchase' · · · Korea Investment · Samsung burden realization Current Journal e",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:29+00:00"
   },
   {
     "id": "f6ddadb913e0e54f6095",
@@ -1535,6 +2252,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "f113fa883d8ae80adc5a",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "公視新聞",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJMjR6bTFDM041VWczcTRMdnREZ1pfV2p6bGMxX3RFX3hZbk9nMVZKNkVQUWxtbWx5OXZSNDFwaHlYT2lrT0hqOS1nTS1pRnc?oc=5",
+    "original_title": "我拍板施振榮任APEC代表 赴深圳出席經濟領袖會議 - 公視新聞",
+    "original_summary": "我拍板施振榮任APEC代表 赴深圳出席經濟領袖會議 公視新聞",
+    "published_at": "2026-11-11T07:33:28+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "10c190bb0c2de4b6bb96",
     "country": "China",
     "category": "Automóvel",
@@ -1637,6 +2376,28 @@
     "translated_summary": "Pequim, 11 nov (Xinhua) -- (Repórter Guo Chaokai) O porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, presidiu uma coletiva de imprensa regular no dia 11.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T09:01:33+00:00"
+  },
+  {
+    "id": "d37088aa8582fafd7b32",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "理財周刊",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsNExwTHZya21odVpTeXJPRmVWV08ydG5tbUhVYnUxMWhhcDB2Nks0MVRqVWZwWG40T29lbUJrWWxDN0dMQ0FGTGRWSGR0MmVHVjQ4dk9CbnBxeXgtdGhpcnFyYkN5UVRISnVkUWFJcw?oc=5",
+    "original_title": "特斯拉中國10月銷量暴跌66%，上海廠出口卻狂飆創高！ - 理財周刊",
+    "original_summary": "特斯拉中國10月銷量暴跌66%，上海廠出口卻狂飆創高！ 理財周刊",
+    "published_at": "2026-11-11T07:30:16+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As vendas da Tesla na China caíram 66% em outubro, mas as exportações da fábrica de Xangai subiram para um recorde! - Semanal Bancário",
+    "translated_summary": "As vendas da Tesla na China caíram 66% em outubro, mas as exportações da fábrica de Xangai subiram para um recorde! Semanalmente Financeiro",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:45+00:00"
   },
   {
     "id": "7a7f43c2001562dc2124",
@@ -2021,6 +2782,26 @@
     "translated_summary": "Park Hong-geun \"Os ajustes do mercado de ações sinalizam uma economia coreana tendenciosa em relação aos semicondutores... Estritamente ciente\" KBS News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:21:08+00:00"
+  },
+  {
+    "id": "b4ed53079c632b75b462",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpX1poY1QtVHJSSldGLUxSVWJCM1JpSF83bllGYjJvMU16bHYzSURzWUtoU3NyWlVRNVBlQUpaWkdZX1JBb2ZmZWc2WnNxbXBweGlzNFdiVTFZNEFIZXB1Xy1WblZuRGlieFVjdXJuanY?oc=5",
+    "original_title": "'레버리지ETF 상폐' 배재규 대표 \"초과세수로 국내 주식 장기투자\" - 연합인포맥스",
+    "original_summary": "'레버리지ETF 상폐' 배재규 대표 \"초과세수로 국내 주식 장기투자\" 연합인포맥스",
+    "published_at": "2026-11-11T06:59:26+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Jae-gyu Bae, CEO da 'Leverage ETF Cancellation', \"Long-term Investment in Stocks in Korea with Excess Tax\" - Yonhap Infomax",
+    "translated_summary": "Representante Jae-gyu Bae de 'Leverage ETF Cancellation' \"Long-term investment in stocks in Korea with excess tax\" Yonhap Infomax",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:21+00:00"
   },
   {
     "id": "9b23aae385890a810767",
@@ -2441,6 +3222,26 @@
     "last_translation_attempt_at": "2026-11-11T07:19:25+00:00"
   },
   {
+    "id": "66cd67f2856e9deaa127",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "華視新聞網",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zSjJqSEdQZ181S2FGaGhFRVJzTlhuV1dvSjlfdE9Vay1pY2pVZ2xMUnQ2QzRxYXMwdWhLZFlMdmZFLXpZNFRQRjN1VFVpdEFIWWI5LTNVU2x6QVBDa29qYlFIVEUtWDgwaTQtYk1BdUp2UQ?oc=5",
+    "original_title": "獨派團體：45.7%民眾盼政府積極推動和美國建交- 政治 - 華視新聞網",
+    "original_summary": "獨派團體：45.7%民眾盼政府積極推動和美國建交- 政治 華視新聞網",
+    "published_at": "2026-11-11T06:37:12+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Grupos independentes: 45,7% do público esperam que o governo promova ativamente o estabelecimento de relações diplomáticas com os Estados Unidos - Política - China TV News Network",
+    "translated_summary": "Grupos independentes: 45,7% das pessoas querem que o governo promova ativamente as relações diplomáticas com os Estados Unidos - Political China News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:42+00:00"
+  },
+  {
     "id": "88c8b0e6fd07dcd75bcf",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -2547,6 +3348,28 @@
     "translated_summary": "Líder de Equipa, tem isso? - Vídeo | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:20:10+00:00"
+  },
+  {
+    "id": "c05a110410ee3b42640f",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Spiegel",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzJuNi1vbkVSRnQ5YjN3NFU0TGM2REpYNHhsSUNuNDNWUFhFcDJDX3YyNXJjd09qQVlERVNqMmdNWGVtVmNReDFWdmhjbEtDYl9WQk0tOVRRa1BQT2dzQmVLREs2YWc3M1g0Ykt3Qkt1LTNHcVZqSFpUVmdocVVBUi1kZ1dsRmRtcXZ6SHBOYnJNWHdZd21BNmg4c09qSGhFaFJPUnZWenJYMi1UZjJ0T0FPZERfVkpKeS1MWjlQY0RyZ2NISXRYU21SUDRNZXpndXpCWDZ2UQ?oc=5",
+    "original_title": "Arbeitsmarkt: Zahl arbeitsloser Akademiker erreicht neuen Höchststand - Spiegel",
+    "original_summary": "Arbeitsmarkt: Zahl arbeitsloser Akademiker erreicht neuen Höchststand Spiegel",
+    "published_at": "2026-11-11T06:11:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Emprego e trabalho"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mercado de trabalho: Número de académicos desempregados atinge novo máximo - Spiegel",
+    "translated_summary": "Mercado de Trabalho: Número de Acadêmicos Desempregados Alcança Novo Espelho Alto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:16+00:00"
   },
   {
     "id": "eed6a5cc6f30aa56fbac",
@@ -2779,6 +3602,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "570794e390022dd03738",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "ダイヤモンド・オンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9na19wVzZ5eTdGazBMb0NzLUFiOEJUbkMyN2lTX0xrSE9ad1JnajZ3d2pmdWJ1Sk1acVJ2cHhJcHN2dFU1RkpUenlIb20?oc=5",
+    "original_title": "トヨタ「サイオン」復活、日本の軽トラを米市場に投入 | The Wall Street Journal発 - ダイヤモンド・オンライン",
+    "original_summary": "トヨタ「サイオン」復活、日本の軽トラを米市場に投入 | The Wall Street Journal発 ダイヤモンド・オンライン",
+    "published_at": "2026-11-11T05:41:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota Cion retorna, trazendo tigres de luz japoneses para o mercado dos EUA | The Wall Street Journal - Diamond Online",
+    "translated_summary": "Toyota Cion Retorna, Trazendo Tigres de Luz Japoneses para o Mercado dos EUA | Diamond Online by The Wall Street Journal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:26+00:00"
   },
   {
     "id": "f542c1f294f6850d2588",
@@ -3053,6 +3898,26 @@
     "last_translation_attempt_at": "2026-11-11T06:05:04+00:00"
   },
   {
+    "id": "b0033da05be05b77bfad",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRc2kzYUlNZnhHWnByYmhmMXJFbkhPRlBPVXFRYVRaU1ZnU1FCRXdiRkpOY0w5QW52eGowcUJMVVRod1Y3ZVR0b2pmQ1Q2a2lXbXZieUxIS2hWU1pIYUN4TElKbG0za2thLXYwRFVmZGZqREFGQ2NMd09hZko3M1k?oc=5",
+    "original_title": "비유럽 브랜드 최초의 역사 기아 2026 골든 스티어링 휠 어워드서 사상 첫 3관왕 달성 - 스타뉴스",
+    "original_summary": "비유럽 브랜드 최초의 역사 기아 2026 골든 스티어링 휠 어워드서 사상 첫 3관왕 달성 스타뉴스",
+    "published_at": "2026-11-11T05:10:02+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Primeira marca não europeia a alcançar o primeiro triunfo nos Kia 2026 Golden Steering Wheel Awards - StarNews",
+    "translated_summary": "Primeira marca não europeia a alcançar o primeiro triunfo no Kia 2026 Golden Steering Wheel Awards Star News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:37+00:00"
+  },
+  {
     "id": "897bb6796f6550e79cfb",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -3243,6 +4108,26 @@
     "last_translation_attempt_at": "2026-11-11T05:04:53+00:00"
   },
   {
+    "id": "78563305d7e2cc6fa9b4",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ES3ZzRnQ2U3hzN3cxdVZlcUlrUGVOdkNPZmdWUmI5UkdOTWxMMC1ibXoycTZYTUFHRkVVOEhENndNRDJvV3VZQmNIREZ3OHFyaXF4dUV1UjhldmhSSlpKUUFoUks?oc=5",
+    "original_title": "“소액 투자자 71% 몰렸다”…한국투자증권, ‘한투배틀’ 참가자 3배 증가 - 디지털데일리",
+    "original_summary": "“소액 투자자 71% 몰렸다”…한국투자증권, ‘한투배틀’ 참가자 3배 증가 디지털데일리",
+    "published_at": "2026-11-11T04:38:08+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "“71% dos pequenos investidores reuniram-se” … Korea Investment & Securities, ‘Hantu Battle’ Participants Tripled - Digital Daily",
+    "translated_summary": "“71% dos pequenos investidores reuniram-se” … Participantes da Korea Investment & Securities ‘Hantu Battle’ triplicaram para Digital Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:24+00:00"
+  },
+  {
     "id": "f2c07d3a6632fe8b42f2",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -3263,6 +4148,26 @@
     "translated_summary": "Governo comunica com investidores globais... Documento financeiro discute ciclos de pagamento mais curtos",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T05:05:08+00:00"
+  },
+  {
+    "id": "67422a82ec2b1f58f81e",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREdaTlR4UTJiYkt1dXp5TmZ6d0R4ZmVlMjhwYWV2d0p4cUtUN2d2bFZGREhkZUxBQS1IUVYzem1JRmdMaVRxUDFabGVyNHY2Rjd4enlBSkQ4VnhoS2llc01IQUJLMHlhV0gtTXQtQk9FTzZVcUJadEl4OE5pUGN6UERqYllCV3g4WlE?oc=5",
+    "original_title": "10년 취준 끝에 '대한민국 공군' 최종 합격한 신입사원 스펙 수준ㄷㄷ (feat. KF-21 보라매) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "10년 취준 끝에 '대한민국 공군' 최종 합격한 신입사원 스펙 수준ㄷㄷ (feat. KF-21 보라매) - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T04:37:58+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Após 10 anos de serviço, a 'Força Aérea da República da Coreia' finalmente passou no novo nível de especificação de funcionário (feat. KF-21 Boramae) - Vídeo | Multimídia - South Korea Policy Briefing",
+    "translated_summary": "Após 10 anos de serviço, a 'Força Aérea da República da Coreia' finalmente passou no novo nível de especificação de funcionário (feat. KF-21 Boramae) - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:34+00:00"
   },
   {
     "id": "cdbf1728255e99647d09",
@@ -3392,6 +4297,29 @@
     "translated_summary": "A Toyota lançará o seu Camry construído nos EUA em novembro. O lançamento do camry feito nos EUA havia sido anunciado anteriormente como visando o outono de 2026, mas o CEO da Toyota Motor, Hiroki Nakajima, que veio aos EUA para torcer pela corrida final da NASCAR, disse \"antes que o inverno chegue\", sugerindo que será antes de dezembro. Se for lançado em novembro, pode ser analogizado.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T05:04:59+00:00"
+  },
+  {
+    "id": "b8df5ff0858812b9d6b1",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Car Watch",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jcHhlajRJeFRIVG9DWUl4dW1NWnBnX2JSWTJhZGIzdmMybndjaEpMeEJHc285Tm4tbEprRWlWdlNkM252V3BfV0tUcnM4ZHpSNWRiQVRad3FNSUJYSWtiTVdLQy0?oc=5",
+    "original_title": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長 - Car Watch",
+    "original_summary": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長 Car Watch",
+    "published_at": "2026-11-11T04:04:59+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota vai importar e lançar Camry fabricado nos EUA em novembro \"Before Winter Comes\" e Hiroki Nakajima, vice-presidente - Car Watch",
+    "translated_summary": "Toyota importará e lançará Camry fabricado nos EUA em novembro \"Before Winter Comes\" e Hiroki Nakajima será vice-presidente da Car Watch",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:21+00:00"
   },
   {
     "id": "1503523fdba118fce640",
@@ -5888,6 +6816,29 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "6ad0b6d897475c45e8cc",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cc3BGLU9RNmIzSUFkZ0FqSF9TN05iWU5oTjZpVm9lNXZWWGJCbFExd2hteUx1bVdJdERGZlNEUDBtNXdZSzk4djhDVWRlelJ5SGN0TjRVQUgyQQ?oc=5",
+    "original_title": "美 물가 부담에 금리 인상 가능성 커져…나스닥 0.74%↓ [뉴욕증시 브리핑] - 한국경제",
+    "original_summary": "美 물가 부담에 금리 인상 가능성 커져…나스닥 0.74%↓ [뉴욕증시 브리핑] 한국경제",
+    "published_at": "2026-11-10T22:54:40+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A probabilidade de aumentar as taxas de juros sobre os preços dos EUA aumentou... Nasdaq 0,74%↓ [New York Stock Market Briefing] - Korea Economy",
+    "translated_summary": "A probabilidade de um aumento da taxa de juros sobre a carga de preços dos EUA está aumentando... Nasdaq 0,74%↓ [New York Stock Market Briefing] Korea Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:27+00:00"
+  },
+  {
     "id": "9f99b826249592039821",
     "country": "Singapura",
     "category": "Automóvel",
@@ -6292,6 +7243,26 @@
     "last_translation_attempt_at": "2026-11-10T21:48:22+00:00"
   },
   {
+    "id": "380ad86d8dda636f3589",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Jornal de Negócios",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVE2eXdDTkRQQ0gzX2M1bTctSmxCN1hiVzdpN3BMWER3ZHpfaHR1SFY4aHVHTi03YVZEajJmZGMwRnozY21zQjY5OFRCNmtsUmQyaHBlZERfY3RVMTJZZndLN09GWWRId19WTWV6UUlLc3piRWhadmVpTnB4dnRhcnBaYXZ5eHR0c242bWFHSS1ySUt0cU9IUnZ3bHA3RlE0XzlnX3pPQ1IxejBTbnd1M0Rwem1iVVEwTHhULXpuRGx4dlhGWWVUWDdsVnRteEM2QnlrU2EwRUJyT3ZndVE?oc=5",
+    "original_title": "País em estado de alerta esta quarta-feira. Transportes condicionados, serviços públicos fechados, teletrabalho recomendado - Jornal de Negócios",
+    "original_summary": "País em estado de alerta esta quarta-feira. Transportes condicionados, serviços públicos fechados, teletrabalho recomendado Jornal de Negócios",
+    "published_at": "2026-11-10T21:41:31+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "79913e1b4f16a72a2aa3",
     "country": "Alemanha",
     "category": "Economia",
@@ -6377,6 +7348,29 @@
     "translated_summary": "A Toyota Motor North America (TMNA), uma corporação norte-americana da Toyota Motor Corporation, anunciou no dia 10 de novembro (horário local, 11 de novembro, horário do Japão) uma nova marca \"Scion by Toyota\" a ser implantada nos Estados Unidos. Ao mesmo tempo, foi anunciado que o primeiro caminhão utilitário ultracompacto Scion-by-Toyota, o KEI-01, começaria a produção nos Estados Unidos no final de 2027. Esta é a primeira vez que um veículo leve é produzido nos Estados Unidos. É também o primeiro do mundo, é claro, porque os veículos leves serão um padrão único no Japão.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T21:47:49+00:00"
+  },
+  {
+    "id": "3bcce0dac112b3b3aff2",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdWdUajFxSjBveTEyOHljTlB1QU9KbHVhVTE4eTBkQjlsdnZwRko0UWRSVnRLTnRoaHF3Rkk1YXFvd3c5LUhPWWNOaG42WHBOTWQ0LW93ZXp0THZVaHZrZDN6U2tWajktWUlZY3FqcktoQ01EYXFRQkRRMU1TNHc?oc=5",
+    "original_title": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ - Yahoo!ニュース",
+    "original_summary": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ Yahoo!ニュース",
+    "published_at": "2026-11-10T21:34:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente Trump Avalia Veículos Leves, Toyota Lança Scion nos EUA com Produção Semi-Knockdown do Caminhão Leve KEI-01 - Yahoo! News",
+    "translated_summary": "Presidente Trump Avalia Veículos Leves, Toyota Lança Scion com Produção Semi-Knockdown do Caminhão Leve KEI-01 nos EUA Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:23+00:00"
   },
   {
     "id": "e6f365671aecb3e262e3",
@@ -10271,6 +11265,28 @@
     "last_translation_attempt_at": "2026-11-10T13:06:59+00:00"
   },
   {
+    "id": "b2216b00605ffeeeab91",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "www.nationpathindia.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmtnRmdxYkM0M19tYXFmbUFwRW05QlBGZklyRzJmdDhJSFJqZFRsMU9LTkRUd3VkTFRTVHlWRDFOLVpDVHpLV0lCNk1jcXZmRHhDWlJHeDlzbnRfZDdleUFuOGdnbklxdFpSZjd5TzR0czhsdmpMTTV0b25JN3RycHNEWXdOWG1lSEFIZ3B5WjlPYV9BNTVOTFZiRl9GaUZUZlFVcQ?oc=5",
+    "original_title": "Election Commission Extends Political Neutrality Rules to Retired Officials in Five Poll-Bound States - www.nationpathindia.com",
+    "original_summary": "Election Commission Extends Political Neutrality Rules to Retired Officials in Five Poll-Bound States www.nationpathindia.com",
+    "published_at": "2026-11-10T11:16:38+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Comissão Eleitoral Estende Regras de Neutralidade Política a Funcionários Aposentados em Cinco Estados Unidos - www.nationpathindia.com",
+    "translated_summary": "Comissão Eleitoral Estende Regras de Neutralidade Política a Funcionários Aposentados em Cinco Estados Vinculados à Sondagem www.nationpathindia.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:48+00:00"
+  },
+  {
     "id": "45e933fe3dcc5b24196c",
     "country": "Japão",
     "category": "Automóvel",
@@ -11427,6 +12443,26 @@
     "translated_summary": "Okafuji, presidente da Associação de Comércio Exterior do Japão, apelou ao Nikkei para rever o sistema fiscal de investimento no exterior \"O mesmo que o poder de investimento do Japão\"",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T10:58:41+00:00"
+  },
+  {
+    "id": "eb3b6eb47c58398328b6",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hSVRUN1E4OXJhYUtGMVhKeTFiTGFUbFJIZmU4VWRIYWtCS09BMXBTOHN1enhQMlI4S0U3NXhZTEdEakVfamdMVzVhOXNRS1puUzZoRUxhZHJXZzluZ05pQk54M0cwalpjdkdSLQ?oc=5",
+    "original_title": "겨울철 144만 가구에 에너지바우처 지급…위기가구 40만 명 발굴 - 대한민국 정책브리핑",
+    "original_summary": "겨울철 144만 가구에 에너지바우처 지급…위기가구 40만 명 발굴 대한민국 정책브리핑",
+    "published_at": "2026-11-10T09:26:06+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Vouchers de energia para 1,44 milhão de famílias no inverno… Descoberta de 400.000 famílias em crise - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Vouchers de energia para 1,44 milhão de famílias no inverno... Descoberta de 400.000 famílias em crise Resumo de Políticas para a Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:05:32+00:00"
   },
   {
     "id": "949ed289b1f26e24796d",
@@ -30091,6 +31127,26 @@
     "last_translation_attempt_at": "2026-11-09T02:58:03+00:00"
   },
   {
+    "id": "ce70c5d578b2867561d9",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "bfsi.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2EzazNtSGFQdnI5VE5tb0xNWVpqNzI2QXMzdkQ5TlpITGtmWUQzWnhaVGhSMUR3bVgtWG83SkJvLVpvWDBjTno3Y3o1S3RULWRUYW1wSllYR1hXbURCVHlzR3JnTTh6Zk9yRlhUNGFDUEJ5ZVVtOUhCWndXNFBlOTRMbmRhVVpxVHlSSVF5UEw5eXl3NFR0cU43WlBMWE9KelB2TmU2OWxiNmw2V0M2Z0dMZ3lYWlpWTG1mbkNmUFZLQURIVzZoUVBuMG5aUdIB0wFBVV95cUxOak1aVUNrbVhUYXJ3c3BSa0ZGR3E0YTNFTFhVTEFfaER6OVlPdWpjYlpkTEl3NnFUeEJiQi1DakF2WHZ5N1FFcFczVmlJYUFlSl9zaHBqYmVMc0ltQ080eXNTM0Z5SEhLQkNpc21VUm5CelhNSk5xZHBIa21CbEZXSXBJT1h0ODh2bjJjSHVvb3l1R1JoZjBIOUZ5ajlJbG0yQ2FRMjVXUDVLUlFldmlRdGhuSGN2djQ3ODgtS1RmV1ItZ2gyRnotc19Qbms5N2xDdFEw?oc=5",
+    "original_title": "RBI dismisses social media claims of new cheque book rules from Jan 2027 - bfsi.economictimes.indiatimes.com",
+    "original_summary": "RBI dismisses social media claims of new cheque book rules from Jan 2027 bfsi.economictimes.indiatimes.com",
+    "published_at": "2026-11-09T02:35:31+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "e251415b21098899504e",
     "country": "Índia",
     "category": "Política",
@@ -32091,6 +33147,28 @@
     "translated_summary": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes afirma o grande ressurgimento do Japão Yahoo! News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T19:58:33+00:00"
+  },
+  {
+    "id": "3f62a210dac3db36a826",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRZb1JXY2puMW1pRWVra1Z1OFoxeUE2SnBVRlBlMDhYQzFjeXJPVlJERVl3UG9FR3EyUTZqWjFFZ2h0M05KVHJfSG1HandxbDFSNUJmXzVoVmVQbDN1cGRkdG1FclF6NHRKeHo1Z2VYbGNqNUdUTDl5dWJ0RFVNaWl4MDNhbVdET1h3bDNR?oc=5",
+    "original_title": "「日本経済はこれから30年バラ色です」。時価総額300億円を築いた元外資系トップトレーダーが日本の大復活を断言する理由 - Yahoo!ニュース",
+    "original_summary": "「日本経済はこれから30年バラ色です」。時価総額300億円を築いた元外資系トップトレーダーが日本の大復活を断言する理由 Yahoo!ニュース",
+    "published_at": "2026-11-08T21:57:17+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes está afirmando um grande ressurgimento no Japão - Yahoo! News",
+    "translated_summary": "“A economia japonesa será otimista nos próximos 30 anos.” Por que um ex-negociante estrangeiro que construiu uma capitalização de mercado de 30 bilhões de ienes afirma o grande ressurgimento do Japão Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:11+00:00"
   },
   {
     "id": "3c7a2dec0cd5d4b2564d",
@@ -41679,6 +42757,28 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "6b2783c34e45306d090c",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "XXV Governo Constitucional",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdkNGXzBCNWJ4QmtXTk1tUncwRUx0RlZFU0pjWlB1b21MV3NNYkN4UFVqcDRrUVo4cHJEZGREc0ZHeU9DWm91WDBtd3IweWlMLWlISzJ3R3JVTVk3eWQxRTRiQk5tbTB5NGVQZWRSTkNYc05maEM1cE5QbnJtWFdfMEhTaEgtU3hHTW56SlA1aVR1RlRVendRa0VlZDM4ZGJtUnJtUUNwQmdBMUdBVlNtZzNkaFVRaTdKTE1DZFFzazhON1VZa3prNTBTRVdFZ0piUkE?oc=5",
+    "original_title": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos - XXV Governo Constitucional",
+    "original_summary": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos XXV Governo Constitucional",
+    "published_at": "2026-11-06T19:45:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "2ec5fd8dd5bcdaba9fb9",
     "country": "Portugal",
     "category": "Economia",
@@ -50520,6 +51620,28 @@
     "last_translation_attempt_at": "2026-11-06T02:55:58+00:00"
   },
   {
+    "id": "2f8d630505b6f149a587",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bb0o3Q1NJSTNPckNWckNwb3h1b2MzT2FKLWJ1TUFPZ1N3Y08wVm5JNTBGdXlFMkQ5aDA2N1RabkNqN0JvM0kzaVFxLThMcGVwYy05S3FzMVZSVkZ4SldtUjhNLUZmazA3cDRxUlZVemdGNkVNZC1wbm05RVVDUDQ?oc=5",
+    "original_title": "「360maps」、日本経済新聞 創刊150年記念イベントの会場案内に採用（株式会社360Channel） - Yahoo!ニュース",
+    "original_summary": "「360maps」、日本経済新聞 創刊150年記念イベントの会場案内に採用（株式会社360Channel） Yahoo!ニュース",
+    "published_at": "2026-11-06T02:00:45+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"360maps\", usado para orientar o local do evento de 150 anos do Nikkei (360Channel, Inc.) - Yahoo! News",
+    "translated_summary": "\"360maps\" foi selecionado para orientar o local do evento do 150º aniversário do Nikkei (360Channel, Inc.) Yahoo! News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T11:06:08+00:00"
+  },
+  {
     "id": "cb0b9c65d287c1d739d9",
     "country": "China",
     "category": "Economia",
@@ -52206,6 +53328,26 @@
     "translated_summary": "Estratégia de IA do Governo Federal: 18 medidas para avançar a Alemanha BornCity",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T18:38:04+00:00"
+  },
+  {
+    "id": "5afc6b6e722f47c81d09",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Jornal de Negócios",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hMdVpjLXFuZWx1OHNsSlpHQVd2X3VBbkVRaWxqUzItakxFalJzUWNmWVlNcjZfTV9iLVVyNGZXMl9PVklYTkFIcFltY0lVTUliMjdEbm1aanc5Q1BYWUQ0XzFuNWNfcVZaSURINGJSeGY3VGhCbEpKcUdKYXJrTWpfd2dhajl4NEJOYTBjSFJmS0ZEV1N5aDJCNV9pZHJMc1NUWkxva09aaHNKVS1Wb0o4QdIBrgFBVV95cUxQM090MmctWUQtSDYyVnJzckQ3b3ZYaFNlQTNZUWYwM2h4UU9pU2NvVkphODliVENDaUdlNm1TUkVISnpEb0hOTXVpQU5LbkM1dFNxazhVTnVocVd3c1FFbW5pWnhIbUJNcUx3bXR1SWNNOGhrbUZLTk1CMEdhM0NnZWZXQXY4Z2l4aUxtM2FoOEJZNEQxb0c3WnFYQ2NnMkliYUNxSXBXZVdqak9RVnc?oc=5",
+    "original_title": "Portugal vai acolher cimeira ibero-americana de 2030 - Jornal de Negócios",
+    "original_summary": "Portugal vai acolher cimeira ibero-americana de 2030 Jornal de Negócios",
+    "published_at": "2026-11-05T19:06:00+00:00",
+    "first_seen_at": "2026-11-11T11:04:18+00:00",
+    "topics": [],
+    "translation_status": "pending",
+    "translated_title": "",
+    "translated_summary": "",
+    "translated_lang": "",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "0ca8d1d7aa487910ed55",
