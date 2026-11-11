@@ -80,6 +80,234 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "a620c4990b9263175ab7",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/worten-alvo-de-ciberataque-que-acedeu-a-dados-de-clientes-e-prestadores-de-servicos_n1778556",
+    "original_title": "Worten alvo de ciberataque que acedeu a dados de clientes e prestadores de serviços",
+    "original_summary": "A Worten foi alvo de um ataque informático que permitiu o acesso a dados de clientes e prestadores de serviços, confirmou à Lusa fonte oficial da empresa, acrescentando que já procedeu à correção da \"vulnerabilidade explorada\".",
+    "published_at": "2026-11-11T22:50:43+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Worten alvo de ciberataque que acedeu a dados de clientes e prestadores de serviços",
+    "translated_summary": "A Worten foi alvo de um ataque informático que permitiu o acesso a dados de clientes e prestadores de serviços, confirmou à Lusa fonte oficial da empresa, acrescentando que já procedeu à correção da \"vulnerabilidade explorada\".",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:52+00:00"
+  },
+  {
+    "id": "1ed53f5e5a58faea7cf7",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "車訊網",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tekV6d251UVQ1LWhCMEJ1b2dDMldNZXhma3lZd2M0UkF2TUxGOGpRN3lHem5yeUpYUGdoMUZ6YlJIU3djOThiV3cyY3YtSVFnanVUbmtQTEd6M0lZRWc3dQ?oc=5",
+    "original_title": "Autobacs攜手奇瑞打造全新日本輕型電動車「EMTA」！東京改裝車展2027將全球首發| 一手企劃 - 車訊網",
+    "original_summary": "Autobacs攜手奇瑞打造全新日本輕型電動車「EMTA」！東京改裝車展2027將全球首發| 一手企劃 車訊網",
+    "published_at": "2026-11-11T22:31:10+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Autobacs associa-se à Chery para criar o novo veículo elétrico ligeiro japonês \"EMTA\"! O Salão do Automóvel Modificado de Tóquio 2027 terá o seu lançamento mundial | Projeto original - CarNews",
+    "translated_summary": "A Autobacs associa-se à Chery para criar o novo veículo elétrico ligeiro japonês \"EMTA\"! O Salão do Automóvel Modificado de Tóquio 2027 terá o seu lançamento mundial | Projeto original CarNews",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:25+00:00"
+  },
+  {
+    "id": "5b411922795cdf256cf8",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374127/china-backs-cuba-havana-raises-us-fuel-pressure-beijing",
+    "original_title": "China backs Cuba as Havana raises US fuel pressure in Beijing",
+    "original_summary": "China pledged on Wednesday to stand by Cuba against sanctions and foreign interference, days after Washington penalised two Chinese state-linked firms for allegedly supplying the Cuban military. Foreign Minister Wang Yi told his Cuban counterpart Bruno Rodriguez in Beijing that China would firmly support Cuba in safeguarding its sovereignty and opposing sanctions, blockades and foreign interference, regardless of how the international situation changed. The ministry’s readout said Rodriguez...",
+    "published_at": "2026-11-11T22:28:30+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A China apoia Cuba, enquanto Havana aumenta a pressão dos EUA sobre o combustível em Pequim",
+    "translated_summary": "A China prometeu na quarta-feira apoiar Cuba contra sanções e interferências estrangeiras, dias depois de Washington ter penalizado duas empresas chinesas ligadas ao Estado por alegadamente fornecerem bens às forças armadas cubanas. O ministro dos Negócios Estrangeiros, Wang Yi, disse ao seu homólogo cubano, Bruno Rodríguez, em Pequim, que a China apoiaria firmemente Cuba na defesa da sua soberania e na oposição a sanções, bloqueios e ingerências estrangeiras, independentemente da evolução da situação internacional.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:30+00:00"
+  },
+  {
+    "id": "2b393245a3512e8050c4",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "21财经",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV3c25PVHdhVndfeG1qNzhuakVpc2RfSnlOZm9fV0tDQWQzd3FFUFNEdHdqXzVTQ1ZKZERGVWlqLWRDUGRrbGRCV2ZjYnAyVWJuUGVaM3FQcjQ2elJsOUZ4a1d3dGRnVjBoRDFGM3VqR3BrVEs4MWNZWWZfMS1RcU5LemlUemhqYXFoUlZhZw?oc=5",
+    "original_title": "中国外贸“APEC含量”十足 这组数据给出答案 - 21财经",
+    "original_summary": "中国外贸“APEC含量”十足 这组数据给出答案 21财经",
+    "published_at": "2026-11-11T22:24:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O \"teor APEC\" do comércio externo da China é elevado. Este conjunto de dados dá a resposta - 21st Century Business Herald",
+    "translated_summary": "O \"teor APEC\" do comércio externo da China é elevado. Este conjunto de dados dá a resposta. 21st Century Business Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:33+00:00"
+  },
+  {
+    "id": "e07ed46331a55cddde36",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155636.html",
+    "original_title": "ヤマハ発動機の体験型ブランドショールーム「Yamaha E-Ride Base」11月11日リニューアルオープン 一部展示車両はまたがっての記念撮影も可能に",
+    "original_summary": "ヤマハ発動機は、横浜・みなとみらいで運営するブランド発信拠点「Yamaha E-Ride Base」を11月11日にリニューアルオープンした。",
+    "published_at": "2026-11-11T22:00:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "\"Yamaha E-Ride Base\", o showroom interativo da Yamaha Motor, reabre no dia 11 de novembro. Será possível tirar fotografias comemorativas montado em alguns dos veículos expostos.",
+    "translated_summary": "A Yamaha Motor reabriu, no dia 11 de novembro, a \"Yamaha E-Ride Base\", um centro de divulgação da marca que opera em Minato Mirai, Yokohama.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:56:59+00:00"
+  },
+  {
+    "id": "67624be5b14b1ca6b12e",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "ETtoday新聞雲",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rRTRlUkJKN2lid2huc1Z6LVRERHMwVEZKaXQzUmJmcVpxc05PajlPMDJmb3NlTnJiWkVJeTA3Zm8wNHRCenZ4RGl2WDMtQUXSAU5BVV95cUxQcHlaZHBYNXNTNlN6MVduak5pdVVMVHRCMGJYSzRjNnAzYU14WmkzMTRVZ3FvMzNnQi1JR3lldWRvREMzbV8xNEVnaDRWTFE?oc=5",
+    "original_title": "巴拉圭銀行風暴後的台灣外交選擇 - ETtoday新聞雲",
+    "original_summary": "巴拉圭銀行風暴後的台灣外交選擇 ETtoday新聞雲",
+    "published_at": "2026-11-11T22:00:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Opções diplomáticas de Taiwan após a crise bancária no Paraguai - ETtoday News Cloud",
+    "translated_summary": "Opções diplomáticas de Taiwan após a crise bancária no Paraguai ETtoday News Cloud",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:21+00:00"
+  },
+  {
+    "id": "2581bf949e198a4c31a0",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261112000700315",
+    "original_title": "(EDITORIAL from Korea Herald on Nov. 12)",
+    "original_summary": "The Future Response Fund, now under review by the National Assembly as part of n...",
+    "published_at": "2026-11-11T21:58:55+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "(EDITORIAL do Korea Herald de 12 de novembro)",
+    "translated_summary": "O Fundo de Resposta para o Futuro, agora em análise pela Assembleia Nacional como parte de...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:27+00:00"
+  },
+  {
+    "id": "1db47511d6be55c1a737",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "人民网",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HQjBMWmRCb3U1WGllVGdsNkdteExVSUxYWVZEM0lBYm1mWGNtMmRhZDJ1WWd0T0NEcVFwMVBNNE5nSVBwQTV5SUkya2JhVnZpTktFOXd0S0FsQVJVOWNjOTZhdERLNmZsMVZ3?oc=5",
+    "original_title": "“区域经济一体化至关重要”（APEC中国年：开放创新合作） --国际 - 人民网",
+    "original_summary": "“区域经济一体化至关重要”（APEC中国年：开放创新合作） --国际 人民网",
+    "published_at": "2026-11-11T21:58:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"A integração económica regional é crucial\" (Ano da China na APEC: Cooperação Aberta e Inovadora) -- Internacional -- People's Daily Online",
+    "translated_summary": "\"A integração económica regional é crucial\" (Ano da China na APEC: Cooperação Aberta e Inovadora) -- People's Daily Online Internacional",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:37+00:00"
+  },
+  {
+    "id": "7b29516684c7ba24d054",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/acampadas-reunem-se-com-presidente-da-republica-na-sexta-feira_n1778548",
+    "original_title": "Acampadas reúnem-se com presidente da República na sexta-feira",
+    "original_summary": "As Acampadas do Porto e Lisboa, assim como a plataforma Casa Para Viver, têm reunião com o Presidente da República na sexta-feira pelas 10:00, revelou hoje o movimento do Porto.",
+    "published_at": "2026-11-11T21:49:04+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Acampadas reúnem-se com presidente da República na sexta-feira",
+    "translated_summary": "As Acampadas do Porto e Lisboa, assim como a plataforma Casa Para Viver, têm reunião com o Presidente da República na sexta-feira pelas 10:00, revelou hoje o movimento do Porto.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:53+00:00"
+  },
+  {
+    "id": "ba948ffa183237043a42",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/depressao-charles-montenegro-defende-que-mais-vale-prevenir-do-que-remediar_e1778319",
+    "original_title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
+    "original_summary": "O primeiro-ministro afirmou que a depressão Charles \"não teve o impacto que as previsões anteciparam\" e que ninguém pretende fazer \"parar o país\", mas, em casos como este, \"mais vale prevenir do que remediar\", defendeu. Atualizamos aqui, ao minuto, todas as informações sobre a intempérie.",
+    "published_at": "2026-11-11T21:46:53+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Depressão Charles. Montenegro defende que \"mais vale prevenir do que remediar\"",
+    "translated_summary": "O primeiro-ministro afirmou que a depressão Charles \"não teve o impacto que as previsões anteciparam\" e que ninguém pretende fazer \"parar o país\", mas, em casos como este, \"mais vale prevenir do que remediar\", defendeu. Atualizamos aqui, ao minuto, todas as informações sobre a intempérie.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:49+00:00"
+  },
+  {
+    "id": "2876ff1e2ad6b7107a95",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/mau-tempo-mai-nega-excesso-de-cautela-e-diz-que-podia-ter-havido-tragedia-colossal_n1778536",
+    "original_title": "Mau tempo. MAI nega \"excesso de cautela\" e diz que podia ter havido \"tragédia colossal\"",
+    "original_summary": "Luís Neves frisou que os portugueses corresponderam \"de forma muito civilizada\" ao pedido do Governo para que ficassem em casa.",
+    "published_at": "2026-11-11T21:46:36+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mau tempo. MAI nega \"excesso de cautela\" e diz que podia ter havido \"tragédia colossal\"",
+    "translated_summary": "Luís Neves frisou que os portugueses corresponderam \"de forma muito civilizada\" ao pedido do Governo para que ficassem em casa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:50+00:00"
+  },
+  {
     "id": "97d2a5d68147505e2a0d",
     "country": "Alemanha",
     "category": "Política",
@@ -182,6 +410,26 @@
     "last_translation_attempt_at": "2026-11-11T21:41:33+00:00"
   },
   {
+    "id": "9709f897b530cda2fe45",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "STERN.de",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0xZSDQ5VHBieDQ4VGRrM1lKRVFxMVZva3liYl93M2F5RVZfV3dNUzNEaTVBd3NEUlQ5N2lMUjlyeWpPZU9ENTFWSWZHT1QxUlBObHA0SHlhRV92MHU4NUx5Y18zNzctMkxiZXQtSnpGWGt2RzdBNEw2bTNoYktzQWI1SHNZM004NllYNHdscm9zMWZtWlhMUHJ2elMwRVQwdjlWMWlDT0lwZzg2VGk4cTk4dG5Gak1Xcm5oSFFiNE8?oc=5",
+    "original_title": "Haushalt: Koalition findet bisher kein Geld für Stromsteuer-Senkung - STERN.de",
+    "original_summary": "Haushalt: Koalition findet bisher kein Geld für Stromsteuer-Senkung STERN.de",
+    "published_at": "2026-11-11T20:34:39+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento: até agora, a coligação não encontrou dinheiro para reduzir o imposto sobre a eletricidade - STERN.de",
+    "translated_summary": "Orçamento: até agora, a coligação não encontrou dinheiro para reduzir o imposto sobre a eletricidade STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:06+00:00"
+  },
+  {
     "id": "7110d1deea297d8abf53",
     "country": "Singapura",
     "category": "Automóvel",
@@ -267,6 +515,26 @@
     "last_translation_attempt_at": "2026-11-11T21:41:18+00:00"
   },
   {
+    "id": "352e52f6e9219c555cd7",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdxdDU2OGlUbnVNam9qcXozQ0lpWmpNcWs3Z29YTV9zbklKZUp4OHU5aTZxNlBJekhwWHl2ZkFOZS16b1dLWmxhWVhFclpURFZTUVpraEItMk5WVDhrMHdIOTEzYWM5RWsxVHg0Q1ZiYlNOdkNvQk41T09HdXVRbEZtdmlmdkJhVDdOUWItNG4wWXFvWlNWVnZTQ1pfbkdPSHlPLVVfOEgwam5CeEY0SklDWWxXTTg5NTNvQUpGWHptZnd0S3VJcWg4OUt6ZEhfVjZ1UDA0NXRCbFE?oc=5",
+    "original_title": "Zuckersteuer, Plastiksteuer, Stromsteuer: Zwei Steuervorhaben sind vom Koalitions-Tisch - T-Online",
+    "original_summary": "Zuckersteuer, Plastiksteuer, Stromsteuer: Zwei Steuervorhaben sind vom Koalitions-Tisch T-Online",
+    "published_at": "2026-11-11T20:03:32+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Imposto sobre o açúcar, imposto sobre o plástico, imposto sobre a eletricidade: dois projetos de impostos estão fora da mesa da coligação - T-Online",
+    "translated_summary": "Imposto sobre o açúcar, imposto sobre o plástico, imposto sobre a eletricidade: dois projetos de impostos estão fora da mesa da coligação T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:12+00:00"
+  },
+  {
     "id": "1c9064cc6e97734957a5",
     "country": "Coreia do Sul",
     "category": "Automóvel",
@@ -349,6 +617,26 @@
     "translated_summary": "O Volvo ES90/EX90 vence o prémio \"Carro Importado do Ano do Hall da Fama do Automóvel do Japão\" Volvo",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T21:41:12+00:00"
+  },
+  {
+    "id": "cbfd45c95d2a45f5e2b9",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Volvo",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wWG9PcTNlZVNOSHFiV2hFSE45OUVKY3JJQkdZNklmQlpKYm5EVm5ZRnZLeFFlZmJncmw0NWpaSWtIdFBwdUlhSERIQ1lVbFVxLWZOWk9DaG5xTUlpd2c?oc=5",
+    "original_title": "ボルボ ES90 / EX90が「日本自動車殿堂インポートカーオブザイヤー」を受賞 - Volvo",
+    "original_summary": "ボルボ ES90 / EX90が「日本自動車殿堂インポートカーオブザイヤー」を受賞 Volvo",
+    "published_at": "2026-11-11T19:47:39+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os Volvo ES90/EX90 vencem o prémio \"Carro Importado do Ano do Hall da Fama do Automóvel do Japão\" - Volvo",
+    "translated_summary": "Volvo ES90/EX90 vence o prémio \"Carro Importado do Ano do Hall da Fama Automóvel do Japão\" Volvo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:03+00:00"
   },
   {
     "id": "6edd6119dda07aeafe2c",
@@ -880,6 +1168,29 @@
     "translated_summary": "A organização da Web Summit está totalmente concentrada na realização do último dia do evento, o mais intenso de sempre, disse hoje à Lusa fonte oficial, adiantando que o presidente executivo dará uma conferência de imprensa na quinta-feira.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T18:00:16+00:00"
+  },
+  {
+    "id": "da042da93ca5132eee1f",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "STERN.de",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjNuQUdKaHdMdmpoWHhvZktEQVFLSVBJdnlaRC1FaEtncU81dloyWFVVQXdqSWU0X3ZTTmcxMUhGMzFobEtGOVAzOUJmV1RCVEs0YXVpVzkyZGtNY29lS2dFVS1KaTFJYjZDb2ktR05VLTA4T2NPa2t0OG5GVW9RRVZmbGlQNHYzSm54WFZ6SFJrbHlBdm9FMmk0d0ZWUEN4dThMNUdiYnRLTFJhYjVXZ3hXWFN5WEtQSHdmTEhZcXBEU2c?oc=5",
+    "original_title": "Bundesregierung: Kritik an Schweitzers Reformplänen für Arbeitsmarkt - STERN.de",
+    "original_summary": "Bundesregierung: Kritik an Schweitzers Reformplänen für Arbeitsmarkt STERN.de",
+    "published_at": "2026-11-11T17:14:27+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Emprego e trabalho",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governo federal: críticas aos planos de reforma de Schweitzer para o mercado de trabalho - STERN.de",
+    "translated_summary": "Governo federal: críticas aos planos de reforma de Schweitzer para o mercado de trabalho STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:09+00:00"
   },
   {
     "id": "4ad43ca11511c2ca1c4c",
@@ -5592,6 +5903,28 @@
     "last_translation_attempt_at": "2026-11-11T12:00:43+00:00"
   },
   {
+    "id": "b078203d7bccb3a502bd",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IR2lPTGNrRy12aTN4Zzc5c2pFWnpsTE5mWk8yZjNJdE53WkYtWVRDTHJDd2lWbWxSaGItUF84ZnJ6QmZFeGZycWVabHRFZjdrUk4xa3RUaw?oc=5",
+    "original_title": "中 전기차에 유럽은 빗장, 한국은 무방비…K자동차 ‘내우외환’ - 서울신문",
+    "original_summary": "中 전기차에 유럽은 빗장, 한국은 무방비…K자동차 ‘내우외환’ 서울신문",
+    "published_at": "2026-11-11T09:39:08+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul fica vulnerável… A indústria automóvel coreana enfrenta \"problemas internos e externos\" - Seoul Shinmun",
+    "translated_summary": "A Europa fecha as portas aos veículos elétricos chineses, enquanto a Coreia do Sul está vulnerável… A indústria automóvel coreana enfrenta \"problemas internos e externos\" – The Seoul Shinmun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:15+00:00"
+  },
+  {
     "id": "cb8a6dc2e83739c73269",
     "country": "China",
     "category": "Automóvel",
@@ -7191,6 +7524,26 @@
     "translated_summary": "Guiyang, 11 de novembro (repórter Zhang Wei) — A fim de aproveitar o papel proeminente das empresas de base tecnológica na liderança do desenvolvimento de tecnologias-chave e na promoção do aumento da competitividade industrial, desde 2026, Guizhou tem vindo a selecionar dinamicamente um grupo de empresas-chave líderes, empresas-chave de base e empresas-chave com potencial, com base na implementação de políticas inclusivas, como o apoio à investigação, desenvolvimento e inovação das empresas, a certificação de empresas de alta tecnologia e a avaliação de pequenas e médias empresas de base tecnológica. O objetivo é explorar métodos de apoio diferenciados e classificados para as diferentes fases de crescimento das empresas e concentrar esforços na criação de uma força de inovação tecnológica empresarial.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T16:12:04+00:00"
+  },
+  {
+    "id": "1d106781e9c414fea32d",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Jornal de Negócios",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXI4RzBESUlaTWxQVUNkNElvZ0JFaTcyXzY3eF8yeXk3SEctYUZMYUZjd1M2cTJJSVNUOFNqRDR1UXZHZ2lHTDduSFpyd09PQlBwWXhsM1M4TUFWLUZBRnNtZDVfQ3hmcFY5QzFBbHRUdUJ2TzlCLUl2aGk1MW1lVDBlV21pRTh1bXJkWGpZanQxcWV5RVNXdUZPNGZZQ3B3VUZBUlE4aXhLTXhUUWhUYVZvWjRYTkEwTGhoYg?oc=5",
+    "original_title": "Furgões elétricos ao preço dos diesel dão recorde a Mangualde - Jornal de Negócios",
+    "original_summary": "Furgões elétricos ao preço dos diesel dão recorde a Mangualde Jornal de Negócios",
+    "published_at": "2026-11-11T08:01:09+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Furgões elétricos ao preço dos diesel dão recorde a Mangualde - Jornal de Negócios",
+    "translated_summary": "Furgões elétricos ao preço dos diesel dão recorde a Mangualde Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:51+00:00"
   },
   {
     "id": "3765aca07086bd74de0e",
@@ -8869,6 +9222,26 @@
     "last_translation_attempt_at": "2026-11-11T19:01:20+00:00"
   },
   {
+    "id": "56a572b92dfc1177a5f8",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "联合早报",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmxxYVR2Q19WeFRCcXl1b3UwYTN0R1o5Vk9RRWo3aFF5cV81TEkySjRnZjZxTzNNQmdfMDlvZTVWM3pXMGZ0VHF5YkNyeG0wZldKazRTM2VnSDVGdVdvSEtUQ01SWEQ3aVpXbmkyV0hscS14N0oxOGtEcGdWTXFMNkhZZ19OUkx2YWxHR0o1Rlg4aUVyckNEQnFzX29zWDJScUVHUWlEOUU2VDlPemFDTFlIWTU5bWxpMWhNYUJSSjg1amw1N2ow?oc=5",
+    "original_title": "MAS strengthens Singapore’s gold hub role with custody service for up to 500 tonnes for central banks - 联合早报",
+    "original_summary": "MAS strengthens Singapore’s gold hub role with custody service for up to 500 tonnes for central banks 联合早报",
+    "published_at": "2026-11-11T06:35:34+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A MAS reforça o papel de Singapura como centro do ouro com serviços de custódia para até 500 toneladas para bancos centrais - Lianhe Zaobao",
+    "translated_summary": "A MAS reforça o papel de Singapura como centro do ouro com serviços de custódia para até 500 toneladas para bancos centrais Lianhe Zaobao",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:46+00:00"
+  },
+  {
     "id": "d4faa23eb1f71fc40b87",
     "country": "Singapura",
     "category": "Política",
@@ -9735,6 +10108,26 @@
     "translated_summary": "Funcionários do governo federal dos EUA estarão em Taiwan para intercâmbios! Admissão no hospital, plano de trabalho ministerial até 2 anos Freedom Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T06:05:26+00:00"
+  },
+  {
+    "id": "53e59209fdaed9823909",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44cTBRTFM1MEVubWI5UFpObUZuU3gxZkpqZGFZOVNVUkRGcHZFWTVqclZnaVlHWDJvc1RxNGoxVkJXS3ZVSHZWRVdnT3ZpUUY4aHlMSDNPanBTV2l2cm40UEFBV3lHdlJDRVE?oc=5",
+    "original_title": "美國聯邦政府員工將赴台交流！可進立院、部會工作 計畫最長2年 - 自由時報",
+    "original_summary": "美國聯邦政府員工將赴台交流！可進立院、部會工作 計畫最長2年 自由時報",
+    "published_at": "2026-11-11T05:00:04+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Funcionários do governo federal dos Estados Unidos irão a Taiwan para um intercâmbio! Poderão trabalhar no Yuan Legislativo e em ministérios, com um plano de até 2 anos - Liberty Times",
+    "translated_summary": "Funcionários do governo federal dos EUA irão a Taiwan para intercâmbio! Poderão trabalhar no Parlamento e em ministérios, com um programa de duração máxima de 2 anos Liberty Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:18+00:00"
   },
   {
     "id": "fea55f309fd1f723af38",
@@ -12153,6 +12546,28 @@
     "translated_summary": "Portugal continental registou entre as 00:00 e 23:59 de terça-feira 1.240 ocorrências relacionadas com o mau tempo, que atingiram sobretudo a Grande Lisboa, adiantou à Lusa fonte da Proteção Civil.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T01:09:58+00:00"
+  },
+  {
+    "id": "c84c355480b024d17e22",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Maritime Gateway",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVFtWEtMbFJYa2VXOFhkZjNCaGxMRHNwNnhuSG56VEt6OFhlWnBRQy1KQmJtM2wtdmxwR3JUQk1QbXVJS2VFZE84N0RSck85RWdBX1dDOWQwb0dmUTZBVFdNYWhONW5ZZ2szWVZxZnROMm91ZmhleVp6OHlnR1RDbTJ3RTM2akZ4bW42ei1EVS1UdTFDRkdzM0M3aXJ2cnpCQkNnVU1rYWg?oc=5",
+    "original_title": "India’s West Asia exports fall 7.2% as Oman and Jordan record strong gains - Maritime Gateway",
+    "original_summary": "India’s West Asia exports fall 7.2% as Oman and Jordan record strong gains Maritime Gateway",
+    "published_at": "2026-11-11T00:46:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia para a Ásia Ocidental caem 7,2%, enquanto Omã e a Jordânia registam fortes ganhos - Maritime Gateway",
+    "translated_summary": "As exportações da Índia para a Ásia Ocidental caem 7,2%, enquanto Omã e a Jordânia registam fortes ganhos Maritime Gateway",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:43+00:00"
   },
   {
     "id": "9a8eef99b1511c171e56",
@@ -15811,6 +16226,28 @@
     "translated_summary": "CCDR NORTE reúne em Braga autarcas, academias e empresas para debater a região Diário do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T15:56:27+00:00"
+  },
+  {
+    "id": "af5826ab64e0bb9a3a99",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRUtQU0M0YktiS2RaQXpIVVIyY0R5RUJ6RGppb1R5RlBBcGhIMllEZUstM0xkb3lCQUo2TFNSR3VaZEhBSXUwUzVieHNGZ1JwWTdVUDZiRzBBNEYxQjlyMVY3VnVEcWlkbFE5dkM4QnNxcm9ybEdMZGtPanN5WU5XZS1QUm9DeEJRVVptaExnWXZzb1ltODlfSEkyR0t4YTYzZ2VuM0lrNUR3QzNLZGUzVWwxek1GUHVCN19pUklpLTlCQUdVRlVneFA2NmxZbmJQSDY0aHJVdjVDTzU5cGdzRjRsU1rSAeQBQVVfeXFMTUVLUFNDNGJLYktkWkF6SFVSMmNEeUVCekRqaW9UeUZQQXBoSDJZRGVLLTNMZG95QkFKNkxTUkd1WmRIQUl1MFM1YnhzRmdScFk3VVA2YkcwQTRGMUI5cjFWN1Z1RHFpZGxROXZDOEJzcXJvcmxHTGRrT2pzeVlOV2UtUFJvQ3hCUVVabWhMZ1l2c29ZbTg5X0hJMkdLeGE2M2dlbjNJazVEd0MzS2RlM1VsMXpNRlB1QjdfaVJJaS05QkFHVUZVZ3hQNjZsWW5iUEg2NGhyVXY1Q081OXBnc0Y0bFNa?oc=5",
+    "original_title": "CCDR NORTE reúne em Braga autarcas, academias e empresas para debater a região - Diário do Minho",
+    "original_summary": "CCDR NORTE reúne em Braga autarcas, academias e empresas para debater a região Diário do Minho",
+    "published_at": "2026-11-10T13:59:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "CCDR NORTE reúne em Braga autarcas, academias e empresas para debater a região - Diário do Minho",
+    "translated_summary": "CCDR NORTE reúne em Braga autarcas, academias e empresas para debater a região Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:54+00:00"
   },
   {
     "id": "9ca06253ff1cc6cba1f7",
@@ -21752,6 +22189,26 @@
     "last_translation_attempt_at": "2026-11-10T12:32:35+00:00"
   },
   {
+    "id": "b1db30bf055f86e36440",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW9Xb2RtSjZXN2phWVpnLXV1TGwzdUVFSmNMemlPaVRHLThkS1AzQ2kyU2ZSZ050TFNIbHFGWmpxRDkteGRmQmNOQUJCc0FOSzB0VTRXZ0FUU2VsMEtEWlZUakpRYndURk5ab3RYOWp5QzIwc09MU21iNk5ZQXBtOW1vMm55bE1Pc2FtTkZJaUNOaXlrSHpaWElQOVJ6TW8?oc=5",
+    "original_title": "Chocolates Leonidas: iguaria belga no centro de Braga - Correio do Minho",
+    "original_summary": "Chocolates Leonidas: iguaria belga no centro de Braga Correio do Minho",
+    "published_at": "2026-11-10T06:00:27+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chocolates Leonidas: iguaria belga no centro de Braga - Correio do Minho",
+    "translated_summary": "Chocolates Leonidas: iguaria belga no centro de Braga Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:56+00:00"
+  },
+  {
     "id": "c79dd74c388bce178055",
     "country": "Braga",
     "category": "Atualidade",
@@ -24114,6 +24571,26 @@
     "translated_summary": "A Yokohama Rubber está realizando uma campanha de presentes de inverno para a série de pneus sem pregos ICE Guard iG80 para carros de passageiros de 15 de outubro a 16 de novembro.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T03:56:28+00:00"
+  },
+  {
+    "id": "3edc8a244af8ec74c1e2",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91cDcyX0ZKSHVGNkZNWXVOOUdmc0tORmNhODhQTzkyZHNoQUx2NHViOHFSaEg2R290MWZVR0lPZE5DdU1yM0Z6VjVKbW1GMEc0Mks3Q2RTXzJNbnZJOXg1OdIBYEFVX3lxTE91cDcyX0ZKSHVGNkZNWXVOOUdmc0tORmNhODhQTzkyZHNoQUx2NHViOHFSaEg2R290MWZVR0lPZE5DdU1yM0Z6VjVKbW1GMEc0Mks3Q2RTXzJNbnZJOXg1OQ?oc=5",
+    "original_title": "KIC, 전략적 투자로 英 보험사 지분 인수…3억달러 규모 - 연합뉴스",
+    "original_summary": "KIC, 전략적 투자로 英 보험사 지분 인수…3억달러 규모 연합뉴스",
+    "published_at": "2026-11-10T02:53:47+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "KIC adquire participação na seguradora britânica através de investimento estratégico... no valor de 300 milhões de dólares - Yonhap News",
+    "translated_summary": "KIC adquire participação em seguradora britânica através de investimento estratégico... no valor de 300 milhões de dólares Yonhap News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:40+00:00"
   },
   {
     "id": "4b5bf38f93738f96915e",
@@ -28070,6 +28547,26 @@
     "translated_summary": "Bilhetes esgotados para o jogo entre Portugal e Dinamarca em Braga Diário do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T12:32:21+00:00"
+  },
+  {
+    "id": "13ba01fbb9b5a157cd55",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0pEN1IzWlNaMEZ0VEpCeDJXU19QeWtBb3JOTkp0aFVVblNtbkFHZ2RPemxmeEk5UXF2WUY5R2hjM3BONU94R2JJeDNMWXRRdTV4WS1pYUUtZHFJb25FRnBnUndtMTVyQUVVUV94ZjhzZTlYMUp1eURwbWlBSmV6NXhEMm5yMDlFZm9fSXB3Rm9iYjdIa3N6c3V4UTM5MDdodlZGc0tWbzIzYkRWb0NrZXZnT1FvSFJTS1ZxVEk0Q2prRjBHWHhuTmRSVDUta1h2X3pyLXQ4XzB0QdIB2gFBVV95cUxPQ0pEN1IzWlNaMEZ0VEpCeDJXU19QeWtBb3JOTkp0aFVVblNtbkFHZ2RPemxmeEk5UXF2WUY5R2hjM3BONU94R2JJeDNMWXRRdTV4WS1pYUUtZHFJb25FRnBnUndtMTVyQUVVUV94ZjhzZTlYMUp1eURwbWlBSmV6NXhEMm5yMDlFZm9fSXB3Rm9iYjdIa3N6c3V4UTM5MDdodlZGc0tWbzIzYkRWb0NrZXZnT1FvSFJTS1ZxVEk0Q2prRjBHWHhuTmRSVDUta1h2X3pyLXQ4XzB0QQ?oc=5",
+    "original_title": "Bilhetes esgotados para o jogo entre Portugal e Dinamarca em Braga - Diário do Minho",
+    "original_summary": "Bilhetes esgotados para o jogo entre Portugal e Dinamarca em Braga Diário do Minho",
+    "published_at": "2026-11-09T17:52:00+00:00",
+    "first_seen_at": "2026-11-11T22:56:30+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bilhetes esgotados para o jogo entre Portugal e Dinamarca em Braga - Diário do Minho",
+    "translated_summary": "Bilhetes esgotados para o jogo entre Portugal e Dinamarca em Braga Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:55+00:00"
   },
   {
     "id": "9fc92871c3c9ecb65894",
@@ -66073,11 +66570,11 @@
     "published_at": "2026-11-05T02:45:06+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Professor Davin Chor, economista comercial de renome, nomeado Professor Term da MAS na NUS - NUS - Universidade Nacional de Singapura",
+    "translated_summary": "O Professor Davin Chor, economista comercial de renome, foi nomeado Professor Term da MAS na NUS NUS – Universidade Nacional de Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:57:57+00:00"
   },
   {
     "id": "b4f30d01bb1dc1e11d20",
@@ -66095,11 +66592,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A taxa de crescimento do PIB de Taiwan pode chegar aos 12,16%! 00410A concentra-se em ações de tecnologia de IA. A estratégia de troca de ações dos gestores torna-se o foco - UDN",
+    "translated_summary": "A taxa de crescimento do PIB de Taiwan pode chegar a 12,16%! 00410A concentra-se em ações de tecnologia de IA. A estratégia de troca de ações dos gestores torna-se o foco UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:00+00:00"
   },
   {
     "id": "2bed580fe563c0f617f5",
@@ -66181,11 +66678,11 @@
       "Tarifas e comércio",
       "Semicondutores"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Com o bom desempenho das exportações de semicondutores… Bancos de investimento estrangeiros aumentam a previsão de crescimento da Coreia do Sul para 3,7% - Industry News",
+    "translated_summary": "Com o bom desempenho das exportações de semicondutores... Bancos de investimento estrangeiros aumentam a previsão de crescimento da Coreia do Sul para 3,7% Industry News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:03+00:00"
   },
   {
     "id": "bfd49f0b1142c71d9712",
@@ -66957,11 +67454,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Taiwan investe na aquisição de gás natural do Alasca | Resumo de notícias e destaques - Yahoo Finanças",
+    "translated_summary": "Taiwan investe na aquisição de gás natural do Alasca | Resumo de notícias e destaques Yahoo Finanças",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:06+00:00"
   },
   {
     "id": "74dd892ad2ef0af5e920",
@@ -67041,11 +67538,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] \"Lucro ilícito de 4,5 mil milhões de KRW com a venda de informações jornalísticas\"... Concluída a investigação do The Korea Economic Daily - KBS News",
+    "translated_summary": "[Exclusivo] \"Lucro ilícito de 4,5 mil milhões de KRW com a venda de informações jornalísticas\"... Conclusão da investigação do The Korea Economic Daily – Notícias da KBS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:09+00:00"
   },
   {
     "id": "82eec1c66491efcc6064",
@@ -67480,11 +67977,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Navigator lidera reputação na indústria e entra no top 20 das empresas mais reputadas em Portugal - Jornal Económico",
+    "translated_summary": "Navigator lidera reputação na indústria e entra no top 20 das empresas mais reputadas em Portugal Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:12+00:00"
   },
   {
     "id": "58383a6fc2502552d523",
@@ -67523,11 +68020,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A MetLife Investment Management abre um novo capítulo, guiada pela sua convicção, para criar novo valor para os investidores de Taiwan - Diário - Economic Daily News",
+    "translated_summary": "A MetLife Investment Management abre um novo capítulo, guiada pela sua convicção, para criar novo valor para os investidores de Taiwan - Diário Económico e Comercial",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:13+00:00"
   },
   {
     "id": "eac1168cac1c1a00f7d0",
@@ -67562,11 +68059,11 @@
     "published_at": "2026-11-04T18:34:46+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Agenda de alta tecnologia da Alemanha: como a política de inovação fortalece a investigação - FAZ",
+    "translated_summary": "Agenda de Alta Tecnologia da Alemanha: Como a política de inovação fortalece a investigação FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:16+00:00"
   },
   {
     "id": "a7176dcc589589ed2199",
@@ -67775,11 +68272,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Descrição] 04/11/2026 Korea Economic TV (04/11) Artigo sobre a contagem decrescente para a fusão Dunamu-Naver – Briefing de Políticas da República da Coreia",
+    "translated_summary": "[Descrição] 04/11/2026 Korea Economic TV (04/11) Comunicado de imprensa da Coreia do Sul sobre o artigo relativo à contagem decrescente para a fusão Dunamu-Naver",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:19+00:00"
   },
   {
     "id": "5ae30513dd514b5a3f2d",
@@ -67817,11 +68314,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África - Dinheiro Vivo",
+    "translated_summary": "Montenegro quer Portugal a fazer ponte entre investimento ibero-americano e África Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:22+00:00"
   },
   {
     "id": "ddb9b2f8ec7f41f5fc30",
@@ -67925,11 +68422,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Quem são as empresas e os líderes com melhor reputação em Portugal? Veja aqui o ranking de 2026 - RHmagazine",
+    "translated_summary": "Quem são as empresas e os líderes com melhor reputação em Portugal? Veja aqui o ranking de 2026 RHmagazine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:23+00:00"
   },
   {
     "id": "998737a479c10fe0ac6c",
@@ -67989,11 +68486,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Primeiro-ministro quer Portugal a fazer ponte entre investimento ibero-americano e África - LUSA",
+    "translated_summary": "Primeiro-ministro quer Portugal a fazer ponte entre investimento ibero-americano e África LUSA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:24+00:00"
   },
   {
     "id": "7a20dd358dd6d21da915",
@@ -68033,11 +68530,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reações alemãs da política e da economia à derrota dos republicanos nas eleições intercalares dos EUA - tagesschau.de",
+    "translated_summary": "Reações alemãs da política e da economia à derrota dos republicanos nas eleições intercalares dos EUA tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:25+00:00"
   },
   {
     "id": "2581bdb30a3b8b62d1e1",
@@ -68072,11 +68569,11 @@
     "published_at": "2026-11-04T16:10:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Volkswagen a produzir em Portugal deverá chamar-se ID. Up - Observador",
+    "translated_summary": "Volkswagen a produzir em Portugal deverá chamar-se ID. Up Observador",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:28+00:00"
   },
   {
     "id": "4b246aa0d75f04b87699",
@@ -68157,11 +68654,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Construção em Portugal renasce das cinzas com empresas a faturarem um recorde de 43,5 mil milhões - Jornal Económico",
+    "translated_summary": "Construção em Portugal renasce das cinzas com empresas a faturarem um recorde de 43,5 mil milhões Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:29+00:00"
   },
   {
     "id": "cbb734570b3a29df11f7",
@@ -68558,11 +69055,11 @@
     "published_at": "2026-11-04T14:25:17+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Singapura vai reforçar as relações nucleares e as regras do comércio de energia como futura presidente da ASEAN - Green Central Banking",
+    "translated_summary": "Singapura vai reforçar os laços nucleares e as regras do comércio de energia enquanto futura presidente da ASEAN Banca central ecológica",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T22:58:30+00:00"
   },
   {
     "id": "f49420d18a1b2a3bc5e3",
