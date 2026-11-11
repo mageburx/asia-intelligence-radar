@@ -1,5 +1,264 @@
 [
   {
+    "id": "5844854538889842df9c",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/11/lynk-co-unveils-7-seat-900l-suv/",
+    "original_title": "Lynk & Co unveils 7-seat 900L SUV, expanding flagship plug-in hybrid lineup",
+    "original_summary": "The 900L features a 2+2+3 seating layout and a longer body measuring 5,280 mm. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-11T02:04:44+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Lynk & Co revela SUV 900L de 7 lugares, expandindo a linha híbrida plug-in",
+    "translated_summary": "O 900L possui um layout de assentos 2+2+3 e um corpo mais longo medindo 5.280 mm. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:07:51+00:00"
+  },
+  {
+    "id": "7d380c989a2a9c4d0908",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华报业网",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWkNZUmZfWnBGR3phN1dfQkRMRnc3Z3JMRnpEQW5FVjVQNXl1eTBJbXZpS3lXMV84TVhqaDZSLW55dzNjLW1WajI2R19heVlpbDNxR3lVcURxNE8tbGFuZ1UwcnVzVnJFWlE?oc=5",
+    "original_title": "高技术产品成出口新名片 中国外贸的APEC底色更浓 - 新华报业网",
+    "original_summary": "高技术产品成出口新名片 中国外贸的APEC底色更浓 新华报业网",
+    "published_at": "2026-11-11T02:02:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Novos cartões de visita para produtos de alta tecnologia a serem exportados O histórico da APEC no comércio exterior da China é mais forte - Jornal Xinhua",
+    "translated_summary": "Novos cartões de visita para produtos de alta tecnologia a serem exportados Fundo APEC do comércio exterior da China é mais forte Rede de Jornais Xinhua",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:29+00:00"
+  },
+  {
+    "id": "3edef70027330b6a24bc",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZclhiWEZzT3BGdWJMQnJRWmZaMkRJcU4yTmJVY2sxY09kY3pSSy1UTk5YNlVPS0NFdkFnZHdqZEZweDZrS2JuVGRmczRRdE15czN1RnRNRTZoTWZuUXZIa3lrRQ?oc=5",
+    "original_title": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책 - 에너지경제신문",
+    "original_summary": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책 에너지경제신문",
+    "published_at": "2026-11-11T02:02:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Issues & Insights] A política monetária não espera que o Fed decida - Energy Economy Newspaper",
+    "translated_summary": "[Issues & Insights] O jornal de economia de energia de política monetária não espera pela decisão do Fed",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:44+00:00"
+  },
+  {
+    "id": "8fee0cd04f9ed7382aee",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenJLXzBpSU9HdXpJemcyeE0wSmpzZjZQQ0RpZWtDMjA3eE5UM2lYMHJ3dU1yT2tCZ0hhSlRRQjBPU1R3REc3S0g1TWRQNWVzTTE5ZG9FVGh5a2hGMVAxSXhzWU9lVS0ySG5BY1ptekZSVnp5aHhDdUczLTZxZkJTUVdjRzcwVFUzQkE?oc=5",
+    "original_title": "\"모두가 진심\" 아이 곁에 모인 경찰들 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "\"모두가 진심\" 아이 곁에 모인 경찰들 - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T01:54:50+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Policiais \"Todos são sérios\" reunidos em torno da criança - Vídeo | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Policiais \"Todos são sérios\" reunidos em torno da criança - Vídeo | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:10+00:00"
+  },
+  {
+    "id": "dd6f3f05f0b19d1f5df9",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "경북신문",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jdXRtWHV5YURieFlNVFZxbUU4SGRqcDExeUhJYzN3aG5lUzhHR0JxUnpTbXV1SDN2OVJvQzlFaGtDUlFCSTBKXzFYU0R5SGdPQ3VzUnlIUHU?oc=5",
+    "original_title": "日 시마네현 지사 ‘다케시마의 날’ 정부 주최 요구…'독도 영유권 억지 주장' 되풀이 - 경북신문",
+    "original_summary": "日 시마네현 지사 ‘다케시마의 날’ 정부 주최 요구…'독도 영유권 억지 주장' 되풀이 경북신문",
+    "published_at": "2026-11-11T01:52:15+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governador da Prefeitura de Shimane ‘Dia de Takeshima’ Governo Solicita Anfitrião... 'Reivindicação de Soberania de Dokdo' Repetida - Jornal Gyeongbuk",
+    "translated_summary": "Japão Governador da Prefeitura de Shimane ‘Dia de Takeshima’ Exigência do Governo... 'Reivindicação Territorial de Dokdo' Repete Jornal de Gyeongbuk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:17+00:00"
+  },
+  {
+    "id": "96193d1aebc22f1de2f4",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGhZRS1SS1EtbmpzYXJ2M3UzS25MazV5SlZOSUZUMHpVYmt6TmlmYUEzQ2JjVTk5a3VqT1lrN2d5TmhtanM5UVNrbWdLX0dXSjZ4VkpJdGE2WlRReGtIT0kyUWVudmVhTzJQNmJ5QlZNLUQ5NEJiNERuRXBoZkdFcXdHVXo4Ym9WV0E?oc=5",
+    "original_title": "기상청 불청객 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "기상청 불청객 - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T01:50:03+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Bureau of Meteorology Unsolicited - Video | Multimedia - South Korea Policy Briefing",
+    "translated_summary": "Bureau of Meteorology Unsolicited - Video | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:07+00:00"
+  },
+  {
+    "id": "92d40bfb146abf8cc4d4",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261111003000315",
+    "original_title": "Justice minister nominee reiterates special counsel role over indictments against Lee",
+    "original_summary": "SEOUL, Nov. 11 (Yonhap) -- Justice Minister nominee Lee Yong-cheol on Wednesday ...",
+    "published_at": "2026-11-11T01:45:29+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Nomeado para o Ministério da Justiça reitera o papel de conselheiro especial sobre as acusações contra Lee",
+    "translated_summary": "SEUL, 11 de novembro (Yonhap) -- O candidato a ministro da Justiça Lee Yong-cheol na quarta-feira ...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:27+00:00"
+  },
+  {
+    "id": "2af7bb98302fd50b8412",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVdGTnJaWmhsNGR3Mno2a0NPRVpSNVl6SGhJLVplV2NjMVpfWTNGZGFpLVZGcmRGYmRkcWd4cTNyQU9YLWNTYmRUZlFXMnBsUVhBWmJTT2RnOU5IZjkwX0hadlpZVk9raERvNmV1MmRBRjdpTWhKdUk1WkdYa1BPRGt5NnpublNpak52OEE5cE9WTWg1QXc?oc=5",
+    "original_title": "Inflation in Deutschland: Geringere Inflation durch Tankrabatt im Oktober - DIE ZEIT",
+    "original_summary": "Inflation in Deutschland: Geringere Inflation durch Tankrabatt im Oktober DIE ZEIT",
+    "published_at": "2026-11-11T01:45:06+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Inflação na Alemanha: inflação mais baixa devido ao desconto nos tanques em outubro - A HORA",
+    "translated_summary": "Inflação na Alemanha: inflação mais baixa devido ao desconto nos tanques EM OUTUBRO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:41+00:00"
+  },
+  {
+    "id": "c11c13b42c4ba3053a7f",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "中华军事",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PN2JZMTcycGo2RHctTzZkVzJNMkRLVXJkckJPN0pkaWdnNEtyUXJWLTViZ3FJTjNDYlgzMVQtaDQ1dFMycXBZcFRyQ054MlpndjNhLVRWVHV6TnExSERkUzd3bk9IVEdsUV9mM0VuNDQ?oc=5",
+    "original_title": "菲媒:对中国有敌意的防长应该下台 外交与经济利益的权衡 - 中华军事",
+    "original_summary": "菲媒:对中国有敌意的防长应该下台 外交与经济利益的权衡 中华军事",
+    "published_at": "2026-11-11T01:38:25+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Geopolítica",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Meios de comunicação filipinos: Ministros da Defesa hostis à China devem renunciar Pesando interesses diplomáticos e econômicos - Forças Armadas da China",
+    "translated_summary": "Mídia filipina: O ministro da Defesa que é hostil à China deve renunciar, pesando os interesses diplomáticos e econômicos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:07:49+00:00"
+  },
+  {
+    "id": "8d0660fca34fe00066ba",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Singapore Business Review",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWl4clk1eV9iT21yR2xJUUdBSnFWZjN4MzZ1cWhpNkJocGxCS1M3MUtDRFhhdEZ1OTFPWk50cDFub3RDLW5kYnpmdmpBb0FaNUtkWm5wMEhXeGVMRDBqVTVNUmkxSU1FZnFjbFVUOEtINHA2XzBpVTZkemxrekdIUEJBcDA5dw?oc=5",
+    "original_title": "MAS to force standard fee sheet on investment-linked policies - Singapore Business Review",
+    "original_summary": "MAS to force standard fee sheet on investment-linked policies Singapore Business Review",
+    "published_at": "2026-11-11T01:32:06+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A MAS forçará a folha de taxas padrão em políticas vinculadas a investimentos - Singapore Business Review",
+    "translated_summary": "A MAS forçará a folha de taxas padrão em políticas vinculadas a investimentos Singapore Business Review",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:53+00:00"
+  },
+  {
+    "id": "ea5c0d2039e4fe2caf0e",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "自由評論網",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PcDlvb3JobTZTQ2hvTkdxQ0x5VDBnX0NUMnZNdC1JLVNjYWZ3UXJhMDZhTjItWjZSZWh6RWRIaVZnUXBXakh1Q1MzOWpNb0ZMQ09IcGRXS191dlBWUzAyM2h30gFnQVVfeXFMT3B2Y0U3VjBjcUY0WFhfelBqaXRlejJ4U1FWMTZVOTQ5RkxFeXRsTVJ1akFmSmhNTHRaRWNZa1FwcU1TbDVUQThsa3ljbWVfaS0xLWZoWUduNDlsQzVCVDRmSHJsUG5Udw?oc=5",
+    "original_title": "有志一「童」》投資與出口雙引擎 AI撐起台灣雙位數高成長 - 自由評論網",
+    "original_summary": "有志一「童」》投資與出口雙引擎 AI撐起台灣雙位數高成長 自由評論網",
+    "published_at": "2026-11-11T01:30:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Zhi Yi \"Children\" investment and export twin-engine AI support Taiwan's double-digit high growth - Free Review Network",
+    "translated_summary": "Zhi Yi \"Children\" investe e exporta IA bimotora para apoiar a rede de comentários gratuitos de alto crescimento de dois dígitos de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:48+00:00"
+  },
+  {
+    "id": "f42f3470e1fd9f5b19f4",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "中金在线",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQkxPMTY5M0xYS0tleEFONV9EUGRFVlA0UTFhYmlCNE5iWTZJRk1fQ2RMdG5aRUVWRWJQN1NzZHkyR21sdmxUUDFsb0d5bXNzZWdpaTJLOGswVzI3b19HRUJya2ltYzVQNFd3?oc=5",
+    "original_title": "出口暴增1.3倍，隐忧浮出水面_车市动态 - 中金在线",
+    "original_summary": "出口暴增1.3倍，隐忧浮出水面_车市动态 中金在线",
+    "published_at": "2026-11-11T01:24:02+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações subiram 1,3x, surgiram preocupações_Vehicle market dynamics - CICC Online",
+    "translated_summary": "As exportações aumentaram 1,3 vezes e surgiram preocupações ocultas_Dinâmica do mercado de veículos Zhongjin Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:07:54+00:00"
+  },
+  {
     "id": "4e75e7e23a09d713d913",
     "country": "Taiwan",
     "category": "Política",
@@ -18,6 +277,48 @@
     "translated_summary": "O caso de Huang Jen-hsun O governo taiwanês sabia disso? Em 2024, Huang Jue monitorou esses itinerários para se manter a par das notícias",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T01:09:18+00:00"
+  },
+  {
+    "id": "45437d72b7363285ac25",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由評論網",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RWkowQjJMeWszT3BUb2xGcWFEYWRmZHY2UzVHaG9KYlFiSXkyRUh1UDFEeWljQmx4SlNZN3IxbVpTSnp5MkVTUWhmTG15cWRROUVMemdNek9VYXVvTzg1aV9B0gFnQVVfeXFMUHFGRUs5WjZwdFhHVmZ2T3JRTXVQaF9oYmZTZnVNb2twcWo0NjJ2eElaRGJ5YmZBRzR6djVTT3RKR3MtRVZxckQ5RUNRYlB2c3NRMk9IdTBvT3JRc3o5cF8zWmdoSXlsbw?oc=5",
+    "original_title": "自由開講》從巴拉圭、貝里斯事件 看台灣外交的韌性 - 自由評論網",
+    "original_summary": "自由開講》從巴拉圭、貝里斯事件 看台灣外交的韌性 自由評論網",
+    "published_at": "2026-11-11T01:00:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "The Resilience of Taiwan's Diplomacy from the Events in Paraguay and Belize - Free Review Network",
+    "translated_summary": "A resiliência da diplomacia de Taiwan do Paraguai e Belize",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:20+00:00"
+  },
+  {
+    "id": "6527160fe0126b3451e7",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BLVdsM2g2dnByUkFZTHoyWkpCSnhmVzMzMVA5SFp2NjVFOWNzN2Rpb0ZHTU1XT290MzBFb1pLTU5LYlN1aWVlOTgtRHJTdnJLV1EyTXhuNjhKWmE5Q0hPY0JoZjFJOTROUnc3WVRn?oc=5",
+    "original_title": "청년의 일상, 정책의 힌트가 되다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "청년의 일상, 정책의 힌트가 되다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T00:59:16+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Rotina Diária da Juventude Torna-se uma Dica de Política - Todos | Cartões/Hankut | Multimídia - Resumo de Política da Coreia do Sul",
+    "translated_summary": "A rotina diária dos jovens torna-se uma dica de política - Todos | Cards/Hankut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:14+00:00"
   },
   {
     "id": "8d85cc8cf06648b847d5",
@@ -66,6 +367,26 @@
     "last_translation_attempt_at": "2026-11-11T01:08:50+00:00"
   },
   {
+    "id": "15ef32acc33efc4dfd89",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Car Watch",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRHMwNk5OZlRaM1VZc0pxNjc1QjdIZHhLMHNzdWRlVk83bzdnWUN3bnl3eFFfSTBicmhwb0lkdUNBZTJxYUtocE9ZV0lzX2FrMENlRDBYTEx3NVRVeElyQWZMV1Y?oc=5",
+    "original_title": "日本の軽自動車規格は、グローバルの自動車規格となるのか？ スズキのCES出展から始まった軽自動車規格の広がり - Car Watch",
+    "original_summary": "日本の軽自動車規格は、グローバルの自動車規格となるのか？ スズキのCES出展から始まった軽自動車規格の広がり Car Watch",
+    "published_at": "2026-11-11T00:53:16+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os padrões japoneses de veículos leves se tornarão padrões automotivos globais? A disseminação dos padrões de veículos leves que começou com a exposição CES da Suzuki - Car Watch",
+    "translated_summary": "Os padrões japoneses de veículos leves se tornarão padrões automotivos globais? A disseminação dos padrões de veículos leves que começou com a exposição Car Watch da Suzuki na CES",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:07:59+00:00"
+  },
+  {
     "id": "3073bd628d6f93a1af2d",
     "country": "Japão",
     "category": "Automóvel",
@@ -104,6 +425,26 @@
     "translated_summary": "Kim Hyung-dong \"Rede elétrica, espinha dorsal da Coreia do Sul... Sem envolvimento político na política energética\" News1",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T01:09:06+00:00"
+  },
+  {
+    "id": "75d786220e23c9fbe12d",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/portugal-esta-em-situacao-de-alerta-devido-a-passagem-da-depressao-charles_e1778024",
+    "original_title": "Portugal está em situação de alerta devido à passagem da depressão Charles",
+    "original_summary": "O continente português entrou às 00h00 desta quarta-feira em situação de alerta devido à passagem da depressão Charles, que atingirá, a partir da manhã, sobretudo as regiões do Algarve, Alentejo, Lisboa e Centro. O primeiro-ministro alertou para \"horas difíceis\" e pediu aos portugueses que não subestimem mau tempo. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "published_at": "2026-11-11T00:47:16+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Portugal está em situação de alerta devido à passagem da depressão Charles",
+    "translated_summary": "O continente português entrou às 00h00 desta quarta-feira em situação de alerta devido à passagem da depressão Charles, que atingirá, a partir da manhã, sobretudo as regiões do Algarve, Alentejo, Lisboa e Centro. O primeiro-ministro alertou para \"horas difíceis\" e pediu aos portugueses que não subestimem mau tempo. Acompanhamos aqui, ao minuto, o evoluir da situação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:56+00:00"
   },
   {
     "id": "c5ba0595e24e8aa26259",
@@ -208,6 +549,28 @@
     "translated_summary": "Argumento numérico APEC: o crescimento económico supera o mundo com o qual a China contribui New Hunan",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T01:09:39+00:00"
+  },
+  {
+    "id": "5347604dce386b7d3d27",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdjN0NDhBdnBRenBCSmtMcTQ0UmU0TDJSblUtRVREV2lISllDcExDclJrcDczYk4tb1VKaFVnWVhwOXUxb05LNXcxODNBUEhDWEdyeWhtUWdDNUlkbXBqd213M1cxaTF1THhNaVdyODhCcmVGSUdJRGdLUm0wdWs?oc=5",
+    "original_title": "サイオン、軽トラックで復活。日本でおなじみの姿と右ハンドルのまま米国で生まれる新ブランド「サイオン・バイ・トヨタ」の第1弾、KEI-01（MotorFan） - Yahoo!ニュース",
+    "original_summary": "サイオン、軽トラックで復活。日本でおなじみの姿と右ハンドルのまま米国で生まれる新ブランド「サイオン・バイ・トヨタ」の第1弾、KEI-01（MotorFan） Yahoo!ニュース",
+    "published_at": "2026-11-11T00:10:11+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Sion, revivido por um caminhão leve. KEI-01 (MotorFan), a primeira da nova marca \"Sion by Toyota\" nascida nos Estados Unidos com a aparência familiar no Japão e a alça certa - Yahoo! News",
+    "translated_summary": "Sion, revivido por um caminhão leve. KEI-01 (MotorFan) Yahoo! News, a primeira da nova marca \"Sion by Toyota\" nascida nos Estados Unidos com uma forma familiar no Japão e uma alça direita",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:07:56+00:00"
   },
   {
     "id": "a564cad8b21c87307dfc",
@@ -399,6 +762,28 @@
     "last_translation_attempt_at": "2026-11-10T23:42:40+00:00"
   },
   {
+    "id": "8b6b00013b58cbf8340a",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UdkNGc1l2a3Jnc2NweDY0ZlJJMHV4SkRhdEl6QW5yMnRJQmFTZ3hMazRfMXQxYnVnTkJoUTZnNnJ6LUxJMVNjRVJRVFItcXM1ZG5SYm1Xc3RzZHlDYWtB?oc=5",
+    "original_title": "治理AI换脸侵权迫在眉睫 - 中国经济网",
+    "original_summary": "治理AI换脸侵权迫在眉睫 中国经济网",
+    "published_at": "2026-11-10T23:15:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A gestão da violação da IA é iminente - China Economic Net",
+    "translated_summary": "Governar a violação de mudança de rosto de IA é iminente na China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:31+00:00"
+  },
+  {
     "id": "fc7f27e1a052f8f756f3",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -588,6 +973,28 @@
     "translated_summary": "\"'Novo conceito de trapaça' com óculos de IA\"... Fui pego em uma 'emergência' à frente da minha capacidade [Chute tecnológico de Jung Eun Jung] Economia da Coreia",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T01:09:46+00:00"
+  },
+  {
+    "id": "2c3909e5b9f7d2c3c488",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kRHFtY2Q0dlN2clRVN0h0RWtKU2gyTjZvNzVwdjQxMy1JUEFsS0FJaVlfNTVselN5dktqMnJxSWJtMnE5S1VXVjlDRnBOdVV0bXVMUUNlRHluTVNqSjhZQXk3QlMwc3pxR3lHS3pINA?oc=5",
+    "original_title": "产融协同织好“六张网” - 中国经济网",
+    "original_summary": "产融协同织好“六张网” 中国经济网",
+    "published_at": "2026-11-10T22:23:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Indústria e finanças tecem de forma colaborativa \"seis redes\" - China Economic Net",
+    "translated_summary": "Indústria e finanças tecem de forma colaborativa \"seis redes\" China Economic Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:34+00:00"
   },
   {
     "id": "9b276a265710f3d0b369",
@@ -821,6 +1228,28 @@
     "translated_summary": "A Toyota Motor North America (TMNA), uma corporação norte-americana da Toyota Motor Corporation, anunciou no dia 10 de novembro (horário local, 11 de novembro, horário do Japão) uma nova marca \"Scion by Toyota\" a ser implantada nos Estados Unidos. Ao mesmo tempo, foi anunciado que o primeiro caminhão utilitário ultracompacto Scion-by-Toyota, o KEI-01, começaria a produção nos Estados Unidos no final de 2027. Esta é a primeira vez que um veículo leve é produzido nos Estados Unidos. É também o primeiro do mundo, é claro, porque os veículos leves serão um padrão único no Japão.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T21:47:49+00:00"
+  },
+  {
+    "id": "e6f365671aecb3e262e3",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNkxTdTZESmcxa2pXTVZXMEtUdExGX3JtcjRubDhvQzh1WHlob1FZR29ha3JzVlBCUFlMTzlQY0tfdVRrUWZJNzZPUGxtYmlzUTU3N3ZzZTcxdw?oc=5",
+    "original_title": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡] - 한국경제",
+    "original_summary": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡] 한국경제",
+    "published_at": "2026-11-10T21:30:02+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Nunca fiquei acordado tanto tempo\"... A casa de Seul é um recorde de partir o coração [Conversa de Mercado] - Economia da Coreia",
+    "translated_summary": "\"Nunca estive tanto tempo em alta\"... Os preços das casas em Seul são um recorde muito insignificante [Market Talk] Economia coreana",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:46+00:00"
   },
   {
     "id": "b01647f42068a994f3c0",
@@ -1351,6 +1780,26 @@
     "translated_summary": "Face à declaração da situação de alerta nacional e ao agravamento das condições meteorológicas, o presidente da Câmara Municipal de Braga reuniu com a... O post Braga ativa Centro de Coordenação Operacional Municipal e reforça medidas preventivas aparece primeiro no VMTV .",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T18:58:16+00:00"
+  },
+  {
+    "id": "20e5cad0188c3bc0854e",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLW9VZGNNQjdZSy1wWDN3bkhHOWdYazZJUVFKaTZnY3oydzlmcUg3SjI2LURHUTdyVDlwdHdKVlYySm00QVR1QkZKSUNWNUVvZldhXzJ3Q0M3VzJZT3pDUjkyNlUtbk5XVzc5UWZ2SUpILV9wQWNSczRDdFFscXdJMzZ3UmtTb2RtS00waGFBNDBGTGZ0U1pmb2Z4QXFNTGNZQjRnaXd0emdJM1ZuWTl1WTlCZGM?oc=5",
+    "original_title": "Ministerpräsident Kretschmer kämpft um VW-Standort Zwickau - FAZ",
+    "original_summary": "Ministerpräsident Kretschmer kämpft um VW-Standort Zwickau FAZ",
+    "published_at": "2026-11-10T18:30:22+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ministro Presidente Kretschmer luta pelo local da VW em Zwickau - faz",
+    "translated_summary": "Ministro Presidente Kretschmer luta pelo local da VW em Zwickau faz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:05+00:00"
   },
   {
     "id": "981f26c8a4a3b81cf0f0",
@@ -3371,6 +3820,28 @@
     "last_translation_attempt_at": "2026-11-10T13:07:25+00:00"
   },
   {
+    "id": "6788ea8b4dcbcb0e622c",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eDczcWNYY0NGVVh0LVlwZFJDeDhVVVE1N1ZOS2RUdmFaZkZaS3EyMnB3SXFjNlV1NUkxT0RmMlU1VzkyVVJqYmEtQTByTDY3ckE2N0phTzdqRWxMOVlhdm1TMzVBeW1PbWtIVQ?oc=5",
+    "original_title": "アンソロピック、IPO評価額200〜220兆円 当初見通しの3〜4割減 - 日本経済新聞",
+    "original_summary": "アンソロピック、IPO評価額200〜220兆円 当初見通しの3〜4割減 日本経済新聞",
+    "published_at": "2026-11-10T13:00:41+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Antropologia, avaliação de IPO de 200-220 trilhões de ienes, redução de 30% a 40% da previsão inicial - The Nikkei",
+    "translated_summary": "Antropologia, avaliação do IPO 200-220 trilhões de ienes 30% -40% da previsão inicial Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:39+00:00"
+  },
+  {
     "id": "f02e433d4affb7e381e4",
     "country": "Portugal",
     "category": "Automóvel",
@@ -3823,6 +4294,29 @@
     "translated_summary": "Sem inspeção, prova sem garagem e ar condicionado incluídos! Lean3, um veículo elétrico compacto japonês de três rodas, recebeu uma concessão de certificação de tipo de 200.000 ienes - CARNEWS www.carnews.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T16:57:57+00:00"
+  },
+  {
+    "id": "c378ef6b91568ec4e292",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcDcxNFR1WU1ZeGhFaGc5eXZRSTlxVUo4Q0Nkcm4wQUlwLWY1a1k4eFhyN3FXUGdERG1PMk1BY0U0aFZwcGN2SERjOXZNMVhP0gFWQVVfeXFMUHZla21VNGVUMk5UWWRkYUVYd2J4ZTNnQk8wa0Jad3RSRDd3RTVyLUt4VzJfVmZNS3B6cFdJbXdISmFlVkMtbXpXNDhIaEt0MTNmX056SGc?oc=5",
+    "original_title": "滙豐投信台灣周投資講座 AI供應鏈優勢支撐台股長線動能 - UDN",
+    "original_summary": "滙豐投信台灣周投資講座 AI供應鏈優勢支撐台股長線動能 UDN",
+    "published_at": "2026-11-10T12:09:59+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "HSBC Taiwan Week Investment Seminar AI Supply Chain Advantage Supports Long-term Momentum in Taiwan Stocks - UDN",
+    "translated_summary": "HSBC Taiwan Week Investment Seminar AI Supply Chain Advantage Support Taiwan Long-term Kinetic UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:51+00:00"
   },
   {
     "id": "707c9969fd9a1d9d6b01",
@@ -5646,6 +6140,28 @@
     "last_translation_attempt_at": "2026-11-10T10:57:41+00:00"
   },
   {
+    "id": "d8f491359ef6d8357d67",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yZmlqU3hETGI2anJSV2VLMTlFZnVteHh1b3pSUVlOcGtYRFhSajRULVN1OGEzaW9pc2dLVmpUU2VGRWI1VXJnUU1MbzBSWUVmSUVUaXhwZ2ljNDJDYm1Vc3k1OFhldS01aUJjWg?oc=5",
+    "original_title": "タマホームで保険金不正請求、340件2300万円 損保は追加調査を要求 - 日本経済新聞",
+    "original_summary": "タマホームで保険金不正請求、340件2300万円 損保は追加調査を要求 日本経済新聞",
+    "published_at": "2026-11-10T09:16:04+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Sinistros de seguro não autorizados na Tama Home, 340 casos, 23 milhões de ienes, exigindo investigação adicional de seguro não vida - Nikkei",
+    "translated_summary": "Reclamações de seguro não autorizadas na Tama Home, 340 casos, 23 milhões de ienes, exigindo investigação adicional de seguro não vida, The Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:36+00:00"
+  },
+  {
     "id": "1d51be78cdbfd07a0425",
     "country": "Japão",
     "category": "Economia",
@@ -7016,6 +7532,26 @@
     "translated_summary": "O Nikkei está suspendendo temporariamente as vendas de novos produtos de frango, como McDonald's e Zakuzaku Juicy Mac.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:20:34+00:00"
+  },
+  {
+    "id": "c25e2ec9db4c7f07c2c3",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Handelsblatt",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmRHWkx6SlVGQTJyMTFfemNKLWRMaE1HU2JHVlhza0dyNHZseTcwUk5qVW8zZ25UVFowTEFXYVNVWjJQYi1zbjUzcHlsdjZrVmhjYVhuMnd0cExZTnZwQ1pPYmpfQzJsWUxEUklKaWZyUm5uejlQM05YOGo4aGl5M0dTVmRmZjdORmVPeW5lWnVzeHpiTXJMSnpxLUY3N1RpdEJVUWJ0QTFHRFZfUVZKNzVGb0ZsVUdqdU5SdHhSRUNWQ0tmMndQMnh3?oc=5",
+    "original_title": "Haushalt: Regierung muss Arbeitsagentur mit Milliardenkredit helfen - Handelsblatt",
+    "original_summary": "Haushalt: Regierung muss Arbeitsagentur mit Milliardenkredit helfen Handelsblatt",
+    "published_at": "2026-11-10T07:28:14+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento: Governo deve ajudar agência de emprego com bilhões em empréstimos - Handelsblatt",
+    "translated_summary": "Orçamento: Governo deve ajudar agência de emprego com empréstimo de bilhões de Handelsblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:02+00:00"
   },
   {
     "id": "6b68d73d79e1dfe752ee",
@@ -8575,6 +9111,26 @@
     "last_translation_attempt_at": "2026-11-10T05:59:49+00:00"
   },
   {
+    "id": "7598843b1c6e4e73daa4",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5URi1OQUJ4Wk80dEhRNFIzLVAxbi12S01tUVR1NHlzbHlaYWd5VWtzWVNuRGJXVlRwaDVPdGlQLXRVc0c2M01TUXR5SVNPMHRQVUNpSUlQYjVyd202ZkdzR1ZlVGRrdVhQaWhPb0h3?oc=5",
+    "original_title": "앞으로의 철도, 어떤 모습이면 좋을까요? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "앞으로의 철도, 어떤 모습이면 좋을까요? - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-10T05:15:00+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Como serão as ferrovias do futuro? - Todos | Card/HanCut | Multimídia - Resumo da Política da Coreia do Sul",
+    "translated_summary": "Como serão as ferrovias do futuro? - Todos | Card/HanCut | Multimedia South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:12+00:00"
+  },
+  {
     "id": "6059b627f79242fbb10d",
     "country": "Alemanha",
     "category": "Política",
@@ -9570,6 +10126,28 @@
     "translated_summary": "O modelo vem em versões de 5 e 6 lugares, com preços de pré-venda a partir de 289.800 yuans ($ 43.150). Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T03:56:15+00:00"
+  },
+  {
+    "id": "d38ae28000f442d652e2",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "LINE TODAY",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53U2E2ZjhkWDZRcHJ3STl0UEE0T1l3LVdtcko3eGZvNFduLVhZVzk4SHpPVEtiRGd2SGdaamxNS0Q1eTc4QXZmYUpkVGk3ZFY0dndzM2Fn?oc=5",
+    "original_title": "傳立陶宛要求台灣代表處更名 外交部駁斥：目前沒有改名計畫 | CTWANT - LINE TODAY",
+    "original_summary": "傳立陶宛要求台灣代表處更名 外交部駁斥：目前沒有改名計畫 | CTWANT LINE TODAY",
+    "published_at": "2026-11-10T03:39:14+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O pedido da Lituânia para que Taiwan seja renomeada Ministério das Relações Exteriores refuta: Atualmente não há programa de mudança de nome | CTWANT - Line Today",
+    "translated_summary": "O pedido da Lituânia para que o escritório de Taiwan seja renomeado Ministério das Relações Exteriores refuta: Atualmente, não há plano para renomear | CTWANT Line hoje",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:22+00:00"
   },
   {
     "id": "9ab3cad9a3cf4255d93c",
@@ -14642,6 +15220,28 @@
     "translated_summary": "Mais 11 vítimas de abusos sexuais na Igreja Católica portuguesa vão ser indemnizadas, além das 57 compensações atribuídas na fase inicial do processo, disse hoje o presidente da Conferência Episcopal Portuguesa (CEP).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T02:57:36+00:00"
+  },
+  {
+    "id": "943185ba6b9219cfc3dc",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "pib.gov.in",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+    "original_title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
+    "original_summary": "Reforms to Expand Foreign Participation in G-Secs pib.gov.in",
+    "published_at": "2026-11-09T16:34:35+00:00",
+    "first_seen_at": "2026-11-11T02:07:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Reformas para Expandir a Participação Estrangeira no G-Secs - pib.gov.in",
+    "translated_summary": "Reformas para expandir a participação estrangeira no G-Secs pib.gov.in",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:24+00:00"
   },
   {
     "id": "7c7f689c5cea28b02cdf",
@@ -35769,11 +36369,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "China's Greater Bay Area: \"Wake-up Call\" para a economia alemã - kpmg.com",
+    "translated_summary": "China's Greater Bay Area: \"Wake-up Call\" para a economia alemã kpmg.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:57+00:00"
   },
   {
     "id": "d5ad31abc2e4d67d6d03",
@@ -36032,11 +36632,11 @@
     "published_at": "2026-11-06T14:40:46+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "PSD e CDS avançam com cobrança coerciva por vandalismo em património nacional",
+    "translated_summary": "PSD e o CDS vão propor em sede de especialidade do Orçamento a possibilidade de cobrança coerciva por danos relacionados com atos de vandalismo em património nacional, caso não exista pagamento atempado no final de 30 dias.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:08:59+00:00"
   },
   {
     "id": "8adb654d6a8503a3ac5f",
@@ -36075,11 +36675,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE2027. PS assegura que medidas preservam saldo orçamental",
+    "translated_summary": "O PS vai apresentar 180 propostas de alteração ao Orçamento do Estado, com destaque para habitação e o custo de vida. O partido diz que as medidas preservam o saldo orçamental do Governo. Termina hoje a entrega de propostas de alteração ao Orçamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:00+00:00"
   },
   {
     "id": "cc3e534b0a21cec11d76",
@@ -36095,11 +36695,11 @@
     "published_at": "2026-11-06T14:26:48+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE2027. Ministro anuncia maior orçamento \"de sempre\"",
+    "translated_summary": "O ministro da Agricultura diz que o orçamento para o Ministério que tutela vai ser \"o maior de sempre\". Está prevista uma dotação de 1600 milhões de euros, no próximo ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:01+00:00"
   },
   {
     "id": "5befd3f1478a843cde83",
@@ -36195,11 +36795,11 @@
     "published_at": "2026-11-06T14:20:47+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE2027. Governo quer pacto de regime na Segurança Social",
+    "translated_summary": "O Governo confirma a subida do salário mínimo para 970 euros no próximo ano e afasta uma descida da idade da reforma. Aliás, a ministra Maria do Rosário Palma Ramalho insistiu numa reforma da Segurança Social.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:02+00:00"
   },
   {
     "id": "b609ae6f1d417e6aed3e",
@@ -36504,11 +37104,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Criação de empresas em Portugal cai 2,9% até outubro com construção a travar maior tombo - Dinheiro Vivo",
+    "translated_summary": "Criação de empresas em Portugal cai 2,9% até outubro com construção a travar maior tombo Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:03+00:00"
   },
   {
     "id": "bae5d2608772f66809df",
@@ -36625,11 +37225,11 @@
       "Indústria e produção",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Produção industrial na Alemanha: crescimento económico surpreendente em setembro - SZ.de",
+    "translated_summary": "Produção industrial na Alemanha: crescimento económico surpreendente em setembro SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:04+00:00"
   },
   {
     "id": "d974726ae69ec8e852b8",
@@ -36810,11 +37410,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reunião sobre Habitação. AD quer que PS assuma responsabilidade pela crise",
+    "translated_summary": "O secretário-geral do PS, José Luís Carneiro, acusa o primeiro-ministro de \"intransigência\" e lamenta a \"indisponibilidade\" de Luís Montenegro para começar do zero a negociação da lei das rendas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:07+00:00"
   },
   {
     "id": "694210c4312b28947089",
@@ -36874,11 +37474,11 @@
     "published_at": "2026-11-06T13:24:47+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Preço dos combustíveis. Gasolina desce 11,5 cêntimos e gasóleo 9 cêntimos",
+    "translated_summary": "A próxima segunda-feira traz descidas no preço dos combustíveis.<br />O litro de gasolina custa menos 11 cêntimos e meio. O de gasóleo baixa 9 cêntimos. São as contas da Anarec já com os acertos no imposto sobre os Produtos Petrolíferos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:08+00:00"
   },
   {
     "id": "280cfe951e2e142ed59b",
@@ -36897,11 +37497,11 @@
       "Tarifas e comércio",
       "Política industrial"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As subsidiárias estrangeiras na Índia exportam Rs 23,76 lakh crore no AF26; os serviços contribuem com 74%: Censo do RBI - bfsi.economictimes.indiatimes.com",
+    "translated_summary": "As subsidiárias estrangeiras na Índia exportam Rs 23,76 lakh crore no AF26; os serviços contribuem com 74%: RBI Census bfsi.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:09+00:00"
   },
   {
     "id": "7cd7977c48cc93059359",
@@ -36941,11 +37541,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "PS quer compensar descida do ISP e IVA Zero com o IRC e fim das rendas moderadas",
+    "translated_summary": "O PS vai propor a redução temporária do ISP e a isenção de IVA no cabaz alimentar, compensando esta diminuição de receita com a suspensão da descida do IRC e a revogação das rendas moderadas de 2.300 euros.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:11+00:00"
   },
   {
     "id": "4da0fed75106baa23949",
@@ -37023,11 +37623,11 @@
     "published_at": "2026-11-06T13:04:19+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Próxima semana traz descidas no preço de gasolina e gasóleo",
+    "translated_summary": "O litro de gasolina deverá custar menos 11 cêntimos e meio na próxima semana, enquanto o gasóleo deverá diminuir 9 cêntimos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T02:09:12+00:00"
   },
   {
     "id": "e909a6cb853358d029da",
