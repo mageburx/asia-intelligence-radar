@@ -1,5 +1,231 @@
 [
   {
+    "id": "241059af9e05a0b653b4",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867603",
+    "original_title": "Legislature uses AI to read legislation for the first time",
+    "original_summary": "",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O Legislativo usa a IA para ler legislação pela primeira vez",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:04+00:00"
+  },
+  {
+    "id": "721d3bd16b5df7e80d89",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/12/2003867569",
+    "original_title": "Minister supports doubling NSF",
+    "original_summary": "",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ministro apoia duplicação do NSF",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:07+00:00"
+  },
+  {
+    "id": "e0d8b3afe9538883bdbf",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/sport/archives/2026/11/12/2003867594",
+    "original_title": "Devil’s Hellebuyck reveals reasons behind Jets trade",
+    "original_summary": "",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Hellebuyck, dos Devils, revela os motivos por trás da troca dos Jets",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:09+00:00"
+  },
+  {
+    "id": "4f64b609ebe206a43202",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/feat/archives/2026/11/12/2003867583",
+    "original_title": "Notes from Central Taiwan: The politics behind the KMT’s infrastructure promises",
+    "original_summary": "",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Notas do centro de Taiwan: a política por trás das promessas de infraestruturas do KMT",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
+  },
+  {
+    "id": "8020fbadbc297e70e5cd",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZUk0VWN4ajJQV2l3R19pU2hkUkJ4SnltdmZxRW5NZG10ZFB5NmVjU1NWNVpkcG1tY3NkUHU3TnAyYlphZXJTTXFmOGt4a3Fhd2QxVG1HY2hyYjBZblhXLWhsbkZteUF5bXRDUFZLVjEyU2NZWU5mcVlwUTZCVHN1cjZfcVlFWUlGLXNidXhGT1lYVmxQQThpR25zVDRaRWpvN0ZkWW9Xc1l0MDR5a2Jqb0FBVGZBVGtCTkRXSUxUQ0U2emVkMG1neFhyVUvSAdMBQVVfeXFMTnR2N1J5ZDlMOTVRYlF1SGJIWFlCcGxseFYxSk42NUFlVnJPbGI3X1k4TFI4b3BNVjZ6eGQwRzJLWHA3WGR5WF91TW5oOGF5dWFHSnRvSXQtNm45d1lTMmc1cXhfeWd5blAwX25hMWZVN2tNNHkyUXpDb3JTMmVLeFJsUWNOR0dXeHNKN1Qxdm43RDhJamxWLUZZWXdOY2l6NlVzdHo3djBudi1tc0toVDRyczFDRlVDYWFnUERna3NteGpuS3JGZmJoWE5pUTV6THVKdw?oc=5",
+    "original_title": "Cabinet extends Mudra credit guarantee and Stand-Up India schemes till 2031 - The Financial Express",
+    "original_summary": "Cabinet extends Mudra credit guarantee and Stand-Up India schemes till 2031 The Financial Express",
+    "published_at": "2026-11-11T16:35:45+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Conselho de Ministros prolonga os regimes de garantia de crédito Mudra e Stand-Up India até 2031 - The Financial Express",
+    "translated_summary": "O Conselho de Ministros prolonga os regimes de garantia de crédito Mudra e Stand-Up India até 2031 The Financial Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:47+00:00"
+  },
+  {
+    "id": "f3f583add7d6c1249970",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQnFveW9FbFN2OWMwLVN1VDFtR2cyV2dHdUJSZzQ3dFRJWlZ5VUo5R0F4ejE2MjhMbkNmVGVIaVNWRGhkY2o5LUZSWm9raDFxSVdqQVBqQ2FoVFlMOG93dHR4bGRhbWxWYUFXOUJTb29SUzBTMnpwWXptZ0l5SDlfME1LdkZ4ZUFwdVduT2haRER0NzNfRXphdERGU21oUm14anRwRFFTTjZOdFhRSDlkdm9BNlBXZERhN1FDMkRURlDSAc4BQVVfeXFMUDZPREJPd3lTUVJ3bDkwME1CUGdOc0tpY2Y4WmlrRlJQNXFWNzc4ckx6M3VwbEFIeUd1MXdQUFF5VmhhMWtzLTZlNTY5TzQwcUNXS2JOOTZ5Q05kOVV2QjJ5VGhkc2UtNExhNi16UlY2UzVHYUVyLUE2Q3BJVmtCcWZJeWhJSkU1QllUT1llTzAyMU1iekFOdkRmcENwdklNalEycEZzSXBmdmEyOE9nZ1VteVdtb3BjUEFueXNPS2FUZGlndHFTaFBmU2JkZUE?oc=5",
+    "original_title": "Prisoner transferred from UK entitled to Indian remission policy, says SC - The New Indian Express",
+    "original_summary": "Prisoner transferred from UK entitled to Indian remission policy, says SC The New Indian Express",
+    "published_at": "2026-11-11T16:35:01+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Recluso transferido do Reino Unido tem direito à política de indulto indiana, diz o Supremo Tribunal – The New Indian Express",
+    "translated_summary": "Recluso transferido do Reino Unido tem direito à política de remissão indiana, diz o Supremo Tribunal The New Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:43+00:00"
+  },
+  {
+    "id": "14c7b857be7b4232e10e",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMVVLbXRTUTJtRUo0Nkc3NmFWcTlkYy12NV9NZkJiZGRPM3ZhUXNLajhfWlZndTRvMjVOSWVzZ2pVQ1hKcXRKbFMyVzh1R2JzdkdkVlpRc3RxQmpCMlhGcWdac01aQ2NpeHFIWXNGRFFpMTgybTFBcmNCUV8wQQ?oc=5",
+    "original_title": "Os olhos invisíveis de Braga - Correio do Minho",
+    "original_summary": "Os olhos invisíveis de Braga Correio do Minho",
+    "published_at": "2026-11-11T16:32:05+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Os olhos invisíveis de Braga - Correio do Minho",
+    "translated_summary": "Os olhos invisíveis de Braga Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:24+00:00"
+  },
+  {
+    "id": "89826bc752dc6184e82c",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlN3UFVrcV9HUVBacUtUUjVjUzQwVFNSWjk0UlBENXRTU29XM2lQb0FNeC1pVlZ6Zk1CLUVYLWtKQkJwd2k4dzMwZVdSNFpDMzVJclg4d1hZUmk5dTZzUmNwM1gwbnc4RzBFUHVscmZoZWZCdEJsVWpzNll2cDRubFRqVG9STGthenhwN2huZ2UyNE5qT0NQQW9EMDl4Rmg4Q0dMdGxlWFNZeDQ?oc=5",
+    "original_title": "TII KAMAG delivers 25 electric swap body movers to Deutsche Post DHL Group - Charged EVs",
+    "original_summary": "TII KAMAG delivers 25 electric swap body movers to Deutsche Post DHL Group Charged EVs",
+    "published_at": "2026-11-11T16:23:30+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A TII KAMAG entrega 25 veículos elétricos de transporte de caixas móveis ao Grupo Deutsche Post DHL - Charged EVs",
+    "translated_summary": "A TII KAMAG entrega 25 veículos elétricos de transporte de caixas móveis ao Deutsche Post DHL Group Charged EVs",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:50+00:00"
+  },
+  {
+    "id": "5fc1e36c57f93c8ec3ca",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUoyeXA5b3dESlB0d1NybDVLTDBSXzBwcHcyUmFqYlZDc0ZrSm9SZ0dady12WUF1OWpMSXJMWGlaMjVCSlZDRzlSS2UyN3FRT1Y3OHRCYkVVS3EzVGNydDJybmF6SXdkNE4tYUJ5enBvNjUzNjZHbzhMdHFOOUhzV0hkQmVsY2ZuV0x5MHptR2lWdng2S2hDX1pGYklqZVRWYjNFZ3I2d0Rrby1aVTRHTC1kUE5TRmFtZkE?oc=5",
+    "original_title": "Maior edição do Festival Literário Utopia Braga arranca esta sexta-feira - Correio do Minho",
+    "original_summary": "Maior edição do Festival Literário Utopia Braga arranca esta sexta-feira Correio do Minho",
+    "published_at": "2026-11-11T16:18:30+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Maior edição do Festival Literário Utopia Braga arranca esta sexta-feira - Correio do Minho",
+    "translated_summary": "Maior edição do Festival Literário Utopia Braga arranca esta sexta-feira Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:23+00:00"
+  },
+  {
+    "id": "fb215c7c14a984e9af22",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnYwSWdTUFVCOHkza1hXaUMxeklCSTJzbUkweE0yYjNPU2VXLWVIM2hyWGxPd3J6NnJBMFdzTDREeGd0Slh3WDh5bXI1UUhLeDQxRkFLX0JBeDFqVjZDbmhYdnpBb2NxZnhhZ183Y0RVS0lyS0tjY0d2NjBhX1VMOEpDRTUtNXdvTlVNR0xpY21hM2ltN20wdlpDWS12NTdldEI2bnMyQ29LMXJ5aVhxMmpHNjZoeVA0dEJ0T2FESjdGQQ?oc=5",
+    "original_title": "MAN electric truck feeds 350 kW back to the grid in SPIRIT-E bidirectional charging project - Charged EVs",
+    "original_summary": "MAN electric truck feeds 350 kW back to the grid in SPIRIT-E bidirectional charging project Charged EVs",
+    "published_at": "2026-11-11T16:12:22+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Camião elétrico da MAN devolve 350 kW à rede no projeto de carregamento bidirecional SPIRIT-E - Charged EVs",
+    "translated_summary": "O camião elétrico da MAN devolve 350 kW à rede no projeto de carregamento bidirecional SPIRIT-E Veículos elétricos carregados",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:54+00:00"
+  },
+  {
+    "id": "81bc26c5cca3988a60cb",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Die Rheinpfalz",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEVEWlBFMmw4cFJWU2MyZnBrRjAzbjBVTXBLMTBVbTE1NjVTazNUaEh0WENVU1dTeWhJV1BDbzdpcVNtT2Y3U19kQ2ttSHhHTWdETmd0OEtiNmp1Q09TbVdGSlZ5eUtBTzNFM2dad3Y0RlpWV2pnY01jeExES2xMNXAyaVpuQll3OU56RHBFLXNpUjMzTUpxU0RCNlNoOXhHcFZ6a01FT19qYzhsOWxRNGZiWElVSWl1aVE?oc=5",
+    "original_title": "Wirt­schafts­wei­se an Bun­des­re­gie­rung: Spa­ren, spa­ren, spa­ren! - Die Rheinpfalz",
+    "original_summary": "Wirt­schafts­wei­se an Bun­des­re­gie­rung: Spa­ren, spa­ren, spa­ren! Die Rheinpfalz",
+    "published_at": "2026-11-11T16:09:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Economistas ao Governo Federal: Poupar, poupar, poupar! - Die Rheinpfalz",
+    "translated_summary": "Economistas ao Governo Federal: Poupar, poupar, poupar! Die Rheinpfalz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:30+00:00"
+  },
+  {
     "id": "8ea5246891eee52566b2",
     "country": "Índia",
     "category": "Política",
@@ -663,6 +889,28 @@
     "translated_summary": "O gabinete aprova a extensão do fundo de garantia de crédito para microunidades e o esquema Stand up India; A Aqua Line atendeu ao The Economic Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T14:25:47+00:00"
+  },
+  {
+    "id": "bf91c8ef8f7eb3e7e6ac",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXQySVlXV29oa0g1bUx3R0h0ZmNUQTVoWXp4Rzc2Z0tjd2hCOEQwbHpTSjlUQlFRT2dJLTdnYm1CTXNxM1E2UW1sRjliMHI5TnZJQUNMck0zV1ZaLVJzZ0lkbWZuTFVXaERBVjByZzZFQnpnODNBdlp4bi1qa2Q4UkpCMm9hTHBKVEh5SGtEaVItbUdESjYtcDFPVGpLV0VGQjluTjhvdmhKZENUcF90cmFSSTY5QXR6M3I1Q0dsOU0xakxtTXhvRk5ISzMzaU9oNWlDeWNKNXZMcnJTMGdHLWJMSm9KUQ?oc=5",
+    "original_title": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen - WirtschaftsWoche",
+    "original_summary": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen WirtschaftsWoche",
+    "published_at": "2026-11-11T13:45:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Economia alemã: Conselho de Peritos adverte para défices financeiros – e apela a aumentos de impostos - WirtschaftsWoche",
+    "translated_summary": "Economia alemã: Conselho de Peritos adverte para défices financeiros – e apela a aumentos de impostos WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:16+00:00"
   },
   {
     "id": "d071c3d57da57b4fd52b",
@@ -1706,6 +1954,26 @@
     "last_translation_attempt_at": "2026-11-11T13:14:27+00:00"
   },
   {
+    "id": "2ceb4557787a8572d472",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "新唐人亞太電視台",
+    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeHcxMGJtVFpsZGVaSEV2bElpc2RlNU04MHJCV3ExWHhIcVlrN3pIYlJiSkYza215UDFSV0l3Tlh0MnluRkR0d3YwcElUcVdaWVJjVnNwamQ1N3dWVXNsZk01d21PN0huMklWUG5CQi10WUFraTgyYVZETExwUDhCRGR3VlYxNXJTUWNscy1wdC1VbVZXYmlJdnhpV1V2SnlaNzB4RVJZMGtuWjh5cGJNZWlucjZpVUlQR0NEc21TaVJ1UW1rVXB6am1RYW1nNjFqQnlmcWVwRVowUkZZSTVOUndrYjFKZjV5WHJhUjlZYVUwa01SQlVoTk5CVFB0bkg5MlMydm5LMXlfMS1oSXExaFN0X3NoWUtLZmNBajJWeEJuMTczbW5KYV9vUGJFSHp4d0dnMGRCd3d0VWF0dXltd1JKa3B3Zw?oc=5",
+    "original_title": "美台簽MOU 美政府員工可赴台立院、政府工作 - 新唐人亞太電視台",
+    "original_summary": "美台簽MOU 美政府員工可赴台立院、政府工作 新唐人亞太電視台",
+    "published_at": "2026-11-11T12:28:48+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "EUA e Taiwan assinam Memorando de Entendimento (MOU): funcionários do governo dos EUA podem trabalhar no Parlamento e no governo de Taiwan - New Tang Dynasty Television Ásia-Pacífico",
+    "translated_summary": "EUA e Taiwan assinam Memorando de Entendimento (MOU). Funcionários do governo dos EUA podem trabalhar no Parlamento e no governo de Taiwan. New Tang Dynasty Television Ásia-Pacífico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:40+00:00"
+  },
+  {
     "id": "01a8c472c0895d8767cf",
     "country": "China",
     "category": "Política",
@@ -1834,6 +2102,46 @@
     "translated_summary": "Gabinete aprova Museu Yuge Yugeen, expansão do Metrô de Noida, subsídio de fertilizantes de ₹ 62k cr The Economic Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T13:15:24+00:00"
+  },
+  {
+    "id": "7a6df27bafdbf2d401c0",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzR4X0J2TmkxWXlBV0tPMElHWmJpVzhDTkw4QkdZZjhmWnllcVZfMUpHazFvRGt5a1FDOTZ3dS1DZ2J4OS1GZElmMUlHNVNwSWlITnRkcmRZY0FOdHZ2bnQ0Z2F5Zk5SblpiRzNSajYxcmQ5V0FFY3AzNmFFWjF5QjNfYVlWRngwSVl3Z2U0dG51OU5mWU1MMUZNZFN3SzdNM3I1WXlEUEZJa2x4ZXhFZ3VqckRYdGllWGplag?oc=5",
+    "original_title": "Was bringt eine Gasreserve? Und wer zahlt sie? - Allgemeine Zeitung",
+    "original_summary": "Was bringt eine Gasreserve? Und wer zahlt sie? Allgemeine Zeitung",
+    "published_at": "2026-11-11T12:26:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Qual é a vantagem de uma reserva de gás? E quem a paga? - Allgemeine Zeitung",
+    "translated_summary": "Qual é a vantagem de uma reserva de gás? E quem a paga? Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:33+00:00"
+  },
+  {
+    "id": "1b1d2623e9578d9bf532",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzR4X0J2TmkxWXlBV0tPMElHWmJpVzhDTkw4QkdZZjhmWnllcVZfMUpHazFvRGt5a1FDOTZ3dS1DZ2J4OS1GZElmMUlHNVNwSWlITnRkcmRZY0FOdHZ2bnQ0Z2F5Zk5SblpiRzNSajYxcmQ5V0FFY3AzNmFFWjF5QjNfYVlWRngwSVl3Z2U0dG51OU5mWU1MMUZNZFN3SzdNM3I1WXlEUEZJa2x4ZXhFZ3VqckRYdGllWGplag?oc=5",
+    "original_title": "Was bringt eine Gasreserve? Und wer zahlt sie? - Allgemeine Zeitung",
+    "original_summary": "Was bringt eine Gasreserve? Und wer zahlt sie? Allgemeine Zeitung",
+    "published_at": "2026-11-11T12:26:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Qual é a vantagem de uma reserva de gás? E quem a paga? - Allgemeine Zeitung",
+    "translated_summary": "Qual é a vantagem de uma reserva de gás? E quem a paga? Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:19+00:00"
   },
   {
     "id": "6dc25753c48660fca84f",
@@ -5828,11 +6136,11 @@
     "published_at": "2026-11-11T07:33:29+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Orçamento da UE para 2027 está pronto - MarketScreener Portugal",
+    "translated_summary": "Orçamento da UE para 2027 está pronto MarketScreener Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:25+00:00"
   },
   {
     "id": "f113fa883d8ae80adc5a",
@@ -5870,11 +6178,11 @@
     "published_at": "2026-11-11T07:33:11+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Nio ES9 atinge as 40 000 entregas, tendo adicionado as últimas 10 000 em 49 dias",
+    "translated_summary": "O Nio ES9 alcançou o marco mais recente menos de 6 meses após o início das entregas. Para obter mais informações, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:28+00:00"
   },
   {
     "id": "dfba99dfaab734659c36",
@@ -5912,11 +6220,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As vendas da Tesla na China caíram 66% em outubro, mas as exportações da fábrica de Xangai dispararam para um novo recorde! - Taiwan Good News",
+    "translated_summary": "As vendas da Tesla na China caíram 66% em outubro, mas as exportações da fábrica de Xangai dispararam para um novo recorde! Taiwan Good News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:32+00:00"
   },
   {
     "id": "5544f89cb353b2e5be98",
@@ -5932,11 +6240,11 @@
     "published_at": "2026-11-11T07:31:10+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
+    "translated_summary": "O gigante tecnológico chinês Alibaba anunciou que iniciou o processo para separar e colocar em bolsa, em Hong Kong, a filial de semicondutores T-Head, especializada no desenvolvimento de soluções integradas de computação para centros de dados.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:35+00:00"
   },
   {
     "id": "277cc21104413802c070",
@@ -6020,11 +6328,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reino Unido pode reduzir a meta de vendas de veículos elétricos para 2030 de 80% para 60% - Serrari Group",
+    "translated_summary": "O Reino Unido pode reduzir a meta de vendas de veículos elétricos para 2030 de 80% para 60% Serrari Group",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:36+00:00"
   },
   {
     "id": "0fa53163e14dbb0f127c",
@@ -6040,11 +6348,11 @@
     "published_at": "2026-11-11T07:26:08+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cerimónia de despedida do ex-presidente da Câmara dos Representantes, Tamisuke Watanuki: membros dos partidos da oposição e da coligação no poder prestam homenagem ao falecido",
+    "translated_summary": "Em agosto deste ano, realizou-se uma cerimónia de despedida de Taminosuke Watanuki, antigo Presidente da Câmara dos Representantes, na qual participaram representantes dos partidos da coligação e da oposição que mantinham relações de amizade com o falecido, para lhe prestarem homenagem.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:39+00:00"
   },
   {
     "id": "dee8b45077421ac4818d",
@@ -6062,11 +6370,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-11T09:01:41+00:00",
+    "translation_status": "translated",
+    "translated_title": "Os líderes da China e do Japão vão reunir-se durante a cimeira da APEC? Resposta do Ministério dos Negócios Estrangeiros",
+    "translated_summary": "Pequim, 11 de novembro (Repórter Guo Chaokai) — O porta-voz do Ministério dos Negócios Estrangeiros da China, Guo Jiacun, presidiu à conferência de imprensa regular no dia 11. Durante a conferência, um jornalista perguntou se os líderes da China e do Japão se reuniriam durante a cimeira da Cooperação Económica Ásia-Pacífico (APEC).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:43+00:00",
     "translation_error": "RuntimeError"
   },
   {
@@ -6108,11 +6416,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Desenvolvimento económico de Taiwan atinge novo recorde. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan - Economic Daily News",
+    "translated_summary": "O desenvolvimento económico de Taiwan atinge um novo patamar. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan. Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:46+00:00"
   },
   {
     "id": "cf34cfd3e6afc43deed4",
@@ -6130,11 +6438,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Presidência da República anuncia que Stan Shih representará Taiwan na Reunião de Líderes Económicos da APEC de 2026 - Business Today",
+    "translated_summary": "A Presidência da República anunciou que Stan Shih representará Taiwan na Reunião de Líderes Económicos da APEC de 2026. Business Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:50+00:00"
   },
   {
     "id": "42e3d317d7236d82c948",
@@ -6152,11 +6460,11 @@
     "topics": [
       "Eleições e governação"
     ],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-11T09:01:46+00:00",
+    "translation_status": "translated",
+    "translated_title": "Gabinete dos Assuntos de Taiwan do Conselho de Estado: Uma cadeia de produção e fornecimento estreita e resiliente entre os dois lados do Estreito de Taiwan é benéfica para a segurança, a estabilidade e o bom funcionamento da cadeia de abastecimento global",
+    "translated_summary": "Pequim, 11 de novembro (Repórteres Liu Dawei e Chen Jianxin da Agência de Notícias Xinhua) Zhang Han, porta-voz do Gabinete dos Assuntos de Taiwan do Conselho de Estado, afirmou em Pequim, no dia 11, que as cadeias industriais e de abastecimento estreitas e resilientes entre as duas margens do Estreito de Taiwan não só são benéficas para o desenvolvimento e o crescimento das empresas taiwanesas e para o aumento do bem-estar dos compatriotas de ambas as margens, mas também para a segurança, a estabilidade e o bom funcionamento das cadeias industriais globais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:53+00:00",
     "translation_error": "RuntimeError"
   },
   {
@@ -6173,11 +6481,11 @@
     "published_at": "2026-11-11T07:20:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O limite anual das contribuições para o Seguro Nacional de Saúde para as pessoas com rendimentos elevados vai aumentar 30 000 ienes no próximo ano",
+    "translated_summary": "No que diz respeito ao Seguro Nacional de Saúde, no qual participam os trabalhadores independentes, entre outros, o Ministério da Saúde, do Trabalho e do Bem-Estar Social tenciona aumentar em 30 000 ienes, para 960 000 ienes, o limite máximo anual para as contribuições relativas aos cuidados de saúde pagas pelas pessoas com rendimentos mais elevados, a partir do próximo ano fiscal, a fim de conter o aumento da carga das contribuições para as pessoas com rendimentos médios...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:57+00:00"
   },
   {
     "id": "59623de7178abc4fb5eb",
@@ -6193,11 +6501,11 @@
     "published_at": "2026-11-11T07:19:41+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Parlamento timorense aprova na generalidade Orçamento Geral do Estado para 2027",
+    "translated_summary": "O Parlamento Nacional de Timor-Leste aprovou hoje, na generalidade, a proposta de Orçamento Geral do Estado (OGE) para 2027, com 41 votos a favor e 23 abstenções da bancada da oposição.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:01+00:00"
   },
   {
     "id": "f7cbdff8c630196ec501",
@@ -6305,6 +6613,28 @@
     "translated_summary": "Economia alemã: desconto em tanques amortece inflação em outubro WirtschaftsWoche",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:21:00+00:00"
+  },
+  {
+    "id": "decc19dc1f000fedc74a",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "DW.com",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQb3phUTFhRWNCMkRGV0l2dl9ER1hSczViLWJQN3JHZXBFVHd3RnRjUHljZmNBeVREaWFCMW1PR0hBWXlGdHZzbmtRT3JINktubTFDUmZzbnNVSVRHbk5UcUttQjhHU2ZQam5uVE9qeHlhYjVOYzVqd21sU3JHYXRHaWJLTUFpMTZfVnBzWkhrSVR1V0FZRDhEcnlrOGJCYnpYVWctQlBaZ091VU5SaFlJQ1h3WG1lTERwSmMwaTN0Q0QyMkFjSmlRcExVMVZpc1pya1NhZE90T0VtSVlRZnFjbDl4VHZRMGhEblRoYWRTc0pCMzM3elZiX09LeTg4VUprR0k5WUFOWWllWi1MN3hiX2hVem1MZHNncjFyazI5VGhsTlU40gGkAkFVX3lxTE5TRk9GTkZpNE9IOEtjV3FkT2tBN3dOcDRQeWtyYjMzcFBlZU9udVhLakRqaFQ1Ynh5S2J4V29PX1dfbHBUbmZOdThGQzVfNUJtajRoUUxQc00wQTlWRkxPczVLSUNiMnItZzZTOVF5NkxfVGhMdjZacEo1UGJjdVBsZ0s0TlNCYXc4M1NYTzVoSnJsdlpmeDJlb1pnZ2xvQTJtbXIzaFVqRkhnSXB6X2ZIS0NjNjZPUmdHMGwwQV9FdXFGNmpUNll2VDhlelpFLUs4NmtzbU04WDFMaXFqTzVRQlhBZWlFaS1RV0RLZFNpTk1KOXlzQ2NYMHB1Zk1ZVTJfZS1ZUy1wNWF3NkhwSEpMcExCYUhnd0x1TnBKNG0tZUpZZ2k?oc=5",
+    "original_title": "突破1万亿美元：中国前10个月贸易顺差创纪录 - DW.com",
+    "original_summary": "突破1万亿美元：中国前10个月贸易顺差创纪录 DW.com",
+    "published_at": "2026-11-11T07:08:27+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Superação de 1 bilião de dólares: excedente comercial recorde da China nos primeiros 10 meses - DW.com",
+    "translated_summary": "Superação dos 1 bilião de dólares: o excedente comercial da China nos primeiros 10 meses atinge um valor recorde DW.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:13+00:00"
   },
   {
     "id": "46759150f2acb1860f4d",
@@ -6567,11 +6897,11 @@
     "published_at": "2026-11-11T06:50:29+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Meta multada por tratamento desigual de rivais nas presidenciais do Brasil",
+    "translated_summary": "A justiça do Brasil aplicou uma multa à Meta por não garantir a igualdade de tratamento, nas suas plataformas, entre o Presidente Luiz Inácio Lula da Silva e Flávio Bolsonaro durante a campanha presidencial.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:02+00:00"
   },
   {
     "id": "e446d1a021833f08c47d",
@@ -6607,11 +6937,11 @@
     "published_at": "2026-11-11T06:50:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Presidente da Lituânia afirma que \"já iniciou o processo de alteração do nome do gabinete de representação de Taiwan\": não há necessidade de manter a política - Sanli News Network SETN.com",
+    "translated_summary": "O Presidente da Lituânia afirma que \"já iniciou as negociações para a mudança de nome da Representação de Taiwan\": não há necessidade de manter a política Sanli News Network SETN.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:03+00:00"
   },
   {
     "id": "5b9842e72ea51afc0db6",
@@ -6755,11 +7085,11 @@
     "published_at": "2026-11-11T06:46:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Alemanha ocupa o segundo lugar a nível mundial no comércio de bens relacionados com o clima - Spiegel",
+    "translated_summary": "A Alemanha ocupa o segundo lugar a nível mundial no comércio de bens climáticos Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:07+00:00"
   },
   {
     "id": "997a681fa8602a917ec9",
@@ -6929,11 +7259,11 @@
       "Veículos elétricos",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Desde automóveis com IA até à resposta a incêndios em veículos elétricos… A Sociedade Coreana de Engenharia Automóvel reúne as tecnologias de mobilidade do futuro - Mega Economy",
+    "translated_summary": "Desde automóveis com IA até à resposta a incêndios em veículos elétricos… A Sociedade Coreana de Engenharia Automóvel reúne tecnologias de mobilidade do futuro na Mega Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:10+00:00"
   },
   {
     "id": "e860ed393e6e0ac3bf10",
@@ -7291,11 +7621,11 @@
     "topics": [
       "Toyota"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Toyota relança a \"Scion\" e lança o kei truck japonês no mercado norte-americano - WSJ",
+    "translated_summary": "A Toyota relança a \"Scion\" e lança o kei truck japonês no mercado norte-americano WSJ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:02:13+00:00"
   },
   {
     "id": "570794e390022dd03738",
@@ -7612,6 +7942,28 @@
     "last_translation_attempt_at": "2026-11-11T11:05:37+00:00"
   },
   {
+    "id": "b71857031fb69ad29d35",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVA4dHhmVG9qS0tRVTZQd25uQm83OXJQLXBQUFh0bnBTQXFiNlRaNDRFZktmTEtET0t0ODJPVUIxb3ZkNE9LWDlud2FvbF9GX3RpM1NWSEp0dE9LNk5XcVJnODZ5cVZidjlvQjVxa2t0dEdvMU1jdjA1R3J2NXJPMERrdklPc2wx?oc=5",
+    "original_title": "11月下旬にも日本復活!? トヨタ「カムリ」ってどんなクルマ？ 3年ぶりに帰ってくる“端正なセダン” 米国製でも“右ハンドル”となる理由とは（VAGUE） - Yahoo!ニュース",
+    "original_summary": "11月下旬にも日本復活!? トヨタ「カムリ」ってどんなクルマ？ 3年ぶりに帰ってくる“端正なセダン” 米国製でも“右ハンドル”となる理由とは（VAGUE） Yahoo!ニュース",
+    "published_at": "2026-11-11T05:10:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Regresso ao Japão no final de novembro!? Que tipo de carro é o \"Camry\" da Toyota? \"O sedã elegante\" regressa após 3 anos. Qual é a razão para ser \"de volante à direita\", apesar de ser fabricado nos EUA? (VAGUE) - Yahoo! Notícias",
+    "translated_summary": "Regresso ao Japão no final de novembro!? Que tipo de carro é o \"Camry\" da Toyota? O \"sedan elegante\" regressa após 3 anos. Qual é a razão para ser \"de volante à direita\", apesar de ser fabricado nos EUA? (VAGUE) Yahoo! Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:23+00:00"
+  },
+  {
     "id": "897bb6796f6550e79cfb",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -7884,6 +8236,26 @@
     "translated_summary": "Participação da Bosch: as vendas cresceram 28,2% no segundo trimestre ad-hoc-news.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T05:05:24+00:00"
+  },
+  {
+    "id": "989b944dcaa5b32ea521",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWNKcDVOalg5ak1DdkxMRXJ1ZGhTbjc4bmZuNU5YRlBTMTloZVZuc3M3Q1ZTVnJ3RGdUWnUtOGJrckJvY0pTaktPREhXeVkzX0RXM3JrLUxDcS04TnRPMTJoNVc5andlUXdqTDNyOGZNM0JPWVVXejlOeGI1eW1DZTJNSGQyNjlrRWNN?oc=5",
+    "original_title": "교육부 소관 법령 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "교육부 소관 법령 국무회의 통과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T04:26:51+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Aprovação pelo Conselho de Estado da legislação sob a alçada do Ministério da Educação - Cartão/Imagem única | Multimédia - Briefing sobre as políticas da República da Coreia",
+    "translated_summary": "Aprovação pelo Conselho de Estado da legislação sob a alçada do Ministério da Educação - Cartão/Imagem única | Multimédia Briefing sobre as políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:36+00:00"
   },
   {
     "id": "74f77152adebb694854d",
@@ -11836,6 +12208,26 @@
     "last_translation_attempt_at": "2026-11-10T18:58:11+00:00"
   },
   {
+    "id": "08211249084bdb8e6566",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sU1hDdG5kbk1vcjBBdVNuOXVXa1cyZFJ5NWZHWVhtbi1MZDh4UU5uNHRGTjkyaGpuWEg4NjYwQU9OOGhKX1pyVVpqa2RfQ0x6NVRwWE9mYW5xZHlrYlNRZDdIQ1VhRUtqZkZSS1lvNDFYalRjSGExNg?oc=5",
+    "original_title": "The Future Moves Faster - Big News Network.com",
+    "original_summary": "The Future Moves Faster Big News Network.com",
+    "published_at": "2026-11-10T18:49:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O futuro avança mais depressa - Big News Network.com",
+    "translated_summary": "O futuro avança mais depressa Big News Network.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:57+00:00"
+  },
+  {
     "id": "1a26888ad5b002df1a75",
     "country": "Portugal",
     "category": "Automóvel",
@@ -13863,6 +14255,26 @@
     "translated_summary": "Transcrição : Mercedes-Benz Group AG - Special Call MarketScreener Alemanha",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T14:19:55+00:00"
+  },
+  {
+    "id": "b920aafe36a03ff03368",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "riauone.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1RjenZvWG5UZTZVNkIwU0c1TDBXaHB4OGJMTWQxbWJfZ3J6bzVoSl9WUzJ1SW5XemlaVlJMOFRpS1FEYjFzRHJPZXNsbDJZVEUwakxRM2huT1hXbDdQSVJ4OW81Tl9DM0RpWk1MVms1Zkp2RFNTaTVjTGlqYTA0NDVxRURNTElRNlhfMEg5aUx6RGJoMV8xODVXelRXU25MelAxWXpnTzk2Q1diRU5yQzd3NA?oc=5",
+    "original_title": "BAIC FOTON Unveils Supercharging Strategy to Advance Global Smart Energy Ecosystem - riauone.com",
+    "original_summary": "BAIC FOTON Unveils Supercharging Strategy to Advance Global Smart Energy Ecosystem riauone.com",
+    "published_at": "2026-11-10T13:20:06+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A BAIC FOTON apresenta a sua estratégia de superalimentação para fazer avançar o ecossistema global de energia inteligente - riauone.com",
+    "translated_summary": "A BAIC FOTON apresenta a sua estratégia de superalimentação para impulsionar o ecossistema global de energia inteligente riauone.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:00+00:00"
   },
   {
     "id": "28a15736ca15ff1cea42",
@@ -26510,6 +26922,28 @@
     "last_translation_attempt_at": "2026-11-11T16:10:47+00:00"
   },
   {
+    "id": "a81009dee6f46abee7cb",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3JFOThUT1QxLTJfc2Q1LTFPeVZNVmkyeDBhWFh4YWZSQ291dUtIY01PbWI3TzN2ZnVmeHF1U1FyUER0NDViVjNLMThfdkI0Wi1JakE2Mkhndk5tN2tlOVQ3c3M3N1ZXME1UN0lFYWVlMS0wUlJJWnJrMkZLMGttbHU3WS15Vlk?oc=5",
+    "original_title": "Nach Palästina-Protest: Deutschland-Flagge zurück vor dem Bundestag - DIE ZEIT",
+    "original_summary": "Nach Palästina-Protest: Deutschland-Flagge zurück vor dem Bundestag DIE ZEIT",
+    "published_at": "2026-11-09T15:27:08+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Após protesto pela Palestina: bandeira alemã volta a ser hasteada em frente ao Bundestag - DIE ZEIT",
+    "translated_summary": "Após protesto pró-Palestina: bandeira alemã volta a ser hasteada em frente ao Bundestag DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:26+00:00"
+  },
+  {
     "id": "58626be318d54766b087",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -37612,6 +38046,26 @@
     "last_translation_attempt_at": "2026-11-10T12:32:24+00:00"
   },
   {
+    "id": "f5c35941f48f3f3d6bde",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVXh3Y2NvMnVyRndiOEJGZ3BXS25zc3VRcGVCNUVtOFVGVXlXRUR3em9tQnBxY0p4bVJ5LVd3VGxRWHFBcGNHZmNTREQ0bFRDakt4WWo0SUVPTWxxOFd3N2JueUhaRXRkZ3B1TDE1aWNadTNfVW0tVFhwcGR5U0hkRzRnTUFITWFiY2JFRkpIZE4xTG9DU3hlWWpBcGdkeVpIbmV3NUt1YURPOXRJWGozbV9LX1NnZVlqX09vU3hXeDNoX2Y5TUhweFhKejZDaVB2QkVzLTBUdVc5NGQxYnNVc3NoeWlFTmg4S1pJWNIB8gFBVV95cUxQWUJVUEx0SkVmX0tfb25KWjR2Y0YzWUxENEphWUdHaEJVY1NmUFpwNmxiOURRMXlmbzJhejZQOHh6WkprYm4zWnVmdW9sVHd6T1UyQ3NWZERqX3cyOWVTV2dyc2RGc01BYnB6Mi1GZE1kVUlyYk5jOVQ1d1ZTeV8yRHBFZ1haZDhneW56eGhGVWlDSTVTTWJTM0YzdWlZV3RTaENNbXh4bmtER29lNnpIYTNEbzJuNFByN0E5djV5TDM4bEFUWDg5TTVaN1lvY3dQVzZGMzlqRGc4RlRfLUU3bVZDLVVTR2dNNVgtajAxbFRYdw?oc=5",
+    "original_title": "Arquidiocese de Braga apela ao envolvimento de todos no acompanhamento dos seminaristas - Diário do Minho",
+    "original_summary": "Arquidiocese de Braga apela ao envolvimento de todos no acompanhamento dos seminaristas Diário do Minho",
+    "published_at": "2026-11-08T20:11:00+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Arquidiocese de Braga apela ao envolvimento de todos no acompanhamento dos seminaristas - Diário do Minho",
+    "translated_summary": "Arquidiocese de Braga apela ao envolvimento de todos no acompanhamento dos seminaristas Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:01:22+00:00"
+  },
+  {
     "id": "76e30110faba31743a51",
     "country": "Japão",
     "category": "Política",
@@ -46564,6 +47018,26 @@
     "translated_summary": "Em meio a uma onda democrata nacional nas eleições de meio de mandato, um democrata da Califórnia fez história como o primeiro asiático-americano eleito para o segundo cargo executivo mais alto do estado, com raízes que remontam a um proeminente clã militar e político na China. Fiona Ma, 60 anos, chinesa-americana e atual tesoureira do estado, foi eleita vice-governadora, marcando um marco para a representação asiático-americana na política da Califórnia. \"Estou profundamente",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-07T01:02:55+00:00"
+  },
+  {
+    "id": "651102ba6f0693504ed8",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "CAR CARE PLUS",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWW80a083SnVNcW93OVhzT19XNDM5SHYzTzlpYmZidTcyODdCYV9hbDhYeXBvNDdEcGhXWjZOQ3A2MXlGMWpoQlVrN0hBSVRUSzFkWklFVXlCS09IaW1PS05n?oc=5",
+    "original_title": "ヤナセ創業者・梁瀬長太郎氏、日本自動車殿堂入り…日本の輸入車ビジネスを確立 - CAR CARE PLUS",
+    "original_summary": "ヤナセ創業者・梁瀬長太郎氏、日本自動車殿堂入り…日本の輸入車ビジネスを確立 CAR CARE PLUS",
+    "published_at": "2026-11-06T21:00:02+00:00",
+    "first_seen_at": "2026-11-11T16:59:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chotaro Yanase, fundador da Yanase, entra para o Hall da Fama do Automóvel do Japão… Estabeleceu o negócio de automóveis importados no Japão - CAR CARE PLUS",
+    "translated_summary": "Chotaro Yanase, fundador da Yanase, entra para o Hall da Fama do Automóvel do Japão… Estabeleceu o negócio de automóveis importados no Japão CAR CARE PLUS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T17:00:18+00:00"
   },
   {
     "id": "6f052c1200041ee167a1",
