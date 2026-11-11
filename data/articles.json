@@ -80,6 +80,153 @@
     "last_translation_attempt_at": "2026-11-11T17:01:11+00:00"
   },
   {
+    "id": "246348da30d992efae8f",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261112de74532",
+    "original_title": "高市首相動静 2026年11月11日",
+    "original_summary": "（高市首相動静 2026年11月11日） 09:48 公邸発 09:50 国会着 09:51 参議院議長応接室入る 09:57 同室出る。参議院本会議場入る 10:01 参議院本会議開会 12:18…",
+    "published_at": "2026-11-11T23:41:04+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Agenda da Primeira-Ministra Takachi 11 de novembro de 2026",
+    "translated_summary": "(Agenda da Primeira-Ministra Takaichi, 11 de novembro de 2026) 09:48 Partida da residência oficial 09:50 Chegada à Dieta 09:51 Entrada na sala de audiências do Presidente da Câmara dos Conselheiros 09:57 Saída da mesma sala. Entra no plenário da Câmara dos Conselheiros 10:01 Início da sessão plenária da Câmara dos Conselheiros 12:18…",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:26+00:00"
+  },
+  {
+    "id": "ff4c56a59b94b6118cc2",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "MarketScreener Deutschland",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEZJTElEWnAyRGl6MnFOOTZveG1VN0NOXzRYU3czYU8yUlZ3aVNOdy1XTFpzR2VHdmh6RWRhX1MwNFd3THk4QTU0Q2ZNa2x3ZEZ0QWxlc1dFdkpzSExhRmpNVmpOa1l1UHdiTE9HTVdLbFFES0NLeE91R2dLamt0STVXMjZMRVJDc0dxcURvZ211bURNRF9xdV8xRnhrMWhtalNiMXdNQ21jeFVIWENUdS1BZFROdWI2TE9jNUloV1RCQQ?oc=5",
+    "original_title": "Koalitionsfraktionen: Große Brocken für Haushalt geklärt - MarketScreener Deutschland",
+    "original_summary": "Koalitionsfraktionen: Große Brocken für Haushalt geklärt MarketScreener Deutschland",
+    "published_at": "2026-11-11T23:40:24+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Grupos parlamentares da coligação: grandes questões orçamentais resolvidas - MarketScreener Alemanha",
+    "translated_summary": "Grupos parlamentares da coligação: Grandes questões orçamentais resolvidas MarketScreener Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:35+00:00"
+  },
+  {
+    "id": "2bfa23dbee59859a6376",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
+    "original_title": "王毅同美国国务卿鲁比奥通电话",
+    "original_summary": "中新社北京11月11日电 中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。",
+    "published_at": "2026-11-11T23:39:22+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Wang Yi mantém uma conversa telefónica com o Secretário de Estado dos EUA, Rubio",
+    "translated_summary": "Pequim, 11 de novembro — Agência de Notícias Xinhua. Wang Yi, membro do Bureau Político do Comité Central do Partido Comunista da China e Ministro dos Negócios Estrangeiros, manteve uma conversa telefónica com o Secretário de Estado dos Estados Unidos, Marco Rubio, no dia 11. As duas partes trocaram opiniões aprofundadas sobre as relações China-EUA e a interação entre os chefes de Estado dos dois países. A conversa foi positiva e construtiva.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:15+00:00"
+  },
+  {
+    "id": "bd7b064daa00207aa81c",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
+    "original_title": "陈文清主持召开专题会议强调 深入贯彻落实习近平总书记重要指示精神 纵深推进依法从严查处危害食品安全违法犯罪专项工作",
+    "original_summary": "新华社北京11月11日电 中共中央政治局委员、中央政法委书记陈文清11日主持召开专题会议，强调要深入贯彻落实习近平总书记关于食品安全工作重要指示批示精神，始终坚持以人民为中心的发展思想，纵深推进依法从严查处危害食品安全违法犯罪专项工作，用法治维护好人民群众生命安全和身体健康。",
+    "published_at": "2026-11-11T23:30:36+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chen Wenqing preside a uma reunião temática e sublinha a necessidade de implementar cabalmente as importantes orientações do Secretário-Geral Xi Jinping e de promover em profundidade o trabalho específico de investigação e punição rigorosas, em conformidade com a lei, dos crimes e infrações que prejudicam a segurança alimentar",
+    "translated_summary": "Pequim, 11 de novembro — Chen Wenqing, membro do Bureau Político do Comité Central do Partido Comunista da China e secretário da Comissão de Assuntos Políticos e Jurídicos do Comité Central, presidiu a uma reunião temática no dia 11, na qual sublinhou a necessidade de implementar de forma aprofundada o espírito das importantes instruções e orientações do Secretário-Geral Xi Jinping sobre o trabalho de segurança alimentar, de manter sempre a filosofia de desenvolvimento centrada nas pessoas, de promover em profundidade o trabalho específico de investigação e punição, em conformidade com a lei e com rigor, dos crimes e infrações que prejudicam a segurança alimentar, e de utilizar o Estado de Direito para proteger a vida e a saúde do povo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:18+00:00"
+  },
+  {
+    "id": "f3c85335a86a54f246f9",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730582.shtml",
+    "original_title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央统战部宣讲",
+    "original_summary": "新华社北京11月11日电 中央宣讲团成员、中共中央政治局委员、中央统战部部长李干杰11月11日在中央统战部作党的二十届五中全会精神宣讲报告。",
+    "published_at": "2026-11-11T23:28:15+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A delegação de propaganda central para o estudo e implementação do espírito da Quinta Sessão Plenária do 20.º Comité Central do Partido realizou uma palestra no Departamento Central de Trabalho da Frente Unida",
+    "translated_summary": "Pequim, 11 de novembro – Notícia da Agência Xinhua. Li GanJie, membro da Equipa Central de Divulgação, membro do Bureau Político do Comité Central do Partido Comunista da China e diretor do Departamento Central de Trabalho da Frente Unida, proferiu um discurso de divulgação do espírito do V Plenário do XX Comité Central do Partido no Departamento Central de Trabalho da Frente Unida no dia 11 de novembro.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:22+00:00"
+  },
+  {
+    "id": "4b07ea3e9743771643fb",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Deccan Herald",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGRweEFZRmJEZnlkRDlONWxrc3ZSallRUXBQSW41UlRiNVR6S09HQ2FmeHA3Zm5BTWdFMDFQU0xuaV9RdjhmYUNDZjZWU2tGNUc4R0NhcGJSNS1nOUVCQzVHWlhxRmlJbWxfQzZ0bjRIeWtDWEdINTZ1THdfRllqdUxJZkRjRlZmNjRib0Z2V2ZGSDBKajRpajEwb0tMSjByM3h3SnlvZw?oc=5",
+    "original_title": "India bans export of lithium-ion battery recycled material - Deccan Herald",
+    "original_summary": "India bans export of lithium-ion battery recycled material Deccan Herald",
+    "published_at": "2026-11-11T23:27:32+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Índia proíbe a exportação de material reciclado de baterias de iões de lítio - Deccan Herald",
+    "translated_summary": "A Índia proíbe a exportação de material reciclado de baterias de iões de lítio Deccan Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:46+00:00"
+  },
+  {
+    "id": "14eff80904ae131ddd82",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "뉴스탭",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVUtwMUtPMDJrSU5BYUtEZDNsU2I1ak9RV2VuVTZiMzRiMmkwTllOamdGaXUzU3NiUm5WOXlfTGI0dFQwN21UcFQ0RzRQNWllTXh0a1k2MzgyTzk5SkdlbVJzcHZ5R1YwNkU3MA?oc=5",
+    "original_title": "현대차 수소차 충전 로봇, WHE 2026 최고 제품 선정…넥스트에너지·동화엔텍·현대로템도 수상 - 뉴스탭",
+    "original_summary": "현대차 수소차 충전 로봇, WHE 2026 최고 제품 선정…넥스트에너지·동화엔텍·현대로템도 수상 뉴스탭",
+    "published_at": "2026-11-11T23:01:42+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Robô de carregamento de veículos a hidrogénio da Hyundai Motor selecionado como o melhor produto da WHE 2026… Next Energy, Donghwa Entec e Hyundai Rotem também premiados - Newstab",
+    "translated_summary": "Robô de carregamento de veículos a hidrogénio da Hyundai Motor selecionado como o melhor produto da WHE 2026… Next Energy, Donghwa Entec e Hyundai Rotem também premiadas Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:41+00:00"
+  },
+  {
     "id": "a620c4990b9263175ab7",
     "country": "Portugal",
     "category": "Economia",
@@ -98,6 +245,28 @@
     "translated_summary": "A Worten foi alvo de um ataque informático que permitiu o acesso a dados de clientes e prestadores de serviços, confirmou à Lusa fonte oficial da empresa, acrescentando que já procedeu à correção da \"vulnerabilidade explorada\".",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T22:57:52+00:00"
+  },
+  {
+    "id": "c88309e6bb22ae9ca3a5",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yMzFaNHFXVHNTYkRwYWgtWEo0Q0ttd0pCV1FUUGF1bkVKOWhibl9XaEkyVkNEb1BxdjNvOGhYQkx5b09tVkk1YWpPTVFMRlJFREloNG5sWjZGTjNfVzhn?oc=5",
+    "original_title": "持之以恒全面从严治党的科学方法 - 中国经济网",
+    "original_summary": "持之以恒全面从严治党的科学方法 中国经济网",
+    "published_at": "2026-11-11T22:38:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Método científico para manter a rigorosa autodisciplina do Partido de forma consistente e abrangente - China Economic Net",
+    "translated_summary": "Método científico para manter a rigorosa autodisciplina do Partido de forma consistente e abrangente China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:01+00:00"
   },
   {
     "id": "1ed53f5e5a58faea7cf7",
@@ -162,6 +331,28 @@
     "translated_summary": "O \"teor APEC\" do comércio externo da China é elevado. Este conjunto de dados dá a resposta. 21st Century Business Herald",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T22:57:33+00:00"
+  },
+  {
+    "id": "2d3205d0f6cb3af73cb5",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBldWU3dTNZTkhHTW5aakU0Wjk3N1B1V2RZUl9QTUVEU2tIaElDbWJkTlJnbjAxTHBwaU1lLUxoZjhMc0diN1FsTmxwQXhDb2hhNDVLdlNNQkFJbmJXRlZn?oc=5",
+    "original_title": "俄罗斯期待深化亚太务实合作 - 中国经济网",
+    "original_summary": "俄罗斯期待深化亚太务实合作 中国经济网",
+    "published_at": "2026-11-11T22:19:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Rússia espera aprofundar a cooperação pragmática na região Ásia-Pacífico - China Economic Net",
+    "translated_summary": "A Rússia espera aprofundar a cooperação pragmática na região Ásia-Pacífico China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:57+00:00"
   },
   {
     "id": "e07ed46331a55cddde36",
@@ -246,6 +437,26 @@
     "translated_summary": "\"A integração económica regional é crucial\" (Ano da China na APEC: Cooperação Aberta e Inovadora) -- People's Daily Online Internacional",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T22:57:37+00:00"
+  },
+  {
+    "id": "08d54741689bd705c043",
+    "country": "Bosch",
+    "category": "Mobilidade",
+    "source": "Bosch Mobility · internacional",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-mobility-en",
+    "publisher": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDJjRG1WNkRYTGlVaG9tY21fM1N1UWZKcnA0OUdiODVBT0EwVVRfYl9LcS13TU9uV1ZPNGRlLW5OZ2VsRFpBMktXZzFKdWVwbkVMcXdUdGJJdWFXelZWSDJIQWFfSFo0REZHalN1ZXhRSzB3V0dsSlh0amFyR3lUcUF0NEJLaHlOQUZ3MWVOcGdZc0JiNElRTzNCV2JUUVdWaVRfQW9mX0Zfcm00REl3VXoyU0ZaTFZ1WHJSVHBaQUdJWUtVenhKOXZyMUpNaFdobTlYVm9aSDRqMnN1R0JsOWNhZw?oc=5",
+    "original_title": "Rising costs test Bosch’s pricing power as automakers resist pass-through - TradingView",
+    "original_summary": "Rising costs test Bosch’s pricing power as automakers resist pass-through TradingView",
+    "published_at": "2026-11-11T21:50:57+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O aumento dos custos põe à prova o poder de fixação de preços da Bosch, enquanto os fabricantes automóveis resistem à repercussão - TradingView",
+    "translated_summary": "O aumento dos custos põe à prova o poder de fixação de preços da Bosch, enquanto os fabricantes automóveis resistem à repercussão dos custos TradingView",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:55+00:00"
   },
   {
     "id": "7b29516684c7ba24d054",
@@ -366,6 +577,68 @@
     "translated_summary": "Suspeita de corrida automóvel ilegal: dois condutores de BMW controlados na Leopoldstraße, em Munique BSAktuell",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T21:41:39+00:00"
+  },
+  {
+    "id": "f8ffcee5db8af45df0ce",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84cHZpcDU4TFRsa21HZFcxbTJuLXViRHkyeUNRdThBZDc2SDlnVmFzTEMteDlPZ1FpYXhnNGxDbFNnY2cyVkoxUUFYUGVzVm9FbHkzMENhMU03ei1JQVprd2FZVG1EN3pKVnpYZg?oc=5",
+    "original_title": "スパイ問題NVIDIAファン氏、機密漏洩なら進退論 禁輸逃れ関与調査 - 日本経済新聞",
+    "original_summary": "スパイ問題NVIDIAファン氏、機密漏洩なら進退論 禁輸逃れ関与調査 日本経済新聞",
+    "published_at": "2026-11-11T21:12:59+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Problema de espionagem: Fan, da NVIDIA, poderá ter de deixar o cargo se houver fuga de informações confidenciais. Está a ser investigado o seu envolvimento na evasão ao embargo - Nikkei",
+    "translated_summary": "Problema de espionagem: Fan, da NVIDIA, poderá ser demitido se houver fuga de informações confidenciais. Está a ser investigado o seu envolvimento na evasão ao embargo. Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:07+00:00"
+  },
+  {
+    "id": "826b9d71119ded94109e",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2tYZjN0b2xsdk12MHpHNDREYlFjSlpDQWwyLTJlcUdjTXB6elBWakg1S3dUd3BEZzFILVA4WWhqTUpYYlRRYUNpaHhPQ3NwMlRsNVR5SEZKTG5XQ3kybS1EVHJFMU14STlHdldjamtmUk80SWV3akFqeXFETzJiRHVaMXhVVzNVM3ZBMTVuZXVGVVl1Ni1SRmZEUGNpcXVxVXFyUlZhRVZDMUowckpyRnpmT3ZVNjJUcUtGai1zRFJXNGhVcEVrZWhQUWctMk9SQm9KV2xNbw?oc=5",
+    "original_title": "Fast-growing, future-facing: Why more Singaporeans are joining the carbon services and trading sector - Singapore Economic Development Board (EDB)",
+    "original_summary": "Fast-growing, future-facing: Why more Singaporeans are joining the carbon services and trading sector Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-11T21:09:21+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Crescimento rápido, virado para o futuro: porque é que cada vez mais singapurenses estão a entrar no setor dos serviços e do comércio de carbono – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Crescimento rápido, virado para o futuro: porque é que cada vez mais singapurenses estão a entrar no setor dos serviços e do comércio de carbono Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:49+00:00"
+  },
+  {
+    "id": "48751e0a2b60437bc7af",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Handelsblatt",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXpJS2xrTC1ueFhUbTU1X1hpZGNIaU15NkI1MXE2RmpaWURoaHNQM3lFZU1lWERsdUgzTDhBRzNLNUZFMWNmckdZMldSNl9tVGVpVWxHd0EyS2t0UVJkVmJrUS1OQUoxWTFfMkIzZm9zbUZ3eHBjMUlwZ05WLVBCSGJnejFfSld1bkg0RndrMGxiZmt0WmxCdXQwMl9YTVlNLWxROTg1VVpCQ3JxOGZNNjlNQ3IxOU5OOFZHVFcwVkVybi1uWWtDdlRsSFZ5bzdp?oc=5",
+    "original_title": "Haushalt: Stromsteuer wird vorerst nicht gesenkt, Zuckersteuer verschoben - Handelsblatt",
+    "original_summary": "Haushalt: Stromsteuer wird vorerst nicht gesenkt, Zuckersteuer verschoben Handelsblatt",
+    "published_at": "2026-11-11T21:03:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento: o imposto sobre a eletricidade não será reduzido por enquanto, o imposto sobre o açúcar é adiado – Handelsblatt",
+    "translated_summary": "Orçamento: o imposto sobre a eletricidade não será reduzido por enquanto; o imposto sobre o açúcar é adiado Handelsblatt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:32+00:00"
   },
   {
     "id": "9075fd1cc2c6e6173fd8",
@@ -555,6 +828,28 @@
     "translated_summary": "Fábricas de automóveis, siderurgias e estaleiros rumam aos EUA... \"Alerta\" para a redução da base da indústria transformadora e do emprego no país — The Hankyoreh",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T21:41:42+00:00"
+  },
+  {
+    "id": "af067883b8c0e5f512ab",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02UTBkc1BBdGk1dzBYc3NwXzJhb3B3dVZxekJsNlJ3bDNMaXVpR293TDdBYUpnY3BHdTB5NzFaekVxYnhSWW9RMjZ4bGFaX25ydXR5M2NES3NLUW9SMmZtVEk5czdBYTVoUFRkNw?oc=5",
+    "original_title": "地銀・信金を事業再生の専門集団に 倒産増加に備え、金融庁が後押し - 日本経済新聞",
+    "original_summary": "地銀・信金を事業再生の専門集団に 倒産増加に備え、金融庁が後押し 日本経済新聞",
+    "published_at": "2026-11-11T20:00:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Agência de Serviços Financeiros apoia a transformação de bancos regionais e cooperativas de crédito em grupos especializados em reestruturação empresarial, em preparação para o aumento das falências - Nikkei",
+    "translated_summary": "A Agência de Serviços Financeiros apoia a transformação de bancos regionais e cooperativas de crédito em grupos especializados em reestruturação empresarial, em preparação para o aumento das falências Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:04+00:00"
   },
   {
     "id": "2713d538ad1040fa2007",
@@ -807,6 +1102,29 @@
     "translated_summary": "Relatório anual: um vislumbre de esperança para a economia alemã WDR",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T21:42:26+00:00"
+  },
+  {
+    "id": "736edcc99077ef931816",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "www.nationpathindia.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWxlc1dOMWdISHJPaTlEeEJ4T2pXV0xpdG5rSFotaTFNcFcxUVpiMkk5QVBZN0RWRjViS3NYTDB2RENQMU9uYUZWNTk1akNIMnMxQm1RazEtME9vazNPb2hQWTRRQXc2TUdTQTVlTHhsaUdkQldpbHlJTndzbk10U0F3OXZXNXp1OTU5UDBRbkJXYzUyVE1TTXd3?oc=5",
+    "original_title": "India Prohibits Export of Specified Lithium-Ion Battery Black Mass to Strengthen Domestic Critical Mineral Recycling - www.nationpathindia.com",
+    "original_summary": "India Prohibits Export of Specified Lithium-Ion Battery Black Mass to Strengthen Domestic Critical Mineral Recycling www.nationpathindia.com",
+    "published_at": "2026-11-11T18:47:06+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia proíbe a exportação de massa negra de baterias de iões de lítio especificadas para reforçar a reciclagem nacional de minerais críticos - www.nationpathindia.com",
+    "translated_summary": "A Índia proíbe a exportação de massa negra de baterias de iões de lítio especificadas para reforçar a reciclagem de minerais críticos a nível nacional www.nationpathindia.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:43+00:00"
   },
   {
     "id": "e2bea5752705a102a369",
@@ -20559,6 +20877,26 @@
     "last_translation_attempt_at": "2026-11-11T21:41:15+00:00"
   },
   {
+    "id": "cadda493c06893c00853",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Auto Motor und Sport",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0ZLczA2M2NveUNjWlNMOUxqVl84TU1yd3BubFNnc3ZjMXY5UUN6b3lURG11TVFFSUpwbzZZZThWM0dOVUQ0cXZaWDNnYkVzQk1TZVE5MjhWSm41WV9qekZ2YV96RHJIUUh3cUxTTGJXZEJ6TUlJaV9kQ2xWa0hCQVlDVHBRTS1GQTFTZm9PMW9YX1NONFdKTDY3OFB5MWtmMU5aNzR6RVJiS1QwRUxkQkl1SnRyb2dLVWpKYVZiTkhaRkhtMzhB?oc=5",
+    "original_title": "Ohne Diesel bestellbar: BMW 3er G50 startet in Deutschland - Auto Motor und Sport",
+    "original_summary": "Ohne Diesel bestellbar: BMW 3er G50 startet in Deutschland Auto Motor und Sport",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Disponível para encomenda sem motor diesel: o BMW Série 3 G50 é lançado na Alemanha - Auto Motor und Sport",
+    "translated_summary": "Disponível para encomenda sem motor diesel: o BMW Série 3 G50 é lançado na Alemanha Auto Motor und Sport",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:38+00:00"
+  },
+  {
     "id": "d083eaf604416667d9c2",
     "country": "Japão",
     "category": "Automóvel",
@@ -21521,6 +21859,28 @@
     "translated_summary": "Os eleitores da Califórnia, no sudoeste dos Estados Unidos, rejeitaram uma proposta, inédita no país, de tributar o património líquido dos multimilionários, após uma disputa renhida que envolveu gastos avultados por parte de líderes tecnológicos.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T17:53:55+00:00"
+  },
+  {
+    "id": "aadcdfcbbeb8ba6ef740",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYaDZ5OW14QnBtMEdvYUNLSThqSmF6M3VSVTZwa1VEWmt3YldDUTU3cWhUZlBaNFlfXzlnQm40RFJSQVRtZV9wSDhpTERSOEFVaV9xbUFiQ04tcGN1ZmdlR1Nn?oc=5",
+    "original_title": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 - Motor Fan",
+    "original_summary": "日本の美意識をデジタル時代の造形に。日産リーフが日本自動車殿堂カーデザインオブザイヤーを受賞 Motor Fan",
+    "published_at": "2026-11-10T06:51:10+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O sentido estético japonês aplicado ao design da era digital. O Nissan Leaf vence o Prémio de Design Automóvel do Ano do Hall da Fama do Automóvel do Japão - Motor Fan",
+    "translated_summary": "O sentido estético japonês aplicado ao design da era digital. O Nissan Leaf venceu o Prémio de Design Automóvel do Ano do Hall da Fama do Automóvel do Japão Motor Fan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:29+00:00"
   },
   {
     "id": "8623f8a08af5a1108f7f",
@@ -22721,6 +23081,26 @@
     "translated_summary": "Carros eléctricos reduziram em cinco vezes a queima de petróleo dnoticias.pt",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T20:06:10+00:00"
+  },
+  {
+    "id": "573f7adae86245e2fcbf",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGpWWkVxMjhsT0p4YkpQd1NnM25QaGM3OExOUHpyWW9rdk8wN3VocjJJaE55d3U0OVdRTlV0NlhBQ3Q2Y0JKUl9LcEFIQzBKRVN3RGNVUktmUzhoLUktN1VpRTJnY2o0amtpNVRCeFJ6ZFpXbWd2b0pPWENQcGVFSWFLX0xBT2h5bEFEZlBqQmpuT213enA5NUZhcVdqY0hBWm1qZl9WNUY5TzJRYTgxVW4wQmtOWUhCNXZINU13?oc=5",
+    "original_title": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO? - Reuters",
+    "original_summary": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO? Reuters",
+    "published_at": "2026-11-10T05:14:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Quem é Alice Huang, a empresária chinesa ligada ao CEO da Nvidia? - Reuters",
+    "translated_summary": "Quem é Alice Huang, a empresária chinesa ligada ao CEO da Nvidia? Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:53:52+00:00"
   },
   {
     "id": "6059b627f79242fbb10d",
@@ -55134,6 +55514,28 @@
     "last_translation_attempt_at": "2026-11-11T21:42:23+00:00"
   },
   {
+    "id": "7c45d4301f045c7ec216",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Volksstimme",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDhubHFuaDF6RGdaLXRjeURhbWpsb1BhSzY1Q3ZFVWdxZjBHU3JSZ2RpUy0wWVh3aEtHZk10LUJTQnBsS1BNeDVWaEJEUkNLeS1fY0d0ekRjal9scy1UZjR4Szc0Vng5TnJqaDk0T09SWE8ySnY3RVZFa1lUcG01UVJkQTh4MnJFVmNEaE84Y3pBc1Z0RHBsZmIyUk1zcGJQaWJtYUszZTJQYkZpQjBWUXI1NHRGc0pwZU9kQ0xn?oc=5",
+    "original_title": "Konjunktur: Industrieproduktion in Deutschland wächst überraschend - Volksstimme",
+    "original_summary": "Konjunktur: Industrieproduktion in Deutschland wächst überraschend Volksstimme",
+    "published_at": "2026-11-06T08:11:00+00:00",
+    "first_seen_at": "2026-11-11T23:52:51+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Economia: a produção industrial na Alemanha cresce surpreendentemente - Volksstimme",
+    "translated_summary": "Conjuntura económica: a produção industrial na Alemanha cresce surpreendentemente Volksstimme",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:10+00:00"
+  },
+  {
     "id": "38471a3d3f907ce1052e",
     "country": "China",
     "category": "Política",
@@ -69075,11 +69477,11 @@
     "published_at": "2026-11-04T14:13:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eurodeputados querem incentivar veículos elétricos de pequenas dimensões - SAPO",
+    "translated_summary": "Eurodeputados querem incentivar veículos elétricos de pequenas dimensões SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:13+00:00"
   },
   {
     "id": "f711c738c4a2447db305",
@@ -69591,11 +69993,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Choque no mercado financeiro em caso de conflito com o limite da dívida... A economia sul-coreana com mais variáveis - The Hankyoreh",
+    "translated_summary": "Onda de choque nos mercados financeiros quando o limite da dívida é atingido... Aumento das variáveis na economia sul-coreana – The Kyunghyang Shinmun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:14+00:00"
   },
   {
     "id": "814f5dedc3cd16821402",
@@ -69677,11 +70079,11 @@
     "topics": [
       "Emprego e trabalho"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Emprego vacila no terceiro trimestre e taxa de desemprego aumenta - Diário de Notícias",
+    "translated_summary": "Emprego vacila no terceiro trimestre e taxa de desemprego aumenta Diário de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:17+00:00"
   },
   {
     "id": "230dd9603857539e7981",
@@ -70089,11 +70491,11 @@
       "Crescimento e PIB",
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Banco de Fomento mobilizou 13,4 mil milhões para a economia. E tem 2,5 mil milhões para habitação - Jornal de Negócios",
+    "translated_summary": "Banco de Fomento mobilizou 13,4 mil milhões para a economia. E tem 2,5 mil milhões para habitação Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:18+00:00"
   },
   {
     "id": "66012f2571d96dfd2027",
@@ -70170,11 +70572,11 @@
     "published_at": "2026-11-04T10:48:43+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Miranda Sarmento: “Portugal pode chegar a 2031 com uma dívida pública inferior à da Alemanha\" - Diário de Notícias",
+    "translated_summary": "Miranda Sarmento: “Portugal pode chegar a 2031 com uma dívida pública inferior à da Alemanha\" Diário de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:19+00:00"
   },
   {
     "id": "2a95c19a68bf9964d4b3",
@@ -70215,11 +70617,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O que o investimento das famílias revela sobre a economia não constituída em sociedade da Índia - orfonline.org",
+    "translated_summary": "O que o investimento das famílias revela sobre a economia não constituída em sociedade da Índia orfonline.org",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:20+00:00"
   },
   {
     "id": "38e6a929b072651cc751",
@@ -70303,11 +70705,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inflação da zona euro sobe para 4,0% em outubro - CNN Portugal",
+    "translated_summary": "Inflação da zona euro sobe para 4,0% em outubro CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:22+00:00"
   },
   {
     "id": "803422e06373bf33a8b5",
@@ -70386,11 +70788,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inflação da Zona Euro dispara para 4% em outubro. Preços da energia superam os 20% - Jornal de Negócios",
+    "translated_summary": "Inflação da Zona Euro dispara para 4% em outubro. Preços da energia superam os 20% Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:23+00:00"
   },
   {
     "id": "2ebbd4298384584c0403",
@@ -70446,11 +70848,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A inflação sobe para 4,0 por cento: o BCE deverá aumentar as taxas de juro em dezembro - FAZ",
+    "translated_summary": "A inflação sobe para 4,0%: o BCE deverá aumentar as taxas de juro em dezembro FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:24+00:00"
   },
   {
     "id": "403d66048de076527dbb",
@@ -70527,11 +70929,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eleições intercalares nos EUA: impacto na economia alemã - tagesschau.de",
+    "translated_summary": "Eleições intercalares nos EUA: impacto na economia alemã tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:27+00:00"
   },
   {
     "id": "8373dddb0b45be066f63",
@@ -70665,11 +71067,11 @@
     "published_at": "2026-11-04T09:43:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nova fábrica de automóveis em Portugal? Governo está \"a criar condições\" - Notícias ao Minuto",
+    "translated_summary": "Nova fábrica de automóveis em Portugal? Governo está \"a criar condições\" Notícias ao Minuto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:30+00:00"
   },
   {
     "id": "b6f0659dc95e603cc630",
@@ -70931,11 +71333,11 @@
     "published_at": "2026-11-04T09:11:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Explicador. Como vai funcionar o novo apoio à compra de elétricos? - Notícias ao Minuto",
+    "translated_summary": "Explicador. Como vai funcionar o novo apoio à compra de elétricos? Notícias ao Minuto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:31+00:00"
   },
   {
     "id": "f142562d3004e942ded2",
@@ -71392,11 +71794,11 @@
       "Crescimento e PIB",
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia - A taxa de inflação na Alemanha desce para 2,8% - Deutschlandfunk",
+    "translated_summary": "Economia - A taxa de inflação na Alemanha desce para 2,8 por cento Deutschlandfunk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:32+00:00"
   },
   {
     "id": "aaa2c1795deddc5c8870",
@@ -71657,11 +72059,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A IA vai impulsionar o comércio mundial em 40%; Singapura é citada como modelo regulamentar: relatório da OMC – Singapore Economic Development Board (EDB)",
+    "translated_summary": "A IA vai impulsionar o comércio mundial em 40%; Singapura é citada como modelo regulamentar: relatório da OMC Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:35+00:00"
   },
   {
     "id": "823ea7d3347588b587f5",
@@ -71677,11 +72079,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os próximos 60 anos: como a IA pode impulsionar o futuro de Singapura – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Os próximos 60 anos: como a IA pode impulsionar o futuro de Singapura Economic Development Board (EDB) de Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:38+00:00"
   },
   {
     "id": "c0539cc10257d303b092",
@@ -71699,11 +72101,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O que está por trás do esforço de Singapura para transformar a indústria transformadora através da IA e da automatização – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Por dentro do esforço de Singapura para transformar a indústria transformadora através da IA e da automatização Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:41+00:00"
   },
   {
     "id": "98ee90ae62e4ca53f118",
@@ -71719,11 +72121,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A EDB, a Enterprise Singapore e a JETRO assinam um memorando de entendimento para reforçar o apoio às start-ups e às empresas – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A EDB, a Enterprise Singapore e a JETRO assinam um memorando de entendimento para reforçar o apoio às start-ups e às empresas Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:43+00:00"
   },
   {
     "id": "0cae0a56fc078dbec5db",
@@ -71739,11 +72141,11 @@
     "published_at": "2026-11-04T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Google expande a sua presença em I&D em Singapura, aumentando as equipas e os programas de qualificação – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A Google expande a sua presença em I&D em Singapura, aumentando as equipas e os programas de qualificação Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:46+00:00"
   },
   {
     "id": "63235cda513626d6a064",
@@ -71931,11 +72333,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Exclusivo] \"Lucro ilícito de 4,5 mil milhões de wones com a compra e venda de informações jornalísticas\"... Concluída a investigação do The Korea Economic Daily - KBS News",
+    "translated_summary": "[Exclusivo] \"Lucro ilícito de 4,5 mil milhões de KRW com a compra e venda de informações jornalísticas\"... Conclusão da investigação do The Korea Economic Daily – Notícias da KBS",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:49+00:00"
   },
   {
     "id": "17cef6d0c6db2dd715c9",
@@ -71974,11 +72376,11 @@
     "published_at": "2026-11-04T07:20:14+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Capital.com obtém a licença da MAS antes do lançamento em Singapura em 2027 - Fintech Singapore",
+    "translated_summary": "A Capital.com obtém a licença da MAS antes do lançamento em Singapura em 2027 Fintech Singapore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:52+00:00"
   },
   {
     "id": "ec6a89c1722d90bcd40a",
@@ -72056,11 +72458,11 @@
     "published_at": "2026-11-04T07:11:43+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como a \"DeFi regulamentada\" garantirá a inclusão financeira - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Como a \"DeFi regulamentada\" garantirá a inclusão financeira Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T23:54:55+00:00"
   },
   {
     "id": "98c93a84b62cc983e279",
