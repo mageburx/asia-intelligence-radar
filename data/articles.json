@@ -1,5 +1,69 @@
 [
   {
+    "id": "8ea5246891eee52566b2",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "ET Government",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3d5ZkxfdGFSSmk3Q2dIbFlnUkNUS0x1b0dWZEhKekQzZlFjeFJqYzVHRTFTalU3VmZBV0x2bDR6b0VYNlZINEtmV2JkeWxhd3kxMlFnVkdkby1zSEt5OHlteG1qVDBEZVFva01Ed3diZ2FseFNId3RMZUJWTFRZemxGM2l5WVJ6UU5GZ0FmaVMyN0dUaUkyRF8xeFExVWY1RVhyRDNpb1FXaU9BS3BnQnU4Sk9HYkRySWlUdG9KTzFkUdIBxwFBVV95cUxNbzktdHpCMi1lRDJzT25LYXJYZFBrYWkxQTRhZEJjUGE2a0RxV0xEa05JbkxkYnZKWGs4QWszYVpHbVhRM2NrUFJhdzFycXFuV01WeEVlZ2tGam5UMWJWZXNMOFpQalItSGZfQXBzR0ZKT1d2WWl2YUxvdm81QVFqQ2xab3hpUzFUMXlrTXZTZnk5MGJZaDhJcG9reFg5UHloTHd6aEJSZm85ZS1KeG1DS1B6b1AzekVDakM5TERsSE1PYTdFTDBR?oc=5",
+    "original_title": "Centre extends Stand-Up India Scheme till March 31, 2031 - ET Government",
+    "original_summary": "Centre extends Stand-Up India Scheme till March 31, 2031 ET Government",
+    "published_at": "2026-11-11T16:06:11+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O Governo central prolonga o Programa Stand-Up India até 31 de março de 2031 - ET Government",
+    "translated_summary": "O Governo central prolonga o Programa Stand-Up India até 31 de março de 2031 ET Governo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:53+00:00"
+  },
+  {
+    "id": "ed62e3449e6b55c5f34d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Merkur",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEZPV1ZleThhWVZhWEMtWTROS1RzeVZYbkZRdURDdlF2OHNhREw1eng1VWZmSFRYVmxtM1p2bmxuR1hvY2RTU25Vd0I5WFA0eThkR0I2aUo4RmNMY3UtQ001b1JIYk9oYUliN1ZaaUtRYkRqWDh5b29pZmZuMEFCXzZocGYxSXZDMWlidS0tbWkzNm5aX3M1YjE2UV80SXpYLWF4TDJJVlFaZHFDU2Z6NXNtcDFaQVg3ZmliZnhTNjhmS1l0Ulh6SU1ZQ1JHMFpCN1otZTQwNA?oc=5",
+    "original_title": "„Nicht von Einzelnen abhängig sein“: Merz-Regierung stellt Rohstoff-Außenpolitik neu auf – drei Schwerpunkte - Merkur",
+    "original_summary": "„Nicht von Einzelnen abhängig sein“: Merz-Regierung stellt Rohstoff-Außenpolitik neu auf – drei Schwerpunkte Merkur",
+    "published_at": "2026-11-11T15:59:27+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Não depender de indivíduos\": o Governo Merz reestrutura a política externa de matérias-primas – três prioridades - Merkur",
+    "translated_summary": "\"Não depender de indivíduos\": o governo de Merz reestrutura a política externa de matérias-primas – três prioridades Merkur",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:50+00:00"
+  },
+  {
+    "id": "710c65513009514433e1",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "MDR.de",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHltMHJib0ZjZE1rbVN1aVZJdGRteHI5WV8yU3B2X1ByMlF0QzJvbnBvSzRNbmZHcWVNaDNfaWlKanQwWU9uMXp0M2JucVJuUHUyN18yYnlQdldXOGhrNG1ET1dvNFJKUl8yRDVvM2dnQlM2ajdGNmNxUk1EQ3dVQmctSm5ISVcyOU8xcmNmNURiV0s3eHdxTkxfbk9vVGVzZ2JF?oc=5",
+    "original_title": "Bundesregierung beschließt nationale Gasreserve - MDR.de",
+    "original_summary": "Bundesregierung beschließt nationale Gasreserve MDR.de",
+    "published_at": "2026-11-11T15:53:00+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Governo Federal decide criar uma reserva nacional de gás - MDR.de",
+    "translated_summary": "O Governo Federal decide criar uma reserva nacional de gás MDR.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:44+00:00"
+  },
+  {
     "id": "d0a1347e28a64e639ae4",
     "country": "Alemanha",
     "category": "Economia",
@@ -3245,6 +3309,26 @@
     "last_translation_attempt_at": "2026-11-11T11:05:40+00:00"
   },
   {
+    "id": "92273df1e413995b9a4c",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1FqTUhzSTJvNHZuY1pyZm56eWptQS1WcGItUG5OMTJ0WV8wTGdwZGY1RTRfdWU4cmQ5dC1FelFFQVROYXFiVDZxUVZRMWQzNmsyQURzVXJ5QmdnUy0yTVUxclhFSERGU0puR0NJQnk2THhsZUFKUmpEYTI0NldxSEZMdlFibTNVVmRRaUNINzRYUkdXd256V0ZSSnZrUnptelA5c2tLdFJYTk9hQi1tMXpIaFFua3VHRDJzenA2WEJnV1k5RUFN?oc=5",
+    "original_title": "Regierung beschließt Gasreserve: Antworten auf die wichtigsten Fragen - FAZ",
+    "original_summary": "Regierung beschließt Gasreserve: Antworten auf die wichtigsten Fragen FAZ",
+    "published_at": "2026-11-11T10:21:59+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O Governo decide sobre a reserva de gás: respostas às perguntas mais importantes - FAZ",
+    "translated_summary": "O Governo decide sobre a reserva de gás: respostas às perguntas mais importantes FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:57+00:00"
+  },
+  {
     "id": "4590eeeab1cce2a843c3",
     "country": "Índia",
     "category": "Política",
@@ -4512,6 +4596,26 @@
     "last_translation_attempt_at": "2026-11-11T10:04:51+00:00"
   },
   {
+    "id": "75d48f98540a37fbbfdc",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXBQZ0FFYnRrcHFTT2hwNmo5SkU0Q2x5d2VUOXQxTkxuYkZ1NEdzdDFNQ0U2RGluX3pacWtnRDIyYWk5dV8ycnBISVlveTRub1BJdDlUaHhITFRmenBlRkVGZmZuQlZIWExsLXp2VjZpSUVURG9JOU1iQ0F4NjZ1dnBXMjBFd0dQRHc?oc=5",
+    "original_title": "Vendas de veículos elétricos da Volkswagen na China disparam quase 350% apesar da forte concorrência local - Traders Union",
+    "original_summary": "Vendas de veículos elétricos da Volkswagen na China disparam quase 350% apesar da forte concorrência local Traders Union",
+    "published_at": "2026-11-11T08:59:58+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Vendas de veículos elétricos da Volkswagen na China disparam quase 350% apesar da forte concorrência local - Traders Union",
+    "translated_summary": "Vendas de veículos elétricos da Volkswagen na China disparam quase 350% apesar da forte concorrência local Traders Union",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:00+00:00"
+  },
+  {
     "id": "8d57d88a1c8c3e5a347a",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -4547,11 +4651,11 @@
     "published_at": "2026-11-11T08:56:29+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Será possível fazer publicações nas redes sociais na Coreia do Norte? - Vídeo | Multimédia - Briefing sobre as políticas da República da Coreia",
+    "translated_summary": "Será possível fazer publicações nas redes sociais na Coreia do Norte? - Vídeo | Multimédia Briefing sobre as Políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:18+00:00"
   },
   {
     "id": "2049bd7ce2e012199711",
@@ -4589,11 +4693,11 @@
     "published_at": "2026-11-11T08:49:32+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "AUTO ONLINE - AUTO ONLINE",
+    "translated_summary": "AUTO ONLINE Automóveis online AUTO ONLINE Automóveis online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:21+00:00"
   },
   {
     "id": "a127cfc344f32dfdf981",
@@ -4609,11 +4713,11 @@
     "published_at": "2026-11-11T08:47:39+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O ex-secretário-geral do Partido Liberal Democrata, Moriyama, e outras três pessoas, incluindo o Sr. Ishiba, \"agiram de forma a refletir os sentimentos do povo\"",
+    "translated_summary": "O ex-Secretário-Geral do Partido Liberal Democrata, Moriyama, apontou que o debate interno do partido sobre questões como as fontes de financiamento não foi suficiente no que diz respeito ao projeto de lei relativo à redução do imposto sobre o consumo de bens alimentares. Em seguida, afirmou que as ações de quatro pessoas, incluindo o ex-Primeiro-Ministro Shigeru Ishiba, que abandonaram a sessão plenária da Câmara dos Representantes antes da votação, refletiam os sentimentos do povo...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:23+00:00"
   },
   {
     "id": "5237f9a23966f8e53c66",
@@ -4629,11 +4733,11 @@
     "published_at": "2026-11-11T08:43:11+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Livro da Grand Prix Publishing que explica os bastidores da vitória geral do Mazda 787B nas 24 Horas de Le Mans",
+    "translated_summary": "A 30 de outubro, a Grand Prix Publishing lançou o livro \"Mazda 787B – O caminho para a vitória geral em Le Mans revelado por dados descobertos\", para comemorar o 35.º aniversário da vitória geral do Mazda 787B em Le Mans. O preço é de 5500 ienes (preço base de 5000 ienes + impostos).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:27+00:00"
   },
   {
     "id": "0de73b9174f74d13068c",
@@ -4649,11 +4753,11 @@
     "published_at": "2026-11-11T08:42:51+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Se ainda não fez o seu donativo de amor à terra natal, preste atenção!!!! - Vídeo | Multimédia - Briefing sobre as políticas da República da Coreia",
+    "translated_summary": "Se ainda não fez o seu donativo de amor à terra natal, preste atenção!!!! - Vídeo | Multimédia Briefing sobre as Políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:30+00:00"
   },
   {
     "id": "52f0b1d49c248b318a56",
@@ -4693,11 +4797,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O desenvolvimento económico de Taiwan atinge um novo patamar: não nos esqueçamos de que as indústrias tradicionais são a base de Taiwan | Destaques económicos e financeiros | Economia e indústria - UDN",
+    "translated_summary": "Desenvolvimento económico de Taiwan atinge novo recorde, segundo a Federação das Indústrias Chinesas: não se deve esquecer que as indústrias tradicionais são a base de Taiwan | Destaques económicos e financeiros | UDN Economia e Indústria",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:33+00:00"
   },
   {
     "id": "a52aee51060674f4d9e1",
@@ -4777,11 +4881,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Coluna de Hyun Seung-yoon] Quando o Banco da Coreia deve ser cauteloso ao aumentar a taxa de juros de referência - The Korea Economic Daily",
+    "translated_summary": "[Coluna de Hyun Seung-yoon] A economia sul-coreana quando o Banco da Coreia é cauteloso com o aumento da taxa de juro de referência",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:36+00:00"
   },
   {
     "id": "65755ac630f19ab602f9",
@@ -4819,11 +4923,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Um roteiro do ciclo de vida para a economia azul circular da Índia - orfonline.org",
+    "translated_summary": "Um roteiro do ciclo de vida para a economia azul circular da Índia orfonline.org",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:39+00:00"
   },
   {
     "id": "941eb017a80eec0fd8b3",
@@ -4841,11 +4945,11 @@
     "topics": [
       "Nissan"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Prémio Anual do Hall da Fama do Automóvel do Japão para o \"Elgrand\" da Nissan ◆ \"Contessa 1300 Coupé\" da Hino, entre outros, para os veículos património histórico - Jiji.com",
+    "translated_summary": "O Prémio Anual do Hall da Fama do Automóvel do Japão vai para o \"Elgrand\" da Nissan ◆ O \"Contessa 1300 Coupé\" da Hino, entre outros, é classificado como veículo património histórico Jiji.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:42+00:00"
   },
   {
     "id": "6dd711aa1b10b4d75b7b",
@@ -4905,11 +5009,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento para a Índia para 7%, mas alerta para a elevada inflação – BusinessLine",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento para a Índia para 7%, mas alerta para a elevada inflação BusinessLine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:46+00:00"
   },
   {
     "id": "d20973bafc5a04d11614",
@@ -5015,11 +5119,11 @@
     "published_at": "2026-11-11T08:24:52+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "【Huang Le já estava ligada a Jensen Huang há muito tempo? O New York Times revelou que \"já apareceram juntos em 2023\". Ela viajou para Taiwan várias vezes com o seu passaporte de Hong Kong. Na verdade, o governo taiwanês começou a monitorizar as viagens de Huang Le a Taiwan há já dois anos. (#Cabeça de Porco) - Facebook",
+    "translated_summary": "【Huang Le já estava ligada a Jensen Huang há muito tempo? O New York Times revelou que \"já apareceram juntas em 2023\". Ela viajou para Taiwan várias vezes com o seu passaporte de Hong Kong. Na verdade, o governo taiwanês começou a monitorizar as viagens de Huang Le a Taiwan há já dois anos. (#Cabeça de Porco) Facebook",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:48+00:00"
   },
   {
     "id": "f62c5f1c6eedf1317a7d",
@@ -5059,11 +5163,11 @@
     "topics": [
       "Baterias"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As 10 melhores empresas de reciclagem de baterias na Índia em 2027 - Inventiva",
+    "translated_summary": "As 10 melhores empresas de reciclagem de baterias na Índia em 2027 Inventiva",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:51+00:00"
   },
   {
     "id": "1995e16840d85b4a19e2",
@@ -5123,11 +5227,11 @@
     "published_at": "2026-11-11T08:10:19+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a estimativa de crescimento da Índia para o ano fiscal de 2027 para 7% devido a uma dinâmica generalizada – The Hindu",
+    "translated_summary": "A Moody's aumenta a estimativa de crescimento da Índia para o ano fiscal de 2027 para 7% devido a uma dinâmica generalizada The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:54+00:00"
   },
   {
     "id": "051e1370f1f9412cde72",
@@ -5166,11 +5270,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-11T09:02:06+00:00",
+    "translation_status": "translated",
+    "translated_title": "Guizhou: O investimento total das empresas em investigação e desenvolvimento ultrapassou pela primeira vez os 20 mil milhões de yuans em 2025, com o terceiro maior aumento na China",
+    "translated_summary": "Guiyang, 11 de novembro (Repórter Zhang Wei) — Segundo informações divulgadas no dia 11 numa conferência de imprensa realizada pelo Gabinete de Imprensa do Governo da Província de Guizhou, em 2025, o investimento total em investigação e desenvolvimento (I&D) das empresas de Guizhou ultrapassou pela primeira vez os 20 mil milhões de yuans (o mesmo se aplica aos valores seguintes), representando 76,8% do investimento total em I&D de toda a sociedade na província de Guizhou e contribuindo para um aumento de 13,8% no investimento em I&D de toda a sociedade, o terceiro maior aumento em toda a China. A contribuição da inovação científica e tecnológica para o crescimento económico atingiu 29,8%.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:57+00:00",
     "translation_error": "RuntimeError"
   },
   {
@@ -5189,11 +5293,11 @@
     "topics": [
       "Veículos elétricos"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Conferência Académica de Outono da Sociedade Coreana de Engenharia Automóvel, Discussão sobre a Resposta a Incêndios em Veículos Elétricos e AIDV - MotorPD",
+    "translated_summary": "Conferência Académica de Outono da Sociedade Coreana de Engenharia Automóvel, MotorPD discute a resposta a incêndios em veículos elétricos e AIDV",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:01+00:00"
   },
   {
     "id": "835857f76f70e0478651",
@@ -5211,11 +5315,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Guizhou seleciona dinamicamente empresas em destaque e concentra esforços na criação de capacidades de inovação científica e tecnológica nas empresas",
+    "translated_summary": "Guiyang, 11 de novembro (repórter Zhang Wei) — A fim de aproveitar o papel proeminente das empresas de base tecnológica na liderança do desenvolvimento de tecnologias-chave e na promoção do aumento da competitividade industrial, desde 2026, Guizhou tem vindo a selecionar dinamicamente um grupo de empresas-chave líderes, empresas-chave de base e empresas-chave com potencial, com base na implementação de políticas inclusivas, como o apoio à investigação, desenvolvimento e inovação das empresas, a certificação de empresas de alta tecnologia e a avaliação de pequenas e médias empresas de base tecnológica. O objetivo é explorar métodos de apoio diferenciados e classificados para as diferentes fases de crescimento das empresas e concentrar esforços na criação de uma força de inovação tecnológica empresarial.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:04+00:00"
   },
   {
     "id": "3765aca07086bd74de0e",
@@ -5234,11 +5338,11 @@
       "Investimento e empresas",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Até ao final do 14.º Plano Quinquenal, o número de revisores oficiais de contas em exercício no país ultrapassará os 100 000.",
+    "translated_summary": "No dia 11, o Ministério das Finanças realizou uma conferência de imprensa sobre o desenvolvimento de alta qualidade da contabilidade durante o 15.º Plano Quinquenal. Os responsáveis relevantes informaram que, até ao final do 14.º Plano Quinquenal, havia mais de 10 000 sociedades de revisores oficiais de contas (incluindo filiais) em todo o país, com mais de 100 000 revisores oficiais de contas em exercício, que prestavam serviços profissionais a 4,2 milhões de empresas e instituições todos os anos. Em todo o país, havia mais de 160 000 empresas de contabilidade, com mais de 580 000 profissionais a tempo inteiro, que prestavam serviços a mais de 16 milhões de micro, pequenas e médias empresas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:08+00:00"
   },
   {
     "id": "881109ea65bbbdc5d5b5",
@@ -5254,11 +5358,11 @@
     "published_at": "2026-11-11T08:01:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As empresas chinesas apostam nestes três setores na Alemanha - FAZ",
+    "translated_summary": "As empresas chinesas apostam nestes três setores na Alemanha FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:11+00:00"
   },
   {
     "id": "dca7aca0ccd9e85826dc",
@@ -5274,11 +5378,11 @@
     "published_at": "2026-11-11T08:00:37+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Como a ameaça diplomática 2 por 1 da China forçou Takaichi, do Japão, a recuar",
+    "translated_summary": "Um ano após as declarações da primeira-ministra Sanae Takaichi sobre uma contingência em Taiwan terem congelado as relações entre Pequim e Tóquio, uma notícia da imprensa japonesa revelou pormenores sobre uma missão diplomática fracassada para inverter a situação. O episódio, revelado pelo jornal Yomiuri no domingo, ocorreu durante uma reunião em Pequim, a 18 de novembro do ano passado, entre Masaaki Kanai, do Ministério dos Negócios Estrangeiros japonês, e o seu homólogo chinês, Liu Jinsong, então responsável pelos assuntos asiáticos. A notícia referia que",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:14+00:00"
   },
   {
     "id": "e4fba82fddcab181ca91",
@@ -5294,11 +5398,11 @@
     "published_at": "2026-11-11T08:00:05+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministro das Finanças apela a uma monitorização atenta do impacto das eleições intercalares dos EUA",
+    "translated_summary": "SEUL, 11 de novembro (Yonhap) -- O ministro das Finanças, Lee Hyoung-il, apelou na quarta-feira...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:18+00:00"
   },
   {
     "id": "43542da1b9fe34d9ac5c",
@@ -5389,6 +5493,28 @@
     "last_translation_attempt_at": "2026-11-11T14:25:11+00:00"
   },
   {
+    "id": "d55eedc15744e0f90e13",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "レスポンス（Response.jp）",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjZzRSQ1o0dXdJU0M1akJVLThPbTB4Z1dGVXZCUHlYdm9yWHhIdVRVWjFMbGlMLVB6TWgtbW5tVVNUeFBUU0lzWDBrYTNKM0syb2RfTVVEY2NfbDhpYU1iR0V3QmJCaGFGQmU4SVdaamRVQQ?oc=5",
+    "original_title": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞 2枚目の写真・画像 - レスポンス（Response.jp）",
+    "original_summary": "デンソー号、日本自動車殿堂の「歴史遺産車」に選出…1950年製の電気自動車が受賞 2枚目の写真・画像 レスポンス（Response.jp）",
+    "published_at": "2026-11-11T08:00:04+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Denso foi selecionado como \"Veículo Património Histórico\" do Hall da Fama do Automóvel Japonês... O veículo elétrico de 1950 foi premiado 2.ª fotografia/imagem - Response (Response.jp)",
+    "translated_summary": "O Denso foi selecionado como \"Veículo Património Histórico\" do Hall da Fama do Automóvel Japonês... O veículo elétrico de 1950 foi premiado 2.ª fotografia/imagem Response (Response.jp)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:41+00:00"
+  },
+  {
     "id": "07fb28e5f7d563472fc7",
     "country": "Alemanha",
     "category": "Economia",
@@ -5424,11 +5550,11 @@
     "published_at": "2026-11-11T07:53:54+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Gabinete presidencial discute a proteção dos direitos dos adotados coreanos no estrangeiro",
+    "translated_summary": "SEUL, 11 de novembro (Yonhap) -- O gabinete presidencial realizou uma reunião na quarta-feira para...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:21+00:00"
   },
   {
     "id": "c520e41234f5699a4439",
@@ -5469,11 +5595,11 @@
     "topics": [
       "Nissan"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Nissan vai lançar o novo \"Skyline\" no segundo semestre de 2026 e anunciar o novo plano de negócios em fevereiro de 2027",
+    "translated_summary": "A 11 de novembro, a Nissan Motor anunciou, durante a apresentação dos resultados financeiros para o primeiro semestre do ano fiscal de 2026 (1 de abril a 30 de setembro de 2026), que planeia apresentar o \"Skyline\" como parte da futura gama de modelos para o segundo semestre do ano fiscal de 2026.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:23+00:00"
   },
   {
     "id": "24c9fb6c4e9dd14a847a",
@@ -5511,11 +5637,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7%, à medida que a economia resiste ao choque energético da guerra no Irão - The Economic Times",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7%, à medida que a economia resiste ao choque energético da guerra no Irão The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:01+00:00"
   },
   {
     "id": "6c476b5e452db50f448d",
@@ -5554,11 +5680,11 @@
     "published_at": "2026-11-11T07:40:00+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Investimento de 40 biliões de dólares em centros de dados de IA... Os EUA lideram sozinhos, e a Coreia do Sul? - HelloDD",
+    "translated_summary": "Investimento de 40 biliões de wones no centro de dados de IA... Os EUA lideram sozinhos, e a Coreia do Sul? HelloDD",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:04+00:00"
   },
   {
     "id": "c9f84abb9fc9227ed468",
@@ -5574,11 +5700,11 @@
     "published_at": "2026-11-11T07:39:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "1595 pessoas aprovadas no Exame de Ordem deste ano, superando a meta do governo pelo quarto ano consecutivo",
+    "translated_summary": "Este ano, 1595 pessoas passaram no exame de acesso à Ordem dos Advogados, superando o objetivo do governo de 1500 pessoas pelo quarto ano consecutivo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:26+00:00"
   },
   {
     "id": "d8c2a3807637432e72bf",
@@ -5596,11 +5722,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento da Índia e considera que a economia está bem posicionada para sustentar um crescimento próximo dos 7% – Reuters",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento da Índia e considera que a economia está bem posicionada para sustentar um crescimento próximo dos 7% Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:29+00:00"
   },
   {
     "id": "eec3c9bef7208ac5912f",
@@ -5640,11 +5766,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Isuzu atinge um total acumulado de 1 milhão de unidades produzidas na linha de produção de veículos pesados da fábrica de Fujisawa",
+    "translated_summary": "A Isuzu Motors anunciou, no dia 16 de outubro, que atingiu o número total de 1 milhão de unidades produzidas na linha de produção de veículos pesados da fábrica de Fujisawa (cidade de Fujisawa, província de Kanagawa). Para comemorar este marco, realizou-se uma cerimónia comemorativa na fábrica no mesmo dia.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:34+00:00"
   },
   {
     "id": "e8f0c32c9bac2c7fb8e6",
@@ -5660,11 +5786,11 @@
     "published_at": "2026-11-11T07:35:00+00:00",
     "first_seen_at": "2026-11-11T08:59:59+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Braga: Rosa Oliveira celebra 100 anos de vida rodeada de carinho - Jornal O MINHO",
+    "translated_summary": "Braga: Rosa Oliveira celebra 100 anos de vida rodeada de carinho Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:12:36+00:00"
   },
   {
     "id": "4cf608dbd7f08f8d519b",
@@ -5764,11 +5890,11 @@
     "published_at": "2026-11-11T07:32:36+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7% devido a uma dinâmica generalizada – Business Standard",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento da Índia para o ano fiscal de 2027 para 7% devido a uma dinâmica generalizada Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:07+00:00"
   },
   {
     "id": "d1bb0605250ae3d1ba76",
@@ -6339,11 +6465,11 @@
     "published_at": "2026-11-11T06:55:34+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities, última \"Batalha da Korea Investment\" deste ano... Competição de rentabilidade a partir de 100 000 KRW - Metro News",
+    "translated_summary": "Korea Investment & Securities, última \"Batalha da Korea Investment\" deste ano... Competição de rendimentos a partir de 100 000 KRW Metro News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:10+00:00"
   },
   {
     "id": "369e21dd53b8183dcd89",
@@ -6461,11 +6587,11 @@
     "published_at": "2026-11-11T06:50:29+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Meta multada por tratamento desigual de rivais nas presidenciais do Brasil",
+    "translated_summary": "A justiça do Brasil aplicou uma multa à Meta por não garantir a igualdade de tratamento, nas suas plataformas, entre o Presidente Luiz Inácio Lula da Silva e Flávio Bolsonaro durante a campanha presidencial.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:13+00:00"
   },
   {
     "id": "a7e26077a2c18c540faa",
@@ -6715,11 +6841,11 @@
     "published_at": "2026-11-11T06:37:38+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A China e a Alemanha são os campeões tecnológicos na luta contra as alterações climáticas - FAZ",
+    "translated_summary": "A China e a Alemanha são os campeões tecnológicos na luta contra as alterações climáticas FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:14+00:00"
   },
   {
     "id": "ba6cfa0cd3fd58167b54",
@@ -26362,6 +26488,28 @@
     "last_translation_attempt_at": "2026-11-11T05:05:02+00:00"
   },
   {
+    "id": "4f8c9628da93f94dfc3d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "STERN.de",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZnBfUWw2X3Y2cGtVMEhFdUZneDlUY2ZobFM5X1lWeG1jcklwQzdxcTRFeFpraE1zeGQtU1J5TndNSmtIOU1YRmkzRHJ3MTI0RnVUSlhnOW45WTJvY1BOd2FXUjd4Z1hjazlTZnZKVzBzTkgtUXkwdzVrQ0VNMTRQUnVDdzFoMlR4NVFuVVFTb25nS2dYRkZVaHpFeUlsdFlzaUxRZ0t5VnRNMG5tT1V0Y0lpSUxwcktBbGx0ZklLMnlpTnRlREhOZEltU3FIQ3oyaVFORUUzWnVvNWV2TkE?oc=5",
+    "original_title": "Nach Palästina-Protest: Deutschland-Flagge zurück vor dem Bundestag - STERN.de",
+    "original_summary": "Nach Palästina-Protest: Deutschland-Flagge zurück vor dem Bundestag STERN.de",
+    "published_at": "2026-11-09T15:27:08+00:00",
+    "first_seen_at": "2026-11-11T16:10:14+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Após protesto pela Palestina: bandeira da Alemanha volta a ser hasteada em frente ao Bundestag - STERN.de",
+    "translated_summary": "Após protesto pela Palestina: bandeira da Alemanha volta a ser hasteada em frente ao Bundestag STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:10:47+00:00"
+  },
+  {
     "id": "58626be318d54766b087",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -42549,26 +42697,6 @@
     "last_translation_attempt_at": "2026-11-07T17:41:25+00:00"
   },
   {
-    "id": "8d1638590f233be4b60e",
-    "country": "Bosch",
-    "category": "Portugal",
-    "source": "Bosch · Portugal",
-    "source_type": "Imprensa / agregador",
-    "source_id": "bosch-portugal-pt",
-    "publisher": "zerozero.pt",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejNvR2I0OXFlNm44eUtBLTlfY3NuQ0ZQbXM3QS1fSllHSzN5bnZaMjBVUjVucHN3QW5naTJqTEVxZFZiQW9ERHhrT29TbHFLdUlmZmNxMk9BenY2djdkMUVlX0tmRWFxLU81YXFnN2NOMnhhWmw5aHpPTVg3VGR5d2p0WWdHTEFleVRSdjBnQURIdVNEdE1vYWtmcXpWd3JKdmRkLTlzSlhNRm91UHRKRXhucHZLVnVDRXdBRF9STGIxcDZmUEF4ZDVIQU5uV2l3?oc=5",
-    "original_title": "Edo Bosch após a derrota na Supertaça: «Um senhor perdeu o controlo e armou uma grande confusão» - zerozero.pt",
-    "original_summary": "Edo Bosch após a derrota na Supertaça: «Um senhor perdeu o controlo e armou uma grande confusão» zerozero.pt",
-    "published_at": "2026-11-07T16:36:00+00:00",
-    "first_seen_at": "2026-11-08T22:43:11+00:00",
-    "topics": [],
-    "translation_status": "translated",
-    "translated_title": "Edo Bosch após a derrota na Supertaça: «Um senhor perdeu o controlo e armou uma grande confusão» - zerozero.pt",
-    "translated_summary": "Edo Bosch após a derrota na Supertaça: «Um senhor perdeu o controlo e armou uma grande confusão» zerozero.pt",
-    "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-08T22:43:47+00:00"
-  },
-  {
     "id": "0c386a9aaaeac1be1e53",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -42629,26 +42757,6 @@
     "translated_summary": "Explicador: Os gigantes invisíveis da indústria automóvel estão em crise. Porque estão a desaparecer milhares de empregos? SAPO",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T13:08:09+00:00"
-  },
-  {
-    "id": "f386002959ca747c8357",
-    "country": "Bosch",
-    "category": "Portugal",
-    "source": "Bosch · Portugal",
-    "source_type": "Imprensa / agregador",
-    "source_id": "bosch-portugal-pt",
-    "publisher": "diadejogo.pt",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZHdZbEp1ZmFXQjQwUER0M1oyMUd5QVJOSktwSjhpWVRhWEMwOFNjM0VDMTctSXl6ZUVjWmZHNEZuVXJFTDRtRU5OZy1YUDJCSmxmN3RCejNqeFZzdE9QSTFyYzIxR2VoLVQ5OV9qRE4xUXNLUWV1di1YdHZMTzFQQ0RYN2VkbVpqalRia29JQkFPQk0?oc=5",
-    "original_title": "Hóquei: Edo Bosch acusa: «Cartão azul inexistente» - diadejogo.pt",
-    "original_summary": "Hóquei: Edo Bosch acusa: «Cartão azul inexistente» diadejogo.pt",
-    "published_at": "2026-11-07T15:53:19+00:00",
-    "first_seen_at": "2026-11-10T08:22:10+00:00",
-    "topics": [],
-    "translation_status": "translated",
-    "translated_title": "Hóquei: Edo Bosch acusa: «Cartão azul inexistente» - diadejogo.pt",
-    "translated_summary": "Hóquei: Edo Bosch acusa: «Cartão azul inexistente» diadejogo.pt",
-    "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-10T08:23:45+00:00"
   },
   {
     "id": "e389897bdb6251224c22",
@@ -42799,26 +42907,6 @@
     "last_translation_attempt_at": "2026-11-07T15:43:42+00:00"
   },
   {
-    "id": "ed383ed889a37d9085f6",
-    "country": "Bosch",
-    "category": "Portugal",
-    "source": "Bosch · Portugal",
-    "source_type": "Imprensa / agregador",
-    "source_id": "bosch-portugal-pt",
-    "publisher": "Record",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONDNOUlNRZGVLa0NJanhmWmVpZ0xyWWg2c3U5VVcxQzF3RlVHTlNNNVVKSzNHNzItVlJZNGNKX05HUmhBY1BKdUNDX2RtOEhYUXg5MWJjR2k0MXd2VGRWMHF2UlZqMHIxdk9IWkVzal9idU9ESEszRGxWbUFVSFYtaUZZQWpYbEVRMUp1UlREZVlrQ0x2Z0VqOXlOS2FSVzU5aTZyTG8zQlNWOUZ2NklIMEhpZHI1Y1EtaUI4U3UtQkFDMHhTS3Q2ODVBc1BhSTRuWmhSakNZYmNRN2Jhd1ZrNEVLS3NpeVZUYm85bnd3QWk5RXNRVFVfZk1ZNTY3RUZSMUllQVM3UFM5em1qRHfSAf4BQVVfeXFMTmw4QllHZTM4bndmeVNhekFSN3lic3o5SDVrSENvR1JrOU15RzRsS2V0bGJXN25jWlhLQmFmdnJVdjZWM3N0cGkyaG9qR19GRzZQVVZGaG5ZazNIUHh4NlhxUFJmQUxRT2pWczgwLVpxMTVCRHRKeEZISnRQNUNtMm1MdEhJSUhJSVR6MXU5Rll4ZjdJN25zUzlCTlM0QWtHdlZYV0R4UjUwNl8yVEo3NjJuakotc1dlRDVwU0ZIVFB0bGVTaGtnWHo3UERKRnJBTnZLT3o5emppeHNLaGZCWW9taTdULW8zU3BQUGd1dnU2SEhWa2xDbEVJbnVDUkE?oc=5",
-    "original_title": "Edo Bosch arrasa arbitragem após derrota na Supertaça: «Uma pena que o protagonista tivesse de ser o senhor do apito» - Record",
-    "original_summary": "Edo Bosch arrasa arbitragem após derrota na Supertaça: «Uma pena que o protagonista tivesse de ser o senhor do apito» Record",
-    "published_at": "2026-11-07T15:01:09+00:00",
-    "first_seen_at": "2026-11-09T15:00:07+00:00",
-    "topics": [],
-    "translation_status": "translated",
-    "translated_title": "Edo Bosch arrasa arbitragem após derrota na Supertaça: «Uma pena que o protagonista tivesse de ser o senhor do apito» - Record",
-    "translated_summary": "Edo Bosch arrasa arbitragem após derrota na Supertaça: «Uma pena que o protagonista tivesse de ser o senhor do apito» Record",
-    "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-09T15:01:39+00:00"
-  },
-  {
     "id": "e45575ba31137aac320d",
     "country": "Japão",
     "category": "Economia",
@@ -42839,26 +42927,6 @@
     "translated_summary": "Shunju (8 de novembro) Aração de jornal nikkei com pincel",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T22:50:24+00:00"
-  },
-  {
-    "id": "cb7758871022c6ce1630",
-    "country": "Bosch",
-    "category": "Portugal",
-    "source": "Bosch · Portugal",
-    "source_type": "Imprensa / agregador",
-    "source_id": "bosch-portugal-pt",
-    "publisher": "A Bola",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTJzb1NOang4QW5kOUVHWC1TOGVXWHBWSWYxald5SXQxRnljcVpEVkJ5bzJhOGVOVExsQ2x5dThtM3ByMU5KN2d4dHNfWklDSzNKM3B2ZUI4dC1CX1lkd1d3bl9xT2xrZUlLZHV4Z2l2bWtRYkxTNnp5QnJrRmlrUmg5SHY0NDhxanl6NmlONFRHdTk2Z2tkNjl6eVUtOWRMNmh5MzFDczd3V2dpVFE?oc=5",
-    "original_title": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» - A Bola",
-    "original_summary": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» A Bola",
-    "published_at": "2026-11-07T14:55:00+00:00",
-    "first_seen_at": "2026-11-07T15:43:21+00:00",
-    "topics": [],
-    "translation_status": "translated",
-    "translated_title": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» - A Bola",
-    "translated_summary": "Edo Bosch explode: «Quem colocou este senhor a apitar a final?» A Bola",
-    "translated_lang": "pt",
-    "last_translation_attempt_at": "2026-11-07T15:44:05+00:00"
   },
   {
     "id": "e2a9802104b0a1937777",
@@ -55500,11 +55568,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Investimento estrangeiro: o que fica nos fornecedores quando o programa termina? - Dinheiro Vivo",
+    "translated_summary": "Investimento estrangeiro: o que fica nos fornecedores quando o programa termina? Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T16:11:17+00:00"
   },
   {
     "id": "13eac986e7be679059b4",
