@@ -1,5 +1,72 @@
 [
   {
+    "id": "d0a1347e28a64e639ae4",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2xqNWlFbXRXXzhSVWUtVzB4VHVneEJVa1BISFBPRjlrVUhhVkhzVGhKa1NXd2tXeFN0VWlBS1FHNDZ1MkVlQWRudXBUM1FuS1p4UGFvdDlreWZGQy1XWUhfSk1QbmRjaXNDMjM0OTlHSHhLOXo4YVpTR2MzNVY0OEQ2cl9wWWhqc05NN0lVYi1rc3BJU2xiRUU0ODBuLVhiM0JoaC1yTml1bHZwS2FzYlR3TFd0WjhiUUhOX21HdmNoN2Y0bWxSUw?oc=5",
+    "original_title": "„Blick in Abgrund“: Wirtschaftsweise warnen vor Schulden - Allgemeine Zeitung",
+    "original_summary": "„Blick in Abgrund“: Wirtschaftsweise warnen vor Schulden Allgemeine Zeitung",
+    "published_at": "2026-11-11T15:39:00+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Blick in Abgrund\": Wirtschaftsweise warnen vor Schulden - Allgemeine Zeitung",
+    "translated_summary": "\"Blick in Abgrund\": Wirtschaftsweise warnen vor Schulden Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:04+00:00"
+  },
+  {
+    "id": "7f5c602ae99ffc3a3b91",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/11/lynk-co-unveils-seven-seat-900l-phev-with-70-kwh-battery-in-china/",
+    "original_title": "Lynk & Co unveils seven-seat 900L PHEV flagship with 70 kWh battery",
+    "original_summary": "Sales start in late 2026. The post Lynk & Co unveils seven-seat 900L PHEV flagship with 70 kWh battery appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-11T15:37:15+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Baterias",
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Lynk & Co apresenta o seu modelo topo de gama 900L PHEV de sete lugares com bateria de 70 kWh",
+    "translated_summary": "As vendas começam no final de 2026. O artigo Lynk & Co apresenta o seu modelo topo de gama 900L PHEV de sete lugares com bateria de 70 kWh foi publicado primeiro em CarNewsChina.com .",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:56:48+00:00"
+  },
+  {
+    "id": "f2bd7326e4564e6e78cf",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Times Now",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc25SaS1RbkxpUEZLUGJwY095Q3Z4R19yYngzbnFVVHFzbUJYT2RyS0prTFBJbnlESjN0S19DQTFhMGZrVUg1RmNCMHhYbndYY2RObk9KV0VGNlZXc0NBV3BVY256OFZCTGw1TzhMb0FuZmhyamRtUjNDekhEbHY1NUtJUUtjanJWbExvdU01clBGano3VU5xVkFaUG83ZlNDaDFyMmdQU0dSWkVZOUNJR2dpbFN3RGRqZm9ibUlKSlJwVEV4RWtQcjV3dUJ3dEh3OU1aRTRkekMwdGlVM2tqNjI4X1gwNkM50gHuAUFVX3lxTE1xeEtRTG9NYV9XZUVPWFoyU1hyVkJGYTljTXZZa1V6eEU1b2tBMmo5cDg3ajI3VDVhUURhU2VHdERVVzY3NVFJc2N2Z3ZPYWFZM0dmbDBnSkd0OEtKOWxfdDZqcHRmclNiTWpyYjJFc2JSZER2bTJnYzZ6WldBdjB5T3kwTHJVVHpOSWxTY0dIZU4xMnJKeXFWVWRhNmRHWF9JcW5FbTZ4Nlk0OTdPUDdYNm9mVjJyOWI4aWQxbWRJbkhiRDVXWGltTmFfbEtLaTA4aGRITEIzaEFLRmZSWmkxUDc5ems4SG4tUnUzeEE?oc=5",
+    "original_title": "5 Electric SUVs To Consider This Festive Season: Kia Syros EV, Tata Punch EV and More - Times Now",
+    "original_summary": "5 Electric SUVs To Consider This Festive Season: Kia Syros EV, Tata Punch EV and More Times Now",
+    "published_at": "2026-11-11T15:31:00+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "5 SUV elétricos a considerar nesta época festiva: Kia Syros EV, Tata Punch EV e outros - Times Now",
+    "translated_summary": "5 SUV elétricos a considerar nesta época festiva: Kia Syros EV, Tata Punch EV e mais Times Now",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:01+00:00"
+  },
+  {
     "id": "83e2b3021d52a122bd24",
     "country": "Alemanha",
     "category": "Economia",
@@ -169,6 +236,29 @@
     "translated_summary": "Taiwan e os Estados Unidos assinam o Programa de Bolsas de Estudo para Académicos. Lin Chia-lung: Permitir que mais profissionais dos Estados Unidos conheçam Taiwan. UDN",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T15:35:20+00:00"
+  },
+  {
+    "id": "51d706b09c13bbff953e",
+    "country": "Braga",
+    "category": "Economia",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/associacao-empresarial-de-braga-debate-prioridades-para-o-investimento-apos-o-prr/",
+    "original_title": "Associação Empresarial de Braga debate prioridades para o investimento após o PRR",
+    "original_summary": "A Associação Empresarial de Braga (AEB) reuniu, a 10 de novembro, o Conselho Estratégico para o mandato 2026–2029, num encontro dedicado aos desafios do investimento após o Plano de Recuperação e Resiliência (PRR). Durante a reunião, foram reconhecidos os investimentos do programa na habitação, saúde e infraestruturas públicas, científicas e de ensino. No entanto, vários […]",
+    "published_at": "2026-11-11T14:39:18+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Investimento e empresas",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Associação Empresarial de Braga debate prioridades para o investimento após o PRR",
+    "translated_summary": "A Associação Empresarial de Braga (AEB) reuniu, a 10 de novembro, o Conselho Estratégico para o mandato 2026–2029, num encontro dedicado aos desafios do investimento após o Plano de Recuperação e Resiliência (PRR). Durante a reunião, foram reconhecidos os investimentos do programa na habitação, saúde e infraestruturas públicas, científicas e de ensino. No entanto, vários […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:12+00:00"
   },
   {
     "id": "94a1ea3873a22be23b5a",
@@ -746,6 +836,28 @@
     "translated_summary": "Alemanha: especialistas em economia defendem o aumento dos impostos - Economia - SZ.de SZ.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T15:36:08+00:00"
+  },
+  {
+    "id": "8f9626fe9ad9c841b882",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS1d4bUM4TnZlS19leFFHNDNZc1pfUkhzWC01emtrVHZRUV9CVUI3WTUwVmlYQ1VpdWtyTENrWWhKUk8tVFE5M05iWWJMenQyRlJlSEJqTzg2U1dGYkpTMUloMExNZ1BNNnZxSnh2TlJoeXVubl9QZUNZZmxWWEJlLW5FbTdEVTZMamZCejBaclhydGFYME1mako3RUYwdVhLMjhLbENEVzBzLUhuNUxqZmgxQmVWUkpYMENqdTFtVWhPNDhXaU9HRFM4NUVqYjdMVWdTZU9mdXh3UQ?oc=5",
+    "original_title": "Deutschland: Wirtschaftsweise machen sich für höhere Steuern stark - Wirtschaft - SZ.de - SZ.de",
+    "original_summary": "Deutschland: Wirtschaftsweise machen sich für höhere Steuern stark - Wirtschaft - SZ.de SZ.de",
+    "published_at": "2026-11-11T13:31:33+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Alemanha: especialistas em economia defendem impostos mais elevados - Economia - SZ.de - SZ.de",
+    "translated_summary": "Alemanha: especialistas em economia defendem o aumento dos impostos - Economia - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:56:52+00:00"
   },
   {
     "id": "ff9b30fd5aacbabf4b58",
@@ -2043,11 +2155,11 @@
       "Inflação e preços",
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portagens devem aumentar 3,83% em 2027",
+    "translated_summary": "As portagens das autoestradas vão aumentar 3,83% em 2027, tendo em conta a taxa de inflação homóloga para outubro, sem habitação, divulgada hoje pelo INE, acrescida dos 0,1% de compensação às concessionárias.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:23+00:00"
   },
   {
     "id": "f72f9bcdf2b81be32f8e",
@@ -2145,11 +2257,11 @@
     "published_at": "2026-11-11T11:40:22+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Produção na construção aumenta 1,8% em setembro",
+    "translated_summary": "O índice de produção na construção teve um crescimento homólogo de 1,8% em setembro, 0,1 pontos percentuais (p.p.) abaixo da observada no mês anterior, divulgou hoje o Instituto Nacional de Estatística (INE).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:24+00:00"
   },
   {
     "id": "840c65be4275d9b2b418",
@@ -2187,11 +2299,11 @@
     "topics": [
       "Emprego e trabalho"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mais de 54% dos desempregados no 2.º trimestre continuavam sem emprego em setembro",
+    "translated_summary": "Mais de metade dos desempregados no segundo trimestre deste ano continuavam sem emprego nos três meses seguintes, enquanto cerca de um quarto encontrou trabalho, segundo dados divulgados hoje pelo Instituto Nacional de Estatística (INE).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:25+00:00"
   },
   {
     "id": "26111fa1f4dff51ab3fb",
@@ -2272,11 +2384,11 @@
     "published_at": "2026-11-11T11:31:30+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"O mais complicado ainda vai acontecer\". Gabinete de crise do Governo segue efeitos da depressão Charles",
+    "translated_summary": "O país está desde as 00h00 desta quarta-feira em situação de alerta devido à passagem da depressão Charles, que começou por atingir a Região Autónoma da Madeira. Atualizamos aqui, ao minuto, todas as informações sobre a intempérie.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:26+00:00"
   },
   {
     "id": "ebcd83520541a2759b64",
@@ -2379,11 +2491,11 @@
     "published_at": "2026-11-11T11:25:57+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Governo pede prevenção e avisa que pico da tempestade ainda não chegou",
+    "translated_summary": "O Governo está reunido em formato de gabinete de crise, na residência oficial do primeiro-ministro, a avaliar a passagem da depressão Charlie pelo território português. Para já, a informação é de que a prevenção continua, até porque o pico da tempestade ainda não chegou.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:27+00:00"
   },
   {
     "id": "93ca5cc8e9c0fde53907",
@@ -2399,11 +2511,11 @@
     "published_at": "2026-11-11T11:24:37+00:00",
     "first_seen_at": "2026-11-11T13:13:30+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Na Índia, a dinâmica económica superou a gravidade geopolítica. Há mais a fazer - The Indian Express",
+    "translated_summary": "Na Índia, o dinamismo económico superou a gravidade geopolítica. Há mais a fazer The Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:13+00:00"
   },
   {
     "id": "3481a676d405ed5646db",
@@ -2444,11 +2556,11 @@
       "Geopolítica",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A UE vai proibir os \"padrões escuros\" no comércio eletrónico e aplicar multas de 6% do volume de negócios - Nikkei",
+    "translated_summary": "A UE vai proibir os \"padrões escuros\" no comércio eletrónico e aplicar multas de 6% das vendas – Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:16+00:00"
   },
   {
     "id": "cc1f8743d85e4b1d7523",
@@ -2508,11 +2620,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inflação acelera para 3,8% em outubro",
+    "translated_summary": "A inflação acelerou para 3,8% em outubro, em termos homólogos, o que compara com uma taxa de 3,6% no mês anterior, segundo os dados divulgados hoje pelo Instituto Nacional de Estatística (INE), que confirmam a estimativa rápida.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:19+00:00"
   },
   {
     "id": "14c7a01b658d6b4877ef",
@@ -2568,11 +2680,11 @@
     "published_at": "2026-11-11T11:08:23+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Tin.Bra leva espetáculo 2030 ao Theatro Circo em Braga",
+    "translated_summary": "O Tin.Bra apresenta o espetáculo «2030» no próximo dia 15 de novembro, às 19:00, no Theatro Circo, em Braga. A criação integra a programação do Braga En’Cena 2026, promovido pelo Município de Braga e pelo Movimento SemNome, e resulta de uma coprodução entre o Tin.Bra, a Artes D’Alegria e o Teatro D’Art. A peça parte […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:28+00:00"
   },
   {
     "id": "00e6adf81a8b3120b38e",
@@ -2588,11 +2700,11 @@
     "published_at": "2026-11-11T11:08:03+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Das telecomunicações à programação informática: como mudou o setor em 20 anos? - BPstat",
+    "translated_summary": "Das telecomunicações à programação informática: como mudou o setor em 20 anos? BPstat",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:29+00:00"
   },
   {
     "id": "4a43a54d3a13db5661ad",
@@ -2760,11 +2872,31 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia da Índia mantém-se firme face ao choque energético, e a Moody's aumenta a previsão de crescimento para 7% - India Today",
+    "translated_summary": "A economia da Índia mantém-se firme face ao choque energético, a Moody's aumenta a previsão de crescimento para 7% India Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:34+00:00"
+  },
+  {
+    "id": "8413df875e96058254ca",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "India Today",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ000am0wWUFMS3k2Vkw0WEtsM1FHUkQyUU5CLXV0a1BSVXB1V1hEVy1iQ3VhbU1aM2N6cElMOFFDUVRCOUtKNUtObGJRWkdLdjJjYVVHcW43aFRNUlI3eTQ2T2dfTWpKanFOSVNFaktDN2RLQWFubU8tdWRhejZ0djBkT0FlZ0FkQXBCWjRHekk2QnRUZUNLWi1qM3VKOXRLQkR5UklTdkYzM3Mxc2NVQXNZaEQ2alNfbjlHQXpULTNtZkZSMnlyckl4bmdYbUZJR0dEeDJUc9IB3AFBVV95cUxPaXpJQVF6NFM5eDlfS2RKVVFQZGRjcF9vdFdUMzNnWjFoRzFPWjBLY0tlSUQwREkydEc5cG1pRGxtdDQxdVhJRnNpRnMtOGRhVFpKbGRGTjl0aVdRM2lfM1A3ZndCQ3RWM3I4N1hCT1J5aXc1WE5HdzhZT0doMW5WZWNvbnFmTklsZGtTeEZkOC1uc3plbGNIbUNaT2diaDhVUERsajhSRkF2NWtKeUxDUFhBNklpRTZnXzEwNUk1M0JXcG9IUEI4UWEyOVVzRWtjdTNuNEpnS2g4Z1BY?oc=5",
+    "original_title": "Moody's upgrades India's growth forecast to 7%, sees resilience to global shocks - India Today",
+    "original_summary": "Moody's upgrades India's growth forecast to 7%, sees resilience to global shocks India Today",
+    "published_at": "2026-11-11T11:01:07+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta a previsão de crescimento da Índia para 7% e vê resiliência aos choques globais – India Today",
+    "translated_summary": "A Moody's aumenta a previsão de crescimento da Índia para 7% e vê resiliência aos choques globais India Today",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:07+00:00"
   },
   {
     "id": "f1243c3826fa3c9cd017",
@@ -2887,11 +3019,11 @@
     "published_at": "2026-11-11T10:58:58+00:00",
     "first_seen_at": "2026-11-11T11:59:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Braga recebe debate sobre os 50 anos do Poder Local",
+    "translated_summary": "Braga recebe, na próxima segunda-feira, 16 de novembro, a conferência «50 Anos do Poder Local», promovida pela CCDR NORTE em colaboração com o Jornal de Notícias (JN). O encontro realiza-se no Theatro Circo, a partir das 15:00, e assinala meio século de Poder Local democrático, colocando em debate os desafios da competitividade, da coesão social […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:30+00:00"
   },
   {
     "id": "3df918ce4e8a685acbd0",
@@ -3019,11 +3151,11 @@
     "published_at": "2026-11-11T10:31:45+00:00",
     "first_seen_at": "2026-11-11T11:04:18+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Empresas indianas apressam-se a angariar 3 mil milhões de dólares em dívida à medida que os rendimentos caem antes da revisão do RBI - Reuters",
+    "translated_summary": "Empresas indianas apressam-se a angariar 3 mil milhões de dólares em dívida à medida que os rendimentos caem antes da revisão do RBI Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:37+00:00"
   },
   {
     "id": "9579a82f4f5fc43a8f6f",
@@ -3150,11 +3282,33 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Associação da Indústria Elétrica e Eletrônica publica o seu primeiro livro branco para impulsionar Taiwan como um país com economia em constante crescimento - Rádio Central de Taiwan",
+    "translated_summary": "A Associação da Indústria Elétrica e Eletrônica publica o primeiro Livro Branco para impulsionar Taiwan como um país onde o sol nunca se põe Rti Rádio Central",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:41+00:00"
+  },
+  {
+    "id": "54eba5e1034fd77db3ba",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Jornal Económico",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFFtZW41RThpMDFENVZDVUcweFYzMVRKWnJtRVFHakNVZ0lBVjR4WFhiY1R2WXpCUjZLMGdGYjN3ZnBveWVBeklPSVpucTY3aFVNNXZzc2JzbEtHNUVvLWgyLTNqQVlLY2ttMWdnWE9ZUmlDYTRqblNqQnJIam96dHVuU1Q0SFB1TS1N?oc=5",
+    "original_title": "Inflação volta a subir em outubro para 3,8% - Jornal Económico",
+    "original_summary": "Inflação volta a subir em outubro para 3,8% Jornal Económico",
+    "published_at": "2026-11-11T10:14:00+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Inflação volta a subir em outubro para 3,8% - Jornal Económico",
+    "translated_summary": "Inflação volta a subir em outubro para 3,8% Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:11+00:00"
   },
   {
     "id": "3f77e91b5cd823148e4c",
@@ -3657,6 +3811,29 @@
     "last_translation_attempt_at": "2026-11-11T10:05:16+00:00"
   },
   {
+    "id": "9461d0a1804809b8db38",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Idealista",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3p1MVotQVJfb3dTT2ZtTThwOFBlS1lFOE5RTzJOUzVSUU42U01FNXE1RDViNkllbzNlcTBSX0xNWlhiMzAtSTBqNktkYVk4R0oxNEJicEJ5V3V1R2hOQ0RzZ1ZYdUVtOF9IcHYtSC1fUmlzUl9McDZSRXpBSWhWU1loS0RKTzJoRFVpWmR4NEtqQ2NBUlB4cWlwYV9oV2hDV0FLRjFSYUxtd3E0YV9ZNUZ3QzAxUUU0Ry1ITW1lcF8wenNRWkpWVUViUzFyVlJn?oc=5",
+    "original_title": "Portugal atrai mais investimento imobiliário e transações crescem - Idealista",
+    "original_summary": "Portugal atrai mais investimento imobiliário e transações crescem Idealista",
+    "published_at": "2026-11-11T09:36:39+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [
+      "Investimento e empresas",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Portugal atrai mais investimento imobiliário e transações crescem - Idealista",
+    "translated_summary": "Portugal atrai mais investimento imobiliário e transações crescem Idealista",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:10+00:00"
+  },
+  {
     "id": "558584030f48e5f97640",
     "country": "Índia",
     "category": "Economia",
@@ -3672,11 +3849,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Moody's aumenta as previsões de crescimento da Índia para 7% devido à forte procura e ao investimento - ChiniMandi",
+    "translated_summary": "A Moody's aumenta as previsões de crescimento da Índia para 7% devido à forte procura e ao investimento ChiniMandi",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:09+00:00"
   },
   {
     "id": "8b6dfa029e0ef0eedb9a",
@@ -3844,11 +4021,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Airwallex planeia um investimento de mais de 2 mil milhões de dólares em Singapura para apoiar o crescimento global – The Edge Singapore",
+    "translated_summary": "A Airwallex planeia um investimento de mais de 2 mil milhões de dólares em Singapura para apoiar o crescimento global The Edge Singapore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:44+00:00"
   },
   {
     "id": "d9038d74ffa8a2252a72",
@@ -3866,11 +4043,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Airwallex planeia um investimento de mais de 2 mil milhões de dólares em Singapura para apoiar o crescimento global – The Edge Singapore",
+    "translated_summary": "A Airwallex planeia um investimento de mais de 2 mil milhões de dólares em Singapura para apoiar o crescimento global The Edge Singapore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:31+00:00"
   },
   {
     "id": "d308c801fe5a5b9b3466",
@@ -3908,11 +4085,11 @@
     "published_at": "2026-11-11T09:16:00+00:00",
     "first_seen_at": "2026-11-11T11:04:18+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "COP31: Singapura revê os indicadores de eficiência energética dos centros de dados na taxonomia atualizada - The Business Times",
+    "translated_summary": "COP31: Singapura revê as métricas de eficiência energética dos centros de dados na taxonomia atualizada The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:47+00:00"
   },
   {
     "id": "36db4dcef3ef09411ab0",
@@ -4054,11 +4231,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exportações de defesa da Índia: a realidade - Raksha Anirveda",
+    "translated_summary": "Exportações de defesa da Índia: a realidade Raksha Anirveda",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:12+00:00"
   },
   {
     "id": "94aaab1c55aabd46b3d0",
@@ -4182,11 +4359,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia de Taiwan não pode depender apenas da IA! Pan Chun-Rong, presidente da Federação das Indústrias de Taiwan: As indústrias tradicionais são a base - ELTATV News Network",
+    "translated_summary": "A economia de Taiwan não pode depender apenas da IA! Pan Chun-Rong, presidente da Federação das Indústrias de Taiwan: As indústrias tradicionais são a base — ELTATV News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:50+00:00"
   },
   {
     "id": "2d97d921d7c0e241e93e",
@@ -4392,11 +4569,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Desempenho económico notável: Cho Jung-tai afirma que o Taiwan de hoje vive a melhor era da República da China - Rádio Taiwan Internacional",
+    "translated_summary": "Desempenho económico notável: Cho Jung-tai afirma que o Taiwan de hoje é a melhor época da República da China | Rádio Central RTI",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:15+00:00"
   },
   {
     "id": "565c1319b0b84c76e668",
@@ -4558,11 +4735,11 @@
     "published_at": "2026-11-11T08:40:00+00:00",
     "first_seen_at": "2026-11-11T10:03:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Casa Financeira, presidida pelo empresário Ricardo Costa, já abriu a sede em Braga - Jornal O MINHO",
+    "translated_summary": "Casa Financeira, presidida pelo empresário Ricardo Costa, já abriu a sede em Braga Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:18+00:00"
   },
   {
     "id": "b6432c6082f8ee8915ec",
@@ -4686,11 +4863,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A empresa de fintech Airwallex vai investir 2 mil milhões de dólares singapurenses em Singapura e criar cerca de 250 postos de trabalho ao longo de cinco anos - CNA",
+    "translated_summary": "A empresa de fintech Airwallex vai investir 2 mil milhões de dólares singapurenses em Singapura e criar cerca de 250 postos de trabalho ao longo de cinco anos CNA",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:54+00:00"
   },
   {
     "id": "9402923b87481788ef94",
@@ -4818,11 +4995,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ministro da Economia: A taxa de crescimento económico deste ano atingirá, pelo menos, o nível mais alto em 39 anos e espera-se que seja o melhor resultado em 50 anos - Economic Daily News",
+    "translated_summary": "Ministro da Economia: A taxa de crescimento económico deste ano atingirá pelo menos um novo máximo em 39 anos e espera-se que seja o melhor resultado em 50 anos — Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:57+00:00"
   },
   {
     "id": "3ea3aa4c9ac795e1446b",
@@ -5547,11 +5724,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Decidi nomear Shi Zhenrong como representante da APEC para participar na Reunião de Líderes Económicos em Shenzhen - Notícias da PTS",
+    "translated_summary": "Decidi nomear Stan Shih como representante da APEC para participar na Reunião dos Líderes Económicos em Shenzhen. Notícias da PTS (Public Television Service Foundation).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:00+00:00"
   },
   {
     "id": "10c190bb0c2de4b6bb96",
@@ -10041,6 +10218,26 @@
     "last_translation_attempt_at": "2026-11-11T01:09:56+00:00"
   },
   {
+    "id": "d4f4eda2c4aa24f23087",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Deutsche Apotheker Zeitung, DAZ",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dvSDZjRnRTM1RvVm83Slc1N2g4WnVJZmZRdTB4Ykt3eTFtNkNfNEc0WlY4YnBjUDBlY3dXZ2NhTTdmVy1BOXdvYWpmVVB1U3Y2WGpXNi1ibG1GWjdoZHk5YV9WMC1la1lRdXZJd044VjIzajRweFFOV1VRZ3Q3YmNqbGFCMEtmNkM0d2lpaEtHeE5oLW5RNHlwb3d1R3o0YXc?oc=5",
+    "original_title": "Amthor: „Freie Fahrt für Innovation“ - Deutsche Apotheker Zeitung, DAZ",
+    "original_summary": "Amthor: „Freie Fahrt für Innovation“ Deutsche Apotheker Zeitung, DAZ",
+    "published_at": "2026-11-11T00:00:00+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Amthor: \"Luz verde para a inovação\" - Deutsche Apotheker Zeitung, DAZ",
+    "translated_summary": "Amthor: \"Luz verde para a inovação\" Deutsche Apotheker Zeitung, DAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:56:55+00:00"
+  },
+  {
     "id": "fd4e375bc6f4a1b53723",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -10800,11 +10997,11 @@
     "published_at": "2026-11-10T21:41:31+00:00",
     "first_seen_at": "2026-11-11T11:04:18+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "País em estado de alerta esta quarta-feira. Transportes condicionados, serviços públicos fechados, teletrabalho recomendado - Jornal de Negócios",
+    "translated_summary": "País em estado de alerta esta quarta-feira. Transportes condicionados, serviços públicos fechados, teletrabalho recomendado Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:03+00:00"
   },
   {
     "id": "79913e1b4f16a72a2aa3",
@@ -11815,6 +12012,26 @@
     "translated_summary": "„Wirtschaftsweise“ legen Jahresgutachten vor WirtschaftsWoche",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T17:53:16+00:00"
+  },
+  {
+    "id": "3656c6567f951d34b353",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdml6VmRWc29qNDcyMHlKVk5xUTd5OWowdWQxT2sxVmVWc1NlVzUtWVJ2bmRtS1JsZmlSbm52MzJ6NGdfZ1c4UG9SbnJCSXRHY2RydS1YOVViTER3MXJtTkxjWUFvSE0xVE1ETkwzNjlUTTV3elR2Y3o3MkdXWlBCOXd2QjFXaWNva2tvajJranc1OFhEd3drNEdGVS1DZGpTTkNwS0NjYlozdGQybXZuTWtQVW9nMjloVWtXNmE5ZVpzN3MxekJ2eHJENlBoeFUxcXlOTl9sM2IyQjBMcU9GSl90d2oxMktJN3hrLW1CMNIB7wFBVV95cUxOdml6VmRWc29qNDcyMHlKVk5xUTd5OWowdWQxT2sxVmVWc1NlVzUtWVJ2bmRtS1JsZmlSbm52MzJ6NGdfZ1c4UG9SbnJCSXRHY2RydS1YOVViTER3MXJtTkxjWUFvSE0xVE1ETkwzNjlUTTV3elR2Y3o3MkdXWlBCOXd2QjFXaWNva2tvajJranc1OFhEd3drNEdGVS1DZGpTTkNwS0NjYlozdGQybXZuTWtQVW9nMjloVWtXNmE5ZVpzN3MxekJ2eHJENlBoeFUxcXlOTl9sM2IyQjBMcU9GSl90d2oxMktJN3hrLW1CMA?oc=5",
+    "original_title": "India, US discuss customs and trade facilitation as both sides push for early bilateral deal | India News - Hindustan Times",
+    "original_summary": "India, US discuss customs and trade facilitation as both sides push for early bilateral deal | India News Hindustan Times",
+    "published_at": "2026-11-10T17:20:49+00:00",
+    "first_seen_at": "2026-11-11T15:56:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índia e EUA discutem facilitação aduaneira e comercial, enquanto ambas as partes pressionam por um acordo bilateral rápido | Notícias da Índia - Hindustan Times",
+    "translated_summary": "Índia e EUA discutem facilitação aduaneira e comercial, enquanto ambas as partes pressionam por um acordo bilateral antecipado | Notícias da Índia Hindustan Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:56:57+00:00"
   },
   {
     "id": "0b0a232a0f11abf28045",
@@ -20988,11 +21205,11 @@
     "published_at": "2026-11-10T03:03:00+00:00",
     "first_seen_at": "2026-11-11T13:13:30+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "«Corretivo»: A Alemanha está a perder muito poder de compra - Die Rheinpfalz",
+    "translated_summary": "\"Corretivo\": A Alemanha está a perder muito poder de compra Die Rheinpfalz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:57:20+00:00"
   },
   {
     "id": "b2b008e857b52932e9d1",
@@ -34810,11 +35027,11 @@
     "published_at": "2026-11-09T02:35:31+00:00",
     "first_seen_at": "2026-11-11T11:04:18+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O RBI desmente as alegações nas redes sociais sobre novas regras para os talões de cheques a partir de janeiro de 2027 - bfsi.economictimes.indiatimes.com",
+    "translated_summary": "O RBI rejeita as alegações nas redes sociais sobre novas regras para os talões de cheques a partir de janeiro de 2027 bfsi.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:04+00:00"
   },
   {
     "id": "e251415b21098899504e",
@@ -46464,11 +46681,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos - XXV Governo Constitucional",
+    "translated_summary": "OE2027 prevê alívio no IRS e investimento para enfrentar fenómenos climáticos extremos XXV Governo Constitucional",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:07+00:00"
   },
   {
     "id": "2ec5fd8dd5bcdaba9fb9",
@@ -57035,11 +57252,11 @@
     "published_at": "2026-11-05T19:06:00+00:00",
     "first_seen_at": "2026-11-11T11:04:18+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal vai acolher cimeira ibero-americana de 2030 - Jornal de Negócios",
+    "translated_summary": "Portugal vai acolher cimeira ibero-americana de 2030 Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T15:58:08+00:00"
   },
   {
     "id": "0ca8d1d7aa487910ed55",
