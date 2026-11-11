@@ -1,5 +1,200 @@
 [
   {
+    "id": "fea55f309fd1f723af38",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "SmartDroid",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzNvQU9BMDVwamV1VkpfRjExUlhuOXpxalJjOThSQkY3WTh3SnBQSHh1bzJ5RGhmbnhmNUNpemJrOGpnSEdRb24ybm1UMFFsXzdPUzBvM05KTG85VG9LaEtRQkhmdlJIa291c1R4SDc4YXhkTTl4MHRmMEdrc1oxNnlFV2U?oc=5",
+    "original_title": "Deutschland hat jetzt richtig Bock auf Elektroautos - SmartDroid",
+    "original_summary": "Deutschland hat jetzt richtig Bock auf Elektroautos SmartDroid",
+    "published_at": "2026-11-11T05:00:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Alemanha agora está realmente interessada em carros elétricos - SmartDroid",
+    "translated_summary": "A Alemanha está agora realmente ansiosa por carros elétricos SmartDroid",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:05+00:00"
+  },
+  {
+    "id": "3e13c177c0807135ffe4",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CnEVPost",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-cnevpost",
+    "publisher": "CnEVPost",
+    "url": "https://cnevpost.com/2026/11/11/byd-apologizes-da-tang-wheel-rim-mix-up/",
+    "original_title": "BYD apologizes to owners, blames supplier coding error for Da Tang wheel rim mix-up",
+    "original_summary": "BYD said a supplier's code entry error caused the incorrect installation and will provide free inspections and wheel rim swaps. For details, please visit CnEVPost (cnev.co).",
+    "published_at": "2026-11-11T04:56:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "BYD pede desculpas aos proprietários, culpa o erro de codificação do fornecedor pela confusão do aro da roda Da Tang",
+    "translated_summary": "A BYD disse que um erro de entrada de código do fornecedor causou a instalação incorreta e fornecerá inspeções gratuitas e trocas de aro de roda. Para mais detalhes, visite o CnEVPost (cnev.co).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:04:49+00:00"
+  },
+  {
+    "id": "443e6435987853dc017f",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74080",
+    "original_title": "来春の統一地方選 4月11日と25日実施が決定 国会で特例法成立",
+    "original_summary": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。",
+    "published_at": "2026-11-11T04:52:53+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As eleições locais unificadas da próxima primavera serão realizadas nos dias 11 e 25 de abril. Uma lei especial foi aprovada pela Dieta.",
+    "translated_summary": "Uma lei especial definindo a data para as eleições locais unificadas na próxima primavera foi aprovada e aprovada na sessão plenária da Câmara dos Vereadores, e foi decidido que a primeira metade das eleições para governador seria realizada em 11 de abril, e a segunda metade das eleições para prefeito municipal seria realizada em 25 de abril.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:04:53+00:00"
+  },
+  {
+    "id": "f2c07d3a6632fe8b42f2",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "파이낸셜신문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93NmFneWs3ZkhPRExhMzIyakZ1ZWZRUlpXa21MZ2Q3LVlXU2F5OHpJSE9HSEFKSGZZZS01eWl0RFBYbkVwOGo1akRzNUxyRzRRNjB3anFNVHAwRUhSUjcwX2xZSDVzWjNnazFN?oc=5",
+    "original_title": "정부, 글로벌 투자자와 소통 ... 결제주기 단축 논의 - 파이낸셜신문",
+    "original_summary": "정부, 글로벌 투자자와 소통 ... 결제주기 단축 논의 파이낸셜신문",
+    "published_at": "2026-11-11T04:38:07+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Governo se comunica com investidores globais... para discutir ciclos de pagamento mais curtos - Financial Newspaper",
+    "translated_summary": "Governo comunica com investidores globais... Documento financeiro discute ciclos de pagamento mais curtos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:08+00:00"
+  },
+  {
+    "id": "cdbf1728255e99647d09",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Estratégia e resultados (DE)",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-strategy-de",
+    "publisher": "ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0pMSnBvUk9KdzJ3cERMWFQwaVpSU1RwcmFxMjNjNGs1T0JkeVptVVZwSTVlclhZS2o2QlJrZC03andfbnhlT2lRZHdyYV9TUW81bTBlSms1QmFUdXVUamMyM2cyM3AydzNQV3JjUXFuTDFSdHF0WUdsal80LXRTSXFvSmp3TEV1d1R0TWFPekt2d3QzRFQ1QXRzejRuMjkyMU15dVBOanZaTmh3M3hPbGYyVVhuRVItVm84Nw?oc=5",
+    "original_title": "Bosch-Aktie: Umsatz wächst im zweiten Quartal um 28,2 Prozent - ad-hoc-news.de",
+    "original_summary": "Bosch-Aktie: Umsatz wächst im zweiten Quartal um 28,2 Prozent ad-hoc-news.de",
+    "published_at": "2026-11-11T04:32:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Resultados e investimentos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Participação da Bosch: as vendas cresceram 28,2% no segundo trimestre - ad-hoc-news.de",
+    "translated_summary": "Participação da Bosch: as vendas cresceram 28,2% no segundo trimestre ad-hoc-news.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:24+00:00"
+  },
+  {
+    "id": "74f77152adebb694854d",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155490.html",
+    "original_title": "スズキ、「スイフト」「ジムニーシエラ」AWIN製パーツ装着車をS耐最終戦「S耐横丁」に出展",
+    "original_summary": "スズキは11月9日、富士スピードウェイで11月14日～15日に開催される「ENEOSスーパー耐久シリーズ 2026 Empowered by BRIDGESTONE 第7戦 S耐FINAL大感謝祭」のイベント広場内で実施される「S耐横丁」の出展概要を発表した。",
+    "published_at": "2026-11-11T04:20:32+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Suzuki exibe peças \"Swift\" e \"Jimny Sierra\" montadas em veículos AWIN na corrida final resistente a S \"Yokocho resistente a S\"",
+    "translated_summary": "Em 9 de novembro, a Suzuki anunciou o esboço da exposição \"S Endurance Yokocho\" a ser realizada na praça do evento \"ENEOS Super Endurance Series 2026 Empowered by Bridgestone Round 7 S Endurance Final Great Thanksgiving\" a ser realizada de 14 a 15 de novembro no Fuji Speedway.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:04:56+00:00"
+  },
+  {
+    "id": "f74064c3b71ee6a05427",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "翻爆",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9heXFjSVpJajhFUGVtMVVtYUxKb3FpdERGVUZsUWVKa0FtWEJYOTRrS0tyX2Y0b3Znd0hRZ0RRMmFnM3hsVDdsdlNnQ2FvLVV4aTBHMjcyS1hNQ0x4U0txYl9kZUVsTk5zaDUzY2szUQ?oc=5",
+    "original_title": "大陸汽車好在哪裡？台灣汽車能追上嗎？ - 翻爆",
+    "original_summary": "大陸汽車好在哪裡？台灣汽車能追上嗎？ 翻爆",
+    "published_at": "2026-11-11T04:09:21+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Onde o carro do continente é bom? Carros taiwaneses podem alcançar? - Explosão",
+    "translated_summary": "Onde o carro do continente é bom? Os carros taiwaneses podem alcançar? Boom",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:14+00:00"
+  },
+  {
+    "id": "fae854a4e63d871125c7",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2155484.html",
+    "original_title": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長",
+    "original_summary": "トヨタ自動車は、米国生産の「カムリ」を11月中に発売する。米国生産のカムリの発売は、以前から2026年秋を目指すとアナウンスされていたが、米国NASCAR最終戦を応援のために訪れたトヨタ自動車代表取締役副社長 中嶋裕樹氏は「冬が来る前に」と語り、12月以前になることを示唆。11月中の発売になると類推できる。",
+    "published_at": "2026-11-11T04:04:59+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Toyota vai importar e lançar Camry fabricado nos EUA em novembro \"Before Winter Comes\" e vice-presidente Hiroki Nakajima",
+    "translated_summary": "A Toyota lançará o seu Camry construído nos EUA em novembro. O lançamento do camry feito nos EUA havia sido anunciado anteriormente como visando o outono de 2026, mas o CEO da Toyota Motor, Hiroki Nakajima, que veio aos EUA para torcer pela corrida final da NASCAR, disse \"antes que o inverno chegue\", sugerindo que será antes de dezembro. Se for lançado em novembro, pode ser analogizado.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:04:59+00:00"
+  },
+  {
+    "id": "1503523fdba118fce640",
+    "country": "Bosch",
+    "category": "Mobilidade",
+    "source": "Bosch Mobility · internacional",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-mobility-en",
+    "publisher": "日本のボッシュ・グループ",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTWM2eDFsREhtZ2M3RERmMG5Xc2ljSm5KVWoyVTlmUVVWQW5ISW9hb3dFY1E1S2p3RVNUT1FqRm1HZm5XdDZmR1hkcTlaTmNpQjhOSUdMdVM0VmZ1UGlmTA?oc=5",
+    "original_title": "Bosch holds a hands-on STEAM workshop for elementary school students in YokohamaContributing to the development of the next generation of talent by stimulating curiosity and interest in mobility development and advanced technology | Press Release - 日本のボッシュ・グループ",
+    "original_summary": "Bosch holds a hands-on STEAM workshop for elementary school students in YokohamaContributing to the development of the next generation of talent by stimulating curiosity and interest in mobility development and advanced technology | Press Release 日本のボッシュ・グループ",
+    "published_at": "2026-11-11T03:55:09+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Mobilidade"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch realiza workshop prático Steam para alunos do ensino fundamental em YokohamaContribuindo para o desenvolvimento da próxima geração de talentos ao estimular a curiosidade e o interesse pelo desenvolvimento da mobilidade e da tecnologia avançada | Comunicado de imprensa - Grupo Bosch no Japão",
+    "translated_summary": "Bosch realiza workshop prático Steam para alunos do ensino fundamental em YokohamaContribuindo para o desenvolvimento da próxima geração de talentos ao estimular curiosidade e interesse no desenvolvimento de mobilidade e tecnologia avançada | Press Release Grupo Bosch no Japão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:27+00:00"
+  },
+  {
     "id": "3ecd1e0c0ea314d146a1",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -786,6 +981,26 @@
     "translated_summary": "Para tranquilidade, mesmo nos momentos mais repentinos - Vídeo | Multimedia South Korea Policy Briefing",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T02:56:27+00:00"
+  },
+  {
+    "id": "b8341fcaa3ccf658d1b7",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjBlQUVFWW5NVG5tWEhLNjlBUWQwYlJJbnh3ZG05VkFfZDQ4cW9oSVdmdGpobkNXcElOeFZpem9fYkNWQTkzNk1xblo2M3N2ZW43TU5fTERtVjBIdnN3bEd2bl9qQ242emFZMFV3amEtV0ZrWmh3U0VGd3pFM0JVQUNPYTFkZHJwQk9Gd2Q4NjlrWXlBeC1KczdVTFdKQ3Q2NjJqbURTaTRCdXM3dlFlQ3ltZFBhelhfTzg5NVUya25pbHpFMDV6Ng?oc=5",
+    "original_title": "Microsoft presses Trump to scuttle ban on Chinese data centre tech - The Business Times",
+    "original_summary": "Microsoft presses Trump to scuttle ban on Chinese data centre tech The Business Times",
+    "published_at": "2026-11-11T02:36:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Microsoft pressiona Trump para acabar com proibição de tecnologia de data center chinês - The Business Times",
+    "translated_summary": "Microsoft pressiona Trump para acabar com a proibição da tecnologia de data center chinesa The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:19+00:00"
   },
   {
     "id": "cbb1aad5837053e2acf6",
@@ -1607,6 +1822,28 @@
     "last_translation_attempt_at": "2026-11-11T01:09:32+00:00"
   },
   {
+    "id": "54a093a472737c3a3b20",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54cGtyX3BMZHBjci1yNEVBbzhFRWhMb2ctU1lHeXViUm5lSm56UW1aai1xUUlGNVVvVFBVZXFOdHRobE9rZWFBZWtnekZPMk1mWUZsQ3FYM3piLURJS2NIMHRiblE?oc=5",
+    "original_title": "한국투자증권, IRP·DC 계좌로 개인투자용 국채 판매…17일까지 청약 - 서울경제TV",
+    "original_summary": "한국투자증권, IRP·DC 계좌로 개인투자용 국채 판매…17일까지 청약 서울경제TV",
+    "published_at": "2026-11-11T00:23:49+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Korea Investment & Securities vende títulos do governo para investimento pessoal em contas IRP e DC... Inscreva-se até o dia 17 - Seoul Economic TV",
+    "translated_summary": "A Korea Investment & Securities vende títulos do governo para investimento pessoal em contas IRP e DC... Inscreva-se até a 17ª Seoul Economic TV",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:41+00:00"
+  },
+  {
     "id": "ac6667b5093c057a49a8",
     "country": "China",
     "category": "Economia",
@@ -1945,6 +2182,28 @@
     "translated_summary": "A Bridgestone e a Eve Autonomy anunciaram no dia 29 de outubro que vão prosseguir com a demonstração na fábrica da Bridgestone Nasu com a instalação do pneu de próxima geração “AirFree”, que dispensa o enchimento de ar em veículos autônomos não tripulados. Combine pneus que não requerem operação automática e gerenciamento pneumático para confirmar a estabilidade do transporte e o efeito da redução do trabalho de manutenção.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T23:42:18+00:00"
+  },
+  {
+    "id": "9f99b826249592039821",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEp4NTNBeUFmcEoxdUJBbEx4MzZ4emJWM0JuUFJZSHNIdnZ6TFI5ZGlpN09MeGs1MnBmMXNubURZWkQ5OEIxNndQaXRPLVl3QjFweFdseUlHWkNDT0JadUZJV1BQdE5kdWRYaGpJTTJGQml5bjliZWdPQUo5SGVvVkFLdWhhQm5ESXUxTlJzeTlSSXE3RmpCSXNqXzk0YmphNkNVVlYzNjVGT09wTU1ldTlZZmM5MnNLWEc5V05TVVBYeU1lS3dnNTdnMHVuUTc4MzhqNnZCZ1g?oc=5",
+    "original_title": "Dubai International Electric Vehicle Exhibition and Conference opens with over 300 participants - Big News Network.com",
+    "original_summary": "Dubai International Electric Vehicle Exhibition and Conference opens with over 300 participants Big News Network.com",
+    "published_at": "2026-11-10T22:54:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Exposição e Conferência Internacional de Veículos Elétricos de Dubai abre com mais de 300 participantes - Big News Network.com",
+    "translated_summary": "A Exposição e Conferência Internacional de Veículos Elétricos de Dubai começa com mais de 300 participantes Big News Network.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:21+00:00"
   },
   {
     "id": "f4722cf33be35af04acd",
@@ -2744,6 +3003,28 @@
     "last_translation_attempt_at": "2026-11-10T19:58:08+00:00"
   },
   {
+    "id": "0c39abc611a58730cd26",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "India Business Trade",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObk5USzFockhhOFAyczdMOGpaMjB3V05jYXFMVFRMTng3dWdFTlhQT3lXb1hQcnN1TWFzdUxxbmVOdEJvQmhPc21MWjdyLVhnWHR4U1dzRmowN0QybWxldzU3NGF4TGRpSHdFU0k3VE1TdXhFbEwzclN0NEpSbGlrT2pTWkN4TlR2cENsdzRRbE9mZHpYbHpBSWc3Q3dXX0lLVDFTanlrTHpYTU9pTHc?oc=5",
+    "original_title": "Piyush Goyal’s Egypt Visit Could Boost India’s Trade and Investment Ties: FIEO - India Business Trade",
+    "original_summary": "Piyush Goyal’s Egypt Visit Could Boost India’s Trade and Investment Ties: FIEO India Business Trade",
+    "published_at": "2026-11-10T19:39:37+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A visita de Piyush Goyal ao Egito pode impulsionar os laços comerciais e de investimento da Índia: FIEO - India Business Trade",
+    "translated_summary": "A visita de Piyush Goyal ao Egito pode impulsionar os laços comerciais e de investimento da Índia: FIEO India Business Trade",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:16+00:00"
+  },
+  {
     "id": "e0b564699263ce1f6b4a",
     "country": "Braga",
     "category": "Atualidade",
@@ -3230,6 +3511,28 @@
     "translated_summary": "A receita fiscal de data center, natureza e rede da Akita AI, chamada Emirados Árabes Unidos, aumentou em até 20 bilhões de ienes Nikkei",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T02:57:04+00:00"
+  },
+  {
+    "id": "0a15d2c437aa2be0ede9",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQ21pWkFpT24yeUw4OEtMeVVCcHlBTF9YSTlWc3RfbFBtQzJldVFuaVNVNnUwTFduaHBxRlc2bmpROW9NdjNwa0s1UVBGT1JMeHV3ZlpNM1h3aS1veURnOEtOLXptallEN3R4ZQ?oc=5",
+    "original_title": "韓国の親世代「日本の女性と結婚を」 Z世代の交流で変わる意識 - 日本経済新聞",
+    "original_summary": "韓国の親世代「日本の女性と結婚を」 Z世代の交流で変わる意識 日本経済新聞",
+    "published_at": "2026-11-10T17:00:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Pais coreanos 'se casando com uma mulher japonesa' muda a consciência na interação da Geração Z - Nikkei",
+    "translated_summary": "A conscientização dos pais coreanos sobre o casamento com uma mulher japonesa mudou pelo intercâmbio Nikkei da Geração Z",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:35+00:00"
   },
   {
     "id": "b9c338b340edc938c6c0",
@@ -6691,6 +6994,28 @@
     "last_translation_attempt_at": "2026-11-10T10:57:05+00:00"
   },
   {
+    "id": "b3abcf855787774b0a96",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15UGtGcWQ5czRjY3ZlT2w1SEZrYVpYRGNGX1BzRkVsMEo0NFlrbmpOS2tyaXNKRDZfbXJCcnpTVUFuOVJDN2R2cDNlSTVqUldQSmRIVklKeGZXd2pmY082QXA5c2J2cHNuZGtxUFE5WWI?oc=5",
+    "original_title": "一关脚下浴“雪”奋战保畅通 - 中国经济网",
+    "original_summary": "一关脚下浴“雪”奋战保畅通 中国经济网",
+    "published_at": "2026-11-10T09:59:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Um pé debaixo do banho \"neve\" luta para se manter desimpedido - China Economic Net",
+    "translated_summary": "Um banho debaixo do pé “neve” para combater e manter a rede económica chinesa desimpedida",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:30+00:00"
+  },
+  {
     "id": "f0115343a061b0243269",
     "country": "Índia",
     "category": "Política",
@@ -9426,6 +9751,29 @@
     "translated_summary": "Os países que desejam desvincular-se dos combustíveis fósseis, responsáveis pelas alterações climáticas, vão contar a partir de hoje com um roteiro nas negociações climáticas da ONU, que será apresentado pelo Brasil.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T16:58:38+00:00"
+  },
+  {
+    "id": "3b67f317649cac6bd03c",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZ1UzSTJfTnM2REFIQUZVb0lXSk9XUE9RVGxqcWY1cElKdzBMSXZhekZTVFZzN1F2RFR6Q1V4SGs5eGFGRTZGYjJudm52d3piTk9WMHZTeG1vVkFXUW1UWjUzdlFQY1NuVm1FUQ?oc=5",
+    "original_title": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に - 日本経済新聞",
+    "original_summary": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に 日本経済新聞",
+    "published_at": "2026-11-10T06:40:52+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O superávit comercial da China ultrapassa US $ 1 trilhão por dois anos consecutivos de janeiro a outubro, exacerbando o atrito com outros países - The Nikkei",
+    "translated_summary": "Pelo segundo ano consecutivo, o superávit comercial da China ultrapassou US $ 1 trilhão de janeiro a outubro, contribuindo para o agravamento do atrito com outros países.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:33+00:00"
   },
   {
     "id": "01b3eaf00ff856d525ec",
@@ -16512,6 +16860,28 @@
     "last_translation_attempt_at": "2026-11-09T19:59:31+00:00"
   },
   {
+    "id": "139fd2bfbf79b2163af3",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUTE9SSzFlUUNmSXhaN3RXOXRXZXlFcU5sbXAxT3BPa0xKckk1TXZvZGJNdUFFMWd4QVR0a2Jaak5uRlNubC1wRkUxcEVvUU1OOVdwaGZ2OE5uWXBFaHVnVjU1ODI4eHRnTHkxeQ?oc=5",
+    "original_title": "9日の高市首相の動静 - 日本経済新聞",
+    "original_summary": "9日の高市首相の動静 日本経済新聞",
+    "published_at": "2026-11-09T16:20:00+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Descanso do Primeiro-Ministro Takaichi no dia 9 - O Nikkei",
+    "translated_summary": "Descanso do Primeiro-Ministro Takaichi no dia 9 O Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:38+00:00"
+  },
+  {
     "id": "87905e1a82ecba48d8d7",
     "country": "Singapura",
     "category": "Automóvel",
@@ -16829,6 +17199,28 @@
     "translated_summary": "Após protesto na Palestina: Alemanha volta a arvorar bandeira em frente ao Bundestag Tagesspiegel",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T16:07:37+00:00"
+  },
+  {
+    "id": "904573598b4ca555b8e4",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVZUaE9uSGtVVGppU3pSSGdSR1F0aFpSQTlfVGE2aFVBTlZaQW5VN1o5Sms2ZHB0aUY5Tm85Y0JoaHptRHdYREpLZGlpekd2bVNTYWV5RUFneVVDQnF6NWN6eGdkSUwyMDYyVG1ZcENUMjRnemNwMmdGcEhiWXM3aU13OG10blEtUVRKR3o2SjBwSEdqeDhjM3lETnUzMjV5MlFkX0xFTTZXdDg0ODhXc1NBakVFSktlTkFLd0dtZjg4SW13U3pqZUt3bW01R3VVRHNEdFoxLWJvb1FTQUhKUHRxeG1uY2sxSXc?oc=5",
+    "original_title": "Nach Palästina-Protest - Deutschland-Flagge zurück vor dem Bundestag - Politik - SZ.de - SZ.de",
+    "original_summary": "Nach Palästina-Protest - Deutschland-Flagge zurück vor dem Bundestag - Politik - SZ.de SZ.de",
+    "published_at": "2026-11-09T15:27:08+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Após o protesto da Palestina - Alemanha bandeira de volta na frente do Bundestag - Política - SZ.de - SZ.de",
+    "translated_summary": "Após o protesto da Palestina - Alemanha bandeira de volta na frente do Bundestag - Política - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:02+00:00"
   },
   {
     "id": "58626be318d54766b087",
@@ -26943,6 +27335,29 @@
     "translated_summary": "[Japão] A Nissan e seis outras empresas concluem um acordo de parceria para circular localmente veículos elétricos usados e baterias veiculares na cidade de Namie, província de Fukushima | Japão Sustentável | Sustentabilidade Global, Investimento ESG e ODS Japão Sustentável",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T01:12:33+00:00"
+  },
+  {
+    "id": "7e22386a4b2b0437eec4",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "한스경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aTFZWVHdNY0s0Z1JUd3dpcDdVaFBTbWhRck9lbjVfOGU1a3BGRWpjQUppM2FFM293UEtPQm4yZnhWYURpeWxRWk1DSUp5OVVvY19xaDRIeGxDYXZ2UFVIbUZsbDV3dlJ4VUJIdNIBb0FVX3lxTE5fckR6RDlQczZkTkdPcWo2MTZ4NFk3cy1wZXREWUs1bUVacEhnNWt0N1g2MFo2bUxHa1cyY0dPbWpNT0tUWHIxTkltNlJKQ0tTZnhuS2wtbzc1dXctVmJBSlNhZ3Z1TUdUbG5LYUF4Zw?oc=5",
+    "original_title": "현대차·기아 전기차 판매 급증...'보급형 EV' 약진 - 한스경제",
+    "original_summary": "현대차·기아 전기차 판매 급증...'보급형 EV' 약진 한스경제",
+    "published_at": "2026-11-08T23:33:09+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Hyundai e Kia Electric Vehicle Sales Surge... 'Entry Level EV' Yakjin - Hans Economy",
+    "translated_summary": "Hyundai e Kia Electric Vehicle Sales Surge... 'Entry Level EV' Economia fraca de Jin Hans",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:11+00:00"
   },
   {
     "id": "a97e1800baf2633eabcb",
@@ -41402,11 +41817,11 @@
       "Crescimento e PIB",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "570.000 pessoas ocuparam a rua... O governo, eventualmente Baekgi Dna - Korea Economy",
+    "translated_summary": "Ocupação de 570.000 pessoas nas ruas... O governo, no final, a economia coreana de Baekgi Dna",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:45+00:00"
   },
   {
     "id": "0807caf1df4128d255c4",
@@ -42028,11 +42443,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia: Crescimento surpreendente da produção industrial na Alemanha - Tagesspiegel",
+    "translated_summary": "Economia: produção industrial na Alemanha cresce surpreendentemente a cada dia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:48+00:00"
   },
   {
     "id": "38471a3d3f907ce1052e",
@@ -42071,11 +42486,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia: Produção industrial na Alemanha cresce surpreendentemente em setembro - Spiegel",
+    "translated_summary": "Economia: Produção industrial na Alemanha cresce surpreendentemente em setembro Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:50+00:00"
   },
   {
     "id": "9c8899efdaff2471609a",
@@ -42173,11 +42588,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Taiwan Stock Shocks Ministry of Economic Affairs: Tenha confiança na indústria de Taiwan - Economic Daily",
+    "translated_summary": "Taiwan Stock Shocks Ministry of Economic Affairs Speaks Out: Be Confident in Taiwan's Industry Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:53+00:00"
   },
   {
     "id": "76348b671df98f568857",
@@ -42321,11 +42736,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nomura Securities Okazaki Kohei - A Nomura Securities pode ter um certo impacto na economia japonesa devido ao ataque ao Estreito de Ormuz e à virtual intransponibilidade no Irã",
+    "translated_summary": "Nomura Securities e Okazaki Kohei Nomura Securities podem ter um certo impacto na economia japonesa devido ao ataque ao Estreito de Ormuz e à virtual intransponibilidade no Irã",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:56+00:00"
   },
   {
     "id": "56241a2be527c0b760d7",
@@ -42343,11 +42758,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nomura Research Institute, Nobuhide Kiuchi - A Nomura Securities estima o impacto do PIB real e dos preços do petróleo bruto do Japão em mais de US $ 100 em casos anteriores",
+    "translated_summary": "Estimativas do impacto do PIB real do Japão e preços sobre os preços do petróleo bruto acima de US $ 100 de casos anteriores Nomura Research Institute e Kiuchi Noboruhide Nomura Securities",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:59+00:00"
   },
   {
     "id": "4cb5fe8ebf4971a941bc",
@@ -42363,11 +42778,11 @@
     "published_at": "2026-11-06T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Qual é a base para prever que a Média de Ações Nikkei em 2040 poderia chegar a 240.000 ienes? Nomura Asset Management Hideyuki Ishiguro - Nomura Securities",
+    "translated_summary": "Qual é a base para prever que a Média de Ações Nikkei em 2040 poderia chegar a 240.000 ienes? Nomura Asset Management/Einomura Ishiguro Securities",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:02+00:00"
   },
   {
     "id": "a546f0a9cdd5f258bc4e",
@@ -42385,11 +42800,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nomura Securities Maki Kuwahara - Nomura Securities observa que a demanda total estimada no verão, que pode ser um marco para a economia japonesa, está perto de 144 trilhões de ienes",
+    "translated_summary": "Nomura Securities e Makoto Kuwahara Nomura Securities observam que a demanda total estimada no verão, que pode ser um marco para a economia japonesa, está perto de 144 trilhões de ienes",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:05+00:00"
   },
   {
     "id": "ceab36f6d6ce81c51d2f",
@@ -42407,11 +42822,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Forte demanda de IA espera que o crescimento do PIB de Taiwan vá para ações taiwanesas ETF Tech Owners - Economic Daily",
+    "translated_summary": "A demanda por IA está crescendo e espera-se que o crescimento do PIB de Taiwan se mova para o Economic Daily de Taiwan, orientado para a tecnologia de ETF",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:08+00:00"
   },
   {
     "id": "55614ab6a0fff77e2f89",
@@ -42647,11 +43062,11 @@
     "published_at": "2026-11-06T07:40:43+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Brasileiros entram nos fundos de crédito em Portugal com “corredor brasileiro” e querem ser “unicórnio europeu” - ECO",
+    "translated_summary": "Brasileiros entram nos fundos de crédito em Portugal com “corredor brasileiro” e querem ser “unicórnio europeu” ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:10+00:00"
   },
   {
     "id": "21160b72b9309aec02fc",
@@ -43022,11 +43437,11 @@
       "Semicondutores",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O FMI prevê um crescimento económico de 3,3% na Coreia do Sul! Por que o boom dos semicondutores ainda parece diferente - South Korea Policy Briefing",
+    "translated_summary": "O FMI prevê um crescimento económico de 3,3% na Coreia do Sul! Por que o boom de semicondutores é diferente South Korea Policy Briefing",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:11+00:00"
   },
   {
     "id": "93955dd394f319035364",
@@ -43149,11 +43564,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A inflação ao consumidor da Índia em outubro provavelmente se aproxima da meta do RBI sobre os custos dos alimentos - Reuters",
+    "translated_summary": "A inflação ao consumidor da Índia em outubro provavelmente se aproxima da meta do RBI sobre os custos dos alimentos Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:14+00:00"
   },
   {
     "id": "fa76806841238c07688d",
@@ -43257,11 +43672,11 @@
       "Indústria e produção",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia: Crescimento surpreendente da produção industrial na Alemanha - WirtschaftsWoche",
+    "translated_summary": "Economia: Produção industrial na Alemanha cresce surpreendentemente WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:16+00:00"
   },
   {
     "id": "0e60ab1b67996f6ee4dd",
@@ -44019,11 +44434,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia coreana está crescendo a 3% e o mercado de trabalho está na pior crise desde 2020 - Biz Korea",
+    "translated_summary": "A economia coreana está crescendo a 3% e o mercado de trabalho está na pior crise desde 2020.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:19+00:00"
   },
   {
     "id": "410199aaa5bcbd73365e",
@@ -44526,11 +44941,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As eleições intercalares dos EUA afetam as relações EUA-China! Quais são as variáveis que a economia de Taiwan e a paz através do Estreito enfrentam? - Revista Foresight",
+    "translated_summary": "As eleições intercalares dos EUA afetam as relações EUA-China! Quais são as variáveis que a economia de Taiwan e a paz através do Estreito enfrentam? Revista Visionária",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:22+00:00"
   },
   {
     "id": "5f3d85f1ab67916ec2f0",
@@ -44716,11 +45131,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Revisão curta da indústria] Revisão da Computex 2026! Tendências da indústria de robótica - Tej Taiwan Economic News",
+    "translated_summary": "[Revisão curta da indústria] Revisão da Computex 2026! Foco nas tendências da indústria de robótica Tej Taiwan Economic News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:24+00:00"
   },
   {
     "id": "f1412e21463af1b24ab2",
@@ -45691,11 +46106,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Bank of Japan \"Outlook for Economic and Price Situation (October 2026)\" Structural Verification and Evaluation of Box 3 (Analysis of Elderly Consumption) - Dai-ichi Life Asset Management and Economic Research Institute",
+    "translated_summary": "Bank of Japan \"Outlook on Economic and Price Situation (October 2026)\" Structural Verification and Evaluation of Box 3 (Analysis of Elderly Consumption) Dai-ichi Life Asset Management Economic Research Institute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:27+00:00"
   },
   {
     "id": "c5707d7a732ceb874d68",
@@ -46885,11 +47300,11 @@
     "published_at": "2026-11-05T22:04:48+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Num mundo incerto, Portugal está a recuperar centralidade - Dinheiro Vivo",
+    "translated_summary": "Num mundo incerto, Portugal está a recuperar centralidade Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:30+00:00"
   },
   {
     "id": "95d6b1a5f4a4eb69c3c8",
@@ -47048,11 +47463,11 @@
     "published_at": "2026-11-05T21:08:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "“Get a Lawyer First” … Democrats Pointed at Trump, Investing in Korea Sphere of Influence [Correspondent Report] - KBS News",
+    "translated_summary": "\"Get a Lawyer First\"... Democratas apontaram para Trump, investindo na Coreia Esfera de Influência [Correspondent Report] KBS News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:31+00:00"
   },
   {
     "id": "6182f8eb3b85d104c3b2",
@@ -47662,11 +48077,11 @@
     "published_at": "2026-11-05T17:30:07+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eurodeputados apoiam medidas para impulsionar veículos elétricos pequenos e eficientes fabricados na UE - TV Europa",
+    "translated_summary": "Eurodeputados apoiam medidas para impulsionar veículos elétricos pequenos e eficientes fabricados na UE TV Europa",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:06:34+00:00"
   },
   {
     "id": "6942c8e42d2be50c924c",
@@ -55607,6 +56022,26 @@
     "translated_summary": "O maior aplauso do governo taiwanês! China Videoconferências Reunião Ministerial da APEC Nosso \"Downgrade\" Participação Representantes Oficiais Yahoo News",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-06T21:16:48+00:00"
+  },
+  {
+    "id": "61026c1b5efc845ab2f8",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGcyVXFHRFhHU0pUTUp0dnh3Wk9IRWhzZFczOWxNb1dUaWhnTnhST2ZYOGhXN1ktU3JfQ0xaMDR2TGxjWmJJc3I1RmktbFFRMGJKRHNrNEVJRFdKRGpTVU9pVDJxLUFjNjMzaFJXTDNfbVpxOEtSTDdnZnZnemMwdXhRdzM3S0x0M0J2QTFSeDF1cUJDeEgwNHhITVc?oc=5",
+    "original_title": "Parlamento Europeu propõe simplificar regras automóveis para acelerar veículos elétricos na UE - Traders Union",
+    "original_summary": "Parlamento Europeu propõe simplificar regras automóveis para acelerar veículos elétricos na UE Traders Union",
+    "published_at": "2026-11-04T14:28:06+00:00",
+    "first_seen_at": "2026-11-11T05:04:22+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Parlamento Europeu propõe simplificar regras automóveis para acelerar veículos elétricos na UE - Traders Union",
+    "translated_summary": "Parlamento Europeu propõe simplificar regras automóveis para acelerar veículos elétricos na UE Traders Union",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-11T05:05:44+00:00"
   },
   {
     "id": "83b35ca8806e8af140a0",
