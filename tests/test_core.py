@@ -88,6 +88,36 @@ class RadarTests(unittest.TestCase):
         self.assertTrue(bosch_relevant("Bosch builds a new factory"))
         self.assertFalse(bosch_relevant("Random car company opens plant"))
         self.assertTrue(bosch_relevant("Article on motors",official=True))
+    def test_bosch_person_name_collision(self):
+        from asia_radar.core import bosch_name_collision
+        from asia_radar.braga_local import filter_records
+        headlines=[
+            "Hóquei: Edo Bosch acusa árbitro após a derrota na Supertaça",
+            "Edo Bosch: Um senhor perdeu o controlo e armou uma grande confusão",
+            "Hockey coach Edo Bosch criticizes a referee",
+            "Hieronymus Bosch exhibition opens in museum",
+        ]
+        for i,title in enumerate(headlines):
+            self.assertTrue(bosch_name_collision(title),title)
+            self.assertFalse(bosch_relevant(title),title)
+            row={"id":str(i),"country":"Bosch","category":"Portugal",
+                 "original_title":title,"original_summary":""}
+            self.assertEqual(filter_records([row]),[],title)
+        self.assertFalse(bosch_relevant(
+            "Hóquei: crítica à arbitragem",
+            "O treinador Edo Bosch contestou a decisão"))
+        genuine=[
+            "Bosch announces investment in automotive manufacturing in Braga",
+            "Bosch Rexroth launches industrial automation product",
+            "Esta bicicleta elétrica é feita em Gaia, tem motor Bosch e custa menos de 3000 €",
+            "Robert Bosch GmbH announces results",
+        ]
+        for title in genuine:
+            self.assertTrue(bosch_relevant(title),title)
+            self.assertEqual(len(filter_records([{"country":"Bosch","original_title":title}])),1)
+        self.assertTrue(bosch_relevant("New Bosch factory opens",official=True))
+        self.assertFalse(bosch_relevant("Edo Bosch disputa final",official=True))
+
     def test_bosch_categorization(self):
         self.assertEqual(bosch_category("Bosch Rexroth expands ctrlX",fallback="Estratégia"),"Indústria")
         self.assertEqual(bosch_category("Bosch in Braga announces expansion"),"Portugal")

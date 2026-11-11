@@ -339,7 +339,7 @@
     "category": "Portugal",
     "name": "Bosch · Portugal",
     "kind": "google",
-    "query": "\"Bosch\" (Braga OR Aveiro OR Ovar OR Portugal OR \"Car Multimedia\") when:7d",
+    "query": "\"Bosch\" (Braga OR Aveiro OR Ovar OR Portugal OR \"Car Multimedia\") when:7d -\"Edo Bosch\"",
     "locale": "pt-PT",
     "gl": "PT",
     "ceid": "PT:pt-150",

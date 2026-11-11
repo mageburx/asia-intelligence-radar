@@ -61,6 +61,12 @@ def classify_braga(title, summary=""):
     return "Atualidade"
 
 def keep_record(article):
+    # Also sanitize historic Bosch articles, not only future RSS ingestion.
+    # The same predicate is used by collector, dashboard, CSV and reconciliation.
+    if article.get("country")=="Bosch":
+        from .core import bosch_name_collision
+        return not bosch_name_collision(article.get("original_title",""),
+                                        article.get("original_summary",""))
     if article.get("country")!="Braga":
         return True
     return is_braga_local(article.get("original_title",""),

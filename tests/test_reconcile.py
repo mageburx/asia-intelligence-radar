@@ -26,6 +26,14 @@ class ReconcileTests(unittest.TestCase):
         items=combine_articles([row("a")],[row("a",translated=True)])
         self.assertEqual(items[0]["translation_status"],"translated")
 
+    def test_old_bosch_sports_headline_removed_on_merge(self):
+        bad=row("edo")
+        bad["original_title"]="Edo Bosch comenta derrota na Supertaça de hóquei"
+        clean=row("motor")
+        clean["original_title"]="Nova fábrica de motores Bosch em Braga"
+        result=combine_articles([bad,clean],[bad])
+        self.assertEqual([x["id"] for x in result],["motor"])
+
     def test_still_respects_thirty_days(self):
         old=row("old")
         old["published_at"]=(NOW-timedelta(days=31)).isoformat()

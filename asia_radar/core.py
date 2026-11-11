@@ -126,8 +126,19 @@ def bosch_category(title, summary="", fallback="Estratégia"):
             return cat
     return fallback
 
+# Bosch also occurs as a surname. Avoid confusing hockey coach Edo Bosch
+# (and the painter Hieronymus Bosch) with the Robert Bosch group.
+BOSCH_PERSON_EXACT=re.compile(r"\b(?:edo|hieronymus|jeronimo|jerónimo)\s+bosch\b",re.IGNORECASE)
+
+def bosch_name_collision(title,summary=""):
+    """Reject known unrelated people named Bosch, including media excerpts."""
+    t=f"{title or ''} {summary or ''}"
+    return bool(BOSCH_PERSON_EXACT.search(t))
+
 def bosch_relevant(title, summary="", official=False):
-    """The official corporate feed is trusted as Bosch; search hits must name Bosch."""
+    """Bosch Group only: separate the company from unrelated people named Bosch."""
+    if bosch_name_collision(title,summary):
+        return False
     if official:
         return True
     t=f"{title} {summary}".casefold()

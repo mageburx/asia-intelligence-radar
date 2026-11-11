@@ -144,3 +144,8 @@ Os registos antigos do separador Braga provenientes das buscas mundiais são rem
 ## Análise do Grupo Bosch
 
 O painel Bosch inclui três vistas: Visão geral (métricas oficiais, data, interpretações), Áreas de negócio (quatro setores) e Sinais do radar (7 dias de notícias agrupadas, fontes, categorias e temas). A fonte financeira é o comunicado oficial publicado em 23/09/2026: https://www.bosch.pt/imprensa/2026/resultados-semestrais-2026-bosch-reafirma-previsoes/ . Relatório anual 2025: https://www.bosch.com/company/annual-report/ . O ficheiro config/bosch_facts.json exige revisão manual ao sair novo relatório; os indicadores noticiosos atualizam automaticamente de hora a hora. Menções não demonstram desempenho económico ou risco individual.
+
+
+## Remoção de falsos positivos Bosch (11/11/2026)
+
+O nome Bosch também surge em notícias desportivas sobre o treinador de hóquei **Edo Bosch** e em notícias culturais sobre **Hieronymus Bosch**. Estes casos **não são notícias do Grupo Bosch**. `bosch_relevant` rejeita-os na recolha, e `braga_local.filter_records` remove os registos antigos de Bosch das vistas, do arquivo CSV e da análise financeira/noticiosa. A consulta de Portugal evita também a frase exata `"Edo Bosch"`. Mantêm-se notícias reais sobre produtos, fábricas, investimentos e outras atividades da Bosch. Os commits antigos de GitHub podem conservar o histórico anterior.
