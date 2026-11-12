@@ -84,6 +84,199 @@
     "last_translation_attempt_at": "2026-11-12T17:59:06+00:00"
   },
   {
+    "id": "47b5427fc3f61f0898a9",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75105",
+    "original_title": "消費税減税法案 参院特別委で質疑へ 効果や支援金めぐり論戦",
+    "original_summary": "食料品の消費税減税関連法案は、13日、参議院の特別委員会で高市総理大臣も出席して質疑が行われます。 衆議院に続き物価高対策としての効果や、所得に応じた支援金の対象などをめぐって論戦が交わされる見通し…",
+    "published_at": "2026-11-12T19:55:40+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Projeto de lei de redução do imposto sobre o consumo será debatido na Comissão Especial do Senado, com discussões sobre os seus efeitos e os subsídios",
+    "translated_summary": "O projeto de lei relativo à redução do imposto sobre o consumo de produtos alimentares será debatido no dia 13 numa comissão especial da Câmara dos Conselheiros, com a presença da Primeira-Ministra Takaichi. Prevê-se que, tal como na Câmara dos Representantes, haja um debate sobre a eficácia das medidas contra o aumento dos preços e sobre os beneficiários dos subsídios com base nos rendimentos…",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:25+00:00"
+  },
+  {
+    "id": "a03b685b9f79a9277a37",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2156082.html",
+    "original_title": "AIによる自動運転時代を切り開いたNVIDIA ジェンスン・フアン創設者兼CEOが辞任",
+    "original_summary": "11月12日（現地時間）、AI企業としても世界最大の半導体企業としても知られるNVIDIAは、同社の創設者兼CEOであるジェンスン・フアン氏が辞任したと発表した。エグゼクティブ・バイス・プレジデント兼最高財務責任者（CFO）のコレット・クレス氏が暫定CEOに就任し、ハーベイ・C・ジョーンズ氏が初の取締役会議長に就任する。",
+    "published_at": "2026-11-12T19:34:04+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Condução autónoma",
+      "Semicondutores",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Jensen Huang, fundador e CEO da NVIDIA, que inaugurou a era da condução autónoma com a IA, demite-se",
+    "translated_summary": "A 12 de novembro (hora local), a NVIDIA, conhecida como empresa de IA e também como a maior empresa de semicondutores do mundo, anunciou a demissão do seu fundador e CEO, Jensen Huang. Colette Kress, vice-presidente executiva e diretora financeira (CFO), assumirá o cargo de CEO interina, e Harvey C. Jones assumirá o cargo de primeiro presidente do Conselho de Administração.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:28+00:00"
+  },
+  {
+    "id": "8244d68afc79990797fe",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "tagesschau.de",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40bExyX3RJUGVIMjFyN1FTM01YazBBM3h4SHpaV3FIQ1I0cmRjTE5JMjY0NVo1aFd5TTBzZy1PTmZVeXJ4cFhqeDF2SHJWTDVqN1liNXhaTTBzeENnVDJsVEtZZ0g0UUhRNjNGcmpIWQ?oc=5",
+    "original_title": "Mercedes-Benz will alle Investionen in deutsche Standorte stoppen - tagesschau.de",
+    "original_summary": "Mercedes-Benz will alle Investionen in deutsche Standorte stoppen tagesschau.de",
+    "published_at": "2026-11-12T19:28:55+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes-Benz vai suspender todos os investimentos em instalações alemãs - tagesschau.de",
+    "translated_summary": "A Mercedes-Benz vai suspender todos os investimentos em instalações alemãs tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:38+00:00"
+  },
+  {
+    "id": "8e933a723cfacc193243",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkpzUnNPeFpnbDR5ejFaRzRqVFdrb05xbk5ucldwTlUzZVZOeUM3OXpvWXNjQzB1ZHhsNUZ6b0pTc3NVMDJMdDEzRFNSc2s5eG45NHlVYktJQmp1eUlUMXJwSUFlRkpmSm92VmROQ29rWVlCeDdHSndybGpoYjZUOFoxZmN3bkFNS196MTlCV25FOThrMURONXBfUUtweWNSRGh4cHVKTUd2VzZqenpN?oc=5",
+    "original_title": "Werksschließungen? Mercedes investiert nicht mehr in Deutschland - Euronews.com",
+    "original_summary": "Werksschließungen? Mercedes investiert nicht mehr in Deutschland Euronews.com",
+    "published_at": "2026-11-12T19:20:21+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Encerramentos de fábricas? A Mercedes já não investe na Alemanha - Euronews.com",
+    "translated_summary": "Encerramentos de fábricas? A Mercedes deixa de investir na Alemanha Euronews.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:31+00:00"
+  },
+  {
+    "id": "1c8e8038799b0be8e2e5",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXhNWDZCbHpic0REa014Y0RJMXNMNUxMTE9VelhheE9SNTJRNDA5aXg4R29wZ2NQS2JaSUQzbjdhUGlxUWhZOVNPby1uc1JZQllma3F6SGJlVWg1UnFUeG1vLXhUcXNwTzMzcDA1R2xyaHdPbVVia0VGN294dVB6YjA3Ml9UUzA?oc=5",
+    "original_title": "Does Singapore Airlines (SGX:C6L) Trade At A Premium For Good Reason? - Yahoo Finance Singapore",
+    "original_summary": "Does Singapore Airlines (SGX:C6L) Trade At A Premium For Good Reason? Yahoo Finance Singapore",
+    "published_at": "2026-11-12T19:14:24+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Singapore Airlines (SGX:C6L) é negociada com um prémio por um bom motivo? - Yahoo Finance Singapura",
+    "translated_summary": "A Singapore Airlines (SGX:C6L) é negociada com um prémio por um bom motivo? Yahoo Finance Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:59+00:00"
+  },
+  {
+    "id": "40733557ae47464ddea6",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXhNWDZCbHpic0REa014Y0RJMXNMNUxMTE9VelhheE9SNTJRNDA5aXg4R29wZ2NQS2JaSUQzbjdhUGlxUWhZOVNPby1uc1JZQllma3F6SGJlVWg1UnFUeG1vLXhUcXNwTzMzcDA1R2xyaHdPbVVia0VGN294dVB6YjA3Ml9UUzA?oc=5",
+    "original_title": "Does Singapore Airlines (SGX:C6L) Trade At A Premium For Good Reason? - Yahoo Finance Singapore",
+    "original_summary": "Does Singapore Airlines (SGX:C6L) Trade At A Premium For Good Reason? Yahoo Finance Singapore",
+    "published_at": "2026-11-12T19:14:24+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Singapore Airlines (SGX:C6L) é negociada com um prémio por um bom motivo? - Yahoo Finance Singapura",
+    "translated_summary": "A Singapore Airlines (SGX:C6L) é negociada com um prémio por um bom motivo? Yahoo Finance Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:13+00:00"
+  },
+  {
+    "id": "57f9d11cbae159d042ce",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRWJqM0d5STk1MGtJZW5VMFNBUnhibTNKOThQMk1hUFBrTTc3c3doVDhleEx6YUJVV3RSZ3lMbzUxNTgxbk5BQ3lCb0RfRnRrbXNLMkJvN053V3VRd3VSZjB0MVJIOVFzMk9QaUU4cUhvQ085VDd2Z2pqbTBOXzhKY19MSGd3ODVBX2VvZkkzd01RQW1RVlB5M1FIczdTQk8yeC16ZmZSMzFRM3MtYW1NZUZqQjdEYjl5R3pRVG5LdXVOM3JVMDFhQjI3aU8wMXJVSUE?oc=5",
+    "original_title": "Americanos estão a comprar clubes de futebol em Portugal. Já são pelo menos dez, metade nas ligas amadoras - Expresso",
+    "original_summary": "Americanos estão a comprar clubes de futebol em Portugal. Já são pelo menos dez, metade nas ligas amadoras Expresso",
+    "published_at": "2026-11-12T19:00:00+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Americanos estão a comprar clubes de futebol em Portugal. Já são pelo menos dez, metade nas ligas amadoras - Expresso",
+    "translated_summary": "Americanos estão a comprar clubes de futebol em Portugal. Já são pelo menos dez, metade nas ligas amadoras Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:18+00:00"
+  },
+  {
+    "id": "902849209eec549f83d7",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEhTZF9NWFR2SW1OMXRpZTZWd0FmSXpWQ3ROal8yRzFMNjFURHFIelZTQlRRdUtOUkgtQ1ZuOUktSXlIOWR6OVRNa3phU3Q4UWs4R3VDcXV6eU0wOWY5T3BtYWVwdXZVM000UEpuQm1POUROS1Rib3ZQV3pZalN1MkQzWFhLSTZkQjNBRzktRnVPU2lxd0czVW03YWpZM0M3el8yWGJlYWo5NkIyM1ZIMjQwYUo?oc=5",
+    "original_title": "Streit eskaliert: Mercedes prüft Werksschließungen in Deutschland - Panorama - SZ.de - SZ.de",
+    "original_summary": "Streit eskaliert: Mercedes prüft Werksschließungen in Deutschland - Panorama - SZ.de SZ.de",
+    "published_at": "2026-11-12T18:58:52+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conflito agrava-se: a Mercedes pondera o encerramento de fábricas na Alemanha - Panorama - SZ.de - SZ.de",
+    "translated_summary": "Conflito agrava-se: a Mercedes pondera encerrar fábricas na Alemanha - Panorama - SZ.de SZ.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:44+00:00"
+  },
+  {
+    "id": "1c7074349d0b919037e7",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Hit Radio FFH",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFhXZHlxT25Wa0c2OEJ3TnVaNnMxWEcxVFV2WW1fMGdYZVRxRm1pS3NPdXZkb0R2TVJCZUhPcnpDSE9NOTJSbWhyNWJPbngwVXRPYnpaQURYam0yYm95MnBJcVN3UHpwQXV3WFg0QzA3UTdMZGR5ZkdBVi1QNF9LUjY3VjBZbDFLY2J6aVFFZUdTQnZtUDhCOGZFOXYxRkZla3hVb3RBWmFSNy1nb3M5ZVRvNA?oc=5",
+    "original_title": "Streit eskaliert: Mercedes prüft Werksschließungen in Deutschland - Hit Radio FFH",
+    "original_summary": "Streit eskaliert: Mercedes prüft Werksschließungen in Deutschland Hit Radio FFH",
+    "published_at": "2026-11-12T18:58:01+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conflito agrava-se: a Mercedes pondera o encerramento de fábricas na Alemanha - Hit Radio FFH",
+    "translated_summary": "Disputa agrava-se: a Mercedes está a considerar o encerramento de fábricas na Alemanha Hit Radio FFH",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:47+00:00"
+  },
+  {
     "id": "75ff07860521d838e355",
     "country": "Singapura",
     "category": "Política",
@@ -102,6 +295,28 @@
     "translated_summary": "Os EUA fizeram pouco para ajudar Singapura a investigar o alegado espião chinês, dizem as autoridades. The Washington Post",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T19:00:41+00:00"
+  },
+  {
+    "id": "2ca8f5f298e2c24b0638",
+    "country": "Braga",
+    "category": "Economia",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/braga-recebe-manifestacao-pelo-direito-a-habitacao-este-sabado/",
+    "original_title": "Braga recebe manifestação pelo direito à habitação este sábado",
+    "original_summary": "Braga vai sair à rua este sábado, 14 de novembro, para uma manifestação em defesa do direito à habitação digna e acessível. A iniciativa está marcada para as 15h00, com concentração no Arco da Porta Nova, e integra uma jornada nacional de protesto que decorrerá em várias localidades do país. Promovida pela Plataforma «Casa Para […]",
+    "published_at": "2026-11-12T18:45:27+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Braga recebe manifestação pelo direito à habitação este sábado",
+    "translated_summary": "Braga vai sair à rua este sábado, 14 de novembro, para uma manifestação em defesa do direito à habitação digna e acessível. A iniciativa está marcada para as 15h00, com concentração no Arco da Porta Nova, e integra uma jornada nacional de protesto que decorrerá em várias localidades do país. Promovida pela Plataforma «Casa Para […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:19+00:00"
   },
   {
     "id": "f21dd4937dac8e124ec6",
@@ -124,6 +339,51 @@
     "translated_summary": "Conflito salarial agrava-se: a Mercedes suspende todos os novos investimentos na Alemanha LUDWIGSBURG24 | Notícias online",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T19:00:14+00:00"
+  },
+  {
+    "id": "ea78b8e9803dfd88b372",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "Livemint",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVFCb3BHTU4xQjROazFoSVdCT2Z6Rk51X0xzdklBOFNCU3g1RGtVY2czbVNtd250d3hwa3haZW9Dd2VvNGxmRDEtM180QUN5VzhxVTdUWS11MWJwOUF6Rmh2ckd0QlFSNHFSbUVnMUZoSWZHQlgwM3V5d045aDBqS2VLRnRMMGdqVVd1Vkd6cXFDcGtFMlBGWlpGZ0p5aFlNUllESXduSzdEa2F4QTdhbk81NDU1ODFFVGRELUttalRXNnh3RTJWSENkQ3JtVGRMVnl6VkI3aFBkaGpLdUY0cWIyVWljM2trbkw2OHljdTJnZUJqOVpR0gH8AUFVX3lxTE5LUmZWekdsRVJkQlJzTEhRUHlGT2dGRFZVd2pHV3Z0WHRBMTVUY21HdHBfaEtiekZCQ3lDTDZ2NGF0c3A3cUNzTVo5eThLZjJicGhPd3FvVTFfQ1gzUWExR1VRWS15VEt6eW85a1Y1ckpYVDN5WE9LTkpEVXptVVNiX09WM3VyVDVyTXQyMWItU0NOb1JtenJGWFByQ2h0SDRuUExUVkdUUUVQRWJrd25BUndpYXkxMFFXNFhLTEN5bUJDYXY1UENNREYzOFE3RWZVdm9HT2czMG5tS21CZ0xtc29MVDF5THlBZUJJSnhPbWxWZ1J1YTlTOXdjWA?oc=5",
+    "original_title": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals - Livemint",
+    "original_summary": "How India’s lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals Livemint",
+    "published_at": "2026-11-12T18:25:35+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Baterias",
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Como a proibição da Índia à exportação de massa negra de baterias de iões de lítio visa reduzir a dependência da China em relação a minerais essenciais - Livemint",
+    "translated_summary": "Como a proibição da Índia à exportação de massa negra de baterias de iões de lítio visa reduzir a dependência da China em relação a minerais essenciais Livemint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:56+00:00"
+  },
+  {
+    "id": "673e4d0576296f93f307",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVVpTLTBHWjFELXM2WU5pMnV3cFlrTlNzRjRaQ1kzMGpkUnNRU3Myem1aZ2stOEdrSElDSUpwNmFzNDdWaEtQMkhWb1NyaFFTUk11clUtbzhHQzJVODlHTU5zTDNIam5ONzNiMnVncWxSRW95dk5mcDZ4alp6OTRQM252UjJmOXFUb2lhU2JGZzQ3OWhmMGlpbVdKRGlnaktXUTVlR0pZSWc1Q3E4QjZvVElCSl96QTlyQy04Zl9wVklaM3pfV2ZqN3EtNTg1UnJEazhaelU5YmhmWkdjNlM1bHNVaEwtdExWLTJGR21fRWF3Nkw1aThUeHVLZ0hVZkdsUU5PVTd0Mk8xRldLbVE?oc=5",
+    "original_title": "\"Quantas empresas em Portugal têm um plano definido sobre quem são os trabalhadores essenciais e os que podem ficar em casa?\" - CNN Portugal",
+    "original_summary": "\"Quantas empresas em Portugal têm um plano definido sobre quem são os trabalhadores essenciais e os que podem ficar em casa?\" CNN Portugal",
+    "published_at": "2026-11-12T18:25:00+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Quantas empresas em Portugal têm um plano definido sobre quem são os trabalhadores essenciais e os que podem ficar em casa?\" - CNN Portugal",
+    "translated_summary": "\"Quantas empresas em Portugal têm um plano definido sobre quem são os trabalhadores essenciais e os que podem ficar em casa?\" CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:16+00:00"
   },
   {
     "id": "cc7b1de2a9f28279af51",
@@ -193,6 +453,48 @@
     "translated_summary": "A Mercedes suspende todos os investimentos na Alemanha e ameaça encerrar fábricas SZ.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T19:00:57+00:00"
+  },
+  {
+    "id": "dced64ad2729239e21d4",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Denkstrom",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEg2NnpWeHpaUmpCNjNCSjJwNWlvSDF4Z3d4R2o1NWxiN2ZYM2pYeVR6akl4bHY1Vy1HNnB1YU1PRUtwQWViZEQtSndNV1ZPa0NSaWx4NWdteFNKX1pwLV91eHZiaFd0bDlfNmVWWUZVbUFrblhhVDNCUTZKcDFzWi1wVWFPSGd6TllB?oc=5",
+    "original_title": "Mercedes stoppt vorerst Investitionen in Deutschland - Denkstrom",
+    "original_summary": "Mercedes stoppt vorerst Investitionen in Deutschland Denkstrom",
+    "published_at": "2026-11-12T18:18:00+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende, por enquanto, os investimentos na Alemanha - Denkstrom",
+    "translated_summary": "A Mercedes suspende, por enquanto, os investimentos na Alemanha Denkstrom",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:41+00:00"
+  },
+  {
+    "id": "a8ec0fdc4110845f2a05",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/livro-sobre-populismo-digital-apresentado-em-braga/",
+    "original_title": "Livro sobre populismo digital apresentado em Braga",
+    "original_summary": "Casa do Professor, em Braga, recebe no dia 19 de novembro, às 18:30, a apresentação do livro “A Era do Populismo Digital: Como a desinformação e a propaganda estão a transformar a política”, de Ana Filipa Joaquim. Publicado pela Editora d’Ideias, o livro aborda o impacto das redes sociais, dos algoritmos e das estratégias de […]",
+    "published_at": "2026-11-12T18:14:08+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Livro sobre populismo digital apresentado em Braga",
+    "translated_summary": "Casa do Professor, em Braga, recebe no dia 19 de novembro, às 18:30, a apresentação do livro “A Era do Populismo Digital: Como a desinformação e a propaganda estão a transformar a política”, de Ana Filipa Joaquim. Publicado pela Editora d’Ideias, o livro aborda o impacto das redes sociais, dos algoritmos e das estratégias de […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:20+00:00"
   },
   {
     "id": "047667f4275174a40260",
@@ -393,6 +695,28 @@
     "translated_summary": "Bundestag: O Bundestag concede às autoridades de segurança novos poderes de ciberdefesa DIE ZEIT",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:57:52+00:00"
+  },
+  {
+    "id": "51b07d923d23cf205ba8",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "BILD",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX09jbmNXUWtTQnlKYkdVZEM2TVoyR3A5UXo0dVVIZEdFVU80TlF2eXNtZ2k4cjNGbS1LdVZCS0JoWkdncml3OERBRk1YaWZ1UUFtclBPV1hHbGNLbWZ6b0hEV1Q4VUxFeGxSSWwtdk1fNG1xdHdTVWRMSEJhNU13M1kxUV9EQkgzTGs3aG5wYTUzSDVHQmRVVFB4VDNFQUlxbFRzUnhZWkliVXBzdEdCRzdGOWNNTXlVeU5ZWkRrcmNabVk5TUlSUWdCUQ?oc=5",
+    "original_title": "Mercedes-Benz prüft Werksschließungen: Zwei Werke könnten schließen - BILD",
+    "original_summary": "Mercedes-Benz prüft Werksschließungen: Zwei Werke könnten schließen BILD",
+    "published_at": "2026-11-12T17:46:43+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes-Benz está a considerar o encerramento de fábricas: duas fábricas poderão encerrar - BILD",
+    "translated_summary": "A Mercedes-Benz está a ponderar o encerramento de fábricas: duas fábricas poderão encerrar IMAGEM",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:06+00:00"
   },
   {
     "id": "7d119c019bda8b091bb8",
@@ -1100,6 +1424,29 @@
     "translated_summary": "Custos laborais demasiado elevados A Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas Tagesspiegel",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:59:11+00:00"
+  },
+  {
+    "id": "8f5dfdbc88ad6c5d7ef3",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Tagesspiegel",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWmMzMzkyVm1UQm5VeE4waWh6SnVvQ19EdjF4NmFfVHVBT1ZaaUtOOWtNc01pMlBVMXJPdlVvbU1TNGhzRDJrcHl3RmMzR0txSnBTMW93TS1fN3hicFNTN3o3NWxhSEJSeUhxU3BVTGxlRkJhdHByeUdyalpXU2otVjlXNVpHZlFhLXhTbjJVcXhYWGVzSXhOTUd2VnhXMlhtN2wzdGlMZW5RVzh1MEVPMjdnVXpUWFZXX0FpMXliOGNtZUM2UVFNZjJoS3ZXUUFZWVFUVWUzREd5aF96SUZnYXo3OW9pdXd4czc2RDJtOVdMaWpnRmFOdm54Q2REdw?oc=5",
+    "original_title": "Zu hohe Arbeitskosten Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen - Tagesspiegel",
+    "original_summary": "Zu hohe Arbeitskosten Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen Tagesspiegel",
+    "published_at": "2026-11-12T16:43:00+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Custos laborais demasiado elevados: a Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas - Tagesspiegel",
+    "translated_summary": "Custos laborais demasiado elevados A Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas Tagesspiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:35+00:00"
   },
   {
     "id": "743e03cf117b70ae266b",
@@ -1886,6 +2233,28 @@
     "last_translation_attempt_at": "2026-11-12T19:00:25+00:00"
   },
   {
+    "id": "c4ce8c314e516b873bbd",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQY25OQ3RzcjNHNEJ0bEVSQ0ZfV196UXE2MW1GV0x6X05CZnBDb3JMTC1ReVZzMmNzdnJabTJNNTZBRXRaNVY2TzVpODFDMFBLaE9CT3VhOU91WDBLMGN2R0UzdEIxc2lYYjEyYzJoaFVWQzBlYUpzZTBxT1hCOHBlRkdiekJ0OG95bzlUcHEzU1dieTNSSEx2Vkp3NVJBVko5bkM2R1UtbmU3elJrTGpTUUxIRmhKT3BNWHk1RElxdXRMLU1zM1F3V3h1Qy1BWk9lOHMwTnBfelRYaVVKQTllb2JBVFNyZjNvdU9Ea21yekcwYUlCVVFMckhUbDlud1hlaVprdjhYTUtoaUlGZFl2WjJPRU5rUmZnZ3RTOGNMYWtxWnVacFdqTE5tRDhjMWdyNkRsVnhRVjlkSm1FRkZ2ZF9TSkJSdUp4X2pkTkZfb3JMS0VZVzBBTTZZRQ?oc=5",
+    "original_title": "A Nvidia perdeu em bolsa o equivalente a quase dois PIB portugueses em quatro dias. Nem a proteção de Trump salvou o homem no centro do escândalo de espionagem - CNN Portugal",
+    "original_summary": "A Nvidia perdeu em bolsa o equivalente a quase dois PIB portugueses em quatro dias. Nem a proteção de Trump salvou o homem no centro do escândalo de espionagem CNN Portugal",
+    "published_at": "2026-11-12T15:44:12+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Nvidia perdeu em bolsa o equivalente a quase dois PIB portugueses em quatro dias. Nem a proteção de Trump salvou o homem no centro do escândalo de espionagem - CNN Portugal",
+    "translated_summary": "A Nvidia perdeu em bolsa o equivalente a quase dois PIB portugueses em quatro dias. Nem a proteção de Trump salvou o homem no centro do escândalo de espionagem CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:17+00:00"
+  },
+  {
     "id": "7a3fe88dd5a48f83dd82",
     "country": "China",
     "category": "Automóvel",
@@ -2016,6 +2385,28 @@
     "translated_summary": "Em 2007, com o fim da produção do MR-S, os carros desportivos desapareceram completamente da gama da Toyota. Sendo uma grande empresa que prioriza a eficiência e o desempenho, a decisão de gestão de \"descontinuar os carros desportivos que não vendem\" pode ter sido a decisão certa em termos de lógica empresarial.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T16:06:52+00:00"
+  },
+  {
+    "id": "c5862c5028746fd8e389",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44SFdtWHFaMVJiQXoyZ1B3NGsxeERiZFhCSmJROHpyY1BEaTdPeFZ6bFd6bHlQY3V4ZXpPb255Q2Jtc0R4ZGRFamVlTVV2WTBEdldSTzFlVS1aMmt2UUduUnpSNGJ2N3BmT1AxVA?oc=5",
+    "original_title": "春秋（11月13日）1票611万円 - 日本経済新聞",
+    "original_summary": "春秋（11月13日）1票611万円 日本経済新聞",
+    "published_at": "2026-11-12T15:00:00+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shunju (13 de novembro) 1 ação 6,11 milhões de ienes - Nikkei",
+    "translated_summary": "Shunju (13 de novembro) 1 ação 6,11 milhões de ienes Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:02+00:00"
   },
   {
     "id": "09d6212590b4533ffa01",
@@ -2994,6 +3385,26 @@
     "last_translation_attempt_at": "2026-11-12T16:07:50+00:00"
   },
   {
+    "id": "28b811cd351ce9332839",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "新唐人亞太電視台",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tZlNncENpZkp1aHNxV0thS29iRUhMeldfU1BPZHlMcVluOUFXbGdKRXQ5YnphRTBBVmN2djJOc3ZoOHB0dHNPU3A1VGhpQkNxdm84dWNGV1FNRHBSLWdqaFhBSmI?oc=5",
+    "original_title": "涉共諜黃樂8次入境 台灣政府：跨國合作調查 - 新唐人亞太電視台",
+    "original_summary": "涉共諜黃樂8次入境 台灣政府：跨國合作調查 新唐人亞太電視台",
+    "published_at": "2026-11-12T12:53:51+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Huang Le, suspeito de espionagem para a China, entrou em Taiwan 8 vezes. Governo de Taiwan: investigação em cooperação internacional - New Tang Dynasty Television Ásia-Pacífico",
+    "translated_summary": "Huang Le, suspeito de espionagem para a China, entrou em Taiwan 8 vezes. Governo de Taiwan: investigação em cooperação internacional. New Tang Dynasty Television Ásia-Pacífico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:53+00:00"
+  },
+  {
     "id": "9ad3fb8b332ec1483236",
     "country": "Alemanha",
     "category": "Política",
@@ -3051,11 +3462,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Um em cada quatro imigrantes em Portugal trabalha em empresas de baixa produtividade - Diário de Notícias",
+    "translated_summary": "Um em cada quatro imigrantes em Portugal trabalha em empresas de baixa produtividade Diário de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:01:01+00:00"
   },
   {
     "id": "8c8c34cfe9c6c5764858",
@@ -3262,11 +3673,11 @@
     "published_at": "2026-11-12T12:30:57+00:00",
     "first_seen_at": "2026-11-12T13:17:40+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Possível tributação dos veículos elétricos não contradiz incentivos, mas exige equilíbrio - Jornal de Negócios",
+    "translated_summary": "Possível tributação dos veículos elétricos não contradiz incentivos, mas exige equilíbrio Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:01:02+00:00"
   },
   {
     "id": "23fa8b23a52bf6e1f359",
@@ -3304,11 +3715,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Orçamento para 2027: a economia critica a política vacilante do governo em matéria de imposto sobre a eletricidade - Spiegel",
+    "translated_summary": "Orçamento para 2027: a economia critica a política vacilante do governo em matéria de imposto sobre a eletricidade Spiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:29+00:00"
   },
   {
     "id": "ca1db2a6bd25ce521879",
@@ -3388,11 +3799,11 @@
     "published_at": "2026-11-12T12:22:22+00:00",
     "first_seen_at": "2026-11-12T14:59:20+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Orquestra Filarmónica de Braga homenageia Mozart em Navarra",
+    "translated_summary": "A música de Wolfgang Amadeus Mozart vai estar em destaque este sábado na freguesia de Navarra, em Braga. A Orquestra Filarmónica de Braga apresenta o concerto «Mozart 270 anos», às 21:30, na sede da Junta de Freguesia. O espetáculo integra a programação do Descentrar e assinala os 270 anos do nascimento do compositor austríaco, através […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:32+00:00"
   },
   {
     "id": "050d8a8f50353fda4583",
@@ -3494,11 +3905,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal e EUA reúnem-se em Lisboa no primeiro CEO Fórum para impulsionar comércio e investimento - Jornal Económico",
+    "translated_summary": "Portugal e EUA reúnem-se em Lisboa no primeiro CEO Fórum para impulsionar comércio e investimento Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:01:03+00:00"
   },
   {
     "id": "b76645f3d51fcdf159e8",
@@ -3800,11 +4211,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A inflação no retalho ultrapassa o limite máximo de 6% do RBI, atingindo o valor mais elevado dos últimos 2 anos, de 6,09%, em outubro - Business Standard",
+    "translated_summary": "A inflação no retalho ultrapassa o limite superior de 6% do RBI, atingindo o valor mais alto em 2 anos, de 6,09%, em outubro Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:33+00:00"
   },
   {
     "id": "532fcd106891b08d6979",
@@ -4701,11 +5112,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "CEO Fórum Portugal-Estados Unidos reunido para impulsionar comércio, investimento e relações empresariais - Agroportal",
+    "translated_summary": "CEO Fórum Portugal-Estados Unidos reunido para impulsionar comércio, investimento e relações empresariais Agroportal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:01:04+00:00"
   },
   {
     "id": "8089f5504001ec72838a",
@@ -5031,11 +5442,11 @@
     "published_at": "2026-11-12T09:28:05+00:00",
     "first_seen_at": "2026-11-12T14:59:20+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Os empréstimos externos da India Inc ultrapassaram os 7 mil milhões de USD em setembro; o NaBFID angaria 1 mil milhão de USD: RBI - bfsi.economictimes.indiatimes.com",
+    "translated_summary": "Os empréstimos externos da India Inc ultrapassaram os 7 mil milhões de dólares em setembro; o NaBFID angariou 1 mil milhão de dólares: RBI bfsi.economictimes.indiatimes.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:37+00:00"
   },
   {
     "id": "775a36f05597a68549c1",
@@ -5073,11 +5484,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Um quarto das empresas portuguesas antecipa quebra das receitas no próximo ano - ECO",
+    "translated_summary": "Um quarto das empresas portuguesas antecipa quebra das receitas no próximo ano ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:40+00:00"
   },
   {
     "id": "700c1aa627e6f5ac5572",
@@ -5685,11 +6096,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O poder da Onda K… A era dos 20 milhões de turistas estrangeiros - Korea Economic Daily",
+    "translated_summary": "O poder da Onda K… A economia coreana na era dos 20 milhões de turistas estrangeiros",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:41+00:00"
   },
   {
     "id": "327a80c2617c70c8fb06",
@@ -6183,11 +6594,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "PIB real no período de julho a setembro cresce 0,11% ao ano, em média, segundo previsões do setor privado - Asahi Shimbun",
+    "translated_summary": "A média das previsões do setor privado aponta para um crescimento anual de 0,11% do PIB real no período de julho a setembro – Asahi Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:44+00:00"
   },
   {
     "id": "db0b54a4f15375f15acb",
@@ -6317,6 +6728,29 @@
     "translated_summary": "Cerca de 2,4 milhões de trabalhadores recebem o subsídio de refeição através de cartão bancário, universo para quem a isenção de IRS deverá voltar a subir em 2027 automaticamente em função da atualização do subsídio no Estado.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T12:05:31+00:00"
+  },
+  {
+    "id": "b92f1c65e58150fc750d",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVFMbHRWN0hqcjl4eXFVZmpuc2xoaTQzdHJncGRfd1Y2eVBRM3RXTGZhX1laS0prdVM4dkdjYi13M0x1cGNkU3NsVG5ydGR4ZUdndEVnWGVkUGlUMjExQjN5aWU1TU5kaVdXWjlhTEVsMDVaQTNzOFJLRDJJMEVjaUh1MTNoQjZqcUNB?oc=5",
+    "original_title": "(설명) 한국경제, \"'5인 미만 근로기준법' 시동 거는 정부 … 소상공인·노동계 갈등 커지나\" 기사 관련 - 대한민국 정책브리핑",
+    "original_summary": "(설명) 한국경제, \"'5인 미만 근로기준법' 시동 거는 정부 … 소상공인·노동계 갈등 커지나\" 기사 관련 대한민국 정책브리핑",
+    "published_at": "2026-11-12T08:04:29+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "(Explicação) Relativamente ao artigo do The Korea Economic Daily, \"O Governo dá início à 'Lei das Normas Laborais para Empresas com Menos de 5 Trabalhadores'... Será que o conflito entre as pequenas empresas e os sindicatos vai aumentar?\" - Resumo de Políticas da República da Coreia",
+    "translated_summary": "(Explicação) Resumo da política da República da Coreia relacionado com o artigo do The Korea Economic Daily: \"O Governo dá início à 'Lei das Normas Laborais para Empresas com Menos de 5 Empregados'... Será que o conflito entre os pequenos empresários e os sindicatos vai aumentar?\"",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:09+00:00"
   },
   {
     "id": "b7643297d5a96db9bfb6",
@@ -6925,6 +7359,26 @@
     "last_translation_attempt_at": "2026-11-12T09:08:02+00:00"
   },
   {
+    "id": "bd2f855d9449c04772ba",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzN2aXozejByRktWUFFDLTlCcENvQjM1STJKaE8tR3FSUFZWdnlrQ3F4Tm81bENSeFpTQ05SRkNlU2pGOWFTaFM1UU9XUjJJMFh1b0hSQWxrd3A4aGdTYlJRdjRyM0M4UDludHYyMllId3p0MUFVeUlnSVQyam9DdG11YXdLejRxYnc?oc=5",
+    "original_title": "다시 아이의 시간이 흐르기 시작했습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "다시 아이의 시간이 흐르기 시작했습니다 - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-12T07:09:58+00:00",
+    "first_seen_at": "2026-11-12T19:58:58+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O tempo da criança começou a correr novamente - Vídeo | Multimédia - Resumo das políticas da Coreia do Sul",
+    "translated_summary": "O tempo da criança começou a correr novamente - Vídeo | Multimédia Briefing sobre as políticas da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T19:59:50+00:00"
+  },
+  {
     "id": "777bfe3cce12723a49aa",
     "country": "Japão",
     "category": "Política",
@@ -7259,11 +7713,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "KOSPI fecha nos 5340 pontos após \"montanha-russa\" no dia de vencimento das opções - The Korea Economic Daily",
+    "translated_summary": "A economia coreana fecha nos 5340 pontos do KOSPI, que subiu como uma \"montanha-russa\" na data de vencimento das opções.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:47+00:00"
   },
   {
     "id": "90a58abaa621d4d2ad4c",
@@ -7584,11 +8038,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Empresas chinesas: 30% planeiam aumentar os investimentos na Alemanha - etailment",
+    "translated_summary": "Empresas chinesas: 30% planeiam aumentar os investimentos no comércio retalhista na Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:21+00:00"
   },
   {
     "id": "4e8038d0c843359d887b",
@@ -10957,11 +11411,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Análise do aumento do preço da ronda de financiamento da Anthropic… Previsão de ultrapassagem do valor de mercado de 1,5 biliões de dólares - The Korea Economic Daily",
+    "translated_summary": "Análise do aumento do preço de investimento na Anthropic… Previsão de que o valor da empresa ultrapassará 1,5 biliões de dólares Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:50+00:00"
   },
   {
     "id": "f4ccc8948243d6d0837d",
@@ -11539,11 +11993,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Últimas notícias] CNN: \"Previsão de vitória democrata nas eleições para o Senado do Mississippi, 'território republicano'\" - The Korea Economic Daily",
+    "translated_summary": "[Últimas notícias] CNN \"Prevê vitória democrata nas eleições para o Senado do Mississippi, 'território republicano'\" Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:24+00:00"
   },
   {
     "id": "6c19aa532aee7886628c",
@@ -14666,11 +15120,11 @@
       "Baterias",
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Índia proíbe exportações de massa negra de baterias de iões de lítio - Deccan Herald",
+    "translated_summary": "Índia proíbe exportações de massa negra de baterias de iões de lítio Deccan Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:53+00:00"
   },
   {
     "id": "cbcb8398bebf3f281e22",
@@ -17318,11 +17772,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "INE confirma aceleração da inflação para 3,8% em outubro à boleia da energia - Jornal de Negócios",
+    "translated_summary": "INE confirma aceleração da inflação para 3,8% em outubro à boleia da energia Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:27+00:00"
   },
   {
     "id": "3bbc71015819a81c1309",
@@ -27740,11 +28194,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Se perdermos na economia, podemos recuperar amanhã. Vidas, perdemos e não as recuperamos\" - CNN Portugal",
+    "translated_summary": "\"Se perdermos na economia, podemos recuperar amanhã. Vidas, perdemos e não as recuperamos\" CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:28+00:00"
   },
   {
     "id": "e0b564699263ce1f6b4a",
@@ -28022,11 +28476,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Associação da Indústria Eletrônica e Elétrica publicou o seu primeiro livro branco. Liu Yangwei apresenta cinco grandes iniciativas para se expandir internacionalmente e colaborar com o governo para criar um país com uma economia que nunca dorme. | Notícias de última hora | Academia Sinopac – Sinopac Securities",
+    "translated_summary": "A Associação da Indústria de Eletrónica e Eletrodomésticos publicou o seu primeiro livro branco. Liu Yangwei apresenta cinco grandes iniciativas para expandir internacionalmente e colaborar com o governo para criar um país com uma economia que nunca dorme. | Notícias de última hora | Academia Fengyun, Sinopac Securities",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T20:00:58+00:00"
   },
   {
     "id": "b3a9c3374a2919134252",
