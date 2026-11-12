@@ -84,6 +84,289 @@
     "last_translation_attempt_at": "2026-11-12T17:59:06+00:00"
   },
   {
+    "id": "125a50794c68e69df3f6",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/acampada-de-lisboa-quer-reunir-com-governo-e-pede-ajuda-a-seguro_n1778809",
+    "original_title": "Acampada de Lisboa quer reunir com Governo e pede ajuda a Seguro",
+    "original_summary": "A Acampada de Lisboa pretende que o Presidente da República interceda junto do Governo para que o executivo liderado por Luís Montenegro receba os movimentos pelo direito à habitação antes da aprovação da lei do arrendamento.",
+    "published_at": "2026-11-12T22:39:16+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Acampada de Lisboa quer reunir com Governo e pede ajuda a Seguro",
+    "translated_summary": "A Acampada de Lisboa pretende que o Presidente da República interceda junto do Governo para que o executivo liderado por Luís Montenegro receba os movimentos pelo direito à habitação antes da aprovação da lei do arrendamento.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:09+00:00"
+  },
+  {
+    "id": "7422979c528dfa42d050",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VC0wWi1YWVVqanl5c2FyVW50N0h0bjR4NUN6TV9rejlKZlFzUHR2MHRELW1tLXlCVE11UXIyT3dDd0Q0S09uZGFqaFo1YzM3a0xVUkJHNnFJZk9Md2t2THV6VExkVkpyMTJLRzVFQQ?oc=5",
+    "original_title": "代际消费拓展银发经济赛道 - 中国经济网",
+    "original_summary": "代际消费拓展银发经济赛道 中国经济网",
+    "published_at": "2026-11-12T22:37:00+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A expansão do consumo intergeracional abre caminho para a economia sénior - China Economic Net",
+    "translated_summary": "A expansão do consumo intergeracional abre caminho para a economia dos idosos China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:44+00:00"
+  },
+  {
+    "id": "03e567c6ff64e1157b29",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/12/gwm-supercar-blurred-out-as-boss-tests-ferrari-sf90-on-track-targets-2027-release-video/",
+    "original_title": "GWM supercar blurred out as boss tests Ferrari SF90 on track, targets 2027 release [Video]",
+    "original_summary": "GWM Chairman tested a Ferrari SF90 at the company's proving ground while keeping its own supercar prototype blurred ahead of a 2027 launch. The post GWM supercar blurred out as boss tests Ferrari SF90 on track, targets 2027 release [Video] appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-12T22:36:56+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Supercarro da GWM camuflado enquanto o patrão testa o Ferrari SF90 na pista, com lançamento previsto para 2027 [Vídeo]",
+    "translated_summary": "O presidente da GWM testou um Ferrari SF90 na pista de ensaios da empresa, mantendo o seu próprio protótipo de supercarro desfocado antes do lançamento em 2027. O artigo Supercarro da GWM desfocado enquanto o patrão testa o Ferrari SF90 na pista, com lançamento previsto para 2027 [Vídeo] foi publicado primeiro em CarNewsChina.com.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:52:56+00:00"
+  },
+  {
+    "id": "3aa7eac51dbfc4a3e914",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
+    "original_title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
+    "original_summary": "Nvidia chief executive Jensen Huang’s abrupt departure has raised fresh questions about the future of US-China technology ties, as observers weigh the potential fallout from Washington’s policy on advanced AI chip exports to China. The timing is particularly sensitive, with US lawmakers debating an annual defence authorisation bill amid growing calls to tighten restrictions on China’s access to advanced AI chips. Ling Chen, an associate professor of political economy at Johns Hopkins University,...",
+    "published_at": "2026-11-12T22:35:06+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A saída de Jensen Huang pode indicar controlos mais rigorosos dos EUA sobre as exportações de chips de IA para a China",
+    "translated_summary": "A saída abrupta do diretor-executivo da Nvidia, Jensen Huang, suscitou novas questões sobre o futuro das relações tecnológicas entre os Estados Unidos e a China, enquanto os observadores avaliam as potenciais consequências da política de Washington em matéria de exportações de chips de IA avançados para a China. O momento é particularmente sensível, com os legisladores dos EUA a debaterem um projeto de lei anual de autorização de defesa, num contexto de apelos crescentes no sentido de se reforçarem as restrições ao acesso da China a chips avançados de IA. Ling Chen, professora associada",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:38+00:00"
+  },
+  {
+    "id": "b773c9753b599b07f1fb",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYy1ma1Q4eGVCbGVielZvMkJsdy05QlhnUU5zU0xPc2hqZFBra3ZWQnE0V1Q4VlpHaE52d0VqVVA3UFNRLXNRcHZ0UF8zcy03a1h2dnJDOTJiNkExN3hOTW5RWEdhbEMzazUwaTFSUkVvdDFNUVJqd2I4NTNIXzc5VjVZOXlnZTZIY0xzcXptcW1Wa3hGVXRxTE1yd2NRYTNJREhKS3EzVHFwTE9ZQ2R6dlRYTnVISkV6d2pGdUpUcm83S1JDMTNUZW1ZOEpGVFk?oc=5",
+    "original_title": "Bundestag entscheidet: Zwangsbehandlung wird ausgeweitet - T-Online",
+    "original_summary": "Bundestag entscheidet: Zwangsbehandlung wird ausgeweitet T-Online",
+    "published_at": "2026-11-12T22:32:48+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Bundestag decide: o tratamento compulsivo é alargado - T-Online",
+    "translated_summary": "O Bundestag decide: o tratamento compulsivo é alargado T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:09+00:00"
+  },
+  {
+    "id": "1df0e9767aae30c14f5e",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "ダイヤモンド・オンライン",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zU1YzVWJPVFFEb0kyUDVldDE5T01xMGZBaGthZGY2X0xLeGh3dVJXLWVsek51eEtjRmJ5eEJPenBwcF9nb1lsRk5NTEQ?oc=5",
+    "original_title": "【経済の基礎知識】「生産性の向上によって、経済成長が鈍化することもある」って本当？ | 何が日本経済を壊したのか - ダイヤモンド・オンライン",
+    "original_summary": "【経済の基礎知識】「生産性の向上によって、経済成長が鈍化することもある」って本当？ | 何が日本経済を壊したのか ダイヤモンド・オンライン",
+    "published_at": "2026-11-12T22:30:00+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "【Noções básicas de economia】É verdade que \"o aumento da produtividade pode, por vezes, abrandar o crescimento económico\"? | O que destruiu a economia japonesa - Diamond Online",
+    "translated_summary": "【Noções básicas de economia】É verdade que \"o aumento da produtividade pode, por vezes, desacelerar o crescimento económico\"? | O que destruiu a economia japonesa? Diamond Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:55+00:00"
+  },
+  {
+    "id": "d0f83168e0053d347ab0",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05b0U0SUowRkYtRkF1UXlILTRLc0xNby1ydnJrOERwb3pWMURUcDJ0ZVFxck1mTlNXei00aVhZcG1UTzg2ZVVYU2VVWUVIdE1Td2FyVHFWUWxiU3FRU0tYMDZVWEt5d1ZqcHVNeGd3RQ?oc=5",
+    "original_title": "上市公司业绩向好创新动能澎湃 - 中国经济网",
+    "original_summary": "上市公司业绩向好创新动能澎湃 中国经济网",
+    "published_at": "2026-11-12T22:26:00+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O bom desempenho das empresas cotadas em bolsa impulsiona a inovação - China Economic Net",
+    "translated_summary": "O bom desempenho das empresas cotadas em bolsa impulsiona a inovação China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:48+00:00"
+  },
+  {
+    "id": "fda45b614aab50353f86",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Hasepost",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jTV93eWFIbkdOUzRsZ2JrNVJSbnFWcldsalp3dzBycjBvcG1hUmRpaEdIMlVkLUNSTnpUZ3NUQlNjMUVXb09KdjlZZWlWUnkzcHREWFBpdUt2OHo2ZklGRjRMTFcwYkVmREMza0NoNGxqb1ZWTExJa093Skc?oc=5",
+    "original_title": "Mercedes stoppt Investitionen in Deutschland - Hasepost",
+    "original_summary": "Mercedes stoppt Investitionen in Deutschland Hasepost",
+    "published_at": "2026-11-12T22:22:06+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende os investimentos na Alemanha - Hasepost",
+    "translated_summary": "A Mercedes suspende os investimentos na Alemanha Hasepost",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:20+00:00"
+  },
+  {
+    "id": "f27e9ca9790e87e0300a",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · Economia e política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-economy",
+    "publisher": "China News Service · Economia e política",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731242.shtml",
+    "original_title": "金价再度跌破3900美元",
+    "original_summary": "由于美国通胀持续，市场预期美联储或将进一步收紧货币政策，推动美元走强，美国国债收益率走高，黄金、白银期价12日大幅下跌。",
+    "published_at": "2026-11-12T22:02:21+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O preço do ouro volta a cair abaixo dos 3900 dólares",
+    "translated_summary": "Devido à inflação persistente nos Estados Unidos, o mercado espera que a Reserva Federal possa apertar ainda mais a sua política monetária, o que impulsionará o fortalecimento do dólar americano e o aumento das taxas de rendimento das obrigações do Tesouro dos EUA. Em 12 de setembro, os preços dos futuros do ouro e da prata caíram significativamente.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:52:52+00:00"
+  },
+  {
+    "id": "cb16069a6aa62b11ea3f",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Deutschlandfunk",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1duQkVZVENDREgwaHNhRG9oRkx1Q0I1ZG5ZdHY5cVgwYkdQQWtoTVpTNG8tWldtbFJnZ1NsenNNOE9RY2dXOFlyajVERUdBb254aVo1WEo2bS01QzlXazVQdk8wd0szWXYyQ3AyNWxUYnNrYmlZOXRyZ29oV1AwMkZYNlhDSTZfODdTb2Z0SV9ENEgxZjlOTmxGUi1ha09XVUl3SWFFUFNZMURMTnZkODc3M19oZ1UyX055QXAxZ2dUeUk?oc=5",
+    "original_title": "Standortkosten - Mercedes stoppt alle neuen Investitionen und prüft Werksschließungen in Deutschland - Deutschlandfunk",
+    "original_summary": "Standortkosten - Mercedes stoppt alle neuen Investitionen und prüft Werksschließungen in Deutschland Deutschlandfunk",
+    "published_at": "2026-11-12T22:00:00+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Custos de localização - A Mercedes suspende todos os novos investimentos e pondera o encerramento de fábricas na Alemanha - Deutschlandfunk",
+    "translated_summary": "Custos de localização - A Mercedes suspende todos os novos investimentos e pondera o encerramento de fábricas na Alemanha Deutschlandfunk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:15+00:00"
+  },
+  {
+    "id": "28e3b28bd41e2e8655db",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261113000600320",
+    "original_title": "(EDITORIAL from Korea Times on Nov. 13)",
+    "original_summary": "For politicians, a slip of the tongue can be a critical and irreversible mistake...",
+    "published_at": "2026-11-12T21:57:47+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "(EDITORIAL do Korea Times de 13 de novembro)",
+    "translated_summary": "Para os políticos, um lapso de linguagem pode ser um erro crítico e irreversível...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:32+00:00"
+  },
+  {
+    "id": "d93eb77e8f730d832799",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Yonhap News Agency · National",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-yonhap-national",
+    "publisher": "Yonhap News Agency · National",
+    "url": "https://en.yna.co.kr/view/AEN20261113000500320",
+    "original_title": "(EDITORIAL from Korea Herald on Nov. 13)",
+    "original_summary": "Korea must reconsider politically driven plans to restructure its military acade...",
+    "published_at": "2026-11-12T21:57:36+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "(EDITORIAL do Korea Herald de 13 de novembro)",
+    "translated_summary": "A Coreia deve reconsiderar os planos de cariz político para reestruturar a sua academia militar...",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:35+00:00"
+  },
+  {
+    "id": "6e0da6fcbe2796617029",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "人民网",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMlF1Ym0yRTg1N0ZkR1VsUnJCQVMxbkFtY3VVNm91UTloTXkzNXdqa3hOb090ZUpMMzEzQnFOM2UzUWZUU1JJNmpTVDFNSV9adDFpTXA4SkVVeFJiMXpnSThvNE1WSjN4eDl3?oc=5",
+    "original_title": "“为亚太经济增长开辟更广阔空间”（APEC中国年：开放创新合作） --国际 - 人民网",
+    "original_summary": "“为亚太经济增长开辟更广阔空间”（APEC中国年：开放创新合作） --国际 人民网",
+    "published_at": "2026-11-12T21:51:00+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Abrir um espaço mais amplo para o crescimento económico da Ásia-Pacífico\" (Ano da China na APEC: Abertura, Inovação e Cooperação) -- Internacional -- People's Daily Online",
+    "translated_summary": "\"Abrir um espaço mais amplo para o crescimento económico da Ásia-Pacífico\" (Ano da China na APEC: Abertura, Inovação e Cooperação) -- People's Daily Online Internacional",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:41+00:00"
+  },
+  {
     "id": "c63bd81e0498a518e3b3",
     "country": "Braga",
     "category": "Atualidade",
@@ -147,6 +430,29 @@
     "translated_summary": "A Mercedes aumenta a pressão sobre os trabalhadores: a administração anuncia uma suspensão dos investimentos e a ameaça de encerramento de fábricas ao Merkur",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T21:52:52+00:00"
+  },
+  {
+    "id": "80644b43b92bd2ecc260",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "Merkur",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjdSckpMZ2Y3SUxuREFnUER6dll2dE9nS1doVnBMTkpYUU01MnBsNWk0eVdSN2tGOUF3NnRMZnJuUHNxeEVvbGQycjdZd0FpZ1FVT0U1eHZyUlBQYm1pWlQ3LVA4dDhlWTA2aFRLbWVtYnJGOU1ZWGh6VEI5LThwUjFlUnFXVmpfWWxWRFFuQ3lab2JUTVhpWlpQWGFSY3Z1bERmbDJwX2xyWVRQa0pNMzIwMkNubTRKLWp1b3pZS2VjR05XRkE?oc=5",
+    "original_title": "Mercedes erhöht Druck auf Belegschaft: Management kündigt Investitionsstopp und drohende Werksschließungen an - Merkur",
+    "original_summary": "Mercedes erhöht Druck auf Belegschaft: Management kündigt Investitionsstopp und drohende Werksschließungen an Merkur",
+    "published_at": "2026-11-12T21:28:52+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes aumenta a pressão sobre os trabalhadores: a administração anuncia uma suspensão dos investimentos e a ameaça de encerramento de fábricas - Merkur",
+    "translated_summary": "A Mercedes aumenta a pressão sobre os trabalhadores: a administração anuncia uma suspensão dos investimentos e a ameaça de encerramento de fábricas ao Merkur",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:58+00:00"
   },
   {
     "id": "7b20c5680a710cd42d1d",
@@ -295,6 +601,28 @@
     "translated_summary": "A Mercedes está a considerar o encerramento de fábricas na Alemanha WEB.DE",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T21:52:55+00:00"
+  },
+  {
+    "id": "11585ecf4720273f1085",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
+    "original_title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
+    "original_summary": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 日本経済新聞",
+    "published_at": "2026-11-12T20:58:03+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Microsoft: falha em grande escala no \"365\" afeta negócios devido à impossibilidade de enviar e-mails - Nikkei",
+    "translated_summary": "Microsoft: falha generalizada no \"365\" impede o envio de e-mails e afeta as empresas — Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:51+00:00"
   },
   {
     "id": "4698f801e1f031142b36",
@@ -686,6 +1014,28 @@
     "last_translation_attempt_at": "2026-11-12T19:59:38+00:00"
   },
   {
+    "id": "89edc26632ed735d8b9a",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "tagesschau.de",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40bExyX3RJUGVIMjFyN1FTM01YazBBM3h4SHpaV3FIQ1I0cmRjTE5JMjY0NVo1aFd5TTBzZy1PTmZVeXJ4cFhqeDF2SHJWTDVqN1liNXhaTTBzeENnVDJsVEtZZ0g0UUhRNjNGcmpIWQ?oc=5",
+    "original_title": "Mercedes-Benz will alle Investitionen in deutsche Standorte stoppen - tagesschau.de",
+    "original_summary": "Mercedes-Benz will alle Investitionen in deutsche Standorte stoppen tagesschau.de",
+    "published_at": "2026-11-12T19:28:55+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes-Benz vai suspender todos os investimentos em instalações alemãs - tagesschau.de",
+    "translated_summary": "A Mercedes-Benz vai suspender todos os investimentos em instalações alemãs tagesschau.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:01+00:00"
+  },
+  {
     "id": "8e933a723cfacc193243",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -707,6 +1057,28 @@
     "translated_summary": "Encerramentos de fábricas? A Mercedes deixa de investir na Alemanha Euronews.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T19:59:31+00:00"
+  },
+  {
+    "id": "160660c42f74fd2225c7",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "fuldainfo.de",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamlpbTBFdENYV2xud2J1UTZNei1TbWcxa2Nkd0FJbzF2OUR6SEt0LVJMSGJCSndYam0wdFgyUUVqRjk4cVNWVWtPeDZnaXRnVEVNUDRSTEowV1FnS3R6eW1EaFl4YVhyRXlqY1BwSFg5NGxpbEVKdXYzOVhjanJnbWgzazhXeFNMMm1zdDFNbkVNSEE?oc=5",
+    "original_title": "Tarifkonflikt: Mercedes stoppt alle Investitionen in Deutschland - fuldainfo.de",
+    "original_summary": "Tarifkonflikt: Mercedes stoppt alle Investitionen in Deutschland fuldainfo.de",
+    "published_at": "2026-11-12T19:15:19+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conflito salarial: a Mercedes suspende todos os investimentos na Alemanha - fuldainfo.de",
+    "translated_summary": "Conflito laboral: a Mercedes suspende todos os investimentos na Alemanha fuldainfo.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:17+00:00"
   },
   {
     "id": "1c8e8038799b0be8e2e5",
@@ -2232,6 +2604,30 @@
     "last_translation_attempt_at": "2026-11-12T20:56:15+00:00"
   },
   {
+    "id": "9ab730c77d7501faef8f",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk9vLUNSZkhGOTN0eGZ1NDdHaG4wbHlRZXFOb21qdFZ5RDVMei12LXlEY0RCUFZ2RnRPa2g0anR0TWZzSG0tdWJWV0diTzZ6VjIzRS15NUpPa1dOUUVtZEhxYlNSUG5nYldNcjE3aTRRTTlxS2hjR0JGS1gzcVNjU1pKSkxELVE2dHQtZzRyelRFaFQtQUhPSHdSSFhuWVhGV2J0SUt5cVl1T2JYYmlXNnpLeGVadlE2LXJQQllST1VMYnh2d01UZG54WVVtSE9WZEotam5jZmM3T3FJ?oc=5",
+    "original_title": "Mercedes-Benz: Mercedes stoppt Investitionen in Deutschland und prüft Schließung von Werken - WirtschaftsWoche",
+    "original_summary": "Mercedes-Benz: Mercedes stoppt Investitionen in Deutschland und prüft Schließung von Werken WirtschaftsWoche",
+    "published_at": "2026-11-12T16:36:14+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Crescimento e PIB",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz: A Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas - WirtschaftsWoche",
+    "translated_summary": "Mercedes-Benz: A Mercedes interrompe os investimentos na Alemanha e pondera o encerramento de fábricas WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:12+00:00"
+  },
+  {
     "id": "db0ba0a6324ecc3850b2",
     "country": "Alemanha",
     "category": "Política",
@@ -2408,6 +2804,26 @@
     "translated_summary": "A Mercedes-Benz suspende todos os novos investimentos em instalações alemãs Der Standard",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:09:28+00:00"
+  },
+  {
+    "id": "7524b1686bede8fcd676",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iaFRJc0RQcWV3ZkRKMjlDNU1LSjVfaHpjRDR0R0oyWWNvNzY1RUVHcVdndFpUdVotTkVxcnJLTmVpclRIZ1REX1F6bVkza2pGQ0NSWk1qdjQ2MFJWbHlxNklNWU9wd2dXdUlCLXJDMWZ3d3RnZkIzZg?oc=5",
+    "original_title": "RBI issues new domestic transfer guidelines - News On AIR",
+    "original_summary": "RBI issues new domestic transfer guidelines News On AIR",
+    "published_at": "2026-11-12T16:23:27+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O RBI emite novas orientações para transferências domésticas - Notícias na AIR",
+    "translated_summary": "O RBI emite novas orientações para transferências domésticas Notícias na AIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:06+00:00"
   },
   {
     "id": "d09473f9049556caf2b4",
@@ -4035,6 +4451,26 @@
     "last_translation_attempt_at": "2026-11-12T16:08:12+00:00"
   },
   {
+    "id": "750bb919f0330af4dd59",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHAtdTcwdVNwdHpvQ0NzYXBkbDU3QzMtblY2ZVotVmkyc0dLOFBKNkhBdmtpcU9DMnBOd3hNZWRWSmJvTGZ2cDVvZzRvemhwUm9zcEVSQVJuSVhEckttNEFKc0xEbWhtSkNwQTlRWDZVYVhPaTZncmxpREtVaGNHOTZmUS1XSWUzampob1N4MGhibkdWRVFlT29jRHBJWUdraXNXWUYtLUFQdVp1Q0E?oc=5",
+    "original_title": "Bericht zur Steuerprogression: Kalte Progression kostet Steuerzahler 23 Milliarden Euro bis 2027 - DIE ZEIT",
+    "original_summary": "Bericht zur Steuerprogression: Kalte Progression kostet Steuerzahler 23 Milliarden Euro bis 2027 DIE ZEIT",
+    "published_at": "2026-11-12T13:03:32+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Relatório sobre a progressividade fiscal: a progressividade fria custará aos contribuintes 23 mil milhões de euros até 2027 - DIE ZEIT",
+    "translated_summary": "Relatório sobre a progressão fiscal: a progressão fria custará aos contribuintes 23 mil milhões de euros até 2027 DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:06+00:00"
+  },
+  {
     "id": "370a1adbcd05ba7474d6",
     "country": "Alemanha",
     "category": "Política",
@@ -5555,6 +5991,26 @@
     "last_translation_attempt_at": "2026-11-12T11:11:49+00:00"
   },
   {
+    "id": "9f108bdfe2191c31f794",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTZMSlEtaktpVkZpbWdtSWhpVDlYN0FIMDNBRXdKdmoxX0dXMmdlc0stUFlaR1RQOEdVZzY4U3ZxSkZXSUFNd0ZCRU81VnY3U0doUzlWNlU1ZWI1dGN3eHJUam1RcTZIOFB0clYtLUpjdXNKU3kwVjVua0dfRjZ6eml1THMzMVAwY1VPWnFaOUFyTUlJRGhtZXh0LThBSk5Uam5Ha2tVZFNNYzlNbFgzN240QWpSUXFIVkRvN3k3VQ?oc=5",
+    "original_title": "Streit um den Haushalt: Für die CDU ist dieses Ergebnis ein Desaster - FAZ",
+    "original_summary": "Streit um den Haushalt: Für die CDU ist dieses Ergebnis ein Desaster FAZ",
+    "published_at": "2026-11-12T10:46:43+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Disputa sobre o orçamento: para a CDU, este resultado é um desastre - FAZ",
+    "translated_summary": "Disputa sobre o orçamento: para a CDU, este resultado é um desastre FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:52:59+00:00"
+  },
+  {
     "id": "785a91ac0a627b5031c8",
     "country": "Índia",
     "category": "Economia",
@@ -6831,6 +7287,26 @@
     "translated_summary": "\"Mesa-Redonda Económica da China\" discute o novo cenário de desenvolvimento dos \"três pilares rurais\" h.xinhuaxmt.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T16:07:34+00:00"
+  },
+  {
+    "id": "8e7a54752da910e87ec5",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFE1M0lXZG05UWZPVUdvd1hXdnEyZ0xiUVY5T0dkMmlsQjREbVpLVUQxdlhWSlFzNFQ0WXQzZXBfeTN2NzNaTDcyWXo3N0FMdTNRNjFsUDFyRnN3ZkRCbklHcGwwc0J4dkRtYjZyQmNmdmtzQkJoN2hKSXcwY2hBajdSRzk2VWwyMWc?oc=5",
+    "original_title": "선조가 걷던 길, 삼남대로 갈재 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "선조가 걷던 길, 삼남대로 갈재 - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-12T08:50:26+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O caminho percorrido pelos antepassados, Samnamdaero Galjae - Vídeo | Multimédia - Resumo das Políticas da Coreia do Sul",
+    "translated_summary": "O caminho percorrido pelos antepassados, Samnamdaero Galjae - Vídeo | Multimédia Briefing sobre as Políticas da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:23+00:00"
   },
   {
     "id": "e1dbfb983ad99ba288e1",
@@ -14425,6 +14901,26 @@
     "translated_summary": "A Moody's aumenta a previsão de crescimento do PIB da Índia para 7% The Indian Awaaz",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T01:19:11+00:00"
+  },
+  {
+    "id": "9c7b25283a89d1e6dde6",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLTJDOW5na0JJQlBkTGJYaS1ZTERHNDhRNUEzS25ETTVJNE1ZNnFxbG9nTWVIazcxX29JTWFFTWlWSUxZSXZBcy02YUZRZ3NJNklKZ1lJYVRaUFkwNm53STRVY285cmhvUG1nQlZuTEFxUVljWE9iM3JJVERIa1RYZmtRVmYzWGdJS1JLOW8xYTFtaTI4MXdGOE5aQmJFNlM4NWFNTjh3?oc=5",
+    "original_title": "Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte - DIE ZEIT",
+    "original_summary": "Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte DIE ZEIT",
+    "published_at": "2026-11-11T17:52:27+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Ajuda à Ucrânia: uma ameaça poderosa. E desesperada - DIE ZEIT",
+    "translated_summary": "Ajuda à Ucrânia: uma ameaça poderosa. E um DIE ZEIT desesperado",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:03+00:00"
   },
   {
     "id": "11071e2d922e203e6e24",
@@ -35631,6 +36127,29 @@
     "last_translation_attempt_at": "2026-11-10T13:06:56+00:00"
   },
   {
+    "id": "46006cf1d8b36fd7bda7",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RLThGaTdMZWktZGVNX0M2WHVmMUIyN0hSMWdMT3ljeEE0WHUybEJKeGgyMUw2UVpnSE9BaEVJc2lsWHFnQlk1cFp2OHRocl9GbEtLV0U1cW40MVV1Z1BhUkZIZ0NNYl9NU0M3bXFwUnlkTzA?oc=5",
+    "original_title": "[2027 한국경제 전망] 반도체 호황…내년에도 든든한 버팀목 - 대한경제",
+    "original_summary": "[2027 한국경제 전망] 반도체 호황…내년에도 든든한 버팀목 대한경제",
+    "published_at": "2026-11-10T08:02:04+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [
+      "Semicondutores",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Perspetivas da economia coreana para 2027] O boom dos semicondutores… um pilar sólido também para o próximo ano - The Korea Economic Daily",
+    "translated_summary": "[Perspetivas da economia coreana para 2027] O boom dos semicondutores… Um sólido pilar para a economia coreana também no próximo ano",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:03+00:00"
+  },
+  {
     "id": "657bfde09629dd3d4d98",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -36056,6 +36575,26 @@
     "translated_summary": "O presidente da CATL disse que as baterias de íons de sódio oferecem autonomia suficiente para viagens urbanas diárias, enquanto mais estações de troca podem aliviar as preocupações com viagens mais longas. Para mais detalhes, visite o CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T08:22:44+00:00"
+  },
+  {
+    "id": "8b8deadb498d536878b2",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EcU5YOHJBaTdMaGdhYmFLZmEwdTFTMDQyZFM0VGVuV0NDaHJCcEU5TkpNbDVKbGtpbHNna0xXSWlOV3U2RngxZWtabEZJLXV6MEV2clBDUHRKRExlSlNzeWdoNlhoaV9LcXRSUXBsVWlfUTFLWVZR?oc=5",
+    "original_title": "지식재산 거래대책 - 대한민국 정책브리핑",
+    "original_summary": "지식재산 거래대책 대한민국 정책브리핑",
+    "published_at": "2026-11-10T07:40:32+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Medidas para as transações de propriedade intelectual - Briefing de políticas da República da Coreia",
+    "translated_summary": "Briefing sobre as políticas da República da Coreia relativas às medidas para as transações de propriedade intelectual",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:27+00:00"
   },
   {
     "id": "120f6dbca5de4d107e14",
@@ -46405,6 +46944,26 @@
     "translated_summary": "Gokul Dairy row: Congresso acusa governo de Fadnavis de mudar regras para controlar Moneycontrol.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-09T13:18:12+00:00"
+  },
+  {
+    "id": "6c70c8eff96ee9b7c007",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Bus-News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3BUMW1mUGdZYjE4LVNtU3VpNHNDMmdvQTZaMmNOclZaRkJYRVpFQzVTQWQzZlRfRjktaXd0c1NvZzF2WGcxS2o3UENiMnh1NDQ0MGpBSE8xNmxiSUxFZlZxTkEwNjRsbFdMMWZmOFVSdGhTQnNJcXM1QmdRUGxMQmhOS2NUQTBaTkYwWTdHR1c?oc=5",
+    "original_title": "Yutong Celebrates Successes at Singapore Urban Mobility Week 2026 - Bus-News",
+    "original_summary": "Yutong Celebrates Successes at Singapore Urban Mobility Week 2026 Bus-News",
+    "published_at": "2026-11-09T12:50:29+00:00",
+    "first_seen_at": "2026-11-12T22:52:24+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Yutong celebra os seus sucessos na Semana da Mobilidade Urbana de Singapura de 2026 - Bus-News",
+    "translated_summary": "A Yutong celebra os seus êxitos na Semana da Mobilidade Urbana de Singapura de 2026 Bus-News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:53:29+00:00"
   },
   {
     "id": "fd3a461d5a60dda5f8cb",
@@ -59960,11 +60519,11 @@
     "published_at": "2026-11-08T06:01:35+00:00",
     "first_seen_at": "2026-11-12T07:24:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Todos os caminhos levam ao Forum Braga - Correio do Minho",
+    "translated_summary": "Todos os caminhos levam ao Forum Braga Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:10+00:00"
   },
   {
     "id": "d96825dbc32d70914e88",
@@ -90888,11 +91447,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Negociador da Autoeuropa lamenta que figuras importantes pelo investimento sejam esquecidas - RTP",
+    "translated_summary": "Negociador da Autoeuropa lamenta que figuras importantes pelo investimento sejam esquecidas RTP",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:11+00:00"
   },
   {
     "id": "5398b9af2cfba5b0cb68",
@@ -91077,11 +91636,11 @@
     "published_at": "2026-11-03T11:35:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cheque de 500 milhões para veículos elétricos em 2027 - Jornal Económico",
+    "translated_summary": "Cheque de 500 milhões para veículos elétricos em 2027 Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:12+00:00"
   },
   {
     "id": "479d3b6c19af50f1ceab",
@@ -91274,11 +91833,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Índia flexibiliza as regras de comunicação de divisas para exportações e importações de serviços de baixo valor - Reuters",
+    "translated_summary": "Índia flexibiliza as regras de comunicação de divisas para exportações e importações de serviços de baixo valor Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:13+00:00"
   },
   {
     "id": "1da37b6878f250e39ca7",
@@ -91294,11 +91853,11 @@
     "published_at": "2026-11-03T10:16:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros - Jornal de Notícias",
+    "translated_summary": "Apoio na compra de carros elétricos para mais carenciados pode chegar a 15 mil euros Jornal de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:16+00:00"
   },
   {
     "id": "36255ba6f9c53d7f9821",
@@ -91314,11 +91873,11 @@
     "published_at": "2026-11-03T10:10:53+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Famílias carenciadas ficam com apenas 27% dos novos cheques para carros elétricos: 10 perguntas e respostas sobre os apoios para 2027 - Expresso",
+    "translated_summary": "Famílias carenciadas ficam com apenas 27% dos novos cheques para carros elétricos: 10 perguntas e respostas sobre os apoios para 2027 Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:17+00:00"
   },
   {
     "id": "8059bbf675287bfc65a5",
@@ -91334,11 +91893,11 @@
     "published_at": "2026-11-03T10:07:56+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Componentes automóveis abrem portas ao mercado alemão - AICEP",
+    "translated_summary": "Componentes automóveis abrem portas ao mercado alemão AICEP",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:18+00:00"
   },
   {
     "id": "89989ffdaa5cacef140a",
@@ -91465,11 +92024,11 @@
     "published_at": "2026-11-03T09:41:18+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fabricante de componentes automóveis Schaeffler vai cortar 3460 postos de trabalho na Europa - Diário de Notícias",
+    "translated_summary": "Fabricante de componentes automóveis Schaeffler vai cortar 3460 postos de trabalho na Europa Diário de Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:19+00:00"
   },
   {
     "id": "c67378541512e088f285",
@@ -91509,11 +92068,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Toss apresenta queixa contra a Naver à Comissão do Comércio Justo... O conflito entre plataformas \"vai de mal a pior\" - The Korea Economic Daily",
+    "translated_summary": "Toss apresenta queixa contra a Naver junto da Comissão do Comércio Justo… O conflito de plataformas \"vai de mal a pior\" Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:20+00:00"
   },
   {
     "id": "0a870e6d5b90a333f8d2",
@@ -91615,11 +92174,11 @@
     "published_at": "2026-11-03T08:43:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Conheça os detalhes dos novos apoios para carros elétricos - Renascença",
+    "translated_summary": "Conheça os detalhes dos novos apoios para carros elétricos Renascença",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:23+00:00"
   },
   {
     "id": "24093dcf262e458b20c7",
@@ -91637,11 +92196,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A traição da \"NIM\"... Bancos com cara triste apesar do aumento das taxas de juro - Korea Economic Daily",
+    "translated_summary": "A traição do \"NIM\"... Os bancos ficam com cara triste mesmo com o aumento das taxas de juro Economia da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:24+00:00"
   },
   {
     "id": "c2b2ed862a708cf2c5e6",
@@ -92117,11 +92676,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A AWS vai investir mais 12 mil milhões de SGD em Singapura até 2028 e anuncia o seu programa emblemático de IA – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A AWS vai investir mais 12 mil milhões de SGD em Singapura até 2028 e anuncia o programa emblemático de IA do Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:27+00:00"
   },
   {
     "id": "399238c49a85b634bc6d",
@@ -92137,11 +92696,11 @@
     "published_at": "2026-11-03T08:00:00+00:00",
     "first_seen_at": "2026-11-10T00:02:01+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ilha de Jurong Sustentável – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Ilha de Jurong Sustentável Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:31+00:00"
   },
   {
     "id": "faf2729d109f8db01dbb",
@@ -92159,11 +92718,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Expansão do escritório da Revolut em Singapura e investimento de 350 milhões de dólares singapurenses – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Expansão do escritório da Revolut em Singapura e investimento de 350 milhões de dólares singapurenses do Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T22:54:33+00:00"
   },
   {
     "id": "ee94062d87969b72a01b",
