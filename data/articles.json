@@ -77,11 +77,203 @@
     "topics": [
       "Política industrial"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
+    "translation_status": "translated",
+    "translated_title": "A OPI da Anthropic levará a uma melhor regulamentação da IA?",
     "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:06+00:00"
+  },
+  {
+    "id": "f03112d9f44903ff643f",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Golem",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnBFRnRBSktyUnNuMG1sOFRrTVVUbGtDS0szZkpXbWxUYXJvRU5qbFFobVQzQ0h1cmE0VGpBUXJxOGNSTDFtUVdxQTRuc1BuaTlaQmJuTk9BWGJTcmowaXNtS09OVW1FSTlud014TXhwalp2UE0wWmZKMnpnUnM0ekc3WGlrOEF0SGl0c2JBbmxOTF9nVmJsMmxGbUhiT3VXWEJoOWE2RV9QZm8?oc=5",
+    "original_title": "Autohersteller: Mercedes stoppt alle Investitionen in Deutschland - Golem",
+    "original_summary": "Autohersteller: Mercedes stoppt alle Investitionen in Deutschland Golem",
+    "published_at": "2026-11-12T17:50:02+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fabricante automóvel: A Mercedes suspende todos os investimentos na Alemanha - Golem",
+    "translated_summary": "Fabricantes automóveis: a Mercedes suspende todos os investimentos na Alemanha Golem",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:08+00:00"
+  },
+  {
+    "id": "57a3d0db4f0298939b21",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjFNc3RfVDdybS1VWWVRdGZOZHVzQm9aS3hlYkhYVFdzLVBlVlRjTTJJc3lLalBOZ1UxZTJzam5fNzBEZEVKSl92Z2VSQW4xYzNlMk5vWDVTZ1g3SlJ2Smp6aXdaWEJaRWJLd1RLQUs4NmJrQnVtNGlIOHBNLWdLTFF6djQ2aVljTTVWOHMyelBwdw?oc=5",
+    "original_title": "Bundestag: Bundestag gibt Sicherheitsbehörden neue Cyberabwehr-Befugnisse - DIE ZEIT",
+    "original_summary": "Bundestag: Bundestag gibt Sicherheitsbehörden neue Cyberabwehr-Befugnisse DIE ZEIT",
+    "published_at": "2026-11-12T17:47:24+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bundestag: O Bundestag concede às autoridades de segurança novos poderes de ciberdefesa - DIE ZEIT",
+    "translated_summary": "Bundestag: O Bundestag concede às autoridades de segurança novos poderes de ciberdefesa DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:57:52+00:00"
+  },
+  {
+    "id": "0ef51f25aaba112dfff1",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/mercedes-benz-admite-encerramento-de-unidades-na-alemanha-se-nao-reduzir-custos_n1778757",
+    "original_title": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
+    "original_summary": "A fabricante automóvel alemã Mercedes-Benz vai analisar o encerramento de algumas unidades na Alemanha caso não consiga reduzir os custos no país, admitiu hoje um administrador num artigo interno da empresa.",
+    "published_at": "2026-11-12T17:42:09+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
+    "translated_summary": "A fabricante automóvel alemã Mercedes-Benz vai analisar o encerramento de algumas unidades na Alemanha caso não consiga reduzir os custos no país, admitiu hoje um administrador num artigo interno da empresa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:59+00:00"
+  },
+  {
+    "id": "295965e2365370b6a70b",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Sprouts News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43RWh0Yy1JTnl6Tkx3UncyU3FMV3FZX0ZEZ09NSjRaamJVVi1QRnFXblFlNkg0dTZTemlPQ3Zjb2JZNEhBUHJaRTFYWVBraWxUcldKTGNmM2syNTFNdjJtZnZPSFZ0Qm5oUWlfN29mZW1LZDN4NDFOOEI3bGs?oc=5",
+    "original_title": "US-India Trade Talks Advance as G20 Summit Approaches - Sprouts News",
+    "original_summary": "US-India Trade Talks Advance as G20 Summit Approaches Sprouts News",
+    "published_at": "2026-11-12T17:42:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As negociações comerciais entre os EUA e a Índia avançam com a aproximação da cimeira do G20 - Sprouts News",
+    "translated_summary": "As negociações comerciais entre os EUA e a Índia avançam à medida que se aproxima a cimeira do G20 Sprouts News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:27+00:00"
+  },
+  {
+    "id": "cfa213cd7da88f8917c5",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXZsSnZXZ0Z1ZUs3MU1jbFhHalVFWnNNNEZxWEJmNFpSa2RVT1QwNU1zV0h5Q2Q4MXZId1o0WExwUzJBZFdjZUYxbmFIRXZpSHlLR0tzazZWX3ZQem9QNzhPS3RNYmRnYm1ZYXJXSWx5bTQyT2dGVzh2VjZHai1ncW9OVW8wQ1NwM2FUd2M5TVVTYUtta3VnTWYwRQ?oc=5",
+    "original_title": "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner - Time Magazine",
+    "original_summary": "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner Time Magazine",
+    "published_at": "2026-11-12T17:41:40+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Líderes empresariais debatem o futuro da economia indiana no TIME Impact Dinner - Time Magazine",
+    "translated_summary": "Líderes empresariais debatem o futuro da economia indiana no TIME Impact Dinner da revista TIME",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:46+00:00"
+  },
+  {
+    "id": "1b1e56fae75573a7ea1d",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Blick",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEFzY2tsczZneEkydEdwaGFqVnB4N21qUXRzMzQyUnpDcEhibGxVWl90bENnNW9LOFFGVVRsQ29QVzBIb3VLOEhiZzhTZElmaHZZM3liSzcxSHlYRTVLYWlVaFJvUnJRVWQwSE9Fay1QVUozYmhNMlNVMG1ER1dqUmNRaDFVWWZENmhhcFFLZV8yWlcxWGItbTlMbDRBQXJHR2g2QkhhNjk?oc=5",
+    "original_title": "Arbeit zu teuer: Mercedes stoppt Investments in Deutschland - Blick",
+    "original_summary": "Arbeit zu teuer: Mercedes stoppt Investments in Deutschland Blick",
+    "published_at": "2026-11-12T17:39:31+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mão de obra demasiado cara: a Mercedes suspende os investimentos na Alemanha - Blick",
+    "translated_summary": "Mão de obra demasiado cara: a Mercedes suspende os investimentos na Alemanha Blick",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:17+00:00"
+  },
+  {
+    "id": "f8b74bacbf72d3b48d9a",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/lucro-da-ren-sobe-34-1-ate-setembro-para-139-3-milhoes-de-euros_n1778750",
+    "original_title": "Lucro da REN sobe 34,1% até setembro para 139,3 milhões de euros",
+    "original_summary": "A REN -- Redes Energéticas Nacionais registou um lucro de 139,3 milhões de euros nos primeiros nove meses do ano, um aumento de 34,1% face aos 103,9 milhões de euros registados no período homólogo de 2025, anunciou hoje a empresa.",
+    "published_at": "2026-11-12T17:21:34+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Lucro da REN sobe 34,1% até setembro para 139,3 milhões de euros",
+    "translated_summary": "A REN -- Redes Energéticas Nacionais registou um lucro de 139,3 milhões de euros nos primeiros nove meses do ano, um aumento de 34,1% face aos 103,9 milhões de euros registados no período homólogo de 2025, anunciou hoje a empresa.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:00+00:00"
+  },
+  {
+    "id": "3bfae5ed947e6c37edea",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3JmazVLVXYxVXkyOXNUSkc5eDJ5SzFTem9uZ2RNcVQ5UXFQeHpWdVhjRU1EUTBORlRnTE9NOEJXUTNuMGJuY1lZMmtEZEI1TkRUV3Q4TFRJQUxOakRuUFZFaHpObXdxT0FqTTNjWmVucTRZZEpGSHF0dUk5SlItd19yYTJpUQ?oc=5",
+    "original_title": "Mercedes stoppt alle neuen Investitionen in Deutschland - ZDFheute",
+    "original_summary": "Mercedes stoppt alle neuen Investitionen in Deutschland ZDFheute",
+    "published_at": "2026-11-12T17:06:25+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende todos os novos investimentos na Alemanha - ZDFheute",
+    "translated_summary": "A Mercedes suspende todos os novos investimentos na Alemanha ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:02+00:00"
+  },
+  {
+    "id": "efeac4ac71d9be639ee7",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3JmazVLVXYxVXkyOXNUSkc5eDJ5SzFTem9uZ2RNcVQ5UXFQeHpWdVhjRU1EUTBORlRnTE9NOEJXUTNuMGJuY1lZMmtEZEI1TkRUV3Q4TFRJQUxOakRuUFZFaHpObXdxT0FqTTNjWmVucTRZZEpGSHF0dUk5SlItd19yYTJpUQ?oc=5",
+    "original_title": "Mercedes stoppt alle neuen Investitionen in Deutschland - ZDFheute",
+    "original_summary": "Mercedes stoppt alle neuen Investitionen in Deutschland ZDFheute",
+    "published_at": "2026-11-12T17:06:25+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende todos os novos investimentos na Alemanha - ZDFheute",
+    "translated_summary": "A Mercedes suspende todos os novos investimentos na Alemanha ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:39+00:00"
   },
   {
     "id": "99b11a8f643031db48f2",
@@ -151,6 +343,48 @@
     "last_translation_attempt_at": "2026-11-12T17:09:22+00:00"
   },
   {
+    "id": "2bb0bf2dc83b4c0866f8",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Oldenburger Online Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnMyWkhfX1R2SHFaVnRCZFRsTnQyejItSTlqU1ZXNWxjWkRZVUgyUzhiaG4wanlubUhseDNSTGJoWUlQeWdsWURMZEVPYU5FSHBsclBob2VUOGRpY3RBTTlzQXVpV2dHbl9CX0lnamZ1MVhDb09ZRllCc283RF9PRFdUYk5mSnRHSXZXcTRUR3ZDQ3BJb21nbFc4bk1lMHRBUE1CT2Q4VXBlQzhuNzVFdE1JWERlYV9yVnlFUlNyUlhSOUh2Wjgw?oc=5",
+    "original_title": "Tarifkonflikt: Mercedes stoppt alle Investitionen in Deutschland - Oldenburger Online Zeitung",
+    "original_summary": "Tarifkonflikt: Mercedes stoppt alle Investitionen in Deutschland Oldenburger Online Zeitung",
+    "published_at": "2026-11-12T17:02:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conflito salarial: a Mercedes suspende todos os investimentos na Alemanha - Oldenburger Online Zeitung",
+    "translated_summary": "Conflito salarial: a Mercedes suspende todos os investimentos na Alemanha Oldenburger Online Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:11+00:00"
+  },
+  {
+    "id": "752b116ecd08cfd89fe5",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "NZZ",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzBGejVrUXo2bG0tY3ZjYXo1TW9GODB2bTB2T1BFZ0VUUG9QUHVhWWRCTkJZVUQ4S191VGtKSWZRUnZoYjd3R3hzSDhHVGNCb1lfeWxtSXlWd2ZOZjdTRS1MazI4a1hQN0ZtZC02eVF0VXNrWnl3bFVFUXhlZHQtYVY2SQ?oc=5",
+    "original_title": "Die neuesten Meldungen aus Deutschland. - NZZ",
+    "original_summary": "Die neuesten Meldungen aus Deutschland. NZZ",
+    "published_at": "2026-11-12T17:01:59+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As últimas notícias da Alemanha. - NZZ",
+    "translated_summary": "As últimas notícias da Alemanha. NZZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:57:58+00:00"
+  },
+  {
     "id": "a20f562120244cda225d",
     "country": "China",
     "category": "Automóvel",
@@ -171,6 +405,28 @@
     "last_translation_attempt_at": "2026-11-12T17:08:26+00:00"
   },
   {
+    "id": "6d2242e719680651e82d",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Jornal Económico",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXduSE83YkgzNUpyTkREYTFRdGZCbnowNFpoY19PU2g2NXEyX1U4SlZNdkQwd19udjFwd0ZibGFkS2VxTTFWRlBhbHJkYkZWdENpRThZYWFKZjVhLVZOWExVY0dMcWpRZWJyOG5jQWN5YVJSTlJLRjNId1hCeGtkblZvSUU2TDdORU01UmhNZmJKR3hOWkMyNURxU0RPaTNkQTB6UHhld1B2c000aXR6R0VLZmVSWHV5U0dSeTgydE85NmR1dGZkSFE5RzBsRTd2?oc=5",
+    "original_title": "62% dos portugueses consideram que as mulheres enfrentam mais dificuldades para criar empresas - Jornal Económico",
+    "original_summary": "62% dos portugueses consideram que as mulheres enfrentam mais dificuldades para criar empresas Jornal Económico",
+    "published_at": "2026-11-12T17:00:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "62% dos portugueses consideram que as mulheres enfrentam mais dificuldades para criar empresas - Jornal Económico",
+    "translated_summary": "62% dos portugueses consideram que as mulheres enfrentam mais dificuldades para criar empresas Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:02+00:00"
+  },
+  {
     "id": "f12adc9230d445771986",
     "country": "Portugal",
     "category": "Economia",
@@ -184,11 +440,11 @@
     "published_at": "2026-11-12T16:59:09+00:00",
     "first_seen_at": "2026-11-12T17:07:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Web Summit: startup Carevision da palestiniana Amani Amin vence `pitch` final da cimeira",
+    "translated_summary": "A startup Carevision da palestiniana Amani Amin, que se dedica a prevenir doenças cardiovasculares através de uma fotografia do rosto com recurso a inteligência artificial (IA), venceu o Pitch final da Web Summit deste ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:09+00:00"
   },
   {
     "id": "940ee0f5d71bb4342cd2",
@@ -207,11 +463,34 @@
       "Investimento e empresas",
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Habitação. Ministério Público abre investigação a intervenção policial em Lisboa",
+    "translated_summary": "O Ministério Público abriu um inquérito para investigar a intervenção policial nas manifestações pela habitação em Lisboa, anunciou hoje a Procuradoria-Geral da República (PGR).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:10+00:00"
+  },
+  {
+    "id": "0e9bc091f4119bb89d80",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/habitacao-ministerio-publico-abre-investigacao-a-intervencao-policial-em-lisboa_n1778745",
+    "original_title": "Habitação. Ministério Público abre investigação a intervenção policial em Lisboa",
+    "original_summary": "O Ministério Público abriu um inquérito para investigar a intervenção policial nas manifestações pela habitação em Lisboa, anunciou esta quinta-feira a Procuradoria-Geral da República (PGR).",
+    "published_at": "2026-11-12T16:58:38+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Habitação. Ministério Público abre investigação a intervenção policial em Lisboa",
+    "translated_summary": "O Ministério Público abriu um inquérito para investigar a intervenção policial nas manifestações pela habitação em Lisboa, anunciou esta quinta-feira a Procuradoria-Geral da República (PGR).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:58+00:00"
   },
   {
     "id": "b54f38039f1f0c0875d8",
@@ -275,6 +554,28 @@
     "translated_summary": "Negociações sem progressos: a Mercedes suspende todas as invenções na Alemanha T-Online",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:09:08+00:00"
+  },
+  {
+    "id": "8eb25a30651a41bd9805",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "T-Online",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVBPYXBERmtPYTV4WnR1VjJVWXJxQVpOOEptLUY4VkdVRzRudUFiQW10YnRkQnp0UndGdzVKS0kxYUx6NmZkM3llYldwVjdGU1V5emtFYVNpSm5zN3RVeDVoUUl1Z09TSl9DTE5BSjhsS1JzZDRuM1czMjR4bXhKaTM4dnYwZ3R6MzdzWE04SlVId2NJVWhVXzJkdkxvQUpzMjdaUXpfLUpBa25YbzdJRW9QVFl0OTlsbUEtbUxfajdtcVVDYWdfM3ZiRUtmTDNzOTRWSnhnOE0?oc=5",
+    "original_title": "Verhandlungen ohne Fortschritt: Mercedes stoppt alle Investitionen in Deutschland - T-Online",
+    "original_summary": "Verhandlungen ohne Fortschritt: Mercedes stoppt alle Investitionen in Deutschland T-Online",
+    "published_at": "2026-11-12T16:55:51+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Negociações sem progressos: a Mercedes suspende todos os investimentos na Alemanha - T-Online",
+    "translated_summary": "Negociações sem progressos: a Mercedes suspende todos os investimentos na Alemanha T-Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:43+00:00"
   },
   {
     "id": "4b87665bdbe1cf2447b7",
@@ -399,11 +700,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Custos laborais demasiado elevados: a Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas - Tagesspiegel",
+    "translated_summary": "Custos laborais demasiado elevados A Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas Tagesspiegel",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:11+00:00"
   },
   {
     "id": "743e03cf117b70ae266b",
@@ -426,6 +727,26 @@
     "translated_summary": "A Terawatt inaugura quatro novos parques de carregamento de veículos elétricos de frotas Veículos elétricos carregados",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:09:50+00:00"
+  },
+  {
+    "id": "c296b25c85f6c06ac439",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUS0xN1FYc3RxZERFNmlLcmJXMjZsY3BvSk55RXRiczJzbnA5RUxaY1ZUZHVUTXJ1Vld3YzFzQVZsS0NPdjZfNFpWaUVuQzYtLWRvd2tsN1o4V2Q5SnJMWXdNNTdXRm14dDBSWHRVTVpscHRfQnVtN2VRV25kb09VZGRNS3NIVUtjWERMR2V4ZU9zX05vZWI0dnhRWEdGR0RNdFRoY01Bd0dVQ0ZrR2l4cGxoTEpJOURQcXc?oc=5",
+    "original_title": "Singapore says Alice Huang, Megaspeed exec at center of Nvidia scandal, is barred from re-entry - Business Insider",
+    "original_summary": "Singapore says Alice Huang, Megaspeed exec at center of Nvidia scandal, is barred from re-entry Business Insider",
+    "published_at": "2026-11-12T16:41:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Singapura diz que Alice Huang, executiva da Megaspeed no centro do escândalo da Nvidia, está proibida de voltar a entrar no país - Business Insider",
+    "translated_summary": "Singapura diz que Alice Huang, executiva da Megaspeed no centro do escândalo da Nvidia, está proibida de voltar a entrar no país Business Insider",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:30+00:00"
   },
   {
     "id": "5406448a50479d725036",
@@ -472,6 +793,28 @@
     "last_translation_attempt_at": "2026-11-12T17:10:00+00:00"
   },
   {
+    "id": "1b98bd336707147a8b2a",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUFVVFc0MDJnb1VaTlotMnQ4OUhKbTlzQzVEMEp1X1V3ZXpvd3lCZW9XZlBVUXFSN1BMUnJUMTNjVG1CUncwdHg0ZEJNZzVrSzUxUWxoSVBWb0FwemFVSmhCMkk0MThlVndlRVpPaE9vVkZrOFhTZ3BhNXhVYmt1b0xHMTk0aDBTblRudF9mWG9pZnlkWkZ3d0ExLUhkenROVEpWZWVuNFY2UlQ2Tmpldg?oc=5",
+    "original_title": "Coulomb Solutions launches ReadyGrid, a dedicated mobile energy storage company - Charged EVs",
+    "original_summary": "Coulomb Solutions launches ReadyGrid, a dedicated mobile energy storage company Charged EVs",
+    "published_at": "2026-11-12T16:40:21+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Coulomb Solutions lança a ReadyGrid, uma empresa dedicada ao armazenamento de energia móvel - Charged EVs",
+    "translated_summary": "A Coulomb Solutions lança a ReadyGrid, uma empresa dedicada ao armazenamento de energia móvel Charged EVs",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:33+00:00"
+  },
+  {
     "id": "6b0149d407b0c5569110",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -513,11 +856,11 @@
       "Crescimento e PIB",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz: A Mercedes suspende todos os investimentos na Alemanha e pondera o encerramento de fábricas - WirtschaftsWoche",
+    "translated_summary": "Mercedes-Benz: A Mercedes suspende todos os investimentos na Alemanha e pondera o encerramento de fábricas WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:14+00:00"
   },
   {
     "id": "db0ba0a6324ecc3850b2",
@@ -578,11 +921,11 @@
     "published_at": "2026-11-12T16:29:34+00:00",
     "first_seen_at": "2026-11-12T17:07:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Associações da imprensa e rádio apelam à efetiva obrigação de publicitação das deliberações autárquicas",
+    "translated_summary": "As associações representativas da imprensa e rádio apelam aos grupos parlamentares que aprovem a proposta que permite efetivamente obrigar as autarquias a publicitarem as respetivas deliberações nos órgãos de comunicação social regionais e locais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:17+00:00"
   },
   {
     "id": "9ff828672d773e414ee4",
@@ -629,6 +972,28 @@
     "translated_summary": "Bosch de Braga com 3.500 trabalhadores dispara faturação e altera horários para tornar-se “mais competitiva” Jornal de Negócios",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:10:18+00:00"
+  },
+  {
+    "id": "c5d20cdfc2de2900a59e",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "n-tv.de",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ19EXzYwdnNURjlTZkZFWmU4VkM4QXJpbkt4UVd2TzVsam85UFJjdWN0M2dWLUhZWmk2eTEyM0ZOenFqdFlzRExQU2NCY0dJQnIwNmpaZG9fSHVjLXNkbnhHRE9CUGRxQTVrUGtxMEFQRVIzOWRoUHI4QTNNQ2E0TW5PUWNmNzhlSXBGN2UyV05mQnp1cHNNQ3VMd1hWdw?oc=5",
+    "original_title": "Streit über Personalkosten mit dem Betriebsrat: Mercedes-Benz prüft Werksschließungen in Deutschland - n-tv.de",
+    "original_summary": "Streit über Personalkosten mit dem Betriebsrat: Mercedes-Benz prüft Werksschließungen in Deutschland n-tv.de",
+    "published_at": "2026-11-12T16:24:48+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Disputa sobre os custos com pessoal com o conselho de empresa: a Mercedes-Benz está a considerar o encerramento de fábricas na Alemanha - n-tv.de",
+    "translated_summary": "Litígio sobre custos de pessoal com o conselho de empresa: a Mercedes-Benz pondera encerramentos de fábricas na Alemanha n-tv.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:14+00:00"
   },
   {
     "id": "83e12189c23d1e9fcb03",
@@ -689,11 +1054,11 @@
     "published_at": "2026-11-12T16:23:00+00:00",
     "first_seen_at": "2026-11-12T17:07:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Miranda Sarmento acredita em mais subidas do `rating` de Portugal",
+    "translated_summary": "O ministro das Finanças disse hoje estar confiante de que Portugal terá mais subidas no `rating`, se mantiver a trajetória de redução da dívida, numa altura em que estão agendadas mais duas avaliações até ao final do ano.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:18+00:00"
   },
   {
     "id": "81932f8972ee0d79c9b3",
@@ -709,11 +1074,93 @@
     "published_at": "2026-11-12T16:21:11+00:00",
     "first_seen_at": "2026-11-12T17:07:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Privatizações na SATA adiadas até agosto de 2027 e custo até 400 milhões de euros diz Governo açoriano",
+    "translated_summary": "O Governo dos Açores estimou hoje um encargo financeiro de 350 a 400 milhões euros com as privatizações na SATA e revelou que pediu à Comissão Europeia um adiamento dos processos até agosto de 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:19+00:00"
+  },
+  {
+    "id": "fe0d5ac2e12ea051a54a",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "Jornal O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckl2SjV2bVdiRjFmZXI4QkRINjZhdVVuazFwUk9QMy0xYVJoN3huQzVoeUJzYkIwY0hyTEVLRkswb29YMXFrWmZreHdVSGpJblR1ejM1TmtmNnEwNndHUERyLWhJMi1IODZjTEtkUTh2SVNKUk5TSWtjeFFyOS1jSElHNjFWNldfSE54d0JKZW5hREZFMzBaN2szbU5sbjM0Wmc?oc=5",
+    "original_title": "Megaoperação da GNR de Braga: Deitavam lamas tóxicas de ETAR em terrenos agrícolas - Jornal O MINHO",
+    "original_summary": "Megaoperação da GNR de Braga: Deitavam lamas tóxicas de ETAR em terrenos agrícolas Jornal O MINHO",
+    "published_at": "2026-11-12T16:20:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Megaoperação da GNR de Braga: Deitavam lamas tóxicas de ETAR em terrenos agrícolas - Jornal O MINHO",
+    "translated_summary": "Megaoperação da GNR de Braga: Deitavam lamas tóxicas de ETAR em terrenos agrícolas Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:04+00:00"
+  },
+  {
+    "id": "fd80b716f73d7e403b99",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/carrossel-de-natal-ja-esta-instalado-na-avenida-central-em-braga/",
+    "original_title": "Carrossel de Natal já está instalado na Avenida Central em Braga",
+    "original_summary": "Braga começa a ganhar ambiente natalício com a instalação de novas atrações no coração da cidade. O carrossel de Natal já se encontra na Avenida Central, em frente ao Posto de Turismo, enquanto uma roda gigante está a ser montada no mesmo eixo central. A estrutura, que já passou pela Praça do Município e pelo […]",
+    "published_at": "2026-11-12T16:17:04+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Carrossel de Natal já está instalado na Avenida Central em Braga",
+    "translated_summary": "Braga começa a ganhar ambiente natalício com a instalação de novas atrações no coração da cidade. O carrossel de Natal já se encontra na Avenida Central, em frente ao Posto de Turismo, enquanto uma roda gigante está a ser montada no mesmo eixo central. A estrutura, que já passou pela Praça do Município e pelo […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:05+00:00"
+  },
+  {
+    "id": "65b7288cc0c82f7002e7",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Vodafone live",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWlvSFhDaHMtUk1KZjdNSWRjQmNidHZyZVR2X0Zycm1aOHVvdTZiTzZXS0hPQ0lZdkpsNG1YMm42ZG45NHFQN21fX1ZnWVVOTXI1dWVudV9IdTYwY3ZYNkQzRHBBN25BYW5XSjRyY1dEelNBTFJJcGdyUGlDQjFZQlBWeWZrLU1WNzI5eE1SNHJjUkVpTU14WHBPcUhLVnVPd0E5T0FKaDJOTVZxT3BSeGlEYnBpSVFCbkNqSDR3?oc=5",
+    "original_title": "Mercedes prüft mögliche Werksschließungen in Deutschland - Vodafone live",
+    "original_summary": "Mercedes prüft mögliche Werksschließungen in Deutschland Vodafone live",
+    "published_at": "2026-11-12T16:15:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes está a considerar possíveis encerramentos de fábricas na Alemanha - Vodafone live",
+    "translated_summary": "A Mercedes está a considerar possíveis encerramentos de fábricas na Alemanha Vodafone live",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:05+00:00"
+  },
+  {
+    "id": "eba257469deb24101cb6",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHlDVmZpOVJEM1A3OHJQaGZjMUFEeGVkbHViejczenZiLW1jaXpGMDcybTlLZ1NmLXVRcUpnUEZBRnliM09ZSGVzNjVpMzJyeElVQmJiTUh6STdiZzI4VG94WklVX2VBUHg1ZDVROXRQWWxDSS1kaGJpQmJXRFlnZHZkcU12WUpON0toTUY5TmlPV3JzcWFRcXUyY2s3bmVLUHNXSkV3?oc=5",
+    "original_title": "Governo agradece à Web Summit. \"Hoje já não perguntamos 'porquê Portugal'\" - Observador",
+    "original_summary": "Governo agradece à Web Summit. \"Hoje já não perguntamos 'porquê Portugal'\" Observador",
+    "published_at": "2026-11-12T16:15:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo agradece à Web Summit. \"Hoje já não perguntamos 'porquê Portugal'\" - Observador",
+    "translated_summary": "Governo agradece à Web Summit. \"Hoje já não perguntamos 'porquê Portugal'\" Observador",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:01+00:00"
   },
   {
     "id": "9fe601a2d652b6326a9e",
@@ -755,11 +1202,11 @@
       "Inflação e preços",
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "FMI aconselha Portugal a melhorar oferta de casas para travar subida dos preços",
+    "translated_summary": "O Fundo Monetário Internacional aconselha Portugal a adotar medidas para aumentar a oferta de habitação, revitalizar o mercado de arrendamento e expandir a habitação social. O objetivo é aumentar a acessibilidade à habitação e conter os preços das casas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:20+00:00"
   },
   {
     "id": "9af2ee549cc1b388f7d2",
@@ -801,11 +1248,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende todos os novos investimentos na Alemanha – estão a ser ponderados encerramentos de fábricas – WELT",
+    "translated_summary": "A Mercedes interrompe todos os investimentos adicionais na Alemanha – estão a ser ponderados encerramentos de fábricas WELT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:21+00:00"
   },
   {
     "id": "a2754c2cd56ca426070c",
@@ -2062,6 +2509,28 @@
     "last_translation_attempt_at": "2026-11-12T16:07:50+00:00"
   },
   {
+    "id": "9ad3fb8b332ec1483236",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "ZDFheute",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN01nZ05JZ1VmbTJ0MUhmNGFoRDhFX3JaRzJQd3QyVmJpWWxJYjY0NG81dDhHaHY5X3NGYTBUVzViTXFGY3ZHRS1LSkwyN1VCU3dPRjZhX3JzUkxTeGZSUFl6TVpnX21HczlrWUdiT1hta2ZrUm9DYlJoMlBYQ1pWbGV1VGFpcVZtQlBvNm05QQ?oc=5",
+    "original_title": "Kita-Kinder: Gesetz zur Förderung frühkindlicher Bildung - ZDFheute",
+    "original_summary": "Kita-Kinder: Gesetz zur Förderung frühkindlicher Bildung ZDFheute",
+    "published_at": "2026-11-12T12:52:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Política industrial"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Crianças em creches: Lei de Promoção da Educação na Primeira Infância - ZDFheute",
+    "translated_summary": "Crianças em creches: Lei de Promoção da Educação na Primeira Infância ZDFheute",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:57:55+00:00"
+  },
+  {
     "id": "2b1236ce326477e243ed",
     "country": "Índia",
     "category": "Política",
@@ -3281,6 +3750,28 @@
     "last_translation_attempt_at": "2026-11-12T12:05:01+00:00"
   },
   {
+    "id": "64fd85a240e991e1eaae",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVktuYlpabXM4d3lvaGxuU1R6a05reHhGanNrdXNGTmhDU0RMbVNoRjdUZ2lHU2N5amtycmZrZVNqc2V4U0J3eWpJOHA5cXNrUXpTMXRfdEVBVi10eGhreUtvdE9JdFBZWEtWbXZjZHFwenUzNS1USUZqWjZMdVl6UmtuQW16YnhBeFlnVmw2Tlh5UFJ5Tm1sc2VfRW5CQnJtSlBZNVdtall1djBMT1JsZ1k1Sy1jSTFtNnNjdWZMbURaeDE1anBaeVlmdnJhTUkyY1VN0gHgAUFVX3lxTE5xSERjRVhnenlLNkgwaS02R3FvQno5NllINkpCSnN0anlkb2RacFIwMUhSZEdoYl9HQmFsZDV4ZGdVcEc3X05tWS1NbWwxNG5ZSlBRUDhlVWFhLWtDR3pXakVuQUcyUERCamhJdW12OTQ3MHdYa3ZENGh2OWs3RGxGNDhFVjNHU1RzQ2JxR1dsV2h1MjFjOFFnYk9ZRFgxVzZhdVBJaXhqYmp0eXhtcmtLSUZnUVhFQUYxWTB1QVhoMzF5blRMUE5JbUczNHRYa2JWX1lHRWNVQUFlc0RkdmRS?oc=5",
+    "original_title": "Retail inflation breaches RBI’s upper tolerance band at 6.09% in October, first time in two years - Fortune India",
+    "original_summary": "Retail inflation breaches RBI’s upper tolerance band at 6.09% in October, first time in two years Fortune India",
+    "published_at": "2026-11-12T10:50:14+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A inflação no retalho ultrapassa o limite superior da margem de tolerância do RBI, situando-se nos 6,09% em outubro, pela primeira vez em dois anos - Fortune India",
+    "translated_summary": "A inflação no retalho ultrapassa o limite superior da margem de tolerância do RBI, situando-se nos 6,09% em outubro, pela primeira vez em dois anos Fortune India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:49+00:00"
+  },
+  {
     "id": "2fde3983477934e8f9ce",
     "country": "China",
     "category": "Política",
@@ -3558,6 +4049,26 @@
     "translated_summary": "Em 1827, foi concluído o edifício governamental mais antigo de Singapura. 199 anos depois, o antigo Palácio do Parlamento está a trocar as leis por uma enorme homenagem a \"O Senhor dos Anéis\". Secret Singapore",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T16:07:27+00:00"
+  },
+  {
+    "id": "951cc5d846073ab9c814",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "Rti 中央廣播電臺",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kSVV4QWJHZ2hORm9zeGp2ODA1aVVPZURnUng1Z3pDNnRGY1dJN1JHbVBpQmlhSG0zX1FTMjEyZm5tMlE3NDg4VUtXVDI5dUxaZ2traFRLMnU?oc=5",
+    "original_title": "羅大佑批政府讓人不敢發聲 梁文傑：台灣言論自由不證自明 - Rti 中央廣播電臺",
+    "original_summary": "羅大佑批政府讓人不敢發聲 梁文傑：台灣言論自由不證自明 Rti 中央廣播電臺",
+    "published_at": "2026-11-12T10:15:51+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Lo Ta-yu critica o governo por fazer com que as pessoas tenham medo de se manifestar. Liang Wen-chieh: A liberdade de expressão em Taiwan é evidente — Rti Rádio Taiwan Internacional",
+    "translated_summary": "Lo Ta-yu critica o governo por fazer com que as pessoas tenham medo de se manifestar. Liang Wen-chieh: A liberdade de expressão em Taiwan é evidente. Rti Rádio Central",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:23+00:00"
   },
   {
     "id": "74d9fabdf72401aaa72b",
@@ -4839,6 +5350,29 @@
     "last_translation_attempt_at": "2026-11-12T09:08:33+00:00"
   },
   {
+    "id": "017098e99eb1aabf5f46",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "CarWale",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGZRVExnUDZkWTR6TlVhTlFpZF83SkRZVmhiVHJHZzJyT0Z6UHdxWlBBdGRIa3dPQ0d6NU1Ma0h1dmhrZDY4OFVGTTYyRGV5eFBWT25HQkpnVURLZm8yaGVZcHZJVVNVaXdvakpBRWlwa0tubVdUMU03cXdnTWFGNkpVYmM1QkxjZnBDVUtZWWlLU0xVVnc?oc=5",
+    "original_title": "Kia India Announces USD 2 Billion Investment for Second Plant - CarWale",
+    "original_summary": "Kia India Announces USD 2 Billion Investment for Second Plant CarWale",
+    "published_at": "2026-11-12T08:35:16+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Kia India anuncia um investimento de 2 mil milhões de dólares na segunda fábrica - CarWale",
+    "translated_summary": "A Kia India anuncia um investimento de 2 mil milhões de dólares na segunda fábrica CarWale",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:52+00:00"
+  },
+  {
     "id": "6d425ac449be95a763a6",
     "country": "Índia",
     "category": "Automóvel",
@@ -6012,6 +6546,26 @@
     "last_translation_attempt_at": "2026-11-12T07:25:35+00:00"
   },
   {
+    "id": "cc4629d957c0c66dd3b1",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "Mountainbikes.pt",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3ZuY0hPdGtWdXlxQWJIN3FDa2s5SmtwM1EtNUFFZW56RkkxUS1UY01ucWFUSDhEd0l3TFBPUl9vNkZ1WHRyNVNDOWhyZnpZeWUxWE9rbFY1RE9wUkNTNVlGRGNRaDZCTTZYeVpSU2Z5M1FWRVozdllNRnllN1ZZZVluU3lhV1lZTFM2MF9zMWx1UldpMjI2Z04yOHhjSUVpRzJXMFZpY9IBrAFBVV95cUxQaWZESGc0bGtTeEIyVmVhR3RKQk9QcC1hUUZKT0d4cDQxNHp1Y0w2OE1BUktLS0NjaF9NQ28xdkNXaFdVdXh4WmtFanJadlVNRDRvakt2eFYyN3JQN3YzWHkySUpCZHM5UXJzNTlmb0lyZlRiVVZkWEZKSjh2SjRQYVJ4OFNvbjhKWTkwRUVJNXRPX2x5bm1FaWo5aTU2Y2pQTy11SHFBbHE3ODdK?oc=5",
+    "original_title": "Beeq lança nova gama de bicicletas elétricas com motores Bosch - Mountainbikes.pt",
+    "original_summary": "Beeq lança nova gama de bicicletas elétricas com motores Bosch Mountainbikes.pt",
+    "published_at": "2026-11-12T07:00:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Beeq lança nova gama de bicicletas elétricas com motores Bosch - Mountainbikes.pt",
+    "translated_summary": "Beeq lança nova gama de bicicletas elétricas com motores Bosch Mountainbikes.pt",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:36+00:00"
+  },
+  {
     "id": "e38924d6c4d40a64df82",
     "country": "Portugal",
     "category": "Economia",
@@ -6823,6 +7377,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "4131b54182c6e7393799",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "PChome Online 新聞",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkJRZTRMMXJOVDQ2S2FSQjJzSG83VktXYWJySDd2UGVrZFFzVkVtX2xUUW9WWkx6S2xwbjh4S1hrZjJja0l6ZlFFREZFb3AyZ2xsTHZIc3lJRzJTUUhPYUJUaVVndWNsb0FVWkVCM0o0aGIxNjdkM0F3b0RYTHVkVGFFZ09LaER5eEE?oc=5",
+    "original_title": "G7外長聲明支持台灣國際參與林楚茵肯定外交部長期努力成果- 政治新聞 - PChome Online 新聞",
+    "original_summary": "G7外長聲明支持台灣國際參與林楚茵肯定外交部長期努力成果- 政治新聞 PChome Online 新聞",
+    "published_at": "2026-11-12T05:16:56+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Declaração dos ministros dos Negócios Estrangeiros do G7 em apoio à participação internacional de Taiwan. Lin Chuyin reconhece os resultados dos esforços de longa data do Ministério dos Negócios Estrangeiros - Notícias políticas - PChome Online News",
+    "translated_summary": "Declaração dos Ministros dos Negócios Estrangeiros do G7 em apoio à participação internacional de Taiwan. Lin Chuyin reconhece os resultados dos esforços de longa data do Ministério dos Negócios Estrangeiros - Notícias Políticas PChome Online News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:20+00:00"
   },
   {
     "id": "139e96fe9afc38cf8bfd",
@@ -10920,6 +11496,26 @@
     "last_translation_attempt_at": "2026-11-12T12:03:32+00:00"
   },
   {
+    "id": "c4bd8a36abf88597dfaf",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "TBSテレビ",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VcHotX3V0VHlrNmZBZ25sN25Yc1Q1YnVEV0RUYUZoblN6NEh2cklTX2p4OS0zUHVSRVdFRE93ZGZyQkJwMzQzZ3FWZ05GWW9jdUFUNzFBRXlldw?oc=5",
+    "original_title": "スズキ軽乗用EV「eSKY」が「RJC カー・オブ・ザ・イヤー」を受賞 ガソリン車から乗り換えても違和感なく扱いやすい操作性評価 - TBSテレビ",
+    "original_summary": "スズキ軽乗用EV「eSKY」が「RJC カー・オブ・ザ・イヤー」を受賞 ガソリン車から乗り換えても違和感なく扱いやすい操作性評価 TBSテレビ",
+    "published_at": "2026-11-11T21:00:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O veículo elétrico ligeiro de passageiros \"eSKY\" da Suzuki vence o prémio \"RJC Car of the Year\" Avaliação da facilidade de utilização sem desconforto, mesmo ao mudar de um veículo a gasolina - TBS Television",
+    "translated_summary": "O veículo elétrico ligeiro de passageiros \"eSKY\" da Suzuki vence o prémio \"RJC Car of the Year\" Avaliação da facilidade de utilização, sem desconforto mesmo ao mudar de um veículo a gasolina TBS Television",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:57:48+00:00"
+  },
+  {
     "id": "9075fd1cc2c6e6173fd8",
     "country": "China",
     "category": "Política",
@@ -14701,6 +15297,28 @@
     "translated_summary": "Índia proíbe a exportação de massa preta de bateria de íon de lítio para impulsionar a reciclagem doméstica e a recuperação mineral crítica www.nktv.in",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T13:15:29+00:00"
+  },
+  {
+    "id": "6bbf8cad76420e7b049f",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Público",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkw4MlFOX0V1dEt6QkZHTEw1QnZOOTZrb0ctS3JBZHRwc1QxM0dPMlNVWUsxSnZGVUhvRm5PUDlaaThXbEZIVGVzX1loNVF1M29oWEMzRC1QX0I1bWl6SnVsVEw2c1psSUZ2SmhxSDFMZnNLVklGVzNZbjdPeUlmaUVpSFR0UDlDUUd6WlEyUkUybVkzaEhFSTNhV2RucjNuUFJyRGdodzBpWE1Hbk9GdnFVaEg3OTJsVm92YjNnQzVGRnh0?oc=5",
+    "original_title": "Tempestade Charles: queda forte, mas temporária, da economia é cenário provável | Conjuntura - Público",
+    "original_summary": "Tempestade Charles: queda forte, mas temporária, da economia é cenário provável | Conjuntura Público",
+    "published_at": "2026-11-11T12:30:51+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Tempestade Charles: queda forte, mas temporária, da economia é cenário provável | Conjuntura - Público",
+    "translated_summary": "Tempestade Charles: queda forte, mas temporária, da economia é cenário provável | Conjuntura Público",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:59:03+00:00"
   },
   {
     "id": "4bd1ea1f51d609c1d16d",
@@ -33048,6 +33666,26 @@
     "translated_summary": "Vanguard Properties escolhe SAP para modernizar gestão financeira nas empresas do grupo em Portugal SAP News Center",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T11:11:53+00:00"
+  },
+  {
+    "id": "07c6862f713dad7695ea",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMS1wbDBTN2ZTaGY1LV94LWtjOURRVjJRN3pBM1IyTVFnZjZaeXdSVEUxczhBckFBN0ItV3dWTzRtYWEtQV9MOVZTVkJ6ZWxjRlRoQTZFcFp4ZFd1cVZjVmNoelVEbzVIUkFtY1o2S2ZSdHdXQkRWQ3c1Sjh2UkZmRDNpZWo1SENxcHlmTUo3cHd3UQ?oc=5",
+    "original_title": "Transforming for the future of global trade - The Business Times",
+    "original_summary": "Transforming for the future of global trade The Business Times",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-12T17:57:20+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Transformar para o futuro do comércio global – The Business Times",
+    "translated_summary": "Transformar para o futuro do comércio global The Business Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T17:58:55+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
