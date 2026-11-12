@@ -84,6 +84,239 @@
     "last_translation_attempt_at": "2026-11-12T17:59:06+00:00"
   },
   {
+    "id": "c63bd81e0498a518e3b3",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/braga-mercado-de-natal-de-palmeira-regressa-em-dezembro/",
+    "original_title": "Braga: Mercado de Natal de Palmeira regressa em dezembro",
+    "original_summary": "O Mercado de Natal de Palmeira, em Braga, realiza-se nos dias 12 e 13 de dezembro, entre as 10:00 e as 18:00, no Multiusos da Vila. A terceira edição volta a reunir comércio local, atividades para várias idades e iniciativas destinadas às famílias. A programação inclui workshops, aulas de grupo e a presença do Pai […]",
+    "published_at": "2026-11-12T21:40:49+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga: Mercado de Natal de Palmeira regressa em dezembro",
+    "translated_summary": "O Mercado de Natal de Palmeira, em Braga, realiza-se nos dias 12 e 13 de dezembro, entre as 10:00 e as 18:00, no Multiusos da Vila. A terceira edição volta a reunir comércio local, atividades para várias idades e iniciativas destinadas às famílias. A programação inclui workshops, aulas de grupo e a presença do Pai […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:42+00:00"
+  },
+  {
+    "id": "b41cfdc278808dd4b477",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "自由評論網",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSmtsZE9XcVVsQ1JadGpkMHR5eGRFd1ZTaVM0eUlENEYxcFA1bUlrUDNhYnlvQ1JtOTNnTjhyenlDQlZiS19OaG1CNVNRMXFsYTE2T2JubHrSAV5BVV95cUxOTWhlZFNTTEI5UXZFZVlmVUVjTzk2THNfTUgxb0VrTjJ0YjgzQnBJLUVLbVY5SG5ZVFVvd0xKNkxJYktqLXEyUlR5V1p0NUc2WmlibG5QOUhZblJNWURn?oc=5",
+    "original_title": "社論》共諜鯁喉 敵人已在立法院 - 自由評論網",
+    "original_summary": "社論》共諜鯁喉 敵人已在立法院 自由評論網",
+    "published_at": "2026-11-12T21:30:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Editorial \"O espinho dos espiões conjuntos: o inimigo já está no Yuan Legislativo\" - Liberty Times Net",
+    "translated_summary": "Editorial \"O espinho dos espiões conjuntos. O inimigo já está no Yuan Legislativo\" – Liberty Times Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:03+00:00"
+  },
+  {
+    "id": "8d1766bd97b3fecc5910",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Merkur",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjdSckpMZ2Y3SUxuREFnUER6dll2dE9nS1doVnBMTkpYUU01MnBsNWk0eVdSN2tGOUF3NnRMZnJuUHNxeEVvbGQycjdZd0FpZ1FVT0U1eHZyUlBQYm1pWlQ3LVA4dDhlWTA2aFRLbWVtYnJGOU1ZWGh6VEI5LThwUjFlUnFXVmpfWWxWRFFuQ3lab2JUTVhpWlpQWGFSY3Z1bERmbDJwX2xyWVRQa0pNMzIwMkNubTRKLWp1b3pZS2VjR05XRkE?oc=5",
+    "original_title": "Mercedes erhöht Druck auf Belegschaft: Management kündigt Investitionsstopp und drohende Werksschließungen an - Merkur",
+    "original_summary": "Mercedes erhöht Druck auf Belegschaft: Management kündigt Investitionsstopp und drohende Werksschließungen an Merkur",
+    "published_at": "2026-11-12T21:28:52+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes aumenta a pressão sobre os trabalhadores: a administração anuncia uma paragem dos investimentos e a ameaça de encerramento de fábricas - Merkur",
+    "translated_summary": "A Mercedes aumenta a pressão sobre os trabalhadores: a administração anuncia uma suspensão dos investimentos e a ameaça de encerramento de fábricas ao Merkur",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:52+00:00"
+  },
+  {
+    "id": "7b20c5680a710cd42d1d",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Finanztrends",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEdZOGhxWDFJLWROQS02UzFMb2pnLWwwYWJIY3FDeTg1M2tDeU8yTDFXYVA2Qjk5V3QtUUFKUkRSMjhHNFZlOEl4U3BlZFlpdThyeDhrbkNqZ0tmRkZqS2pnYnJQeFpDTUN3aDZQWUZPZ1FxVEpUNVhsN3IxNzBKNTU0U1lIN2tkcENDelBITTZfZW95UWJrVmVqNk90dlpERThyNQ?oc=5",
+    "original_title": "Mercedes-Benz Aktie: Schiebe prüft Werksschließungen in Deutschland - Finanztrends",
+    "original_summary": "Mercedes-Benz Aktie: Schiebe prüft Werksschließungen in Deutschland Finanztrends",
+    "published_at": "2026-11-12T21:23:19+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ação da Mercedes-Benz: Schiebe analisa encerramentos de fábricas na Alemanha - Tendências financeiras",
+    "translated_summary": "Ação da Mercedes-Benz: Schiebe analisa encerramentos de fábricas na Alemanha Tendências financeiras",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:58+00:00"
+  },
+  {
+    "id": "0c0e4294d9eb65a05b35",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "AICEP",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0FlV1VQN2pPWFhwcGNWM2VENTR0UWtFS3pUeGVwOWVYRVl1TVhMc2FfNjg0TTlJMlMxTG9fZGtKTGdrZUs3cnlBam5FN3hwOWNxUFFtYVA3N2Q2ZlhMekF0d29vWUpMalc1OVlxWks0XzJrV0o2SFNKTHpqX3VRSzNUSXRCSjNJdWI3c19tMXVpZTRtRkhhYXIyaVJkcF9T?oc=5",
+    "original_title": "Fórum Portugal-EUA cria quatro grupos de trabalho - AICEP",
+    "original_summary": "Fórum Portugal-EUA cria quatro grupos de trabalho AICEP",
+    "published_at": "2026-11-12T21:20:29+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Fórum Portugal-EUA cria quatro grupos de trabalho - AICEP",
+    "translated_summary": "Fórum Portugal-EUA cria quatro grupos de trabalho AICEP",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:40+00:00"
+  },
+  {
+    "id": "0c6beac0a5a57362a7f8",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/ajudas-de-custo-na-funcao-publica-vao-aumentar-5_v1778793",
+    "original_title": "Ajudas de custo na Função Pública vão aumentar 5%",
+    "original_summary": "Governo e sindicatos reúnem-se por estes dias para negociar aumentos salariais e subsídios de alimentação. Em cima da mesa estão o aumento do custo de vida e a inflação.",
+    "published_at": "2026-11-12T21:17:47+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Inflação e preços"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ajudas de custo na Função Pública vão aumentar 5%",
+    "translated_summary": "Governo e sindicatos reúnem-se por estes dias para negociar aumentos salariais e subsídios de alimentação. Em cima da mesa estão o aumento do custo de vida e a inflação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:38+00:00"
+  },
+  {
+    "id": "ac3f13574e54a2c0dbc9",
+    "country": "Bosch",
+    "category": "Tecnologia",
+    "source": "Bosch · Chips, IA e software",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-technology-en",
+    "publisher": "Mexico Business News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVctcHN6T1JxM3V0YllYUHJxeUZXc0l5NXREYWZxdlIxdWRIMGlOMmtpVVk2Vl81UmcyY3c5MzNEa29QZFNkdzdfNVIzSERXQk03RUJaYU1oREY2QlhZa0JqZHdXeWkzeG5nOV9sRkQ1SlhmZW1OaVpwNmZqZ2gtMg?oc=5",
+    "original_title": "Siemens, Bosch Cut NVH Testing Time by 93% - Mexico Business News",
+    "original_summary": "Siemens, Bosch Cut NVH Testing Time by 93% Mexico Business News",
+    "published_at": "2026-11-12T21:17:07+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Siemens e Bosch reduzem o tempo de testes NVH em 93% - Mexico Business News",
+    "translated_summary": "Siemens e Bosch reduzem o tempo de testes de NVH em 93% Mexico Business News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:10+00:00"
+  },
+  {
+    "id": "25a83f3e60ff6aa312c6",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "Notícias ao Minuto",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEh0b0UxaTFXenYzSGxrSm1fc2EtNGZSZzhRUHZlYzJpWlVfbmRZMHlob0dMXzMyYnpkQ2d2VmZjT0hDWEozWFpaYXFxMmRIREV4cHVSeHRkU25aUzlfQzd6M013QUVpRF9Vc2VBcXh5WHlxVFVsT1duU0pGcDlLNkVSdzdkcUk1VHg1TTRsWVBuOWsyNmg2WDVUZ1IxM1dtSld5eEhabW5qZVM4UVM4N004TkdzRGlmcF8tTGhZX2dYZEhzZFBnQXltb2pZZw?oc=5",
+    "original_title": "Bosch altera horários na fábrica de Braga e garante manter salários - Notícias ao Minuto",
+    "original_summary": "Bosch altera horários na fábrica de Braga e garante manter salários Notícias ao Minuto",
+    "published_at": "2026-11-12T21:11:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bosch altera horários na fábrica de Braga e garante manter salários - Notícias ao Minuto",
+    "translated_summary": "Bosch altera horários na fábrica de Braga e garante manter salários Notícias ao Minuto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:13+00:00"
+  },
+  {
+    "id": "9664c65c1c49afdc2628",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Dinheiro Vivo",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXpMWnRIanZ3bVRPckprSVhESEVDYWpROXR2RFlNRFVZU0YzMnVSc1R5Z2xEQ0d1TVdTWnRMaDVTQS0ySVB3SlNqTFRVYVdqNS1wenJjc0c4c3d3eVgxa25CUUJMMG5mYVN4YnJlMWYxSWlFcEtUOEI5cU1BdmxldmwtRGVxai1USU9FOGJTMUI4NWh3XzFtVjV3LWJkLTJrQlNudkpvei1oekNwc21HdGJ0UmdHNlZ4eVdMWlBkdWpMdw?oc=5",
+    "original_title": "CEO da Stellantis: Sem ajuda estatal e protecionismo, indústria automóvel europeia não resiste - Dinheiro Vivo",
+    "original_summary": "CEO da Stellantis: Sem ajuda estatal e protecionismo, indústria automóvel europeia não resiste Dinheiro Vivo",
+    "published_at": "2026-11-12T21:08:32+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "CEO da Stellantis: Sem ajuda estatal e protecionismo, indústria automóvel europeia não resiste - Dinheiro Vivo",
+    "translated_summary": "CEO da Stellantis: Sem ajuda estatal e protecionismo, indústria automóvel europeia não resiste Dinheiro Vivo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:37+00:00"
+  },
+  {
+    "id": "b3a87f86b854f6ecc9b3",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "WEB.DE",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjJaeVkxRm1kN1I0MUFWNEd5dGxvcl8zSnVQempIWmtmb21FYUJoZDVZaF9JOUxjWm82YU1jOWpaOTB5V0RqbTVGRkk3eUZ1QnBRR1BGTlR1MmlUa01aeE5WV0FlMDIwVDFPR2IxdDdqSGhOanZ2cGw5d0IxcFNobk1kNG9pWlBhVHJ6NVpVLUZmRHVFWlRZclI2UGEtUQ?oc=5",
+    "original_title": "Mercedes prüft Werksschließungen in Deutschland - WEB.DE",
+    "original_summary": "Mercedes prüft Werksschließungen in Deutschland WEB.DE",
+    "published_at": "2026-11-12T21:03:20+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Mercedes está a considerar o encerramento de fábricas na Alemanha - WEB.DE",
+    "translated_summary": "A Mercedes está a considerar o encerramento de fábricas na Alemanha WEB.DE",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:55+00:00"
+  },
+  {
+    "id": "4698f801e1f031142b36",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/web-summit-evento-teve-menos-um-dia-devido-ao-mau-tempo_v1778787",
+    "original_title": "Web Summit. Evento teve menos um dia devido ao mau tempo",
+    "original_summary": "Terminou a Websummit em Lisboa. A organização revelou que foi o Governo que decidiu que ontem não podia abrir portas.",
+    "published_at": "2026-11-12T20:57:51+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Web Summit. Evento teve menos um dia devido ao mau tempo",
+    "translated_summary": "Terminou a Websummit em Lisboa. A organização revelou que foi o Governo que decidiu que ontem não podia abrir portas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:39+00:00"
+  },
+  {
     "id": "26b151f7db92b661218e",
     "country": "Portugal",
     "category": "Economia",
@@ -104,6 +337,28 @@
     "translated_summary": "Depois dos protestos pela habitação e da tempestade, aceleram-se os trabalhos de montagem dos stands.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T20:56:22+00:00"
+  },
+  {
+    "id": "1334cc4651ba93977b5c",
+    "country": "Bosch",
+    "category": "Portugal",
+    "source": "Bosch · Portugal",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-portugal-pt",
+    "publisher": "O Vilaverdense",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2NCZGFFRjlqMjBjQkptcVB6OUdzQ2FHVWFCajROZFkyZUxNMUlza2t2X0plUkNnSmNvc3VLdUtYb2VadmtlT3Y0cHJNenRGUTNEV0NKT3AtakJXRHlyOTVpWFBHUDg3Q3ZXdzZ5Z1A2X2dvUlRTY0k4TGJuNVNmcHBEZjhSbnNTUUZ3UGVrYzJrdFdqckpabFRnRlhDSi1CSi1pT09zRTktZENGTzdqTERudDZiT1VxSzAtNXg4bw?oc=5",
+    "original_title": "Bosch de Braga elimina turnos de laboração contínua, mas garante que salários não serão reduzidos - O Vilaverdense",
+    "original_summary": "Bosch de Braga elimina turnos de laboração contínua, mas garante que salários não serão reduzidos O Vilaverdense",
+    "published_at": "2026-11-12T20:44:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Bosch de Braga elimina turnos de laboração contínua, mas garante que os salários não serão reduzidos - O Vilaverdense",
+    "translated_summary": "A Bosch de Braga elimina turnos de laboração contínua, mas garante que os salários não serão reduzidos O Vilaverdense",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:16+00:00"
   },
   {
     "id": "9060b8532b7611d1fd94",
@@ -232,6 +487,71 @@
     "translated_summary": "A 30 de outubro, a Toyota Motor anunciou uma parceria com a Waymo, que fornece tecnologia de condução autónoma sob a forma de \"Waymo Driver\". Anunciou que o táxi autónomo sem condutor \"bZ4X\", um veículo elétrico a bateria equipado com a tecnologia da Waymo, entrará em serviço em 2027. Este veículo de condução autónoma de nível 4 será produzido na fábrica de Takaoka da Toyota Motor Corporation (Toyota, Aichi), onde será realizada toda uma série de processos, desde a montagem do veículo de base até à instalação do hardware de condução autónoma da Waymo. Será o primeiro táxi totalmente autónomo do Japão a utilizar veículos produzidos em massa no país.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T20:55:28+00:00"
+  },
+  {
+    "id": "e07850c2035dbca10135",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "日経クロステック",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdkduWlJKRmZhTVVjWWpsNFN6TlprWkN2QXFkM2txcGxvVzBtYVlhZ0ZQUEh5UVRkdm8xay1yTWRHcWdaa1BwVGs2UXFBUmdla0pjakFjaVZfRjBNRjE3SjZoRXNXendNaDhHTw?oc=5",
+    "original_title": "インド半導体、日本企業の勝機は市場形成にあり 自動車のスズキがお手本に - 日経クロステック",
+    "original_summary": "インド半導体、日本企業の勝機は市場形成にあり 自動車のスズキがお手本に 日経クロステック",
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Semicondutores",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Semicondutores indianos: a oportunidade para as empresas japonesas está na formação do mercado. A Suzuki, fabricante de automóveis, é um exemplo - Nikkei Cross-Tech",
+    "translated_summary": "Semicondutores indianos: a oportunidade para as empresas japonesas reside na formação do mercado, com a Suzuki, fabricante de automóveis, como exemplo Nikkei Cross-Tech",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:42+00:00"
+  },
+  {
+    "id": "51507c2038bfb2f70e64",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "日経クロステック",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTElmWFBjb1NNZ2VXN3VmOHdXbXRudzhPVDhzcE1UbnJsQnY4a0VLWTI3TGU3NXFmbXYxdHV5N1puSjczaFlYUkc5N09tQVpWcHdPMV9CVDZYM2VLUmJVeW1hUmpLMTlIcm53VA?oc=5",
+    "original_title": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待 - 日経クロステック",
+    "original_summary": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待 日経クロステック",
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os táxis-robô da China e da Coreia do Sul estão a avançar para a implementação prática, enquanto o Japão está uma volta atrás. Espera-se que a estratégia da Toyota seja bem-sucedida - Nikkei Crosstech",
+    "translated_summary": "Os táxis-robô da China e da Coreia do Sul estão a avançar para a utilização prática, enquanto o Japão está uma volta atrás. Esperam-se resultados da estratégia da Toyota. Nikkei XTECH",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:46+00:00"
+  },
+  {
+    "id": "24db08a203c47b9eb654",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Diário do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-diario-minho",
+    "publisher": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1lNaHdfb2VjZUZHSUJiYkJra1pocFJHeDZINGlDd0ZUdUVDQW43ZnB5azZ5ZmJHMDhRaHhzQUg1d185dExKT1BQQURQZ3FjT3I3M2NQb3hUTlFXTDdnam9wS2xfM3lfOEVZaXA4VWpqOFdXXy0ybnp6b0llWUZSUF84c19qbm9PMFdnLTZZYVlHTVIydkhIRUlPTlJnY3VmTE5iTkQ0MnR5OXBfdHhwWC1fWXp2dXRiNlBvSWtBTnViSTdzSnMzS0IxVHRBNURqVEhUUHpsc9IB3AFBVV95cUxOTGVJdjRmbFA5QXJUY3VTOFJUeExOSFhObFM5VXZhZUVfSktORUY1X3BHNDBDbUZ4UEVpY3JJZFBmWi1FNzk2TzVhMUR2Ul9TLWlyYWpkd1BURnhkMUp1Yk5vallmZm9NbmJFa3p4Mnhob0pWN3drNHRDOU1sQWs1ZmItUHNCSjZMeUduaFcwUlU0SnJmNHI3bVZRUE10NXRRWEp2RXRXb3EzWjF6LXBXbE8yU3pfUXFyQmdMUWotdnZHdW1ld1RjTXJsYVVDdjkybk5paW45UGwwZ1Jr?oc=5",
+    "original_title": "Victor Hugo Pontes leva «três gerações distintas» amanhã ao Theatro Circo - Diário do Minho",
+    "original_summary": "Victor Hugo Pontes leva «três gerações distintas» amanhã ao Theatro Circo Diário do Minho",
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Victor Hugo Pontes leva «três gerações distintas» amanhã ao Theatro Circo - Diário do Minho",
+    "translated_summary": "Victor Hugo Pontes leva «três gerações distintas» amanhã ao Theatro Circo Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:41+00:00"
   },
   {
     "id": "603dd46ea8cfd6c9bc61",
@@ -2800,6 +3120,28 @@
     "last_translation_attempt_at": "2026-11-12T20:55:39+00:00"
   },
   {
+    "id": "bc4f82d07e3aa598bd0b",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "energate messenger",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDZLbG9HNC1UN0g3ZHFXdjVRbm00R0t1UzlFUmRuZXlPc3NVN25fYXNrMXlfLXhoQmFQaDg4ZDQxdUloRkNkRjFYM3NNT0pseV9PSWFaSHBCeElueWVlRDdSWjhuaXR5TWJLVkg1ZmhFNlM2bHNEcXVwUHh5Ym5YQkVYcF9YU1JfOHpBeUljOFd0YWJCWGEzeUc2NzU0aXd1Q3U0?oc=5",
+    "original_title": "Bundestag beschließt Änderungen an Biomasseverordnung - energate messenger",
+    "original_summary": "Bundestag beschließt Änderungen an Biomasseverordnung energate messenger",
+    "published_at": "2026-11-12T14:53:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Bundestag aprova alterações ao Regulamento da Biomassa - energate messenger",
+    "translated_summary": "O Bundestag aprova alterações ao Regulamento da Biomassa energate messenger",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:49+00:00"
+  },
+  {
     "id": "5a563a233e1633bb85fc",
     "country": "Bosch",
     "category": "Indústria",
@@ -4389,6 +4731,26 @@
     "translated_summary": "Taiwan vai encerrar o seu gabinete de representação na Papua-Nova Guiné no final deste mês, depois de o país insular do Pacífico ter exigido repetidamente o seu encerramento, invocando a sua \"política de uma só China\". A retirada interromperá a assistência técnica taiwanesa e porá fim a décadas de cooperação com a PNG, incluindo a suspensão das compras no mercado à vista de gás natural liquefeito (GNL) do país – uma medida que, segundo Taipé, poderá prejudicar as receitas de exportação do país. \"É profundamente l",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T12:04:10+00:00"
+  },
+  {
+    "id": "deffa4156986ddf41d81",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch Media Service · Oficial",
+    "source_type": "Comunicado oficial",
+    "source_id": "bosch-official-de",
+    "publisher": "Bosch Media Service · Oficial",
+    "url": "https://www.bosch-presse.de/pressportal/de/de/metstrade-bosch-engineering-ermoeglicht-schnelle-elektrifizierung-von-booten-mit-plug-and-play-komplettloesung-287168.html",
+    "original_title": "METSTRADE: Bosch Engineering ermöglicht schnelle Elektrifizierung von Booten mit Plug-and-Play-Komplettlösung",
+    "original_summary": "",
+    "published_at": "2026-11-12T12:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "METSTRADE: A Bosch Engineering permite a eletrificação rápida de embarcações com uma solução completa plug-and-play",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:09+00:00"
   },
   {
     "id": "bc34f9a0ad59e28bef14",
@@ -8819,6 +9181,28 @@
     "last_translation_attempt_at": "2026-11-12T06:09:19+00:00"
   },
   {
+    "id": "71acb3f52107a4e3950e",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Realty Plus Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkRNT2hOc3k2YU5FUHBvT2lsMzZiVVd5TzVxTHBoenFzNEFqOS1GXzJIVWJRdnQxc0pnX29oU3dLWnEwalVGVnJmUThvaGdiWlQ0VnFOVElMOEhoZWtNSW5nbW9rZEhDcDl0cHdCWnZJRnhKNnRYQWg5MlVISENIM1lHaWJWdWFzYmJ0STRCUmo1OG9mSDNtbTVqOEN5cjBXOHBTTFl2cEdKTjVRTVZYbno3Tm9tYTF4d0E?oc=5",
+    "original_title": "India’s GDP Growth Forecast at 7%: What it Could Mean for Real Estate - Realty Plus Magazine",
+    "original_summary": "India’s GDP Growth Forecast at 7%: What it Could Mean for Real Estate Realty Plus Magazine",
+    "published_at": "2026-11-12T05:21:38+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Previsão de crescimento do PIB da Índia em 7%: o que poderá significar para o setor imobiliário - Realty Plus Magazine",
+    "translated_summary": "Previsão de crescimento do PIB da Índia em 7%: o que poderá significar para o setor imobiliário Realty Plus Magazine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:27+00:00"
+  },
+  {
     "id": "20aa1f15abd9ca2c243b",
     "country": "China",
     "category": "Economia",
@@ -10550,6 +10934,28 @@
     "last_translation_attempt_at": "2026-11-12T02:20:50+00:00"
   },
   {
+    "id": "916067f13e9760518c61",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中視全球資訊網",
+    "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQjIzRHpFcThucTJXMlY0MURscVlnaHJXVkROQ0x5S0JDZzBtLU8zX2MzcTlHUVlqcUxqRFZzU2pHSFUtSGhaX0VTYmpTQ1A1MWZWZVZJMW5TNlBoZ2lPOWpLek45NW5LNHYtRjlWOV9BUEFhd1VHLUJJYnNCTk9RendXNC11U09lNlJVVVh2OUNrQ0RHOVliUXl1Y0o1X0FJbmxrZHNGdzJqcF9RekNublE4aGVBaXZXamxYb0U0aFJOOXlwLUs1ZlI3X1FUaUF6Z2NDY1pDczBJV2Z2MlNGcUlvRndzaXZsdW5YTjVSOXFybHdmRnBMbllkamFkZ0FfanRjN0JiWHBhRnVZbHVjdF9RTWpQbFp2djd4dC0wVFFLeHdHTFlNRV91cXhyRDJtdDExWlc2dVdUV283TTVWY1JmR0FjY3pPdXJWTzhnZlVJMUE2NW1mTEVkYTdoajdyMHdJc0NWdndZcWd1ai1Mc1AxN2l1QXVtM1NkTWpPM1FWU0JsVDBmM3ZrbXZqdw?oc=5",
+    "original_title": "美官員來台政府單位工作?! 外交部:不會接觸機敏資料│中視新聞 20261112 - 中視全球資訊網",
+    "original_summary": "美官員來台政府單位工作?! 外交部:不會接觸機敏資料│中視新聞 20261112 中視全球資訊網",
+    "published_at": "2026-11-12T02:08:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Funcionários norte-americanos vêm trabalhar para órgãos governamentais de Taiwan?! Ministério dos Negócios Estrangeiros: Não terá acesso a informações sensíveis │ CTV News 12/11/2026 - CTV Global Network",
+    "translated_summary": "Funcionários norte-americanos vêm trabalhar para órgãos governamentais de Taiwan?! Ministério dos Negócios Estrangeiros: Não terá acesso a informações sensíveis │ CTV News 12/11/2026 CTV Global Information Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:00+00:00"
+  },
+  {
     "id": "83c849604451d4677269",
     "country": "China",
     "category": "Política",
@@ -11403,11 +11809,11 @@
     "published_at": "2026-11-12T00:15:32+00:00",
     "first_seen_at": "2026-11-12T09:06:06+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Chaevi testa sistema de carregamento ultrarrápido de 1,2 MW, visando os mercados de camiões e autocarros elétricos - MoneyToday",
+    "translated_summary": "Chaevi testa sistema de carregamento ultrarrápido de 1,2 MW, visando os mercados de camiões e autocarros elétricos MoneyToday",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:43+00:00"
   },
   {
     "id": "9acd49f64c1862a381d6",
@@ -12074,11 +12480,11 @@
     "published_at": "2026-11-11T22:48:10+00:00",
     "first_seen_at": "2026-11-12T09:06:06+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A bolsa de criptomoedas Coinbase lança um centro de engenharia em Singapura em parceria com a EDB – Singapore Economic Development Board (EDB)",
+    "translated_summary": "A bolsa de criptomoedas Coinbase lança um centro de engenharia em Singapura em parceria com o Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:46+00:00"
   },
   {
     "id": "b9e0caf3748b756b74f2",
@@ -12949,11 +13355,11 @@
     "published_at": "2026-11-11T21:04:40+00:00",
     "first_seen_at": "2026-11-12T09:06:06+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A MAS lança o Serviço de Cofre de Ouro do Banco Central e planeia uma redução alargada do GST a partir de abril de 2027 - Hubbis",
+    "translated_summary": "A MAS lança o Serviço de Cofre de Ouro do Banco Central e planeia uma redução alargada do GST a partir de abril de 2027 Hubbis",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:48+00:00"
   },
   {
     "id": "48751e0a2b60437bc7af",
@@ -19277,11 +19683,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Crescimento do PIB da Índia superará o da China em 3 pontos percentuais até 2028: Moody's - ANI News",
+    "translated_summary": "O crescimento do PIB da Índia superará o da China em 3 pontos percentuais até 2028: Moody's ANI News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:51+00:00"
   },
   {
     "id": "5575fe0fc2886387d470",
@@ -20423,11 +20829,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "2330 Taiwan Semiconductor Manufacturing Company - Associação de Indústrias de Alta Tecnologia para o Desenvolvimento Económico de Taiwan: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan - Clube de Discussão sobre o Mercado de Ações - CMoney",
+    "translated_summary": "2330 Taiwan Semiconductor Manufacturing Company (TSMC) - Federação das Indústrias de Taiwan: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan - CMoney, Fórum de Discussão sobre o Mercado de Ações",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:54+00:00"
   },
   {
     "id": "c070f537d6a4879c9310",
@@ -20636,6 +21042,26 @@
     "translated_summary": "\"Conluio em licitações de obrigações do Tesouro\"... Comissão de Comércio Justo da Coreia do Sul impõe multa \"sem precedentes\" de 1,6 biliões de KRW Korea Economic Daily",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T11:11:34+00:00"
+  },
+  {
+    "id": "c71c88375b1cef162bce",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Noahpinion",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUVFrajNsbzdjOWg5WUFQWkJ0NnVfU3RDY1ZaU1J1VzZqQzJYQlpGZ1VfdC11S2laX2pEQWhUbmtEMmVRTFZfWDJidHpjSjhMNm9Wbm5ydXFuRk1zaUlQTUMtLVY4eVludUE?oc=5",
+    "original_title": "India is quietly doing great - by Noah Smith - Noahpinion",
+    "original_summary": "India is quietly doing great - by Noah Smith Noahpinion",
+    "published_at": "2026-11-11T08:51:56+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Índia está a sair-se muito bem, sem fazer barulho – por Noah Smith – Noahpinion",
+    "translated_summary": "A Índia está a ir muito bem, sem fazer barulho – por Noah Smith Noahpinion",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:24+00:00"
   },
   {
     "id": "565c1319b0b84c76e668",
@@ -21209,11 +21635,11 @@
       "Tarifas e comércio",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exportações e encomendas de exportação atingem novos máximos. O primeiro-ministro espera continuar a promover a transformação e a modernização das pequenas e médias empresas e das microempresas - Rti Rádio Taiwan Internacional",
+    "translated_summary": "Exportações e encomendas de exportação atingem novos máximos. O primeiro-ministro espera continuar a promover a transformação e a modernização das micro, pequenas e médias empresas. Rti Rádio Central de Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:58+00:00"
   },
   {
     "id": "4a5a8a97ede3dd61fd1a",
@@ -21643,6 +22069,46 @@
     "translated_summary": "【Hello World】Quando o gigante dos chips cai de forma humilhante num escândalo de espionagem, será que a tempestade de Jensen Huang vai baralhar o jogo dos chips entre os EUA, a China e Taiwan? The Reporter",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T20:55:59+00:00"
+  },
+  {
+    "id": "0344b18b73742378727d",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFZUaGJac3dNM0hQQV8zX29MYjl3VTNGM2NDYThEVWRNbnZ3Vmw5WXNNQVVCZzZBYWxqbURCX09kTFI1aDQ0MGZVSU1mZXl6RGxOUHdPd2g3djFZZjRJUG9xWkk3NHYxa3Ztei1yUFlhYm5KbTl2Um92Q243VlFjWG5mUEpMTGpzR1dsaXZxRVQ4dl9BZUNWSEQzZUxmX3FkUDhCLU5UcWVZUHJ1cXNJYmZEN1k5X0JLZnpxanJDa0diMC1N?oc=5",
+    "original_title": "Singapore to create 15,700 jobs over five years, with two-thirds paying above S$5,000: EDB - Singapore Economic Development Board (EDB)",
+    "original_summary": "Singapore to create 15,700 jobs over five years, with two-thirds paying above S$5,000: EDB Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-11T08:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Singapura vai criar 15 700 postos de trabalho ao longo de cinco anos, com dois terços a pagarem acima de 5000 SGD: EDB – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "Singapura vai criar 15 700 postos de trabalho ao longo de cinco anos, sendo que dois terços terão salários superiores a 5000 SGD: EDB Singapore Economic Development Board (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:30+00:00"
+  },
+  {
+    "id": "13fa7f3e10c998b52fa5",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEFoYlNtNUFqZHpLNFRHcWdsRjB6cmg2cXo5cWtsdTFaRHJYNC1FYlhrdHY4azkwVHdlVEhGMWkzVGVWWnh5V3RyME5HbXlsdGdoNEQ4RU00R3FnVWVNbnRMaVkxNkp5Vk9HT0cwRU9TUWkzenZqRUN1cExiNTZqdXFHRjFIYm9iUEpkYUphaDZjVzVTczZEZXV0bUFCTTA2NW1FblgtWkdVQQ?oc=5",
+    "original_title": "Singapore's Growth Mandate: Why the AI future will be won or lost on people, not technology - Singapore Economic Development Board (EDB)",
+    "original_summary": "Singapore's Growth Mandate: Why the AI future will be won or lost on people, not technology Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-11T08:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O mandato de crescimento de Singapura: porque o futuro da IA será ganho ou perdido pelas pessoas, e não pela tecnologia – Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "O mandato de crescimento de Singapura: porque o futuro da IA será ganho ou perdido pelas pessoas, e não pela tecnologia Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:33+00:00"
   },
   {
     "id": "07fb28e5f7d563472fc7",
@@ -22602,11 +23068,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "De repente, as formigas começaram a atirar… Ações que atraíram 670 mil milhões de KRW de estrangeiros - The Korea Economic Daily",
+    "translated_summary": "Deixem-nos atirar as formigas... Ações que atraíram 670 mil milhões de KRW de estrangeiros Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:01+00:00"
   },
   {
     "id": "3ab24f59dcaff59cee9c",
@@ -23365,6 +23831,26 @@
     "translated_summary": "Prova de Heungkuk \"O dólar do próximo ano - ganhou uma média de 1.327 won... caindo gradualmente para 1.300 won no final do ano\" KB Think",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:21:11+00:00"
+  },
+  {
+    "id": "c99a240c1fe2f5dda6bf",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSlRwQnk3RGotWDdKa1hxdHVwYkpxXzZWMVNVRkFkN2xYcGxJWmFDQWhZaTk3X0EzU2lUY2pCSFEzaEVOQzd3UHI3emJuYzhlWmFDVVBJQndqX1pfMUt5bHZwQ1JYNUk1TE5TQmJPdXpnYmJHSUloak9IVHU1c0hhdGF0WXMyTG5OSmYzWWdvTkN0YVVSdnFWUVdOd0pBc1RENS1vN1QxU0ZKTi1QQ1MwRW1JSFRVZzEzb256aUZaNzZ1eldRUmdxTml0TEZkMGJKY1hXZmtDZXdaZndsOWFGNllqS3JUNUJQTHFnRXlOeUlQMWVNcFpMNmYyTDJMTy04a184MkxB?oc=5",
+    "original_title": "India's Steel Industry - Spherical Insights",
+    "original_summary": "India's Steel Industry Spherical Insights",
+    "published_at": "2026-11-11T06:23:20+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Indústria siderúrgica da Índia – Spherical Insights",
+    "translated_summary": "Perceções abrangentes sobre a indústria siderúrgica da Índia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:06+00:00"
   },
   {
     "id": "cd57be4f7b3f87b0458b",
@@ -26419,6 +26905,28 @@
     "translated_summary": "O mercado de criptomoedas ficou ainda mais instável após as eleições nos EUA! Money Story do Naver Pay",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T21:42:38+00:00"
+  },
+  {
+    "id": "bf24ba4ec87df90a4f4b",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "温州新闻",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQ0x6OFhyUnoxU1lXZmYwNFRsRUpSR2FnX29vVF9YTXc5TWdhLTZIQTRjZkRYVEVyNFJadGlBQThSdTFqT3drSTFKRC1iVDEwZlJCYkVnTE92cHphQ0otRUZsX0xZdw?oc=5",
+    "original_title": "从“看见中国车”到“选择中国车”——中国新能源车在欧洲的进阶之路 - 温州新闻",
+    "original_summary": "从“看见中国车”到“选择中国车”——中国新能源车在欧洲的进阶之路 温州新闻",
+    "published_at": "2026-11-11T01:10:31+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "De \"Ver carros chineses\" a \"Escolher carros chineses\" — O caminho de evolução dos veículos de energia nova chineses na Europa - Notícias de Wenzhou",
+    "translated_summary": "De \"Ver carros chineses\" a \"Escolher carros chineses\" — O caminho de evolução dos veículos de energia nova chineses na Europa Notícias de Wenzhou",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:52:39+00:00"
   },
   {
     "id": "1141c385ca7d91f04001",
@@ -35317,6 +35825,28 @@
     "translated_summary": "Transformar para o futuro do comércio global The Business Times",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T17:58:55+00:00"
+  },
+  {
+    "id": "1db903a5ed42f70d1df5",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "vbw – Die bayerische Wirtschaft",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1hIbzJEMDRsOEVGTWwzdXU5Ulc5VElmclZBQXlYYmhOZVoyRXRGai1VZ1oyQ2ZjX0hSYTlCQkEweEZGamd0cjVVUVBkMzFCRkc2LUR0cWYwdm1HTngxSThEa2pTbl8zaF9raUxYNDlWNUpYNzh4ZkJkclZ5ZjdVbi1jR0k0Vzh2T3hSYlh5WFVMYjhVeHNfVDBmNA?oc=5",
+    "original_title": "Der vbw Index konnte sich nur minimal verbessern - vbw – Die bayerische Wirtschaft",
+    "original_summary": "Der vbw Index konnte sich nur minimal verbessern vbw – Die bayerische Wirtschaft",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Índice vbw registou apenas uma ligeira melhoria - vbw – A economia bávara",
+    "translated_summary": "O índice vbw conseguiu melhorar apenas ligeiramente vbw – A economia bávara",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:21+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
@@ -47087,11 +47617,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A melhor classificação de sempre no ranking mundial de exportações: \"em oitavo lugar, com ambição de chegar ao sétimo\"! O volume de exportações de Taiwan ultrapassará o do Japão - Indústria - Economic Daily News",
+    "translated_summary": "A melhor classificação de sempre no ranking mundial de exportações: \"em oitavo lugar, com ambição de chegar ao sétimo\"! O volume de exportações de Taiwan ultrapassará o do Japão - Indústria Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:04+00:00"
   },
   {
     "id": "4691191c9a2057b5b33e",
@@ -52759,11 +53289,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Taiwan Institute of Economic Research prevê que a economia de Taiwan continuará a registar um crescimento robusto, estimando que o PIB ainda atinja 6,45% no próximo ano - Yahoo Finanças",
+    "translated_summary": "O Taiwan Institute of Economic Research prevê que a economia de Taiwan continuará a registar um crescimento robusto e estima que o PIB ainda atinja 6,45% no próximo ano. Yahoo Finanças",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:06+00:00"
   },
   {
     "id": "6cefad38311a8d9297c8",
@@ -55503,11 +56033,11 @@
     "published_at": "2026-11-08T23:30:00+00:00",
     "first_seen_at": "2026-11-12T07:24:26+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Braga consagrou “Jovens Talentos” em gala no Theatro Circo - Diário do Minho",
+    "translated_summary": "Braga consagrou “Jovens Talentos” em gala no Theatro Circo Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:20+00:00"
   },
   {
     "id": "146a3a82969993791bb6",
@@ -58679,11 +59209,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Divergência \"sem precedentes\" entre os indicadores económicos e a perceção da economia - The Korea Economic Daily",
+    "translated_summary": "Divergência \"sem precedentes\" entre os indicadores económicos e a perceção da economia na Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:09+00:00"
   },
   {
     "id": "cb83ec4633e37e3cf9db",
@@ -66899,6 +67429,28 @@
     "last_translation_attempt_at": "2026-11-11T02:09:02+00:00"
   },
   {
+    "id": "30d4ae675c51ffa497d3",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TzhRVW5RZjBXZzMtTzhnZmtRbnQ1WkFnQS1wT2I2NjZGV1RhZTBWbWpjRC03amxaa0hfeldHQjdCV3dVS3ZTbjhrTnZyQTdCNGpoSGk4VVFvQQ?oc=5",
+    "original_title": "行き詰まる「見せかけのゼロ」 本物のGXで勝つ条件 - 日本経済新聞",
+    "original_summary": "行き詰まる「見せかけのゼロ」 本物のGXで勝つ条件 日本経済新聞",
+    "published_at": "2026-11-06T14:19:20+00:00",
+    "first_seen_at": "2026-11-12T21:52:11+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O impasse do \"zero aparente\": as condições para vencer com uma verdadeira transformação ecológica - Nikkei",
+    "translated_summary": "O impasse do \"zero aparente\" As condições para vencer com uma verdadeira transformação ecológica (GX) Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:53:18+00:00"
+  },
+  {
     "id": "b609ae6f1d417e6aed3e",
     "country": "Alemanha",
     "category": "Política",
@@ -71004,11 +71556,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nikkei Inc.: Relatório de Alterações Apresentado por: Nikkei Inc.: Nikkei Company Information DIGITAL - Nikkei",
+    "translated_summary": "Nikkei Inc.: Relatório de Alterações Apresentado por: Nikkei Inc.: Nikkei Company Information DIGITAL Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:12+00:00"
   },
   {
     "id": "afba8a4daa0544101c4b",
@@ -78577,11 +79129,11 @@
     "published_at": "2026-11-05T12:36:22+00:00",
     "first_seen_at": "2026-11-12T09:06:06+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A concorrência asiática coloca a Bosch de Abstatt sob pressão - WELT",
+    "translated_summary": "A concorrência asiática coloca a Bosch de Abstatt sob pressão WELT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:15+00:00"
   },
   {
     "id": "0b7b078c6596e95819b7",
@@ -79069,11 +79621,11 @@
     "published_at": "2026-11-05T11:14:00+00:00",
     "first_seen_at": "2026-11-12T09:06:06+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O grupo tecnológico Bosch elimina mais 750 postos de trabalho em Abstatt - STERN.de",
+    "translated_summary": "O grupo tecnológico Bosch elimina mais 750 postos de trabalho em Abstatt STERN.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-12T21:54:18+00:00"
   },
   {
     "id": "2f27bc627b38d25b8a9b",
