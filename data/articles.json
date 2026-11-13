@@ -1,5 +1,251 @@
 [
   {
+    "id": "4dca7a48d346919f6592",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867712",
+    "original_title": "Legislature passes parental leave increase",
+    "original_summary": "",
+    "published_at": "2026-11-14T00:00:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O legislativo aprova o aumento da licença parental",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:23+00:00"
+  },
+  {
+    "id": "0e9751131c4c467aba0e",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/14/2003867722",
+    "original_title": "Climate index unfairly ranks Taiwan: minister",
+    "original_summary": "",
+    "published_at": "2026-11-14T00:00:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Índice climático classifica injustamente Taiwan: ministro",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:25+00:00"
+  },
+  {
+    "id": "d1c2e4bcc7b8fba8293a",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Taipei Times · Política e economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-taipeitimes",
+    "publisher": "Taipei Times · Política e economia",
+    "url": "https://www.taipeitimes.com/News/world/archives/2026/11/14/2003867740",
+    "original_title": "All the lawmakers in Nauru join the government’s side",
+    "original_summary": "",
+    "published_at": "2026-11-14T00:00:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Todos os legisladores de Nauru juntam-se ao lado do governo",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
+  },
+  {
+    "id": "01931154a0c38f9866e0",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Die Rheinpfalz",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1MtdzNRcVRFWFk5d25wVFk4eFVhZ3BTUHY2aDkzcTBVM0dHQVBZMVBIeWoyZUtZYW1DcHhNRXFRazZEemNUNlJyVjV2Xzh0R0Z4X3RzY3hndjFvdTFOQmxtVllic2VMb0RmODdjanlKTkpkMHdESUk4WElERlM2a25HeUZDMjZGUmFmMFJVSGl4YXpMTGxvdDdn?oc=5",
+    "original_title": "Bun­des­haus­halt: Die Kohle ist weg - Die Rheinpfalz",
+    "original_summary": "Bun­des­haus­halt: Die Kohle ist weg Die Rheinpfalz",
+    "published_at": "2026-11-13T16:48:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento federal: o dinheiro desapareceu - Die Rheinpfalz",
+    "translated_summary": "Orçamento federal: o dinheiro desapareceu Die Rheinpfalz",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:02+00:00"
+  },
+  {
+    "id": "09f6a3c023b1d939ea26",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Charged EVs",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1JSb01BMGZOaTRsQVBiSUVEQTJsX19fdGF4LTEwX1QydGNuQnRLVzU3SmJmTEg4V1V1WE85SWtneDVwQVVrUmpubEcyYnBMdThoVThFeTJkNWYzUUVReWIxOFdUMGFfeWhKYlJJQkEzTk9sZXMwQnZqbVRRdVZlODNMbmVMeHNyeVF2SzA4Vmc4aHZib2x5M1dhcG1SWFFxS1I2VWpUVXFTUnNBbmc3dlVZZThnd1pSMVM2aV9TRmNYTmtkeWc?oc=5",
+    "original_title": "Electric truck manufacturer Harbinger raises $240 million to expand into new product categories - Charged EVs",
+    "original_summary": "Electric truck manufacturer Harbinger raises $240 million to expand into new product categories Charged EVs",
+    "published_at": "2026-11-13T16:43:43+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O fabricante de camiões elétricos Harbinger angaria 240 milhões de dólares para se expandir para novas categorias de produtos - Charged EVs",
+    "translated_summary": "O fabricante de camiões elétricos Harbinger angaria 240 milhões de dólares para se expandir para novas categorias de produtos Charged EVs",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:20+00:00"
+  },
+  {
+    "id": "755eef25fc699a0bd58b",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "Business Insider Deutschland",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGxjNnh0NjZXdDZRaW9KMC1NV2pQZDViMnhid3ZkNUVBblBDM2hlaERpdURITXVwZnBkbWdyVk9lZmlKTjdWanY0YzJWYXhTWng4X1VoMllwY211V3lERU12YzBzcjZaUXRWZmVVSlhUbVJnbWNCSWZ3UWxBRmplUmpsMlhZZGtidW5KVXI0bE9MMzdMeU9QUVk2ZG5FZmM0dl84U2VES2FDNHc?oc=5",
+    "original_title": "Deutsche Autoindustrie steckt in der Krise – so ernst ist die Lage - Business Insider Deutschland",
+    "original_summary": "Deutsche Autoindustrie steckt in der Krise – so ernst ist die Lage Business Insider Deutschland",
+    "published_at": "2026-11-13T16:32:16+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A indústria automóvel alemã está em crise – a situação é tão grave – Business Insider Alemanha",
+    "translated_summary": "A indústria automóvel alemã está em crise – a situação é tão grave Business Insider Alemanha",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:05+00:00"
+  },
+  {
+    "id": "3f2fb604511b49eaf1ca",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Público",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVIyOXpTS3BBUGxiRnFBWm1YVGZMcVZaYWkwY3RmbFVRSVlKRGgtYmFyLTBQdFFVcll4akJyUUhJMlMzM3pDaVpRclFvaFhNeUxqOHJ4OFRuQVBLaU1YRXJxYXFSMTBTRDdZNEI2WmhNWk5ud244V0xQTkJhbk9ud1h4eHZUZzVIdlV0OGdNMTBIZmRlWGkzRDFCRzZ4eXVtMVc1UFUzdkM5d01uUWJyZHZYOEJiaFRKUzRkSHR1TTNuajVvQmc?oc=5",
+    "original_title": "“Apagão” na Microsoft deixou indústria e serviços sem ferramentas de produtividade - Público",
+    "original_summary": "“Apagão” na Microsoft deixou indústria e serviços sem ferramentas de produtividade Público",
+    "published_at": "2026-11-13T16:30:38+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "“Apagão” na Microsoft deixou indústria e serviços sem ferramentas de produtividade - Público",
+    "translated_summary": "“Apagão” na Microsoft deixou indústria e serviços sem ferramentas de produtividade Público",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:52+00:00"
+  },
+  {
+    "id": "d39c4df939762caa48e8",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk4tTTRCMnQ2aHhPdDFvU3gwYnJNUUFMMGJhWTZ4S0k3cnJ4djVJdVV1QjBRWDdybUdENkU3RjJOWWVWd0RxSlZxS202dnFwMU5GV2FHSDBkRE5UNndlQXVBbDc3LUYxVFVvZFVmaF9rMk43LTdQQnBWN002QzhhYVQ3SXZIR0xET1NxeGRoaGJ3OEpjYWxIUUZvMmVpUG8wcmtTTW9jNjFuc0tlalRocjNKRGVkRjRF?oc=5",
+    "original_title": "Top 10@10: D-Street loses winning run, India's exports jump 30%, Iran keeps door open to dialogue - LinkedIn",
+    "original_summary": "Top 10@10: D-Street loses winning run, India's exports jump 30%, Iran keeps door open to dialogue LinkedIn",
+    "published_at": "2026-11-13T16:28:46+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Top 10@10: D-Street perde a série de vitórias, as exportações da Índia aumentam 30%, o Irão mantém a porta aberta ao diálogo - LinkedIn",
+    "translated_summary": "Top 10@10: D-Street perde a série de vitórias, as exportações da Índia aumentam 30%, o Irão mantém a porta aberta ao diálogo LinkedIn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:42+00:00"
+  },
+  {
+    "id": "b53d2de1acbcc7f30ee1",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "JournalArta",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVBpQjVyMlpYMTdBdmhYOTI5Ml9ybU1xa29ySnJjRV9acDQ3NFlpT1RJWHhqTUlvSkZaWFBtay01QTBlcjAtMnkxQ1hUOUN5QjlwVzV4ZnowUDJUOF9nZVZ5OWswYlhHd05FbTNETzNQRm1uVXgyMzFfTnROUTg0SFBhd1d5MGxPcjd2MUZPaw?oc=5",
+    "original_title": "Singapore Bars Alice Huang From Re-Entering Over Megaspeed Role Claims - JournalArta",
+    "original_summary": "Singapore Bars Alice Huang From Re-Entering Over Megaspeed Role Claims JournalArta",
+    "published_at": "2026-11-13T16:20:32+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Singapura proíbe Alice Huang de voltar a entrar no país devido a alegações sobre o seu papel na Megaspeed - JournalArta",
+    "translated_summary": "Singapura proíbe Alice Huang de voltar a entrar no país devido ao seu alegado papel na Megaspeed, segundo o JournalArta",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:17+00:00"
+  },
+  {
+    "id": "fdd301858fba366968b7",
+    "country": "Braga",
+    "category": "Política",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/braga-freguesia-de-lamas-inaugura-posto-dos-ctt-no-espaco-cidadao/",
+    "original_title": "Braga: Freguesia de Lamas inaugura posto dos CTT no Espaço Cidadão",
+    "original_summary": "A freguesia de Lamas, em Braga, vai passar a contar com um posto dos CTT, integrado no Espaço Cidadão da Junta de Freguesia. A inauguração está marcada para a próxima segunda-feira, 16 de novembro, às 10h00, na sede da Junta. O novo serviço pretende aproximar os serviços postais da população da Veiga de Penso, facilitando […]",
+    "published_at": "2026-11-13T16:13:13+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga: Freguesia de Lamas inaugura posto dos CTT no Espaço Cidadão",
+    "translated_summary": "A freguesia de Lamas, em Braga, vai passar a contar com um posto dos CTT, integrado no Espaço Cidadão da Junta de Freguesia. A inauguração está marcada para a próxima segunda-feira, 16 de novembro, às 10h00, na sede da Junta. O novo serviço pretende aproximar os serviços postais da população da Veiga de Penso, facilitando […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:54+00:00"
+  },
+  {
+    "id": "6aefc52b007ecc0fbc17",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Livemint",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdDZnUDlNYWR2V2U4NU84RGNBLUJFZkpNUlVqNG9HbHNHOVVBWk42aVlaZHAtSHJkeU9CSGVRc0RjVTczME1DdllIVmNKUjJNYThpUERQd2o5NVV2N2JELWhWanNpVXpwX1ZxWXBRWGltaEZLWXd5V080OXRFbmVEMmhodVExbGZDc1Z6T0xaU3k1Z2FDV21fQlNkU2NHY09ZaEFQZjVyM1lTQ3Aza29NUlhJMjZyVkQwV2FnV1d0X3JoalpJeGduVHpjb05PWjNSYWk5a1RLY3Juc3VxeVEtNGFtZXBzSFR4M2RoQUlfdy1pUnVTYmk2S2Jn0gH_AUFVX3lxTE50bkJLX1BBblVMVFlTM3RHODJwZ1NCNjVyQnlpRVYwV3prWTdmd3VVZzJiQUJPZzlzbk5kQkFuUTE4ZWRWRExJQVBqSVJNZjVlckttcHpfRVptR2x3WUY4endqN2VtRXNHOEhDTUp5R2g5UVR4dEttTmhnS2FjY3lUcVh0VFBneTJ6WEkwWWU2RW5iTzZ4LUoybnM3WU01QWZDWHFGdkJIZzZLQVJjLVFvWnJqWjFPT250SzhodUhobnZUT1g3alQ3bGZTVnFDTGtSRmZqS0d4YWxQenYyZloyTElUTHNjZF9idUtKbERsdE9tQnExZ3ZXSGJaSzhjcw?oc=5",
+    "original_title": "Can India bridge trade gap with Southeast Asia as PM Modi heads to Manila for ASEAN amid China’s growing clout? - Livemint",
+    "original_summary": "Can India bridge trade gap with Southeast Asia as PM Modi heads to Manila for ASEAN amid China’s growing clout? Livemint",
+    "published_at": "2026-11-13T16:12:22+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Índia conseguirá colmatar o défice comercial com o Sudeste Asiático com a deslocação do primeiro-ministro Modi a Manila para a ASEAN, num contexto de crescente influência da China? - Livemint",
+    "translated_summary": "A Índia conseguirá colmatar o défice comercial com o Sudeste Asiático com a deslocação do primeiro-ministro Modi a Manila para a ASEAN, num contexto de crescente influência da China? Livemint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:14+00:00"
+  },
+  {
+    "id": "236268b7ee3653b0f7cb",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Plano de Recuperação e Resiliência",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Id1U4U2RHMkdRbDhKLTlpRmV2NmMtVHJDWGNOSW5WZjRZbTcxdHQ3SzZZbXRUcXRDU1RzS0RzMDRDa0o1bjFqVHBvQ2hsaUlrcXpiMmZQZktnZktaeVAycDdsbEx1cUVELWdsaFkwUTg2eXVTSGc?oc=5",
+    "original_title": "Investimento em robótica São João​ - Plano de Recuperação e Resiliência",
+    "original_summary": "Investimento em robótica São João​ Plano de Recuperação e Resiliência",
+    "published_at": "2026-11-13T15:56:54+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Investimento em robótica São João​ - Plano de Recuperação e Resiliência",
+    "translated_summary": "Investimento em robótica São João​ Plano de Recuperação e Resiliência",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:51+00:00"
+  },
+  {
     "id": "2fa4f2726482dffdc597",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -65,6 +311,28 @@
     "last_translation_attempt_at": "2026-11-13T15:55:32+00:00"
   },
   {
+    "id": "363e1bfe56546443bada",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZk1mS3JyTlM0S3lkZVF5MVBXeFdyRld0ZjVIWmhYZUd5Vy1KVlhGZGVSMTJHOXRnNm9oV1lFeFIzMFNtT1ItdTBCcldmMlpscE54YlNKb0ZwM0Z4Wm1Lcjd6ay12Q3B3eDR3cTZwd2tpanVlbHNNMlRybXJOVnp5Sy1FNkJHMVl0MFpYbVNuSFN2c0tBWVR5ci1Ib3FETmxnemgtdWhuWkdzYi1GSDJxbFY0d1ZHMEVKLXRCVG1BSWl1eWlGVUtPUi03Sk5NRW9YcXhqc3p1b9IB3AFBVV95cUxOdGJsdmtLQzhJMWhwelFZTVNPczd0THNQWWpWWkVKS3BmLUk5a2RxSEpaT1FJcHk5bUd0cTgwRkk0M0F6NkQ2UG1ZWlB5MHJQai00MlFBM3ZUdHFhUzN4bmdzWmVMQm9wMGpZek1rcGxnWEU2M2I4dGxPcU5scXZsVjd0MmVoMERGd2VRLWVzSnlqODdYei1xaUxVdUpTMXBaMmh4YWxyWXhzclVOalFkN3BDNmJuQjlfYWVDWENOMUpPVDEyMEEzNDduWHlsQ0s3c1BBV3JRU0ltU3pj?oc=5",
+    "original_title": "India needs sector-wise accounts to measure knowledge economy: MoSPI panel - Business Standard",
+    "original_summary": "India needs sector-wise accounts to measure knowledge economy: MoSPI panel Business Standard",
+    "published_at": "2026-11-13T15:12:30+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia precisa de contas por setor para medir a economia do conhecimento: painel do MoSPI - Business Standard",
+    "translated_summary": "A Índia precisa de contas por setor para medir a economia do conhecimento: painel do MoSPI Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:46+00:00"
+  },
+  {
     "id": "e0803bf4b540b12484c4",
     "country": "Bosch",
     "category": "Portugal",
@@ -128,6 +396,26 @@
     "translated_summary": "Pequim, 13 de novembro — Agência de Notícias Xinhua. No dia 13 de novembro, Wang Yi, membro do Bureau Político do Comité Central do Partido Comunista da China e Ministro dos Negócios Estrangeiros, reuniu-se em Pequim com Cho Hyun, Ministro dos Negócios Estrangeiros da Coreia do Sul.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T15:54:32+00:00"
+  },
+  {
+    "id": "0423cb9c3ea88979ee06",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/cdu-defende-regionalizacao-em-reunioes-com-camaras-de-braga-e-guimaraes/",
+    "original_title": "CDU defende Regionalização em reuniões com câmaras de Braga e Guimarães",
+    "original_summary": "Delegações da CDU, que integraram eleitos e dirigentes do PCP e do PEV, reuniram-se com os presidentes das Câmaras Municipais de Braga e Guimarães para apresentar a sua posição sobre a organização administrativa regional. Os encontros aconteceram na sequência da intenção anunciada pelos dois municípios de avançar com a criação de uma Área Metropolitana do […]",
+    "published_at": "2026-11-13T14:50:23+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "CDU defende Regionalização em reuniões com câmaras de Braga e Guimarães",
+    "translated_summary": "Delegações da CDU, que integraram eleitos e dirigentes do PCP e do PEV, reuniram-se com os presidentes das Câmaras Municipais de Braga e Guimarães para apresentar a sua posição sobre a organização administrativa regional. Os encontros aconteceram na sequência da intenção anunciada pelos dois municípios de avançar com a criação de uma Área Metropolitana do […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:55+00:00"
   },
   {
     "id": "ce5d22bb83d2bc51dd28",
@@ -786,6 +1074,26 @@
     "last_translation_attempt_at": "2026-11-13T14:24:17+00:00"
   },
   {
+    "id": "8145b7f8cbfd34186d58",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "ECO",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHM2OU85aTM4M0dTTk02N1gyYlliSFV3NVRIYzJ2YnRwVF9CMVhTbW84dWo5N3B4eVBnNElrS1Z5bzJ1WWtubmFZVWstV2sweG5IQ3ZMUHNQVG9fcGEyWno0dUF2dk1keklwamJ5QmdScXhDNHBEcnloTlBiM2p0cWZQaWs2cnR3N19YTGxrdExFWE5MNnNCRnRXeDRtVXVvTnd6Q0NCTzdDclJYQ2ZkT210WWMyOVpqcWkzMQ?oc=5",
+    "original_title": "CEO da Volkswagen elogia fábrica de Palmela por “criar bases para o sucesso” nos elétricos - ECO",
+    "original_summary": "CEO da Volkswagen elogia fábrica de Palmela por “criar bases para o sucesso” nos elétricos ECO",
+    "published_at": "2026-11-13T13:27:06+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "CEO da Volkswagen elogia fábrica de Palmela por “criar bases para o sucesso” nos elétricos - ECO",
+    "translated_summary": "CEO da Volkswagen elogia fábrica de Palmela por “criar bases para o sucesso” nos elétricos ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:49+00:00"
+  },
+  {
     "id": "883f8a3fe94073490b9c",
     "country": "China",
     "category": "Automóvel",
@@ -912,6 +1220,26 @@
     "last_translation_attempt_at": "2026-11-13T14:24:20+00:00"
   },
   {
+    "id": "3c679e2ecf76da1bedcd",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Auto Gear",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NTDJNYV90YnE5c09hVHlHX0w1cVV1anljZnIzTUhrMDVTUktmX01POHZlZGJmRVF1RlJ3d3BMYThYb3F5UjdNZDNoZDJ1RXgwbXpfb3ZHOA?oc=5",
+    "original_title": "Governo pondera alargar apoios a elétricos usados - Auto Gear",
+    "original_summary": "Governo pondera alargar apoios a elétricos usados Auto Gear",
+    "published_at": "2026-11-13T13:19:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo pondera alargar apoios a elétricos usados - Auto Gear",
+    "translated_summary": "Governo pondera alargar apoios a elétricos usados Auto Gear",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:50+00:00"
+  },
+  {
     "id": "e9d0072f90c9bca91cbf",
     "country": "Portugal",
     "category": "Economia",
@@ -967,11 +1295,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nova descida de preços dos combustíveis na próxima semana",
+    "translated_summary": "O gasóleo deverá ficar mais barato 6,5 cêntimos por litro e a gasolina dois cêntimos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:56+00:00"
   },
   {
     "id": "4b54fd10f3c270ed4e4d",
@@ -1265,11 +1593,11 @@
     "published_at": "2026-11-13T12:46:00+00:00",
     "first_seen_at": "2026-11-13T14:22:31+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Autocarros a 1 euro para ver a seleção em Braga - o minho",
+    "translated_summary": "Autocarros a 1 euro para ver a seleção em Braga o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:57+00:00"
   },
   {
     "id": "6ba36705e21cfc92ca8b",
@@ -1331,11 +1659,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia aumentaram 29,9%, atingindo 89,99 mil milhões de dólares em outubro; o défice comercial diminuiu - The New Indian Express",
+    "translated_summary": "As exportações da Índia aumentaram 29,9%, atingindo um valor recorde de 89,99 mil milhões de dólares em outubro; o défice comercial diminuiu The New Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:00+00:00"
   },
   {
     "id": "b5cbd478115f51284cdb",
@@ -1380,6 +1708,29 @@
     "last_translation_attempt_at": "2026-11-13T13:15:08+00:00"
   },
   {
+    "id": "d42008cebffe9878a02b",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjd2b0xseFNuek1MbkdOWDB6OUpsUkNnakNKZDhTZmE5OFk3eXpqYWdCTDlZaUwyQTFNTTFOdUZ2MjRkMnJCamJUTjZ6dWszaXo1SkhDUDZUZVloWVJyTGFfRXE2UVBDRGxyb1E1NkNxNExaNktrRDZ4ekNLeWN0emFFcVdYcnVIMDlQWi1ELWdUd2t4Wm1aaXpCVHBxVzhxaFRIUGVDbl9aSEZ1ZllncVRn?oc=5",
+    "original_title": "Mercedes-Benz: Warum bei dem Autobauer Werke auf dem Spiel stehen - WirtschaftsWoche",
+    "original_summary": "Mercedes-Benz: Warum bei dem Autobauer Werke auf dem Spiel stehen WirtschaftsWoche",
+    "published_at": "2026-11-13T12:32:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mercedes-Benz: Porque estão as fábricas do fabricante automóvel em risco - WirtschaftsWoche",
+    "translated_summary": "Mercedes-Benz: Porque é que as fábricas do fabricante automóvel estão em risco WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:08+00:00"
+  },
+  {
     "id": "4086157b4ca063bbd3c7",
     "country": "Índia",
     "category": "Economia",
@@ -1395,11 +1746,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia atingiram um valor recorde de 90 mil milhões de dólares em outubro; o défice comercial de mercadorias aumentou para 39,88 mil milhões de dólares - BusinessLine",
+    "translated_summary": "As exportações da Índia atingiram um valor recorde de 90 mil milhões de dólares em outubro; o défice comercial de mercadorias aumentou para 39,88 mil milhões de dólares BusinessLine",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:03+00:00"
   },
   {
     "id": "871a7868118346c3e9ed",
@@ -1534,6 +1885,28 @@
     "last_translation_attempt_at": "2026-11-13T13:13:58+00:00"
   },
   {
+    "id": "c0a21ef28d583379f64c",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLZGFvQUJMN0d0RGFYTURJQzdMbVkwT0lxSHhfVVJocWRSWXAyb0gxMk1EdG5WR3plN3hjQk8wb2tnT3ZXOEdITDZaZEp1czNaclY5VnhiNlVmMG01UXFHOHRCS205VGZHWWZUSg?oc=5",
+    "original_title": "マイクロソフト365障害、「サービス全体で復旧進む」 - 日本経済新聞",
+    "original_summary": "マイクロソフト365障害、「サービス全体で復旧進む」 日本経済新聞",
+    "published_at": "2026-11-13T12:18:01+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Falha no Microsoft 365: \"A recuperação está em curso em todos os serviços\" - Nikkei",
+    "translated_summary": "Falha no Microsoft 365: \"A recuperação está em curso em todos os serviços\" — Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:33+00:00"
+  },
+  {
     "id": "f1211a581c71e014e701",
     "country": "Japão",
     "category": "Política",
@@ -1611,11 +1984,11 @@
     "published_at": "2026-11-13T12:07:17+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Carro incendeia-se na rua de Caires em Braga - o minho",
+    "translated_summary": "Carro incendeia-se na rua de Caires em Braga o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:06+00:00"
   },
   {
     "id": "fab6d9fd0ccea3e919a4",
@@ -1744,11 +2117,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia numa imagem: 13.11.2026 - Banco de Portugal",
+    "translated_summary": "Economia numa imagem: 13.11.2026 Banco de Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:07+00:00"
   },
   {
     "id": "fc849972adfe13339331",
@@ -1870,11 +2243,11 @@
     "published_at": "2026-11-13T11:48:00+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Empresário de Braga que acredita na felicidade no trabalho lança nova empresa de contabilidade - o minho",
+    "translated_summary": "Empresário de Braga que acredita na felicidade no trabalho lança nova empresa de contabilidade o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:08+00:00"
   },
   {
     "id": "2431630501a6f92cde22",
@@ -2225,11 +2598,11 @@
     "published_at": "2026-11-13T11:16:59+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cidadão alerta: Avenida Frei Bartolomeu dos Mártires em Braga está alagada",
+    "translated_summary": "Um cidadão recorreu às redes sociais, esta manhã, para alertar para uma situação de acumulação de água na Avenida Frei Bartolomeu dos Mártires, em Braga. A ocorrência foi registada pelas 7h30 e motivou o contacto com os Bombeiros, que, segundo José Cruz, lhe transmitiram que a situação já se encontrava sinalizada. “Muito bom dia, são […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:09+00:00"
   },
   {
     "id": "095b54d859816ed945ef",
@@ -2787,6 +3160,26 @@
     "last_translation_attempt_at": "2026-11-13T12:01:50+00:00"
   },
   {
+    "id": "1864752052a160bf7fe7",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Netzpolitik.org",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GLW13WmhmYXBMQmJEQzBRSlRzc2JEVlJpdjgwTzRGVDVCdmhpT0hhd3JKSDFpT0xvNFhpQUpTNDExck5rUkEySXVmVHB0bjV2NE9DZW44WFoxMG9tbUNydzM2TlZJMkFpZlhOd1pEVUl3dDVNWW5MdW0wUVBCQmM?oc=5",
+    "original_title": "Bundeshaushalt: Bund verschleiert KI-Ausgaben - Netzpolitik.org",
+    "original_summary": "Bundeshaushalt: Bund verschleiert KI-Ausgaben Netzpolitik.org",
+    "published_at": "2026-11-13T10:20:09+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento federal: o Estado oculta as despesas com IA - Netzpolitik.org",
+    "translated_summary": "Orçamento federal: o Estado oculta as despesas com IA Netzpolitik.org",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:58:59+00:00"
+  },
+  {
     "id": "5ce5de8d6dff87cd2392",
     "country": "China",
     "category": "Política",
@@ -3072,11 +3465,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal é o terceiro país da UE onde as famílias mais pesam na economia - ECO",
+    "translated_summary": "Portugal é o terceiro país da UE onde as famílias mais pesam na economia ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:58+00:00"
   },
   {
     "id": "fdf3377f5985050405c7",
@@ -3237,11 +3630,11 @@
     "published_at": "2026-11-13T09:44:00+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Paytm obtém a aprovação de princípio do RBI para emitir carteiras pré-pagas na Índia – Business Standard",
+    "translated_summary": "A Paytm obtém a aprovação de princípio do RBI para emitir carteiras pré-pagas na Índia Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:10+00:00"
   },
   {
     "id": "5fb2f4d9e9cd19382a72",
@@ -3373,6 +3766,26 @@
     "last_translation_attempt_at": "2026-11-13T11:07:41+00:00"
   },
   {
+    "id": "ae62b52fbdd3fe7dc010",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbk96a3lhd0h5YUprVzl1ZXNFSlF4WHMwUGcydnVsY0M5WmtnekJ0NUxNZ0MyNDhuYkprNE9PWno3aEt1RFV1OFoyMU81SmxjNmtuNjhtZ1g2dnFWV0ZCMjJKWGZRaDdEb2o3Tk1EbFF0WFJxX2tWSUFIVnlFY1NOUTlONWxnQ3V5UHc?oc=5",
+    "original_title": "눈이 많이 오면 어떻게 해야 할까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "눈이 많이 오면 어떻게 해야 할까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-13T09:36:55+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O que devo fazer se nevar muito? - Vídeo | Multimédia - Briefing de Políticas da República da Coreia",
+    "translated_summary": "O que devo fazer se nevar muito? - Vídeo | Multimédia Briefing de Políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:11+00:00"
+  },
+  {
     "id": "3a1e1dbbce6a230152bf",
     "country": "China",
     "category": "Política",
@@ -3408,11 +3821,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Economia – Eticamente sensível: IA de definição de objetivos da Alemanha – Inforadio",
+    "translated_summary": "Economia - Eticamente sensível: IA de definição de objetivos da Alemanha Inforadio",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:13+00:00"
   },
   {
     "id": "bb3c833e80e93e16fd32",
@@ -3586,6 +3999,29 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "769eb73b2ef45690cc29",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRTTNZUkZjUWdYZnZIVzl1eVVxS2dRWXpRdDVHb0M4d0M5bUo4U0pfSmdOSjhqNTBNV0xiaHU1c053RFBkVTJuRzVxQzdRempm?oc=5",
+    "original_title": "黑石戰略台灣投資論壇：黃仁勳辭職先保住輝達實質控制權台鏈暫無憂| 股市要聞| 股市 - UDN",
+    "original_summary": "黑石戰略台灣投資論壇：黃仁勳辭職先保住輝達實質控制權台鏈暫無憂| 股市要聞| 股市 UDN",
+    "published_at": "2026-11-13T09:23:48+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fórum de Investimento em Taiwan da Blackstone Strategy: Jensen Huang renuncia ao cargo para manter o controlo efetivo da NVIDIA, a cadeia de fornecimento de Taiwan está temporariamente livre de preocupações | Notícias do mercado de ações | Mercado de ações - UDN",
+    "translated_summary": "Fórum de Investimento em Taiwan da Blackstone Strategy: Jensen Huang renuncia ao cargo para manter o controlo efetivo da NVIDIA, a cadeia de abastecimento taiwanesa não tem preocupações por enquanto | Notícias do mercado de ações | Mercado de ações UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:36+00:00"
   },
   {
     "id": "8a446e9c7f8b73da97cc",
@@ -3885,6 +4321,28 @@
     "last_translation_attempt_at": "2026-11-13T14:24:04+00:00"
   },
   {
+    "id": "d8cac2d620998e7a890a",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "第一ライフ資産運用経済研究所",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ldDVxeDk1YTF5V29oYV91MWllblBYWUVHS1NCbTdobkQtV05PSHc1UThZVlJxZGh0QlBpS1dKdjRoTlVHMUhNYTNWNHprTWhPbXZNdVNlQi1aTXM?oc=5",
+    "original_title": "～前年比＋7.1％、電力や石油・石炭製品を中心に幾分加速～ - 第一ライフ資産運用経済研究所",
+    "original_summary": "～前年比＋7.1％、電力や石油・石炭製品を中心に幾分加速～ 第一ライフ資産運用経済研究所",
+    "published_at": "2026-11-13T09:04:04+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "– Aumento de 7,1% em relação ao ano anterior, com uma ligeira aceleração principalmente nos setores da eletricidade e dos produtos petrolíferos e carboníferos – Instituto de Investigação Económica da Dai-ichi Life Asset Management",
+    "translated_summary": "~ Aumento de 7,1% em relação ao ano anterior, com ligeira aceleração principalmente nos setores da eletricidade e dos produtos petrolíferos e carboníferos ~ Instituto de Investigação Económica da Dai-ichi Life Asset Management",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:29+00:00"
+  },
+  {
     "id": "ec9f1e11239c81a97a07",
     "country": "Índia",
     "category": "Economia",
@@ -4181,11 +4639,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Eurostat confirma crescimento do PIB na Zona Euro de 1,3%. Economia francesa contrai-se 0,1% - ECO",
+    "translated_summary": "Eurostat confirma crescimento do PIB na Zona Euro de 1,3%. Economia francesa contrai-se 0,1% ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:59+00:00"
   },
   {
     "id": "de76425addb3dab62c4e",
@@ -5483,11 +5941,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Desacoplamento da China e aproximação dos EUA\" na economia de Taiwan: análise do desempenho, das motivações e dos impactos - China Review News",
+    "translated_summary": "\"Desacoplamento da China e aproximação dos EUA\" na economia de Taiwan: análise do desempenho, das motivações e dos impactos China Review News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:16+00:00"
   },
   {
     "id": "2402989e6dbd58257bf0",
@@ -5609,11 +6067,11 @@
     "published_at": "2026-11-13T07:00:14+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "[Análise Financeira de Hoje] Shinhan Bank, KB Kookmin Card, Korea Investment & Securities, NH Investment & Securities - Análise Financeira",
+    "translated_summary": "[Análise Financeira do Dia] Análise Financeira do Shinhan Bank, KB Kookmin Card, Korea Investment & Securities e NH Investment & Securities",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:19+00:00"
   },
   {
     "id": "e6a56f8ba26dae62030f",
@@ -6461,11 +6919,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia está tão desiludida com o governo de Merz: painel de elite de Allensbach - FAZ",
+    "translated_summary": "A economia está tão desiludida com o governo de Merz: painel de elite da Allensbach FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:23+00:00"
   },
   {
     "id": "b753042d7de25a50d561",
@@ -17358,6 +17816,28 @@
     "last_translation_attempt_at": "2026-11-13T14:24:48+00:00"
   },
   {
+    "id": "2147989e3ffdb45edac3",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "DD India",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzRrMmdFeGlxbVJmWGlUREJQTkNnSm5pa2k2U3VydzBxbnhqREl3V251cUJsNnJEckloeW85Wk9IUkdSLWlSU0RWeEFaWU5xN1g1V0NqSVhIZWhDbmNVbVYydHBVZy1fN0RMSFg3cnhyWmdOZnFuQWczVjlaQlNKOUZJUDFWOFI0djdwWVBDaVZadTVKUkNMd003WlJKOTNjNmFCTzQ2dUZRRDZpcXBReWhxVjc?oc=5",
+    "original_title": "Piyush Goyal pitches India as safe investment destination amid global uncertainties - DD India",
+    "original_summary": "Piyush Goyal pitches India as safe investment destination amid global uncertainties DD India",
+    "published_at": "2026-11-12T10:03:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Piyush Goyal apresenta a Índia como um destino de investimento seguro num contexto de incertezas globais - DD India",
+    "translated_summary": "Piyush Goyal apresenta a Índia como um destino de investimento seguro num contexto de incertezas globais DD India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:39+00:00"
+  },
+  {
     "id": "2ede926432da3af5066f",
     "country": "Portugal",
     "category": "Economia",
@@ -20682,11 +21162,11 @@
     "published_at": "2026-11-12T06:00:00+00:00",
     "first_seen_at": "2026-11-13T13:12:58+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Trade Republic critica juros baixos dos depósitos. Diz que BdP está “contente” com concorrência - Jornal de Negócios",
+    "translated_summary": "Trade Republic critica juros baixos dos depósitos. Diz que BdP está “contente” com concorrência Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:00:26+00:00"
   },
   {
     "id": "f0d5c454afeba1a78f68",
@@ -49087,6 +49567,26 @@
     "translated_summary": "Singapura lidera a preparação para a IA entre 109 países; mais adultos a adquirir competências em Gen AI Conselho de Desenvolvimento Económico de Singapura (EDB)",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T05:05:39+00:00"
+  },
+  {
+    "id": "cb27fb8fc9a74c10ced2",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Correio do Minho · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-correio-minho",
+    "publisher": "Correio do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempsOHFQYUdrQWVFOEdVekREUGQ1WmFqbmxsQlBTZ25TaUZQQjJ3RDYxX1YyNkZvcDBKT05BS28teHJRbnlUUDkxdVdYdzZXdFRwTUJUV0lGS0NGMVdkak5jeXppRmRReEpGTkxnT1llZmJwY3Y0OGVDbGFWRlByZnowR0JueXRfc3puaElOaS1GVDRaX0NiLVpzS2Ribl9oZHVfTFRjMlFIOXFWVGZaYzRGTFBUTDhDX1FUcGsyNnZPc1pRZjBFd0h0U25HNTN3SjJJWDczbkxWZ1JXUUNjQjk1NUlHSGM?oc=5",
+    "original_title": "Braga, Guimarães, Famalicão e Viana do Castelo juntam-se para a segunda edição do festival Square em janeiro - Correio do Minho",
+    "original_summary": "Braga, Guimarães, Famalicão e Viana do Castelo juntam-se para a segunda edição do festival Square em janeiro Correio do Minho",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-13T16:58:31+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga, Guimarães, Famalicão e Viana do Castelo juntam-se para a segunda edição do festival Square em janeiro - Correio do Minho",
+    "translated_summary": "Braga, Guimarães, Famalicão e Viana do Castelo juntam-se para a segunda edição do festival Square em janeiro Correio do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T16:59:53+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
