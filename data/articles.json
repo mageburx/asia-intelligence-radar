@@ -60,6 +60,155 @@
     "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
   },
   {
+    "id": "0d07ff4713915799ee00",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/tinder-multado-em-11-milhoes-de-euros-por-irregularidades-no-acesso-a-dados-pessoais_n1778999",
+    "original_title": "Tinder multado em 11 milhões de euros por irregularidades no acesso a dados pessoais",
+    "original_summary": "A Comissão de Proteção de Dados da Irlanda (DPC), um dos principais reguladores do setor na UE, informou hoje que multou o Tinder em 11 milhões de euros devido a irregularidades no acesso dos utilizadores aos seus dados pessoais.",
+    "published_at": "2026-11-13T17:47:17+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tinder multado em 11 milhões de euros por irregularidades no acesso a dados pessoais",
+    "translated_summary": "A Comissão de Proteção de Dados da Irlanda (DPC), um dos principais reguladores do setor na UE, informou hoje que multou o Tinder em 11 milhões de euros devido a irregularidades no acesso dos utilizadores aos seus dados pessoais.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:47+00:00"
+  },
+  {
+    "id": "154a3a9d070fcb7ebb89",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/centro-nacional-de-ciberseguranca-esta-a-acompanhar-a-falha-global-no-microsoft-365_n1778992",
+    "original_title": "Centro Nacional de Cibersegurança está a acompanhar a falha global no Microsoft 365",
+    "original_summary": "O Centro Nacional de Cibersegurança (CNCS) está a acompanhar, a par de outros congéneres, a falha global no Microsoft 365, disse hoje a entidade, que aconselha cidadãos e empresas a estarem cautelosos face a tentativas de burla.",
+    "published_at": "2026-11-13T17:42:02+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Centro Nacional de Cibersegurança está a acompanhar a falha global no Microsoft 365",
+    "translated_summary": "O Centro Nacional de Cibersegurança (CNCS) está a acompanhar, a par de outros congéneres, a falha global no Microsoft 365, disse hoje a entidade, que aconselha cidadãos e empresas a estarem cautelosos face a tentativas de burla.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:48+00:00"
+  },
+  {
+    "id": "4d9d07ea063ab55aae9f",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/ministerio-publico-investiga-psp-a-paisana-no-porto-e-lancamento-de-petardo-em-lisboa_n1778993",
+    "original_title": "Ministério Público investiga PSP à paisana no Porto e lançamento de petardo em Lisboa",
+    "original_summary": "O Ministério Público está a investigar o lançamento de um petardo em Lisboa e o caso do polícia que exibiu uma arma no Porto, no âmbito das manifestações pela habitação, anunciou hoje a Procuradoria-Geral da República (PGR).",
+    "published_at": "2026-11-13T17:38:05+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Investimento e empresas",
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ministério Público investiga PSP à paisana no Porto e lançamento de petardo em Lisboa",
+    "translated_summary": "O Ministério Público está a investigar o lançamento de um petardo em Lisboa e o caso do polícia que exibiu uma arma no Porto, no âmbito das manifestações pela habitação, anunciou hoje a Procuradoria-Geral da República (PGR).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:45+00:00"
+  },
+  {
+    "id": "943e270fe5693caee2b1",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/edp-conclui-parque-hibrido-de-pracana-e-prepara-novos-projetos-em-portugal_n1778971",
+    "original_title": "EDP conclui parque híbrido de Pracana e prepara novos projetos em Portugal",
+    "original_summary": "A EDP concluiu a integração da produção hidroelétrica e solar terrestre em Pracana, no Médio Tejo, e prepara novos projetos híbridos em Portugal, incluindo soluções com baterias, anunciou hoje o responsável do grupo para a Península Ibérica.",
+    "published_at": "2026-11-13T17:26:09+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "EDP conclui parque híbrido de Pracana e prepara novos projetos em Portugal",
+    "translated_summary": "A EDP concluiu a integração da produção hidroelétrica e solar terrestre em Pracana, no Médio Tejo, e prepara novos projetos híbridos em Portugal, incluindo soluções com baterias, anunciou hoje o responsável do grupo para a Península Ibérica.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:49+00:00"
+  },
+  {
+    "id": "96807f4a7d6135b51660",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "CBS News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWZDSk93eHA4MnV2MUg4dGg4WWxIVlhRdlNRUHJLdGlWN0tqLVZDQmY1YjRWY2p2RnJvNkYwTUdBNkI4Zk1IdUdhWXA0R3BUV3Z0TlB0M2VocXlVVmRtcm5hTU9KUGhpRlI2WUdEMzVMakRWdnJicEJvMGlXVkVPbnpNSU1GSWJUcDBKS2hpX24zQjhzd3MzUkJVV0ZEQQ?oc=5",
+    "original_title": "Singapore held Alice Huang's passport for months, but got little help from U.S. on Nvidia chip probe, sources say - CBS News",
+    "original_summary": "Singapore held Alice Huang's passport for months, but got little help from U.S. on Nvidia chip probe, sources say CBS News",
+    "published_at": "2026-11-13T17:16:18+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Singapura reteve o passaporte de Alice Huang durante meses, mas recebeu pouca ajuda dos EUA na investigação sobre os chips da Nvidia, segundo fontes - CBS News",
+    "translated_summary": "Singapura reteve o passaporte de Alice Huang durante meses, mas recebeu pouca ajuda dos EUA na investigação sobre os chips da Nvidia, segundo fontes da CBS News.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:20+00:00"
+  },
+  {
+    "id": "caf6f10d4f04960c097b",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "ETtoday車雲",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT1c5NVNpNlNHa2pXREdiSDhUWUNWTUhCTkNxT250Y0VUNk03LUFCaE9xN29xV2ZoQm9oVlEyOXlCc2tqbm8tY0dHQW9tNVnSAU5BVV95cUxNcUsxVzdGLU84OUFsOG4zMWJ5YWVRNEUzNmdSOGROZWxWdHZReF9lbjRCeVM3ckJVSWpqX2JpUkVjTlNaeHlNVTZ0RGlNVFE?oc=5",
+    "original_title": "BMW電動車跑5886KM「充電只花2小時46分」！改寫橫跨歐陸紀錄 - ETtoday車雲",
+    "original_summary": "BMW電動車跑5886KM「充電只花2小時46分」！改寫橫跨歐陸紀錄 ETtoday車雲",
+    "published_at": "2026-11-13T17:07:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O veículo elétrico da BMW percorreu 5886 km e \"demorou apenas 2 horas e 46 minutos a carregar\"! Novo recorde de travessia da Europa - ETtoday CarCloud",
+    "translated_summary": "O veículo elétrico da BMW percorreu 5886 km e \"demorou apenas 2 horas e 46 minutos a carregar\"! Novo recorde de travessia da Europa ETtoday CarCloud",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:14+00:00"
+  },
+  {
+    "id": "973c0d1bc4807a3d11db",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRUJfdHZ4VVVYX0k0aEdJdnRibDh1LXpvNTM1VUY4STFKVGZKT3J5dmRkSXY3VE13akt4azV5ZWJEbHdpWXZjc2JhSUtBcDNlMU0xakNQX3BqLUZPRHBoejNVZC1KaER3aWlXcA?oc=5",
+    "original_title": "日銀「物価2%到達」の同床異夢 - 日本経済新聞",
+    "original_summary": "日銀「物価2%到達」の同床異夢 日本経済新聞",
+    "published_at": "2026-11-13T17:00:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Divergências no seio do Banco do Japão sobre a \"atingir a meta de inflação de 2%\" - Nikkei",
+    "translated_summary": "Banco do Japão: \"Os preços atingiram os 2%\" – Objetivos divergentes no mesmo barco – Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:26+00:00"
+  },
+  {
     "id": "01931154a0c38f9866e0",
     "country": "Alemanha",
     "category": "Política",
@@ -142,6 +291,26 @@
     "last_translation_attempt_at": "2026-11-13T16:59:52+00:00"
   },
   {
+    "id": "547b4407a3451a9fd336",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Allgemeine Zeitung",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclJLUTM2MkhEZG5oRThGVjZTZE42Q2ZLUkpWNHYxelhoMUFJRjg1UGQtcWxJSUltLXBvRUZlNENGdWd0bC15Zm9HVDVlYzJoa3FBaUdjNlZxTGtIdTcyejBnSDctV3QzYlJjV0toeFpmUFVUcU5fbnBBT0NXYzNLdmdzYm95RERrdGtlNkJXMEhMcXBRZTVNZmdkMEFSQXZ3b0NtUg?oc=5",
+    "original_title": "Bundeshaushalt: Rekordausgaben, aber Stromsteuersenkung bleibt vorerst offen - Allgemeine Zeitung",
+    "original_summary": "Bundeshaushalt: Rekordausgaben, aber Stromsteuersenkung bleibt vorerst offen Allgemeine Zeitung",
+    "published_at": "2026-11-13T16:30:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento federal: despesas recorde, mas a redução do imposto sobre a eletricidade permanece em aberto por enquanto - Allgemeine Zeitung",
+    "translated_summary": "Orçamento federal: despesas recorde, mas a redução do imposto sobre a eletricidade permanece em aberto por enquanto Allgemeine Zeitung",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:11+00:00"
+  },
+  {
     "id": "d39c4df939762caa48e8",
     "country": "Índia",
     "category": "Economia",
@@ -162,6 +331,26 @@
     "translated_summary": "Top 10@10: D-Street perde a série de vitórias, as exportações da Índia aumentam 30%, o Irão mantém a porta aberta ao diálogo LinkedIn",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T16:59:42+00:00"
+  },
+  {
+    "id": "0f330fca48bde664bf22",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "o minho",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzhteEVuMVdvYlJZZXlSbkFGdmtObEMtU0VfMUpEVUJlSy1lZU5JZy0zLTBuN2xIZHMxZDRkUTNhMzVJSTZFYnl2LVVxTGtzUVJSVFJsLVQ5a1BRRFRSNXc3WXBmSzJSRkpVWDhjd19YcTdNQmxIMm5rV2E0eGZXNnpkbw?oc=5",
+    "original_title": "Braga: Trio apanhado a roubar material de edifício em obras - o minho",
+    "original_summary": "Braga: Trio apanhado a roubar material de edifício em obras o minho",
+    "published_at": "2026-11-13T16:21:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Braga: Trio apanhado a roubar material de edifício em obras - o minho",
+    "translated_summary": "Braga: Trio apanhado a roubar material de edifício em obras o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:52+00:00"
   },
   {
     "id": "b53d2de1acbcc7f30ee1",
@@ -620,6 +809,26 @@
     "last_translation_attempt_at": "2026-11-13T15:55:44+00:00"
   },
   {
+    "id": "34b2164bece50d7fa82b",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Correio da Manhã",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkt3bE5KWng0N1d3Yk9XRUFQUHkyYkVHa3V4S0ljdVV1QUE5bFg5N0t3TFdEbVZYS21kU2FnR0FIVllVUUphOVQ2R0dGeEdpdjdYSHZaZTA4dXpUSXpqWk5vWVkyQTlqNlM1aDJmalo2eDRZRXBBaXM5UkctMkgzMEhCTzRlMTJoYnRQNWpvS2x5Q1k4QjZFZVA3WmdlVmFk0gGgAUFVX3lxTE0yS3dsTkpaeDQ3V3diT1dFQVBQeTJiRUdrdXhLSWN1VXVBQTlsWDk3S3dMV0RtVlhLbWRTYWdHQUhWWVVRSmE5VDZHR0Z4R2l2N1hIdlplMDh1elRJempaTm9ZWTJBOWo2UzVoMmZqWjZ4NFlFcEFpczlSRy0ySDMwSEJPNGUxMmhidFA1am9LbHlDWThCNkVlUDdaZ2VWYWQ?oc=5",
+    "original_title": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia - Correio da Manhã",
+    "original_summary": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia Correio da Manhã",
+    "published_at": "2026-11-13T14:27:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia - Correio da Manhã",
+    "translated_summary": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia Correio da Manhã",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:46+00:00"
+  },
+  {
     "id": "0954b893f11effeaca6d",
     "country": "China",
     "category": "Economia",
@@ -1027,6 +1236,26 @@
     "translated_summary": "Tianjin, 13 de novembro (Sun Yifei, Xue Chunyue) — O Fórum de Desenvolvimento da Inovação Científica e Tecnológica das Empresas de 2024, com o tema \"Abertura e Inovação · Integração e Simbiose\", foi inaugurado no dia 13 em Tianjin. Mais de 300 representantes de empresas do setor, institutos de investigação científica, instituições financeiras e departamentos governamentais participaram em debates sobre temas como a integração profunda entre governo, empresas, universidades, institutos de investigação e instituições financeiras, e o reforço da capacidade de inovação independente.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T14:23:07+00:00"
+  },
+  {
+    "id": "7054057032db718a4266",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "RTP",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTdoMTFrT2JPNV9BRUExMVREZVMwZ05ETzNFN0o5Nm03RzFSXzFLcEJNZG9HVmNHcU1XbnZBZEw5d0RBM3pzbldjUXRuTmF1QjlJcnVmeE5GdVZjempDVkxtb0U3NnlUY19sWFR1bWFUamxZOUdQeVZCZU5TejJYZ0Zhdm4xYkZUVWVnd3ZrZHJCS1FHSXZfZGRLcUNZemdmbkVLMQ?oc=5",
+    "original_title": "Subiu para 1.696 euros o salário bruto médio em Portugal - RTP",
+    "original_summary": "Subiu para 1.696 euros o salário bruto médio em Portugal RTP",
+    "published_at": "2026-11-13T13:34:54+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Subiu para 1.696 euros o salário bruto médio em Portugal - RTP",
+    "translated_summary": "Subiu para 1.696 euros o salário bruto médio em Portugal RTP",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:50+00:00"
   },
   {
     "id": "1409d67baaaeb02ff701",
@@ -1578,6 +1807,26 @@
     "translated_summary": "O porta-voz adjunto do Governo Federal, Sebastian Hille, informa:",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T13:15:05+00:00"
+  },
+  {
+    "id": "63b00045ddc4833b1a28",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUhOSE0yb1BYQm04NDNEaXFyUHpwcUJsa3A4V2NaalBLdnZsTXBsR0VvRkJZaDNEd0JZZk5NNjViZ1pfaDNFU2szVXRIcjZtS0NRNlA0ZzB1ZWVFNDk1ZXRnWkNNRUx4akZFQnFTU2NyVGV4TDZJcWl0QVlQQWtyQlEyRVZHbHQyc0hRMDFreDNuQXBJRWw1ZXFUUVpfcTVHLUEyaFZRaVZ5d0tkR2F0VWR6X25DUURJenROMFZDRkJRNjdPLWZpSVNwX1F0TVlaSFVv0gHYAUFVX3lxTE9STTZzRURhT3BWYmRmQXI1cWtEa0FVX0RIZHBKLS1NcWs5aGtMU2k4VUNNbXA1SURFX1BTcnQ3LVVTS0VNZDB0cjlmOXhBeFp4NC00U3BLM1dLZjJ4a1p6dW5YVVhlOXEzOThaUDdyVWw1bHBCMHZ3N2JSak51WTUtck1fZ1NpbjJPbUlVeEZlTmlGN3Bpb2JhYWVuTlY3ZGlZa1FHeWN2dHIzcVlsWDdIUzFFMlNKQ0FQQnN4MkhjZW5HcWZCQUNyX2toMVMyMExnTzdrMDFQdA?oc=5",
+    "original_title": "India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data - Business Standard",
+    "original_summary": "India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data Business Standard",
+    "published_at": "2026-11-13T12:47:35+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "As reservas cambiais da Índia aumentam 2,49 mil milhões de dólares, para 719,55 mil milhões de dólares: dados do RBI - Business Standard",
+    "translated_summary": "As reservas cambiais da Índia aumentam 2,49 mil milhões de dólares, para 719,55 mil milhões de dólares: dados do RBI Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:42+00:00"
   },
   {
     "id": "f67fad07f65e9648e8c0",
@@ -2585,6 +2834,28 @@
     "last_translation_attempt_at": "2026-11-13T12:00:17+00:00"
   },
   {
+    "id": "b1eb19247f9392512e3c",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVXM1ejNqOXRVaDRpODFRWVBpX0RjdjVWd3JqT0xGYk9uVGpPSDZqdi03S2FTUWk0Tm85REdKeC1ZWE81VDRZV3FjQ3FmSC1pVkV4THpDZDJPcGlVWW10TFQwc2JFTnhsSGdSVUdFMEp5MmVpMnVSVnFrRnIwVUlSYVhwX29HR0tZSXJtUkdTN2lsWlJBTlFHVEo5WW5RMnpuZjdSZlBMN3RpcjRCRVo3RGwwWHJFZ3Y3UElEb0Z1OHRxcWtwTzZwRE5EZDREdmZKNmp0N0VaT09jeFN5Y1ZOdmJkWUFITlFqRlFWMmFCejViWF9lWnNnZVVzaGV5TGYzOG1CRmg1ZzhHaWxweWc?oc=5",
+    "original_title": "Trabalhadores da Ecco vão receber apoio para encontrar emprego dentro da própria fábrica - CNN Portugal",
+    "original_summary": "Trabalhadores da Ecco vão receber apoio para encontrar emprego dentro da própria fábrica CNN Portugal",
+    "published_at": "2026-11-13T11:17:36+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Emprego e trabalho"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Trabalhadores da Ecco vão receber apoio para encontrar emprego dentro da própria fábrica - CNN Portugal",
+    "translated_summary": "Trabalhadores da Ecco vão receber apoio para encontrar emprego dentro da própria fábrica CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:51+00:00"
+  },
+  {
     "id": "e8dc96025677d24074f3",
     "country": "Braga",
     "category": "Atualidade",
@@ -2819,6 +3090,28 @@
     "translated_summary": "A tecnológica portuguesa cortou a fita na unidade industrial de Cahors, onde já são produzidos dois modelos. O projeto prevê um investimento de até 200 milhões de euros em França e espera criar mais de 200 postos de trabalho.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T12:01:41+00:00"
+  },
+  {
+    "id": "4621b9583e90091bb736",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "davao.china-consulate.gov.cn",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oQ0xXeVRXeC1qbEdDR2dqWlBxRnJpZzFsdkc3OUZDZHBsdzRmYi1TOEN3UG9qSjNtMDJMQnU1aDZWWXR3VURuX1V5N0tvRktlQnBkQ3MyUXp6blp3OGpZS3JtVUxtVHh0VmpNaEQ0MUpjblR4dlRqSEZSYUg?oc=5",
+    "original_title": "2026年11月13日外交部发言人毛宁主持例行记者会 - davao.china-consulate.gov.cn",
+    "original_summary": "2026年11月13日外交部发言人毛宁主持例行记者会 davao.china-consulate.gov.cn",
+    "published_at": "2026-11-13T10:57:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Conferência de imprensa regular presidida pela porta-voz do Ministério dos Negócios Estrangeiros, Mao Ning, em 13 de novembro de 2024 - davao.china-consulate.gov.cn",
+    "translated_summary": "Conferência de imprensa regular presidida pela porta-voz do Ministério dos Negócios Estrangeiros, Mao Ning, em 13 de novembro de 2026 davao.china-consulate.gov.cn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:07+00:00"
   },
   {
     "id": "fb2e05d62b34ef6c8d26",
@@ -3515,6 +3808,26 @@
     "last_translation_attempt_at": "2026-11-13T11:07:11+00:00"
   },
   {
+    "id": "c65b6eb603484a66a692",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3RuY2QzbUtQc3J1Z3JoS2tmU1NxYlhEdHZWbm5uZEdrcFpna2pXVEVkempVTUZCYkxRcU9hdXN5WnRPc01pRFItOGRyRXZlOFRFbVRpUWlmWm82aDNwRkx5T0gwR3AzWjF6T3l5TnR0bHFmZWJOa0FreUNteElDSUViTV9WTlowREFMaW1nZkxjc1Z6STA1WXYxT1A0cUVuSjdIQThHOS1tZ2YxeW1UeEdSc2lGeE5OeW9yay1yMGRDOWF0ZW9yVFZqSVNra3Vw0gHWAUFVX3lxTE9VWVJJNktqVE43dWV1U1VPLUtNanA2b3RWY3lWSVhpc2J6ZG84VEpkbGJSMHI1YUxyQTdOa0R3dTE2al8yVjdIeGtHZlZ5Tk9YU1ljZVJ6bktLNkowdmZwbzJxdGtFLUh5eXZlWTVuR0NwdE9sMURQMXN0OWhkOU93NDR3T0tob2hUNUlLcFJGM1NjZHhNRFA0cEVFSjFnVHdZT0dOZmZKTmZ6MkhYN1A5aTNDcVVMU0tyZkcySnNIMThCa0hkaDg1ZlIwd2JqbUJ5eGVoVmc?oc=5",
+    "original_title": "India's trade deficit at 12-month high as October imports hit record - Business Standard",
+    "original_summary": "India's trade deficit at 12-month high as October imports hit record Business Standard",
+    "published_at": "2026-11-13T10:02:11+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Défice comercial da Índia atinge o valor mais alto dos últimos 12 meses, com as importações de outubro a atingirem um recorde - Business Standard",
+    "translated_summary": "Défice comercial da Índia atinge o valor mais elevado dos últimos 12 meses, com as importações de outubro a atingirem um valor recorde Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:39+00:00"
+  },
+  {
     "id": "724397f90aac375e6489",
     "country": "Singapura",
     "category": "Política",
@@ -3568,11 +3881,11 @@
     "published_at": "2026-11-13T09:55:12+00:00",
     "first_seen_at": "2026-11-13T11:05:20+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O défice comercial da Índia em outubro atinge o valor mais alto do último ano, 39,88 mil milhões de dólares, com o aumento das importações de ouro - Reuters",
+    "translated_summary": "O défice comercial da Índia em outubro atinge o valor mais alto em um ano, 39,88 mil milhões de dólares, com o aumento das importações de ouro Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:53+00:00"
   },
   {
     "id": "a591e3c344ed7cd62d6c",
@@ -3610,11 +3923,11 @@
     "published_at": "2026-11-13T09:49:32+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Choques na oferta enfraquecem a eficácia da política monetária: CEA - DD News",
+    "translated_summary": "Choques na oferta para enfraquecer a eficácia da política monetária: CEA DD News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:05+00:00"
   },
   {
     "id": "1557feb96d38c8584fb1",
@@ -3766,6 +4079,28 @@
     "last_translation_attempt_at": "2026-11-13T11:07:41+00:00"
   },
   {
+    "id": "912aeb7ba37172047b17",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMUxheUJCb25qWWhqZkdXVC1rZmw2NWhvb3IxSFBMWG9pWTJlUC1sUDZKTHExTWhXdVNjX24wRVR6TGUwWFl4d3FpZUxhRUxIUkYxZWhOTWxrSmIzSkhEbl9Jdkh4bS0xeHBkQXFBeFVRc3dNSldfX0xmV18tV0QwWjBtMXg0UVdiVlFxVFBSYnQ0WXdKclBiT0ktREZ2ODBFbVJJSEFhak9BWUtQbzVGZ0NiSW1RZ0FHRU1lc096WjZlNUFUb015OElIMk1QQkF0SlZMRG1xVGkzbmtx?oc=5",
+    "original_title": "India's exports to US rise 11% to USD 50.80 billion in Apr-Sep FY27 amid trade pact negotiations - ANI News",
+    "original_summary": "India's exports to US rise 11% to USD 50.80 billion in Apr-Sep FY27 amid trade pact negotiations ANI News",
+    "published_at": "2026-11-13T09:37:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia para os EUA aumentam 11%, para 50,80 mil milhões de dólares, entre abril e setembro do ano fiscal de 2027, no contexto das negociações de acordos comerciais - ANI News",
+    "translated_summary": "As exportações da Índia para os EUA aumentam 11%, para 50,80 mil milhões de dólares, entre abril e setembro do ano fiscal de 2027, no contexto das negociações de acordos comerciais ANI News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:36+00:00"
+  },
+  {
     "id": "ae62b52fbdd3fe7dc010",
     "country": "Coreia do Sul",
     "category": "Política",
@@ -3863,11 +4198,11 @@
     "published_at": "2026-11-13T09:33:43+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Paytm da Índia obtém aprovação preliminar do RBI para instrumentos pré-pagos, incluindo carteiras eletrónicas - Reuters",
+    "translated_summary": "A Paytm da Índia obtém aprovação preliminar do RBI para instrumentos pré-pagos, incluindo carteiras Reuters",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:08+00:00"
   },
   {
     "id": "6fa8a709cd5721bb0e94",
@@ -3994,11 +4329,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fórum de Investimento em Taiwan da Blackstone Strategy: A demissão de Jensen Huang garante primeiro o controlo efetivo da NVIDIA, a cadeia de fornecimento taiwanesa está temporariamente livre de preocupações - UDN",
+    "translated_summary": "Fórum de Investimento em Taiwan da Blackstone Strategic: Jensen Huang demite-se para manter o controlo efetivo da NVIDIA, a cadeia de fornecimento taiwanesa não tem motivos para preocupação UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:11+00:00"
   },
   {
     "id": "769eb73b2ef45690cc29",
@@ -4060,11 +4395,11 @@
     "published_at": "2026-11-13T09:21:23+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
+    "translated_summary": "Jensen Huang, o homem que gozava do estatuto de superestrela sempre que visitava a China, é agora o símbolo da fragilidade das relações entre Washington e Pequim.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:14+00:00"
   },
   {
     "id": "2544462c418d1e7a094a",
@@ -4080,11 +4415,11 @@
     "published_at": "2026-11-13T09:21:23+00:00",
     "first_seen_at": "2026-11-13T11:05:20+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
+    "translated_summary": "Jensen Huang, o homem que gozava do estatuto de superestrela sempre que visitava a China, é agora o símbolo da fragilidade das relações entre Washington e Pequim.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:56+00:00"
   },
   {
     "id": "9ed8cc5371c9991423b6",
@@ -4142,11 +4477,11 @@
     "published_at": "2026-11-13T09:16:58+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Fracas colheitas colocam quase dois milhões de angolanos em risco de fome alertam Nações Unidas",
+    "translated_summary": "Quase dois milhões de angolanos estão em risco de fome devido a fracas colheitas e falta de chuva no sul e centro de Angola, segundo um relatório da Rede dos Sistemas de Aviso Prévio Contra a Fome (Fews Net).",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:15+00:00"
   },
   {
     "id": "267baadb9a6f5ff33837",
@@ -4208,11 +4543,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Crise habitação. Compradores e inquilinos travam decisões à espera de progressos políticos",
+    "translated_summary": "Os efeitos das acampadas já se sentem no mercado imobiliário com compradores e inquilinos a travar decisões à espera de desenvolvimentos políticos. A contestação social nas ruas está a provocar efeitos visíveis no setor imobiliário apesar da oferta reduzida de habitação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:16+00:00"
   },
   {
     "id": "f5f9c3df6e3dec56d0b8",
@@ -4230,11 +4565,11 @@
     "topics": [
       "Habitação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Crise da habitação. Compradores e inquilinos travam decisões à espera de progressos políticos",
+    "translated_summary": "Os efeitos das acampadas já se sentem no mercado imobiliário com compradores e inquilinos a travar decisões à espera de desenvolvimentos políticos. A contestação social nas ruas está a provocar efeitos visíveis no setor imobiliário apesar da oferta reduzida de habitação.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:57+00:00"
   },
   {
     "id": "88afe29164f2e7efd427",
@@ -4358,11 +4693,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O ministro da União, Gajendra Singh Shekhawat, discursa no conclave sobre a economia criativa da Índia em Nova Deli - Notícias na AIR",
+    "translated_summary": "O ministro da União, Gajendra Singh Shekhawat, discursa no conclave sobre a economia criativa da Índia em Nova Deli Notícias na AIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:58+00:00"
   },
   {
     "id": "e769955051e0aadc810d",
@@ -4553,11 +4888,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Mercedes suspende os investimentos na Alemanha e pondera o encerramento de fábricas - heise online",
+    "translated_summary": "A Mercedes interrompe os investimentos na Alemanha e pondera o encerramento de fábricas heise online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:17+00:00"
   },
   {
     "id": "356c41035577b0f0f4b0",
@@ -5484,11 +5819,11 @@
     "published_at": "2026-11-13T07:31:00+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "MAS, e-mails de bancos afetados pela interrupção da Microsoft; bancos oferecem aos clientes canais de contacto alternativos – The Straits Times",
+    "translated_summary": "MAS, e-mails de bancos afetados pela interrupção da Microsoft; bancos oferecem aos clientes canais de contacto alternativos The Straits Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:21+00:00"
   },
   {
     "id": "81c992db460a487e9491",
@@ -5862,6 +6197,28 @@
     "last_translation_attempt_at": "2026-11-13T07:21:57+00:00"
   },
   {
+    "id": "986dd6bc2ca9ccbcb92b",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jb1gxcmdZMVI4SGNkQXVYUmd5ZmRhZEJFZFJHQlJhY0tUTHNUMUZvZ0cyTlFsNGttZTB2N2VBMUtsVWktUFo3TGpNREtRaV82NVdQUGRBWnNSUQ?oc=5",
+    "original_title": "\"잘가요 젠슨 황\"…불륜·사퇴 충격에 코스피 5300선 아래로 - 한국경제",
+    "original_summary": "\"잘가요 젠슨 황\"…불륜·사퇴 충격에 코스피 5300선 아래로 한국경제",
+    "published_at": "2026-11-13T07:12:24+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Adeus, Jensen Huang\"... O KOSPI cai abaixo dos 5300 pontos devido ao choque do caso extraconjugal e da demissão - The Korea Economic Daily",
+    "translated_summary": "\"Adeus, Jensen Huang\"... A economia sul-coreana cai abaixo dos 5300 pontos no KOSPI devido ao choque do caso extraconjugal e da demissão",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:32+00:00"
+  },
+  {
     "id": "86540f7c21f9d1da9124",
     "country": "Singapura",
     "category": "Política",
@@ -6107,11 +6464,11 @@
     "published_at": "2026-11-13T07:00:00+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Oliver Blume, CEO do grupo Volkswagen, visita a Autoeuropa em plena crise do gigante alemão - Expresso",
+    "translated_summary": "Oliver Blume, CEO do grupo Volkswagen, visita a Autoeuropa em plena crise do gigante alemão Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:24+00:00"
   },
   {
     "id": "4ef26b004d21e9900717",
@@ -6127,11 +6484,11 @@
     "published_at": "2026-11-13T07:00:00+00:00",
     "first_seen_at": "2026-11-13T11:05:20+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Oliver Blume, CEO do grupo Volkswagen, visita a Autoeuropa em plena crise do gigante alemão - Expresso",
+    "translated_summary": "Oliver Blume, CEO do grupo Volkswagen, visita a Autoeuropa em plena crise do gigante alemão Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:03+00:00"
   },
   {
     "id": "06bec2da506a2c9bc90a",
@@ -6215,11 +6572,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Socar, \"maior\" volume de negócios de sempre no terceiro trimestre... Além do aluguer de curta duração, a aposta é na subscrição de longa duração - The Korea Economic Daily",
+    "translated_summary": "Socar, \"maior\" volume de negócios de sempre no terceiro trimestre... Além do aluguer de curta duração, a aposta é na subscrição de longa duração Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:25+00:00"
   },
   {
     "id": "16304d79efd98f8b50b7",
@@ -6496,11 +6853,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Bic Camera não consegue fazer reservas online devido a uma falha da Microsoft - Nikkei",
+    "translated_summary": "Bic Camera não consegue fazer reservas online devido a uma falha da Microsoft – Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:28+00:00"
   },
   {
     "id": "c1f4c6ef5de5dbaca0c5",
@@ -6897,11 +7254,11 @@
     "published_at": "2026-11-13T05:54:48+00:00",
     "first_seen_at": "2026-11-13T10:04:14+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Painel de elite de Allensbach: 90 por cento consideram o governo de Friedrich Merz fraco - FAZ",
+    "translated_summary": "Painel de elite de Allensbach: 90% consideram o governo de Friedrich Merz fraco FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:31+00:00"
   },
   {
     "id": "2e09db062586a645a4ab",
@@ -7090,11 +7447,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A economia dos animais de estimação em Taiwan está prestes a atingir os cem mil milhões! O número de animais de estimação \"ultrapassa\" o de crianças dos 0 aos 14 anos em 520 mil. As vagas de emprego aumentam 24% - MoneyDJ",
+    "translated_summary": "A economia dos animais de estimação em Taiwan está prestes a atingir os cem mil milhões! O número de animais de estimação \"ultrapassa\" o de crianças dos 0 aos 14 anos em 520 mil. O número de vagas de emprego aumentou 24%. MoneyDJ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:33+00:00"
   },
   {
     "id": "8ce8ae6cc322b857ebb7",
@@ -8074,11 +8431,11 @@
       "Crescimento e PIB",
       "Eleições e governação"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Presidente Lee: \"Descuidámo-nos no ano passado... Criem um organismo dedicado à reforma do mercado de capitais\" - The Korea Economic Daily",
+    "translated_summary": "Presidente Lee: \"Descuidámo-nos no ano passado... Criem um organismo dedicado à reforma do mercado de capitais\" – The Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:36+00:00"
   },
   {
     "id": "e714247afc13feaec7e4",
@@ -10043,11 +10400,11 @@
     "topics": [
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Banco de Portugal propõe lei que obriga empresas a aceitar pagamentos eletrónicos - Jornal Económico",
+    "translated_summary": "Banco de Portugal propõe lei que obriga empresas a aceitar pagamentos eletrónicos Jornal Económico",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:57:04+00:00"
   },
   {
     "id": "a7fb44e5a1769152c13a",
@@ -11085,6 +11442,29 @@
     "translated_summary": "Os automóveis japoneses enfrentam grandes dificuldades na China e esforçam-se ao máximo para recuperar, sem desistir – Uma crise que também coloca a retirada em perspetiva, segundo especialistas Bloomberg.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T05:04:20+00:00"
+  },
+  {
+    "id": "2b31b7d55c79f159cf8a",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaU0dBZjE0UkVUSDlTd2JjVERKRlU2dWFZcEtvMWdyX29uLWdqV1hEQ2VGODhkUnh4MXN6bVk2aUpyZ25sNWNDUlZwRGlVRW50c1RVNzZsMnBRZmJN?oc=5",
+    "original_title": "﻿[AI로 읽는 경제] ③ ﻿정부 지원이 멈춘 뒤에도 한국 AI는 살아남을까 - 뉴스핌",
+    "original_summary": "﻿[AI로 읽는 경제] ③ ﻿정부 지원이 멈춘 뒤에도 한국 AI는 살아남을까 뉴스핌",
+    "published_at": "2026-11-12T21:00:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Economia lida com IA] 3 A IA coreana sobreviverá mesmo após o fim do apoio do governo? - News핌",
+    "translated_summary": "[Economia lida com IA] 3 A IA coreana sobreviverá mesmo após o fim do apoio do governo? News핌",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:29+00:00"
   },
   {
     "id": "11585ecf4720273f1085",
@@ -18767,6 +19147,28 @@
     "translated_summary": "Mesa-Redonda Económica da China 丨 A colheita de outono de cereais está garantida e apresenta três características distintas — Xinhua Net",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T13:15:18+00:00"
+  },
+  {
+    "id": "d2ea27ef17913185e378",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华网",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGMyQ3oxY083VmVOSUI0VnB1NWwxSE9sbGVLNHhLQ0NXM0lYa2VJcUcxV1pLX0NGODdmVHRZZkI3UXJwRWEzME04Z2ZMZ0ljYUxqbFlRV19UTjhHTWhBc0F4S0hrNTRHUmR5MEV1QlN6bjhMT0dnYTJza0JhbGJHMA?oc=5",
+    "original_title": "中国经济圆桌会丨秋粮丰收已成定局 秋收呈现三大鲜明特点 - 新华网",
+    "original_summary": "中国经济圆桌会丨秋粮丰收已成定局 秋收呈现三大鲜明特点 新华网",
+    "published_at": "2026-11-12T08:57:40+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mesa-Redonda Económica da China 丨 A colheita de outono de cereais já está garantida e apresenta três características distintas - Xinhua Net",
+    "translated_summary": "Mesa-Redonda Económica da China 丨 A colheita de outono de cereais está garantida e apresenta três características distintas Xinhua Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:23+00:00"
   },
   {
     "id": "829211fe940eae8b887b",
@@ -70052,6 +70454,29 @@
     "translated_summary": "Orçamento federal: Thorsten Frei rejeita a introdução do imposto sobre O plástico planeado",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T08:23:06+00:00"
+  },
+  {
+    "id": "a9c0068399c710b5cbef",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "Yahoo - 汽機車",
+    "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPY3ltUjBpSFFpMDFHdjFudGRUUXpfeDJtOFVnX0NrN1ZLVDk0VXF0OXdHN2xjOFUyQ2NWUTFsczEwaEd1MHExNVo4M1VjTUtUa1BvLWh2bmU3R0JCa1kxNUxJYjlXaWFyV2JhZzllM0hqV0xJWFd0aklvSTlMQk9TY0MtV0tZZ3VqNElFZXhDRjA1d2tVamxycXJRTWxadlRKNkplM1lxN1RfaHhTczhLVEZ6TERlYkhuWjc5aHNyeXlsQ2pEdFFhYXRvU0xLQl9McndpNjF1N01uRnRxU1Z5RFEtaDhTMFh2QW1Za0c1TlpSX3JqV2VFakJqZVloRTBwa01EM1hxMkhlY3YyUndVR2tOd2NrM21jZkdGOHhWQ3RxckdEdnlsRnp5UGt4MzV2OEZaS3cwc0U3Y1RkSUtxWEJnbjY5MklKa1pXSmVna3hGblNiWU5PMUZmZFhEdmJkcUd4Vl9iaExtNXYteDJmYS1jMS1EU0tUTGNxaEE0a1lXOWprSXVCbEd2RXBBNWtqaUZsSU1XZTNjalJFa1pENFF1SEtwczFqbEZ5TVJYa29lVGRPOHB0SklzaFdoWmQwRkJ4aU1RWENZM3ZWUWZqcDhIcDE1S0F3aGhOQTg5M0ZqaW9FNkR4OUdGR3g1Ym5OMFFhQm8tekZFcWllTnZDUmlEZHlaUVpFUTVfanZkWjdXVnNUZTd4Vm1KcDVISV90dndHWUtxNHRUZw?oc=5",
+    "original_title": "不只有 BYD 和小米！還有哪些中國電動車品牌值得認識？｜電動車大洗牌：下一台怎麼選？ - Yahoo - 汽機車",
+    "original_summary": "不只有 BYD 和小米！還有哪些中國電動車品牌值得認識？｜電動車大洗牌：下一台怎麼選？ Yahoo - 汽機車",
+    "published_at": "2026-11-08T23:00:00+00:00",
+    "first_seen_at": "2026-11-13T17:55:41+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Não são apenas a BYD e a Xiaomi! Que outras marcas chinesas de veículos elétricos vale a pena conhecer? ｜Grande remodelação dos veículos elétricos: qual será o próximo a escolher? - Yahoo - Automóveis e motociclos",
+    "translated_summary": "Não são apenas a BYD e a Xiaomi! Que outras marcas chinesas de veículos elétricos vale a pena conhecer? ｜Grande remodelação dos veículos elétricos: qual será o próximo a escolher? Yahoo - Automóveis e Motociclos",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T17:56:17+00:00"
   },
   {
     "id": "9ed4c465c7b7ff54d04e",
