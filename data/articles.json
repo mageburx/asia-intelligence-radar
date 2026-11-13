@@ -60,6 +60,139 @@
     "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
   },
   {
+    "id": "b133f9acc5dd0ee680a4",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3373980/eus-fixation-chinese-subsidies-masks-its-own-structural-stagnation",
+    "original_title": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
+    "original_summary": "The European Commission is moving to shield its industrial machinery and chemical sectors from Chinese imports, and is weighing a “kill switch” mechanism. Together with Washington, Brussels has settled into a familiar narrative: a record trade deficit with China is framed as proof of its “overcapacity” and attributed to state subsidies that allegedly tilt the global playing field. For European Union audiences frustrated by stagnant domestic manufacturing, this argument sounds intuitive. Held up...",
+    "published_at": "2026-11-13T21:30:09+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Política industrial"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A obsessão da UE com os subsídios chineses mascara a sua própria estagnação estrutural",
+    "translated_summary": "A Comissão Europeia está a tomar medidas para proteger os seus setores de máquinas industriais e de produtos químicos das importações chinesas e está a ponderar um mecanismo de \"interruptor de emergência\". Juntamente com Washington, Bruxelas adotou uma narrativa familiar: um défice comercial recorde com a China é apresentado como prova do seu \"excesso de capacidade\" e atribuído a subsídios estatais que, alegadamente, desequilibram as condições de concorrência a nível mundial. Para os públicos da União Europeia frustrados com a estagnação da indústria transformadora nacional",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:14+00:00"
+  },
+  {
+    "id": "bd68751c3488d250f750",
+    "country": "Portugal",
+    "category": "Política",
+    "source": "RTP Notícias · País",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-politics-rtp",
+    "publisher": "RTP Notícias · País",
+    "url": "https://www.rtp.pt/noticias/pais/vila-do-conde-suspeitas-de-ilegalidades-em-contratos-feitos-pela-autarquia_v1779046",
+    "original_title": "Vila do Conde. Suspeitas de ilegalidades em contratos feitos pela autarquia",
+    "original_summary": "Há suspeitas de ilegalidades em vários contratos feitos pela Câmara de Vila do Conde, desde espetáculos com valores inflacionados a uma empresa que prestou serviços para a campanha eleitoral do atual presidente até às adjudicações para as iluminações de Natal, nos últimos seis anos.",
+    "published_at": "2026-11-13T21:28:47+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Vila do Conde. Suspeitas de ilegalidades em contratos feitos pela autarquia",
+    "translated_summary": "Há suspeitas de ilegalidades em vários contratos feitos pela Câmara de Vila do Conde, desde espetáculos com valores inflacionados a uma empresa que prestou serviços para a campanha eleitoral do atual presidente até às adjudicações para as iluminações de Natal, nos últimos seis anos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:45+00:00"
+  },
+  {
+    "id": "ee483de9a48c8c638def",
+    "country": "Singapura",
+    "category": "Automóvel",
+    "source": "Google News · Singapore – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-auto",
+    "publisher": "Head Topics",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnBJem5BcWdsaEprMFB5NWJfcTI3a3BBQ0Raa1lDMnpaQ3RXTlE2WXo4T0ZyeEpyLXUxZ1BaNlBxQjZ4R0cyQ3pDLWhRVjNqNHU1ekRjTjRfY01ZeU56TGRTRVVkb190eHU5TjhGOFkxSXhzX3hNZmotel9HeVBWWkhmX3hPcklFbGFBaXVEY2lxcGRFb3JJNkdrSExfUQ?oc=5",
+    "original_title": "Nigeria urged to develop local EV manufacturing and value chain - Head Topics",
+    "original_summary": "Nigeria urged to develop local EV manufacturing and value chain Head Topics",
+    "published_at": "2026-11-13T21:27:00+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Nigéria é instada a desenvolver o fabrico local de veículos elétricos e a cadeia de valor - Head Topics",
+    "translated_summary": "A Nigéria foi instada a desenvolver o fabrico local de veículos elétricos e a cadeia de valor Head Topics",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:10+00:00"
+  },
+  {
+    "id": "48da36a02ee7a34a7d28",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/dbrs-confirma-rating-de-portugal-em-a-elevado-com-tendencia-positiva_n1779045",
+    "original_title": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
+    "original_summary": "A agência de notação DBRS confirmou hoje o `rating` de Portugal em \"A\" elevado, com tendência positiva.",
+    "published_at": "2026-11-13T21:26:43+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
+    "translated_summary": "A agência de notação DBRS confirmou hoje o `rating` de Portugal em \"A\" elevado, com tendência positiva.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:47+00:00"
+  },
+  {
+    "id": "2bca33cbd39a7fc46055",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2156466.html",
+    "original_title": "トヨタとWaymoの無人運転ロボタクシー、あの開発中止車の電子プラットフォームを「bZ4X」に搭載か？",
+    "original_summary": "Waymoとトヨタ自動車が10月30日に発表した自動運転レベル4の自動運転車両における協業は、Waymoが自動運転技術の第6世代「Waymo Driver」を提供し、トヨタがベース車両となるバッテリEV「bZ4X」にその技術を搭載するというものだ。第6世代Waymo Driverの搭載や車両の製造は、トヨタ自動車 高岡工場（愛知県豊田市）で行ない、2027年に無人自動運転タクシーを運行開始する。",
+    "published_at": "2026-11-13T21:19:04+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Condução autónoma",
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Será que a plataforma eletrónica do veículo de desenvolvimento suspenso será instalada no \"bZ4X\", o robotáxi autónomo da Toyota e da Waymo?",
+    "translated_summary": "A colaboração em veículos autónomos de nível 4 anunciada pela Waymo e pela Toyota Motor em 30 de outubro consiste na Waymo fornecer a 6.ª geração da sua tecnologia de condução autónoma, o \"Waymo Driver\", e na Toyota instalar essa tecnologia no veículo elétrico a bateria \"bZ4X\", que servirá de veículo-base. A instalação do Waymo Driver de 6.ª geração e o fabrico dos veículos serão realizados na fábrica de Takaoka da Toyota Motor Corporation (Toyota, Aichi), com o início da operação de táxis autónomos sem condutor previsto para 2027.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:52:57+00:00"
+  },
+  {
+    "id": "ee7a61b88453a901e98c",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国日报网",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSZUEzc3pnaDNyNGxaM3JWbDI0SklsT0FBS2wyOXRoTnp2ZjRZV2pKSXI3d2hVR2NsOGlrcTNzREEtS1RaU0dieUlPRFZpT0t4WlE1TjI2LVR0TzRJb1ZMSzluYXFvTzl0VWczZk5Gc3FDX1hEUDkzZk10eXg?oc=5",
+    "original_title": "“投资中国”比利时、荷兰、卢森堡企业圆桌会在布鲁塞尔举行 - 中国日报网",
+    "original_summary": "“投资中国”比利时、荷兰、卢森堡企业圆桌会在布鲁塞尔举行 中国日报网",
+    "published_at": "2026-11-13T21:16:30+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mesa-redonda de empresas da Bélgica, Países Baixos e Luxemburgo sobre \"Investir na China\" realizada em Bruxelas - China Daily",
+    "translated_summary": "Mesa-redonda de empresas da Bélgica, Países Baixos e Luxemburgo sobre \"Investir na China\" realizada em Bruxelas China Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:17+00:00"
+  },
+  {
     "id": "0cfa88aff1fc80f9e984",
     "country": "Portugal",
     "category": "Política",
@@ -182,6 +315,28 @@
     "last_translation_attempt_at": "2026-11-13T20:58:14+00:00"
   },
   {
+    "id": "af6c1d32c9416cde6601",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Deutschlandfunk",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVJEWXhnbU1GQ081YXZhRXFUQUwycTc2aUxxdjk5ai1qQmY3NHplRTZqSExpSnQyWG83dXBtc3pCMmJzTXA1cWpFYVZyUF9xTTVZWmw5M1hxT3kwQ19Jd0V2V2lhV29uaXZQQWdUelYtU0tBdUxXclpnd29jcTkzcUE1dHdDWEM0MFZUajlxV3Y0aEIyc3dWSFNWbm1FSVZraG5yUUgwbFNRNFlIaXNiYllqX2ZpQU9yZEQ1dlZR?oc=5",
+    "original_title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet - Deutschlandfunk",
+    "original_summary": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet Deutschlandfunk",
+    "published_at": "2026-11-13T19:19:55+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Votação - O Bundestag aprova a reforma dos serviços secretos - Os poderes são significativamente alargados - Deutschlandfunk",
+    "translated_summary": "Votação - O Bundestag aprova a reforma dos serviços secretos - Os poderes são significativamente alargados Deutschlandfunk",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:01+00:00"
+  },
+  {
     "id": "06dcf1fdd051f9e75e6f",
     "country": "Portugal",
     "category": "Automóvel",
@@ -284,6 +439,29 @@
     "translated_summary": "Os Estados Unidos e a China realizaram a reunião inaugural do seu Conselho de Comércio bilateral na sexta-feira, apenas alguns dias antes de o Presidente dos Estados Unidos, Donald Trump, se encontrar com o líder chinês, Xi Jinping, em Shenzhen. \"Hoje, o Gabinete do Representante Comercial dos EUA, juntamente com o @USTreasury, realizou a primeira reunião oficial do Conselho Comercial EUA-China com os nossos homólogos chineses\", afirmou o Representante Comercial dos EUA (USTR) nas redes sociais. \"A Administração Trump espera",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T18:58:09+00:00"
+  },
+  {
+    "id": "462abb68b26690f9fd94",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "RFI",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTHY5LUlKWUJzRkpZa1Jpbk5fUWZEcVg0X2F2SEJGRnUtZmppMFhwREZVakoyb29zcFBEU3dpc0JEaFR1bU00U3Z1VElzdE94Mk5JN1JwWFROZi00Y1NaR1VOVF9ZSW5obGZqV250a0wwUU93V29qbE9QX0RuR1BPdjNYaVEwU2dnUWtIdnlRaEFxNUQxVUF6Y3lfLW9OUW1SbmNyYkNMQjhWSnp2bmRhM3JlbVNwT3dGT05qb0RUTm54dG5EeGxLQ2lOTnpOWGxCbEs4Q0ZlYV9SbDhQ?oc=5",
+    "original_title": "Anthropic IPO传拒中国投资者认购 - RFI",
+    "original_summary": "Anthropic IPO传拒中国投资者认购 RFI",
+    "published_at": "2026-11-13T18:37:51+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "IPO da Anthropic alegadamente recusa subscrições de investidores chineses - RFI",
+    "translated_summary": "RFI sobre a alegada recusa da Anthropic em aceitar subscrições de investidores chineses na sua OPI",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:20+00:00"
   },
   {
     "id": "5d5eefd94fdf6b5d952a",
@@ -615,6 +793,29 @@
     "last_translation_attempt_at": "2026-11-13T17:56:26+00:00"
   },
   {
+    "id": "82ecd49c7589dde915f4",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WU9LSTZEekU3czVuRzQtbmFzMmVwc1NiMXBMd08yVWtqSmxna3RBWU1FVUZnVGtHbmtoa21NZHlIcUM5WFo1TEVfMjFVaGFpTTRPNmFPejBtaDkwR1JTbEhVN1hCUTVYT04xTg?oc=5",
+    "original_title": "書評『経済安全保障の経済学』廣光俊昭著 - 日本経済新聞",
+    "original_summary": "書評『経済安全保障の経済学』廣光俊昭著 日本経済新聞",
+    "published_at": "2026-11-13T17:00:00+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Geopolítica",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Resenha do livro \"A Economia da Segurança Económica\", de Toshiaki Hiromitsu - Nikkei",
+    "translated_summary": "Resenha do livro \"A Economia da Segurança Económica\", de Toshiaki Hiromitsu, publicada no jornal Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:24+00:00"
+  },
+  {
     "id": "0b120f61dea2a669258a",
     "country": "Portugal",
     "category": "Automóvel",
@@ -675,6 +876,26 @@
     "translated_summary": "O fabricante de camiões elétricos Harbinger angaria 240 milhões de dólares para se expandir para novas categorias de produtos Charged EVs",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T16:59:20+00:00"
+  },
+  {
+    "id": "db36b120adde2c6addb9",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNalVKeVVJNmE1bFpWMWpZT1VHUG83Mk1vU0VZWHpJVmlyd3ozblA2Y2Q3bjJwcUxRN09JSlpUYldtN0NBeXZDVnA0V3B0eHpHNTh6Tm9aM2gxU1BHRmctdUJkYTV3TjZiQzlSWVNQTFVSLVBodW5HQ3FnT1N2Y3NwcDlaUElaeHZLaFcxNTR4SDJ2Nk1OakhSV3pMenNvNlZEYmZIQ2s3Nkk5cE1FU1hycHIxM1BCdTJ4Wk0wRnoyanAxNFotUGZQYVlRc05HUHRSR3FwNTFMNmFwaklLTkxwYm42bw?oc=5",
+    "original_title": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia - CNN Portugal",
+    "original_summary": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia CNN Portugal",
+    "published_at": "2026-11-13T16:37:21+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia - CNN Portugal",
+    "translated_summary": "Carros elétricos poupam 1,2 milhões de barris de petróleo por dia CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:46+00:00"
   },
   {
     "id": "755eef25fc699a0bd58b",
@@ -4715,6 +4936,28 @@
     "translated_summary": "O mercado de motores de cubo para veículos de duas rodas vai explodir |• Bafang • Bosch • Shimano openPR.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T10:06:39+00:00"
+  },
+  {
+    "id": "0e241d7f540fdb8d4995",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "ChiniMandi",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1prdVZpaHlNV0tkdHRhTnVod3VkUkx5bFRxd014MnFKSkFtQnZLRFlweUxxRWxvT1I4N1dESTNfSl9LaVdBd244MTI3UzVuSVI2LS1SSjI4alFYRERxeW4zQkFIYjdhY3hOcTdacFdEVGk3ZGRCNHZqckNHTmZFYmJrWUhnb0dwUHI4N2g3dTI4YUFFeFg5NUhnM0p3TmFPZjFfQmwtZkNxLW9UQ3duNW5nd3RvbFpVZWF2UmpHQ3l3aXZvbVR0V0RGcWNYQQ?oc=5",
+    "original_title": "India's exports surge nearly 30% to USD 89.99 billion in October, trade deficit narrows to USD 20.09 billion - ChiniMandi",
+    "original_summary": "India's exports surge nearly 30% to USD 89.99 billion in October, trade deficit narrows to USD 20.09 billion ChiniMandi",
+    "published_at": "2026-11-13T09:40:12+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia aumentam quase 30%, para 89,99 mil milhões de USD, em outubro, e o défice comercial diminui para 20,09 mil milhões de USD - ChiniMandi",
+    "translated_summary": "As exportações da Índia aumentam quase 30%, para 89,99 mil milhões de dólares, em outubro, e o défice comercial diminui para 20,09 mil milhões de dólares ChiniMandi",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:42+00:00"
   },
   {
     "id": "b50ec0981959bd6be73f",
@@ -9290,6 +9533,29 @@
     "translated_summary": "Quota de mercado de 51% para os veículos elétricos importados… Aumentam as vozes a favor da introdução de um crédito fiscal para a produção nacional Newsis",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T07:22:21+00:00"
+  },
+  {
+    "id": "5e7bbe640f6fa95b34ec",
+    "country": "Coreia do Sul",
+    "category": "Automóvel",
+    "source": "Google News · 한국 – 자동차",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-auto",
+    "publisher": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IbkRZRVdxRzlaUUpoTS1wejVad2lIU3o2ZDZuVzFzdnU0S0sxLVl3VnRCSzV5em9pNEZrNVBRWXdSUnVtc3BybEtjcHNyVVNVUDNfNDhGcEdfc0dJSEMwetIBeEFVX3lxTE9MZ1lLZWJuYm1feF93TU8xLTdoOW5VTVEyYllCZWVCeTdaTzU1Q3dJUUk5alUxYk14M1V1bERkellMMXlTNkxDY3RXRDVOV19rN1UyZ3B3dE9seDlPVnJFT1lGMG1MX2dWRzR3SHZLWDI1ZXV4R09Teg?oc=5",
+    "original_title": "전기차 수입차 점유율 51%…국내생산세액공제 도입 목소리↑ - 뉴시스",
+    "original_summary": "전기차 수입차 점유율 51%…국내생산세액공제 도입 목소리↑ 뉴시스",
+    "published_at": "2026-11-13T03:45:18+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Quota de mercado de 51% para os veículos elétricos importados… Aumentam as vozes a favor da introdução de um crédito fiscal para a produção nacional - Newsis",
+    "translated_summary": "Quota de mercado de 51% para os veículos elétricos importados… Aumentam as vozes a favor da introdução de um crédito fiscal para a produção nacional Newsis",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:04+00:00"
   },
   {
     "id": "386d0fb2faba00e511be",
@@ -16617,6 +16883,28 @@
     "translated_summary": "O Denza N8 atualizado oferece variantes elétricas a bateria e híbridas plug-in, com as versões BEV a proporcionar até 1003 km de autonomia. Para obter mais informações, visite CnEVPost (cnev.co).",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T15:00:23+00:00"
+  },
+  {
+    "id": "01ae9de3aa2560c93c19",
+    "country": "Japão",
+    "category": "Política",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-search",
+    "publisher": "Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVFFV2VMX0t3SWNDQW9nWEpaTlJxZVBqdlJncG05eTRXdmVOcnBCVDNJRWtvWnhBcU5mMC1Yd1JELVZ4TEdULUNxSWFMYnd2Q2czb3N0WGJLRHFBYjlRa19IazUwLTdZd0t0MG1HWkQ3WGJFYzF6RV9TTU5IdkJyTW11MWpQb3RMMlF0a1BVbGRYdnhN?oc=5",
+    "original_title": "経済の内部的な強みを活用し、公務遂行における規律を強化する。 - Vietnam.vn",
+    "original_summary": "経済の内部的な強みを活用し、公務遂行における規律を強化する。 Vietnam.vn",
+    "published_at": "2026-11-12T13:42:19+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Aproveitar os pontos fortes internos da economia e reforçar a disciplina na execução das funções públicas. - Vietnam.vn",
+    "translated_summary": "Aproveitar os pontos fortes internos da economia e reforçar a disciplina na execução das funções públicas. Vietnam.vn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:52:54+00:00"
   },
   {
     "id": "a208ddb738056b7a49a3",
@@ -34809,6 +35097,28 @@
     "last_translation_attempt_at": "2026-11-11T15:35:30+00:00"
   },
   {
+    "id": "e9fac26394b39f65238f",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "民報",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaXR6NlVBd05oV1FWQ3kwbk9nb0JOUnhCRlR6UjVTV29CdmVaeTZJeTBBM2pmMEkwelpkZkFBS2ZCSWlsTDZNaEt5Ti1Wb1NXMHhyQlNhellubUtUdWl2MnNxcjE?oc=5",
+    "original_title": "AI讓台灣經濟衝高 工總潘俊榮喊話：傳產不能落隊 - 民報",
+    "original_summary": "AI讓台灣經濟衝高 工總潘俊榮喊話：傳產不能落隊 民報",
+    "published_at": "2026-11-11T09:13:27+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A IA impulsiona a economia de Taiwan. Pan Chun-Rong, presidente da Federação das Indústrias de Taiwan, apela: as indústrias tradicionais não podem ficar para trás - People News",
+    "translated_summary": "A IA impulsiona a economia de Taiwan. Pan Chun-rong, presidente da Federação das Indústrias de Taiwan, apela: as indústrias tradicionais não podem ficar para trás. Minpao News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:27+00:00"
+  },
+  {
     "id": "dd16b2af8872f98148c9",
     "country": "Índia",
     "category": "Política",
@@ -35481,6 +35791,28 @@
     "translated_summary": "Taiwan's Economic Development: Don 't Forget Transmission Is the Foundation of Taiwan | Industrial Hotspots | Industrial Economic Daily",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T11:06:35+00:00"
+  },
+  {
+    "id": "8a40ba71ccd9330f6bb8",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80NFJzd2JkOTBXRmR0dndIeUpjZ1gyUE1CeTBCZjhmSjEyX2ZkTE5VTVJkenFTT2lTTFMyVjNNZUNQRGM4TWwzbkR0dnVsUVNDNUF4RG5ZU3Z2Z9IBX0FVX3lxTFA5NUw3WFVzOVVKRWQ3WGVieUtjcTR5SFBXcFBTWFQ0UnloR3VzUHppRDYxSl9WeTNKWWRSTUJXYlBpZzB0Ukt6ZlZhN3FWYTdjMEg5U3Fadlk1TERDNllF?oc=5",
+    "original_title": "台灣經濟發展創高 工總：勿忘傳產是台灣的基礎 - 經濟日報",
+    "original_summary": "台灣經濟發展創高 工總：勿忘傳產是台灣的基礎 經濟日報",
+    "published_at": "2026-11-11T08:42:33+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O desenvolvimento económico de Taiwan atinge um novo patamar. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan - Economic Daily News",
+    "translated_summary": "O desenvolvimento económico de Taiwan atinge um novo patamar. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan. Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:36+00:00"
   },
   {
     "id": "9565bfd8b7e988a43246",
@@ -37282,6 +37614,28 @@
     "last_translation_attempt_at": "2026-11-11T17:01:46+00:00"
   },
   {
+    "id": "833d365078c9861094c0",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbF84YzhwNlI5c2liblJEbG5EdVBSZmk4UWlfVXVDQmJMd2hQazRuekdoVkg5a3ZteDl5dk5wUHNuZjZCTTk4LUx5TUdubmZKV1hxVTliLVJtNmpTVFpIbUxhbUFZc0Fhc3pFOGVIbjF0NEZlQkpoWndrdGFESGtxVdIBX0FVX3lxTE5zS2ttRmNudHRROU4tMlI0QlY4SkQ5WVc0dHZpYzRTZlpzbUdtUXBfQXNYOVlHdEY2YWxWbUg2RURJeVBsTTNrNzh2QktZWm9UV1UyZl9HWVlIN2l6QmNB?oc=5",
+    "original_title": "台灣經濟發展創高 工總：別忘記傳產是台灣的基礎 - 經濟日報",
+    "original_summary": "台灣經濟發展創高 工總：別忘記傳產是台灣的基礎 經濟日報",
+    "published_at": "2026-11-11T07:22:15+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O desenvolvimento económico de Taiwan atinge um novo patamar. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan - Economic Daily News",
+    "translated_summary": "O desenvolvimento económico de Taiwan atinge um novo patamar. Federação das Indústrias: Não se esqueçam de que as indústrias tradicionais são a base de Taiwan. Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:33+00:00"
+  },
+  {
     "id": "cf34cfd3e6afc43deed4",
     "country": "Taiwan",
     "category": "Economia",
@@ -38101,6 +38455,28 @@
     "translated_summary": "Para a revisão dos três documentos relacionados à segurança, o PLD realizou reuniões conjuntas, como o Comitê de Defesa Nacional, e recebeu explicações do governo sobre a direção do fortalecimento das capacidades de defesa. Os participantes apontaram que não havia conscientização suficiente sobre a crise de mudanças no ambiente de segurança, e o público...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:19:44+00:00"
+  },
+  {
+    "id": "9f78e6489653360b46fb",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "DDCAR 電動車",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDMFlKeVByT0VWSTZyMGlaQVl3Ml9tbHRtVjhXUkRXclRJOUh1aHVzLUh2T2dPZlFHWmZFQlpsc3hqR1d6S21SaWRNTFc5alU?oc=5",
+    "original_title": "不只性能剽悍，還有 600kW 超猛充電功率：Mercedes-AMG GT 4-Door Coupé 登台直擊 - DDCAR 電動車",
+    "original_summary": "不只性能剽悍，還有 600kW 超猛充電功率：Mercedes-AMG GT 4-Door Coupé 登台直擊 DDCAR 電動車",
+    "published_at": "2026-11-11T06:38:00+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Além do desempenho robusto, também possui uma potência de carregamento ultrarrápida de 600 kW: Apresentação do Mercedes-AMG GT Coupé de 4 portas - DDCAR Veículos Elétricos",
+    "translated_summary": "Além do desempenho robusto, também possui uma potência de carregamento ultrarrápida de 600 kW: o Mercedes-AMG GT Coupé de 4 portas faz a sua estreia no DDCAR Electric Vehicle.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:07+00:00"
   },
   {
     "id": "9c0231a5b068baf8b26d",
@@ -51265,6 +51641,28 @@
     "last_translation_attempt_at": "2026-11-10T13:07:37+00:00"
   },
   {
+    "id": "83413bd5699d29aaf728",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "自由財經",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zWV90anpxb3NKemFtblNYYmc1MGExTnUydHltYlV5clZBRWlEWVlkOTVqcUh5bTNTSHlCellvU0wydXRCSEVua2FuTGFLV2kyNGJCSWo0LWVzd0UzTmZv0gFkQVVfeXFMUFFtNGF6VUp1Y1FCeWdHQWJiUlNMUFViTlQyaG9wNVJSY0VULWo3aUV4Uy0xaHZmSnZwR2RSMkdSNFlQdlAyUThvUVlpdEdIRFd4VVBGZWJ0QUdyOHNuTDV1Nk1zYQ?oc=5",
+    "original_title": "渣打上修台灣GDP預測 今年全年估達12.8％ - 自由財經",
+    "original_summary": "渣打上修台灣GDP預測 今年全年估達12.8％ 自由財經",
+    "published_at": "2026-11-10T07:33:29+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Standard Chartered revê em alta a previsão do PIB de Taiwan, estimando 12,8% para o ano inteiro - Liberty Times Net",
+    "translated_summary": "O Standard Chartered revisou em alta a previsão do PIB de Taiwan, estimando que este atinja 12,8% para o ano inteiro. Liberty Times Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:30+00:00"
+  },
+  {
     "id": "760a71ba4d53c4ea78d3",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -55892,6 +56290,28 @@
     "translated_summary": "O Standard Chartered aumentou as suas previsões pela segunda vez. O crescimento do PIB de Taiwan atingirá 12,8% este ano e 7,5% no próximo ano. UDN",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T02:54:53+00:00"
+  },
+  {
+    "id": "5a4d8ef691322c927a3f",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "UDN",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FVEI0TENOZDg3cldxcFVWS182VWcwSE1yNThRX250V2FidmJDaTlSZ21wWGhXSDZnR29vcU1XeGljS3lBREd4UkNyQmpjY0VjXzVKTG9B0gFWQVVfeXFMTkVUQjRMQ05kODdyV3FwVVZLXzZVZzBITXI1OFFfbnRXYWJ2YkNpOVJnbXBYaFdINmdHb29xTVd4aWNLeUFER3hSQ3JCamNjRWNfNUpMb0E?oc=5",
+    "original_title": "渣打二度上調預測 今明年台灣 GDP 成長達12.8%及7.5% - UDN",
+    "original_summary": "渣打二度上調預測 今明年台灣 GDP 成長達12.8%及7.5% UDN",
+    "published_at": "2026-11-10T02:10:59+00:00",
+    "first_seen_at": "2026-11-13T21:52:26+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Standard Chartered elevou as suas previsões pela segunda vez: o crescimento do PIB de Taiwan será de 12,8% este ano e de 7,5% no próximo ano - UDN",
+    "translated_summary": "O Standard Chartered aumentou as suas previsões pela segunda vez. O crescimento do PIB de Taiwan para este ano e o próximo será de 12,8% e 7,5%, respetivamente. UDN",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T21:53:39+00:00"
   },
   {
     "id": "8fb770bc4738c6ce7641",
