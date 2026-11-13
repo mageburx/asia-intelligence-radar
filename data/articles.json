@@ -60,6 +60,92 @@
     "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
   },
   {
+    "id": "65a4cd2aa0846d0c01b1",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/wall-street-fecha-tendencialmente-em-baixa-arrastada-pelas-tecnologicas_n1779057",
+    "original_title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
+    "original_summary": "A bolsa nova-iorquina encerrou hoje tendencialmente em baixa, com os investidores a saírem das empresas tecnológicas, no fim de uma semana marcada pelo escândalo Nvidia.",
+    "published_at": "2026-11-13T23:33:39+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Wall Street fecha tendencialmente em baixa arrastada pelas tecnológicas",
+    "translated_summary": "A bolsa nova-iorquina encerrou hoje tendencialmente em baixa, com os investidores a saírem das empresas tecnológicas, no fim de uma semana marcada pelo escândalo Nvidia.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:11+00:00"
+  },
+  {
+    "id": "d17637575ecc13c91d5e",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "湖北日报传媒集团",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZSEE4Qy1BLU42Z3NEcDEzaXlRY084dGxtRE92cHlTYzVBVTJ4OG9IQkhnSnFHc3M2SXNKLU4yUDdQMmltNmZTRi13djFRRFVZMmotU2p1UQ?oc=5",
+    "original_title": "连续增长！历史新高！“数”读中国经济的澎湃动能- 湖北日报新闻客户端 - 湖北日报传媒集团",
+    "original_summary": "连续增长！历史新高！“数”读中国经济的澎湃动能- 湖北日报新闻客户端 湖北日报传媒集团",
+    "published_at": "2026-11-13T23:31:52+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Crescimento contínuo! Novo máximo histórico! \"Ler\" a dinâmica pujante da economia chinesa através dos números - Aplicação de notícias do Hubei Daily - Grupo de Comunicação do Hubei Daily",
+    "translated_summary": "Crescimento contínuo! Novo máximo histórico! \"Números\" que revelam a dinâmica pujante da economia chinesa - Aplicação de notícias do Hubei Daily, Grupo de Comunicação do Hubei Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:52+00:00"
+  },
+  {
+    "id": "6419e2293541d0c8f8ae",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
+    "original_title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore - BBC",
+    "original_summary": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore BBC",
+    "published_at": "2026-11-13T23:00:31+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Nvidia: como o escândalo de Jensen Huang expôs uma dor de cabeça para Singapura, um país favorável aos negócios - BBC",
+    "translated_summary": "Nvidia: Como o escândalo de Jensen Huang expôs uma dor de cabeça para Singapura, um país favorável aos negócios BBC",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:48+00:00"
+  },
+  {
+    "id": "108e374ede2dae23bea9",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "京报网",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZGcyNkdVaEZYWktjblZVdkQtMjJWWU1tUUpiZnA0aXZVSnd3aFgzWExVRFRmeGNaS0t5YzJtOHFGMkxPN1I4RE1KdGhEUXd0ZVBybEZndlNZQjQ3YXIxQWtsYkxSTGdpUk1XVWM2eEJSdw?oc=5",
+    "original_title": "连续增长！历史新高！“数”读中国经济的澎湃动能 - 京报网",
+    "original_summary": "连续增长！历史新高！“数”读中国经济的澎湃动能 京报网",
+    "published_at": "2026-11-13T22:53:00+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Crescimento contínuo! Novo máximo histórico! \"Ler\" a dinâmica pujante da economia chinesa através dos números - Beijing News Net",
+    "translated_summary": "Crescimento contínuo! Novo máximo histórico! \"Ler\" a dinâmica pujante da economia chinesa através dos números Beijing Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:55+00:00"
+  },
+  {
     "id": "9f04c393cbe1b13ad07a",
     "country": "China",
     "category": "Automóvel",
@@ -102,6 +188,28 @@
     "translated_summary": "【Observatório Económico Semanal】O comércio externo da China está prestes a atingir o pico? China Economic Net",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T22:50:32+00:00"
+  },
+  {
+    "id": "6ea93048fd9c41e56358",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WkdfbjBnUHF0WGJ4cFpMYU9lZDJSZ3hNT3drUTdPdlQtcGlBMUNacmc0V21iS2R6dFE1aEVOVDZqUGk2dUp5R2t3eXd3SF9sZVpJZzZ3bGlxUDlmYzRV?oc=5",
+    "original_title": "汇聚全球治理合力践行中国担当 - 中国经济网",
+    "original_summary": "汇聚全球治理合力践行中国担当 中国经济网",
+    "published_at": "2026-11-13T22:18:00+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Unir forças na governação global para cumprir o compromisso da China - China Economic Net",
+    "translated_summary": "Unir forças na governação global para cumprir o compromisso da China China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:01+00:00"
   },
   {
     "id": "db30f3bd0365e09521c5",
@@ -147,6 +255,26 @@
     "translated_summary": "Crescimento contínuo! Novo máximo histórico! \"Números\" que revelam a dinâmica pujante da economia chinesa 21st Century Business Herald",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T22:50:29+00:00"
+  },
+  {
+    "id": "1ce599e36beb9dc20b4f",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "Jornal O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXZaR2lMQTczd3dST2J2N3dQYVROckZlSC16WDJBUzNwVFZ2ZFVzdGVrQl9nSzZFSEFJb1RfMDhJNW4tTDdfbVJ6UUFDY0NxQXpVbGZOT0dOZXRFMU8tR3I4Wndibl83TW9KbGR0ODV4MFNoZi1RRlJpbnZ1aERqUGh3NXV4WHVwdk1PSnVwYkUyXzVNR1oyazVSRnBKQ2FlMURJ?oc=5",
+    "original_title": "Jesus diz que Ronaldo é \"uma lenda\" e que a homenagem em Braga é \"uma ideia brilhante\" - Jornal O MINHO",
+    "original_summary": "Jesus diz que Ronaldo é \"uma lenda\" e que a homenagem em Braga é \"uma ideia brilhante\" Jornal O MINHO",
+    "published_at": "2026-11-13T21:57:00+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Jesus diz que Ronaldo é \"uma lenda\" e que a homenagem em Braga é \"uma ideia brilhante\" - Jornal O MINHO",
+    "translated_summary": "Jesus diz que Ronaldo é \"uma lenda\" e que a homenagem em Braga é \"uma ideia brilhante\" Jornal O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:13+00:00"
   },
   {
     "id": "de8f91dc751d77880ac2",
@@ -489,6 +617,28 @@
     "last_translation_attempt_at": "2026-11-13T21:53:01+00:00"
   },
   {
+    "id": "26d04475c88d8fd3fb17",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "东方财富",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYjBMUmlIQmIwVWNlVmdxRGtkajJ6dkxDUmZWMVlDVDVGa19jWlVnQlZuU2R2elJNUDVNLUhpSzd5YjdoOXpsb2ZIZDg0UEdtSUhYRmMtZktwVUhtbTdVbFFLcEI4dw?oc=5",
+    "original_title": "时报数说 10月高频数据折射中国经济稳中向好态势 - 东方财富",
+    "original_summary": "时报数说 10月高频数据折射中国经济稳中向好态势 东方财富",
+    "published_at": "2026-11-13T19:19:17+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Times Data diz que os dados de alta frequência de outubro refletem a tendência de crescimento estável da economia chinesa - Eastmoney",
+    "translated_summary": "O Times Data afirma que os dados de alta frequência de outubro refletem a tendência de crescimento estável da economia chinesa. East Money",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:58+00:00"
+  },
+  {
     "id": "06dcf1fdd051f9e75e6f",
     "country": "Portugal",
     "category": "Automóvel",
@@ -571,6 +721,28 @@
     "translated_summary": "A ocorrência de deslizamentos de terras e queda de pedras em dois diferentes pontos do concelho de Braga levou a União de Freguesias de Escudeiros, Penso Santo Estêvão e São Vicente a realizar intervenções em duas artérias, com o objetivo de minimizar os constrangimentos e garantir melhores condições de segurança à população. Os trabalhos decorreram […]",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T20:58:15+00:00"
+  },
+  {
+    "id": "793e4e40120b56d2655f",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmxON0dSdXlEdUtlVWVxeDJWVzJOeEhhcHl2M1lMc0VTOElDUzVhZWRkaHJLU21mc2l2Um9vd1Q3TFB3N2hkV19MZU1iOWlXVVlzVHZiZWg3OTY1SWl1dy1CWGZIb3dZbVhMbTdZZV90Vk5jcEl1djEyeWJBUEJWcTE3ZHlzMWtPS1IwcjBSMi16ZUQzVWxlVnRNNWFFbzlScHoxdS1UVVpnMVBJc2QtTTFrWG8xTVNmTjMwbDBjQ250VFhiOVBVYV8wNWpDQTJnSVBBQkVwNA?oc=5",
+    "original_title": "Falha da Microsoft: empresas podem ser compensadas pelos prejuízos? 10 perguntas e respostas - Expresso",
+    "original_summary": "Falha da Microsoft: empresas podem ser compensadas pelos prejuízos? 10 perguntas e respostas Expresso",
+    "published_at": "2026-11-13T18:42:33+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Falha da Microsoft: empresas podem ser compensadas pelos prejuízos? 10 perguntas e respostas - Expresso",
+    "translated_summary": "Falha da Microsoft: empresas podem ser compensadas pelos prejuízos? 10 perguntas e respostas Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:12+00:00"
   },
   {
     "id": "7fd67210f44dafb10ced",
@@ -1274,6 +1446,28 @@
     "translated_summary": "A Índia conseguirá colmatar o défice comercial com o Sudeste Asiático com a deslocação do primeiro-ministro Modi a Manila para a ASEAN, num contexto de crescente influência da China? Livemint",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T16:59:14+00:00"
+  },
+  {
+    "id": "e0c3e864f04e78e2d81f",
+    "country": "China",
+    "category": "Política",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-politics-search",
+    "publisher": "文学城",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVkxtanJhaXNBUThaUV8yakc5cEFiRUotQm4wZ0pvcG1ieWZORlpreHNCQXMxT1FWY21hLUhaeDZrdEdCTzNISGhWNUxZLWdXal9YTTRDbFR6QXJiSG9Tb0FsQzE?oc=5",
+    "original_title": "贸易战·印度餐（六） - 文学城",
+    "original_summary": "贸易战·印度餐（六） 文学城",
+    "published_at": "2026-11-13T16:08:04+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Guerra Comercial · Comida indiana (VI) - World Journal",
+    "translated_summary": "Guerra Comercial · Cozinha indiana (VI) Wenxuecheng",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:39+00:00"
   },
   {
     "id": "bf2827de1a78ce76b33e",
@@ -2394,6 +2588,28 @@
     "translated_summary": "O porta-voz adjunto do Governo Federal, Sebastian Hille, comunica:",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T14:24:20+00:00"
+  },
+  {
+    "id": "16b2cbae16f3c02a9431",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTJ2NU9LbjBoNF9hWU5pS3hkcHFzZHd0MjdfaklqOVhNVkFwbjE5YjJtZlBwRWN2ZVFCOFFOcGR0VUJwZkdKalpxVTI4OUlmNzJIVEJtX1BOaGNrSlJKVGpHNzRvRmNQZ21VZzBxLXZIbFlMbGhuVFNkZmhZYTgyMmJlUTVkUFgxVFg1cEx5em5jUS1fTDVVMl9TWVZ5dGIwWWk3NlFnWmJiWnlNLWhvdC1FamM5eVRzbkRiSGlIUkktZVNGMFhrWDloQdIB2AFBVV95cUxQbXdGbXlQUU80OURsV25JVWtPbmMzeUlvbXhRZ2o1Y3NYbVZuamNBRWhXbkRzeXZhTXM3d3ZSQVRFcXBzV1gwOWxMUzkyU3hXUndsc09IRjZIMVZ0VlJOZ25qX0x3WUdfXzNjbEcxV2tKUl9Ed1VMVXR3bU8xNFRoRFBSWVNhNXhOZmhCbmk0VGJ6UXZKS09XX3RfSzZDQW9uOS1YcmZCRVBlcDBPS1pPTkNYUnVTeDVzMkFFanNYVnRKM3JMZGdjTERwcmJlMkExNUN3Q1lmbno?oc=5",
+    "original_title": "India's exports hit record $89.99 billion in October; trade deficit narrows to $20.09 billion - Fortune India",
+    "original_summary": "India's exports hit record $89.99 billion in October; trade deficit narrows to $20.09 billion Fortune India",
+    "published_at": "2026-11-13T13:19:44+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia atingiram um valor recorde de 89,99 mil milhões de dólares em outubro; o défice comercial reduziu-se para 20,09 mil milhões de dólares - Fortune India",
+    "translated_summary": "As exportações da Índia atingiram um valor recorde de 89,99 mil milhões de dólares em outubro; o défice comercial reduziu-se para 20,09 mil milhões de dólares Fortune India",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:08+00:00"
   },
   {
     "id": "e1d67292e1f014f334be",
@@ -4364,6 +4580,26 @@
     "translated_summary": "Mercedes-Benz: O sindicato IG Metall exige que a Mercedes encete negociações sobre a suspensão dos investimentos DIE ZEIT",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T11:06:56+00:00"
+  },
+  {
+    "id": "ecf83bfa4c54ffec9596",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjYWFESFBmczBFa1lMSXYwekEwdm1veUFrdjlFVi0wNlhaYmZvLXFJQ2c4cEZLOWU4dVlBYnR4UFhWV0JSUlkyQ2RhMUw3aEcxM0JIeGRUZy1DdFBrQlc4R3c0aXBEZTNkX3hIbA?oc=5",
+    "original_title": "부모님께 받은 1,000만 원, 증여세 내야 할까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "부모님께 받은 1,000만 원, 증여세 내야 할까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-13T10:41:15+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Recebi 10 milhões de wones dos meus pais. Tenho de pagar imposto sobre doações? - Vídeo | Multimédia - Briefing de Políticas da República da Coreia",
+    "translated_summary": "Recebi 10 milhões de wones dos meus pais. Tenho de pagar imposto sobre doações? - Vídeo | Multimédia Briefing sobre as Políticas da República da Coreia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:45+00:00"
   },
   {
     "id": "81b789e4789f80003447",
@@ -17297,6 +17533,29 @@
     "last_translation_attempt_at": "2026-11-12T15:00:04+00:00"
   },
   {
+    "id": "1abd427b0435451108b3",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSU5vTm52alhnTDRNVkRoX1FGd1UtU3ZLRjJQUlBHN1Q4V2VfTmRjY0p2bDFRNEk1YTI2UVQtYUY3d0ZDZnhEcHBvRjFHM0FibmExOWpwREFvQV9KWmN3NnVBM0dZRXpwdFVldDNjUjh6TVRDZ1A0M2l5S2NhN3hVZnpQVTgxSUY1dHJSeG5Ha2hYbjh3N29jN0RWb2ZYUGM0UXRtaHVSNl9vbTItb0E?oc=5",
+    "original_title": "Finanzkriminalität: Bundestag beschließt mehr Befugnisse für den Zoll - DIE ZEIT",
+    "original_summary": "Finanzkriminalität: Bundestag beschließt mehr Befugnisse für den Zoll DIE ZEIT",
+    "published_at": "2026-11-12T13:26:11+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Criminalidade financeira: o Bundestag aprova mais poderes para as alfândegas - DIE ZEIT",
+    "translated_summary": "Criminalidade financeira: o Bundestag aprova mais poderes para as alfândegas DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:45:42+00:00"
+  },
+  {
     "id": "9b614688d797b5e30ffa",
     "country": "Índia",
     "category": "Economia",
@@ -20394,6 +20653,29 @@
     "translated_summary": "Grace Fu fará uma visita de 9 dias à Turquia para a conferência climática COP31 e conversações comerciais, Singapore News AsiaOne.com",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T09:08:49+00:00"
+  },
+  {
+    "id": "2412492ba7851ba62e7f",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TlBhT3RTZ3VEMzJJTTYxQ2pVZnZyS1BmT1hmNElFQ0ZVN3JLZ09ub2tSVExhcklhbVRrVFV6VVE0ZHFCSXRCZU92Ymg4Z0ZZaE1PTGQ1bTZ4dw?oc=5",
+    "original_title": "반도체 초호황에도 살아나지 않는 소비 - 한국경제",
+    "original_summary": "반도체 초호황에도 살아나지 않는 소비 한국경제",
+    "published_at": "2026-11-12T08:59:22+00:00",
+    "first_seen_at": "2026-11-13T23:45:13+00:00",
+    "topics": [
+      "Semicondutores",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Consumo que não recupera nem mesmo com o superboom dos semicondutores - Korea Economic Daily",
+    "translated_summary": "Economia sul-coreana do consumo que não se recupera nem mesmo com o superboom dos semicondutores",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T23:46:04+00:00"
   },
   {
     "id": "2de169346f690e54c618",
