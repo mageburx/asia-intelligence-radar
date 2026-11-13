@@ -60,6 +60,115 @@
     "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
   },
   {
+    "id": "9f04c393cbe1b13ad07a",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "www.jingjiribao.cn",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0UEs2TzVGY0tSMmlvNkM1WVNWeFNraG0zQnZDdGtaLW12RWlKd29UTHJQaXlqdGVJSWZrTTVmbFllN0hhekhRZVNYTUQ0cWYwNjJmZElVZXgxWUttN0gzMVp2dw?oc=5",
+    "original_title": "合力推动新能源汽车行稳致远 - www.jingjiribao.cn",
+    "original_summary": "合力推动新能源汽车行稳致远 www.jingjiribao.cn",
+    "published_at": "2026-11-13T22:46:04+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Unir esforços para impulsionar o desenvolvimento estável e sustentável dos veículos de energia nova - www.jingjiribao.cn",
+    "translated_summary": "Unir esforços para impulsionar o desenvolvimento estável e sustentável dos veículos de energia nova www.jingjiribao.cn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:06+00:00"
+  },
+  {
+    "id": "0e93e3bda25d97275d73",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91UVFfU3ZTOG9VVjhBV2FZa1VYS2JrRnZuX3BhSFdtOVlFb05nR1NEWmFsVTAzQjZlZ05pSy1KLUJQb25lQjY4TGhHZGtFTGFHM1NWOW8wWjFtRFNsSnAwaWJRZE9feDJrbUNBNUI2aw?oc=5",
+    "original_title": "【每周经济观察】中国外贸快到顶了吗 - 中国经济网",
+    "original_summary": "【每周经济观察】中国外贸快到顶了吗 中国经济网",
+    "published_at": "2026-11-13T22:21:00+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "【Observação Económica Semanal】O comércio externo da China está prestes a atingir o seu pico? - China Economic Net",
+    "translated_summary": "【Observatório Económico Semanal】O comércio externo da China está prestes a atingir o pico? China Economic Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:32+00:00"
+  },
+  {
+    "id": "db30f3bd0365e09521c5",
+    "country": "China",
+    "category": "Política",
+    "source": "South China Morning Post · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-scmp-china",
+    "publisher": "South China Morning Post · China",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
+    "original_title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+    "original_summary": "US lawmakers have been demanding answers about potential national security risks and White House oversight of advanced chip exports to China following revelations that former Nvidia chief executive Jensen Huang was in a relationship with a businesswoman suspected of working for Chinese intelligence. Three Republican House committee chairmen and Senate Banking Committee chairman Tim Scott separately sent letters Thursday seeking testimony from Huang. “As reports continue to come to light...",
+    "published_at": "2026-11-13T22:16:27+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Congresso dos EUA alarga a investigação à Nvidia, procurando obter depoimentos de Jensen Huang e de funcionários de Trump",
+    "translated_summary": "Os legisladores dos EUA têm exigido respostas sobre potenciais riscos para a segurança nacional e a supervisão da Casa Branca sobre as exportações de chips avançados para a China, na sequência das revelações de que o antigo diretor-executivo da Nvidia, Jensen Huang, mantinha um relacionamento com uma empresária suspeita de trabalhar para os serviços de informações chineses. Três presidentes de comissões republicanas da Câmara dos Representantes e o presidente da Comissão Bancária do Senado, Tim Scott, enviaram cartas separadamente na quinta-feira a solicitar o depoimento de Hua.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:25+00:00"
+  },
+  {
+    "id": "b7c203d4e505d76f93e8",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "21财经",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0w4WlBEbDZOOU04X291RUxJZkczVDVxbG93Wjc4dWlxOERHTk1jdXFMVU5hZklRaDhXMk12TXVOUE5zc09vckZsRnI0NDZnUUpjYU8yTFdEOWRFMDVqcU9CQ3NDOWh0aS1XcGc0Q2tDSENLRk9tNXUwMDh5WG1HS2ZEVWRhRDA1ejFCRFkxVQ?oc=5",
+    "original_title": "连续增长！历史新高！“数”读中国经济的澎湃动能 - 21财经",
+    "original_summary": "连续增长！历史新高！“数”读中国经济的澎湃动能 21财经",
+    "published_at": "2026-11-13T22:15:00+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Crescimento contínuo! Novo máximo histórico! \"Ler\" a dinâmica pujante da economia chinesa através dos números - 21st Century Business Herald",
+    "translated_summary": "Crescimento contínuo! Novo máximo histórico! \"Números\" que revelam a dinâmica pujante da economia chinesa 21st Century Business Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:29+00:00"
+  },
+  {
+    "id": "de8f91dc751d77880ac2",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "Braga TV · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-bragatv",
+    "publisher": "Braga TV · Braga",
+    "url": "https://bragatv.pt/41-escolas-de-braga-participam-na-campanha-escola-electrao/",
+    "original_title": "41 escolas de Braga participam na campanha Escola Electrão",
+    "original_summary": "A campanha Escola Electrão conta este ano com cerca de 600 escolas inscritas em todo o país, incluindo 41 estabelecimentos do distrito de Braga. A 16.ª edição inclui como novidade o lançamento do Portal Escola Electrão, com jogos, vídeos, perguntas e respostas e outros recursos sobre reciclagem adaptados aos diferentes níveis de ensino. A iniciativa […]",
+    "published_at": "2026-11-13T21:36:04+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "41 escolas de Braga participam na campanha Escola Electrão",
+    "translated_summary": "A campanha Escola Electrão conta este ano com cerca de 600 escolas inscritas em todo o país, incluindo 41 estabelecimentos do distrito de Braga. A 16.ª edição inclui como novidade o lançamento do Portal Escola Electrão, com jogos, vídeos, perguntas e respostas e outros recursos sobre reciclagem adaptados aos diferentes níveis de ensino. A iniciativa […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:44+00:00"
+  },
+  {
     "id": "b133f9acc5dd0ee680a4",
     "country": "China",
     "category": "Política",
@@ -253,6 +362,26 @@
     "last_translation_attempt_at": "2026-11-13T20:57:30+00:00"
   },
   {
+    "id": "f8b8fb60f84d7a18bf8a",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0oyMXI0TmlOZXRYS2VoUjBRMElvTTZlLVozWE5mSm1lWkthVTJQcm0tc1RQRE9PNU40SlpiTXg1Q2R6alp2eFFaOFA1ZWtzM21FdzFCMS1XaV9hTHBob01pcnc1T3VOREFVMnNTZms3SFhkVHcydGZldDZXbmRldVh5RTR3QU0?oc=5",
+    "original_title": "자본시장 정책 간담회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "자본시장 정책 간담회 - 사진 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-13T20:13:28+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Reunião sobre a Política do Mercado de Capitais - Fotografias | Multimédia - Resumo das Políticas da República da Coreia",
+    "translated_summary": "Reunião sobre a Política do Mercado de Capitais - Fotografia | Multimédia Briefing sobre as Políticas da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:15+00:00"
+  },
+  {
     "id": "8825830c4dce266afb17",
     "country": "Alemanha",
     "category": "Política",
@@ -293,6 +422,29 @@
     "translated_summary": "Manifestações pela habitação este sábado em Braga, Guimarães e Viana do Castelo Jornal O MINHO",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T20:58:13+00:00"
+  },
+  {
+    "id": "195832b74a01523d2f0c",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "經濟部標準檢驗局",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tdl9wQS1HYTRFN2l2NU5JTUVlbXVMLUpBN3BMSkpVY3RydXdtWDQ3VTRfVTRHQWxqb3Q4cktQN2ViOFNGX00yT193ZlI1d3ZMMFB1cGRoS2FqWGVnbGczNlgxd2I1TzVGZjVWMENCRQ?oc=5",
+    "original_title": "標準局將自115年7月1日起實施「電動車充電設備」等9項商品檢驗規定 強化商品安全 - 經濟部標準檢驗局",
+    "original_summary": "標準局將自115年7月1日起實施「電動車充電設備」等9項商品檢驗規定 強化商品安全 經濟部標準檢驗局",
+    "published_at": "2026-11-13T19:45:28+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Veículos elétricos",
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Bureau of Standards implementará 9 regulamentos de inspeção de produtos, incluindo \"Equipamentos de carregamento para veículos elétricos\", a partir de 1 de julho de 2026, para reforçar a segurança dos produtos - Bureau of Standards, Metrology and Inspection do Ministério da Economia",
+    "translated_summary": "O Bureau of Standards implementará 9 regulamentos de inspeção de produtos, incluindo \"Equipamentos de carregamento para veículos elétricos\", a partir de 1 de julho de 2026, para reforçar a segurança dos produtos. Bureau of Standards, Metrology and Inspection do Ministério da Economia",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:18+00:00"
   },
   {
     "id": "96ac4739564ba12c95f4",
@@ -482,6 +634,28 @@
     "translated_summary": "CEO do Grupo VW visita Autoeuropa pela primeira vez por um bom motivo Razão Automóvel",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T18:58:20+00:00"
+  },
+  {
+    "id": "532b68ec99cbbfa47a2f",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0JtUXBHWTYxWlBMN25jTWhKSml1ZzNrLWZ4UlpOVmNRNGZqWDlTUjI5NTR4YUVSMEVEcTFBR2ttcjM0MHJocTVSbDkxcGdFVU56UTg5N2d3TDN1bGpkT3FNUWlGdTJ2a0d5amE5TTZ0Q3Jfb3V0OWdISHZSeEtmb1M5TnpwUm9CbzQxaEdoSW50RG14ZFpaSQ?oc=5",
+    "original_title": "India’s Trade Surplus with US Narrows in FY26, Exports to China Surge - DD News",
+    "original_summary": "India’s Trade Surplus with US Narrows in FY26, Exports to China Surge DD News",
+    "published_at": "2026-11-13T18:27:08+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O excedente comercial da Índia com os EUA diminui no ano fiscal de 2026, as exportações para a China aumentam - DD News",
+    "translated_summary": "O excedente comercial da Índia com os EUA diminui no ano fiscal de 2026, as exportações para a China aumentam DD News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:38+00:00"
   },
   {
     "id": "110da2d611471b749ebd",
@@ -956,6 +1130,48 @@
     "translated_summary": "Orçamento federal: despesas recorde, mas a redução do imposto sobre a eletricidade permanece em aberto por enquanto Allgemeine Zeitung",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T17:56:11+00:00"
+  },
+  {
+    "id": "5416313e3b897861f5c6",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "MDR.de",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeW9iMktRMjl6cHNGbG93d0ZrcktuOUZnNGZVanBjekJDTkEzVUFqTFktRmdMdWJVTDdyZkJ0bm81c1U0R3pEdjNGSFkwWkU2MFhRY09ZcFVFX0R1X2F3WXZtTmV6TFRmMlBpV0hoTENTRlJMQ2dJOVFBNWFWZDF4dHdjS3lwN0VYUVpZMDNIUEFYeldLWWF5TE5DUTlCRW80Ukp1YmhTaDhnV3ctQ0hRanpsVzQ4S0ZzMWdhdFR1TTlrbGVqdFprLTc2N3pNYlZFOE0xNExkNGFBMVRjZEg4NWdoZTZmQWprYlhETUtVS3ZmRkh2WXlnZC1NN24zQXZRVG5Ed2FPTGlSVU0?oc=5",
+    "original_title": "Steuerbeschlüsse von CDU und SPD - Warum die Unionspolitiker sauer sind - MDR.de",
+    "original_summary": "Steuerbeschlüsse von CDU und SPD - Warum die Unionspolitiker sauer sind MDR.de",
+    "published_at": "2026-11-13T16:28:48+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Decisões fiscais da CDU e do SPD – Porque é que os políticos da União estão zangados – MDR.de",
+    "translated_summary": "Decisões fiscais da CDU e do SPD - Porque é que os políticos da União estão zangados MDR.de",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:09+00:00"
+  },
+  {
+    "id": "46c87bbe9b401272ca9a",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWtyaHUxajVQd3E5eE1jZHgtLTdtNHp5YU5LdURtZk5iU0tuODJySG9WM0pnQjk0RkNzNWtVMDl3YmN5a0hxc3lpZW1mQUMxUTBXYURqVEtLYjVWRU92Yi1XMUhHVDhaYVlEcFlYS1BQNzFwZTBEUHFwbHZwei1hOHZ2LXVZWnN2dTgyVUtmYktTb1Q5ODNFQkNTVi1nM1FrN1E?oc=5",
+    "original_title": "Top 10@10: D-Street loses winning run, India's exports jump 30%, Iran keeps door open to dialogue - LinkedIn",
+    "original_summary": "Top 10@10: D-Street loses winning run, India's exports jump 30%, Iran keeps door open to dialogue LinkedIn",
+    "published_at": "2026-11-13T16:28:47+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Top 10@10: D-Street perde a série de vitórias, as exportações da Índia aumentam 30%, o Irão mantém a porta aberta ao diálogo - LinkedIn",
+    "translated_summary": "Top 10@10: D-Street perde a série de vitórias, as exportações da Índia aumentam 30%, o Irão mantém a porta aberta ao diálogo LinkedIn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:41+00:00"
   },
   {
     "id": "d39c4df939762caa48e8",
@@ -2538,6 +2754,28 @@
     "translated_summary": "Orçamento federal de 2027 com despesas recorde – ainda sem redução do imposto sobre a eletricidade WELT",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T14:23:31+00:00"
+  },
+  {
+    "id": "73b7fac88c1697f55df7",
+    "country": "Alemanha",
+    "category": "Automóvel",
+    "source": "Google News · Deutschland – Automobilindustrie",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-auto",
+    "publisher": "FAZ",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzNJWTBKVlV6dlg0Y1VtT0xmVVd1dG9TTmVqczlUTEpPdERpYzZQSWVreGE4WGczZXJEN0kxdkRDcmpJNy1HMi1ycnJqOXNvUWNfYk5sdl9hTjdrckd2VnVaSV9GdzlqM2lSWnZjQ2VhdDA1U1hwRGtvZl93dEx5SzdCUnFYQ3FzX0F4NFVKWWNhM1p4WHpuakJjaTdXTVhyOWwtTXFZbVN0UzluY1VnbFYyTVlVSm5FY2hjeFRSSGZHZFJH?oc=5",
+    "original_title": "Krise: Mercedes stellt selbst Werk Sindelfingen in Frage - FAZ",
+    "original_summary": "Krise: Mercedes stellt selbst Werk Sindelfingen in Frage FAZ",
+    "published_at": "2026-11-13T12:53:55+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Crise: A Mercedes põe em causa a própria fábrica de Sindelfingen - FAZ",
+    "translated_summary": "Crise: A Mercedes põe em causa a própria fábrica de Sindelfingen FAZ",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:12+00:00"
   },
   {
     "id": "5f0143a4b802cbdcd053",
@@ -34339,6 +34577,28 @@
     "last_translation_attempt_at": "2026-11-11T10:04:15+00:00"
   },
   {
+    "id": "6a57aa3a552b7c958dfd",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uY1BOWWl6a2dGVDNHUjVQQnFkcDNiN1NOM2NyeXN0clVoYTNiSVNnS1B0STdCSTNJLS1qUHZKbDVEUUgzVHFoemZmRzU1ZDFFS1Vobm0tVVNpUHEwWUd30gFfQVVfeXFMT25jUE5ZaXprZ0ZUM0dSNVBCcWRwM2I3U04zY3J5c3RyVWhhM2JJU2dLUHRJN0JJM0ktLWpQdkpsNURRSDNUcWh6ZmZHNTVkMUVLVWhubS1VU2lQcTBZR3c?oc=5",
+    "original_title": "工總理事長：台灣迎39年最佳經濟榮景 AI 發展不能忘記傳統產業 - 經濟日報",
+    "original_summary": "工總理事長：台灣迎39年最佳經濟榮景 AI 發展不能忘記傳統產業 經濟日報",
+    "published_at": "2026-11-11T09:54:55+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Presidente da Federação Industrial Nacional: Taiwan acolhe as melhores perspetivas económicas em 39 anos. O desenvolvimento da IA não pode esquecer as indústrias tradicionais - Economic Daily News",
+    "translated_summary": "Presidente da Federação Industrial e Comercial de Taiwan: Taiwan acolhe as melhores perspetivas económicas em 39 anos. O desenvolvimento da IA não pode esquecer as indústrias tradicionais. Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:35+00:00"
+  },
+  {
     "id": "09e93eb13410d99511ed",
     "country": "Taiwan",
     "category": "Economia",
@@ -51283,6 +51543,28 @@
     "translated_summary": "Braga, Guimarães, Famalicão e Viana do Castelo juntam-se para a segunda edição do festival Square em janeiro Correio do Minho",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T18:58:24+00:00"
+  },
+  {
+    "id": "2533a2ad0d8046124ebc",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdzJSa0hGNjA2LTFGbEJ4ckhLUk9vUUpjRGF3QWlPS2NsYl9teDA2X2xiM2FaQTdmOGtMZ0J6NG1zZFlyb0Vsb0h5MFVQbC10STRVWmtVRjM4b05idTEtNmdiRVh2RmtZSWVWOXpWblJnREZnUThtWm53N2VQY0pGU0NGS1RFV3VQT2pYTHVvRHMzUkJNaFE?oc=5",
+    "original_title": "What makes Southeast Asia an investment hotspot? - Singapore Economic Development Board (EDB)",
+    "original_summary": "What makes Southeast Asia an investment hotspot? Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-13T22:49:38+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O que faz do Sudeste Asiático um polo de atração para o investimento? - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "O que faz do Sudeste Asiático um polo de atração para o investimento? Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T22:50:22+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
