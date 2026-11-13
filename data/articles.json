@@ -60,6 +60,68 @@
     "last_translation_attempt_at": "2026-11-13T16:59:27+00:00"
   },
   {
+    "id": "8825830c4dce266afb17",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "Frankfurter Rundschau",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlZxdTBZVGRVelpkTG42UWpPQmtfLUlxWUVrTi1NTTdNWWNjU1ZNNkNTZHkwcTMteU9vS1hueGxkTTNWT3M0cHRMSl93NXlZRk1GdnpnZkQ2TDd6Uk00anJJQWk1a0szbFp5bWU0TlBHLUgwNHF3Y1ZKcENmOGpWVTdJbG1xZjdLUHV5eDJYX01CQkpWQUVQby1MZWc1VHZSS1AyWFM2anY3SWpl?oc=5",
+    "original_title": "Milliardengelder für die Ukraine: Warum dieses Thema das Land jetzt stärker spaltet als je zuvor - Frankfurter Rundschau",
+    "original_summary": "Milliardengelder für die Ukraine: Warum dieses Thema das Land jetzt stärker spaltet als je zuvor Frankfurter Rundschau",
+    "published_at": "2026-11-13T19:47:14+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Milhares de milhões de euros para a Ucrânia: porque é que este tema está agora a dividir o país mais do que nunca - Frankfurter Rundschau",
+    "translated_summary": "Milhares de milhões de euros para a Ucrânia: porque é que este tema está agora a dividir o país mais do que nunca Frankfurter Rundschau",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:58:50+00:00"
+  },
+  {
+    "id": "06dcf1fdd051f9e75e6f",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUndtM0Q5TUUwSUgzTzBmYU96aDBEQ3QyU3pXS0NoUFRNM3czMHZPSk9fOE1vN0RGZ0dGbGVISGhBRGVXWHY4YS1SNGFpRTZWSnJ1bnc0S1lYZFRub2t2U09hUG1JTTVyU0FCcFpGMGs5Nk9MU3RvcVZieGxJcnNSZEduVlRMTWVGZGRFVQ?oc=5",
+    "original_title": "Guyana registra quase 1.100 veículos elétricos - BNamericas",
+    "original_summary": "Guyana registra quase 1.100 veículos elétricos BNamericas",
+    "published_at": "2026-11-13T19:02:50+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Guyana registra quase 1.100 veículos elétricos - BNamericas",
+    "translated_summary": "Guyana registra quase 1.100 veículos elétricos BNamericas",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:08+00:00"
+  },
+  {
+    "id": "666c5152882fd9f9d07d",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWNIY010bTFISDVrYWFoQW9ZRzM4dW9BMFR2a2NoRDU4TTZXcWdhX3hSYmRIMFBPeDNDcWU3WUJNWTFBaDVPN0ltdWJzQWtXYXRkUzRScGY1NGVDb3JHRnd3U3QwM2gyQjJkT2hnVVQ0Wi1xUGhEUlN6ZUw4aXJSZkk0ZzA4OVVQRkNRSFBaYXJ5QW5EeXQ5ZmNneGRlakQwVk1TcktsVGhMYTFLRjZwa2xEa0xBQ2tDenNqWTNMa3MyekdnVzQ3TGxuQkZUdw?oc=5",
+    "original_title": "India’s merchandise exports rise to record high of $49.47bn in Oct despite global uncertainty - News On AIR",
+    "original_summary": "India’s merchandise exports rise to record high of $49.47bn in Oct despite global uncertainty News On AIR",
+    "published_at": "2026-11-13T18:56:55+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações de mercadorias da Índia atingem um máximo histórico de 49,47 mil milhões de dólares em outubro, apesar da incerteza global - Notícias na AIR",
+    "translated_summary": "As exportações de mercadorias da Índia aumentam para um máximo histórico de 49,47 mil milhões de dólares em outubro, apesar da incerteza global Notícias na AIR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:05+00:00"
+  },
+  {
     "id": "d502c4de61cf8ae06c85",
     "country": "Portugal",
     "category": "Política",
@@ -142,6 +204,26 @@
     "last_translation_attempt_at": "2026-11-13T18:58:00+00:00"
   },
   {
+    "id": "ac5a1f3f3322493903a6",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2I1NXBmYnJEQ3UyQ0g3VUZLZXp2OWQ4UHJXZklhcmJpMk1neWFDSDhLM2xJM010SHpoM3l6MFNJVUhXT0NGNEFULTB4cVdHRUwyQmZuajVyVTlDclliQTc2ci1heDItTmJickRCTjhkUTduSHhaM2lTM3dNbFMtMDljaEVTRUJscWxhS3NYS1ZJa0wyeXhWVG5sTURaeGlPR0pVbDRhZmJSaWhOX09TTjlHSkk1RmNVLXY0cWFrX042bE8tWEhnWEZJU2RCODBVdGlR?oc=5",
+    "original_title": "Falha da Microsoft: quem ficou sem email pode receber uma compensação? - Expresso",
+    "original_summary": "Falha da Microsoft: quem ficou sem email pode receber uma compensação? Expresso",
+    "published_at": "2026-11-13T18:20:00+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Falha da Microsoft: quem ficou sem email pode receber uma compensação? - Expresso",
+    "translated_summary": "Falha da Microsoft: quem ficou sem email pode receber uma compensação? Expresso",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:09+00:00"
+  },
+  {
     "id": "bfb32f5ea8989849d1fd",
     "country": "Braga",
     "category": "Atualidade",
@@ -180,6 +262,26 @@
     "translated_summary": "A Zona Sul Portuguesa apresenta o maior potencial geológico relativo para hidrogénio natural em Portugal continental, segundo um estudo divulgado pelo Laboratório Nacional de Energia e Geologia (LNEG), que ressalva não existirem reservas comprovadas.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T18:58:22+00:00"
+  },
+  {
+    "id": "f8ab91141c30b48af0b7",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Yahoo News Singapore",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoZi1qLXY5eXBrcW9tOWw5TE9pWGhKUXRISXhKWml4UTIzZTc4OVN0MUtKcWxQVER4MV9zOUtyQ2xnU3Bfckctem9mR3RLS0lGQU9adU5TUHpjbDdsaWplN0ZOWjl6Z3BGU0VTYnBPUHlnbEZV?oc=5",
+    "original_title": "US, China hold first Board of Trade meeting - Yahoo News Singapore",
+    "original_summary": "US, China hold first Board of Trade meeting Yahoo News Singapore",
+    "published_at": "2026-11-13T18:01:31+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "EUA e China realizam a primeira reunião do Conselho de Comércio - Yahoo Notícias Singapura",
+    "translated_summary": "EUA e China realizam a primeira reunião do Conselho de Comércio Yahoo News Singapura",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:58:57+00:00"
   },
   {
     "id": "f83bf17ec776d0d3608a",
@@ -3865,6 +3967,28 @@
     "last_translation_attempt_at": "2026-11-13T11:06:59+00:00"
   },
   {
+    "id": "af50b86e97d99f8baf1f",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Yahoo News Singapore",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkh3MU1mc2o4aFF4Zl9lOTBvNF9zNW9IOFBzZE1RVlBEaXNVV0lNa3R6cDRsTU9nZ1pBZVBQemI0Q2hIaU16V2ZxanNmb3pJYU1TdmJuX0h5N1JLb2tQR21qTkkzTjh6UVhYV3hKdUxHWGRPYlVNM2VHVjUzTmp5alJYS2JpaHFzSnF0SA?oc=5",
+    "original_title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock - Yahoo News Singapore",
+    "original_summary": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock Yahoo News Singapore",
+    "published_at": "2026-11-13T10:16:01+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O sueco Kristersson vai apresentar o plano do governo de centro-direita ao Partido do Centro no impasse pós-eleitoral - Yahoo News Singapura",
+    "translated_summary": "O sueco Kristersson vai apresentar o plano do governo de centro-direita ao Partido do Centro no impasse pós-eleitoral Yahoo News Singapore",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:58:54+00:00"
+  },
+  {
     "id": "e97a796ead5c1c520bc9",
     "country": "Japão",
     "category": "Política",
@@ -5376,6 +5500,26 @@
     "translation_error": "HTTPError"
   },
   {
+    "id": "091e7dfcf8f75c914338",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Bosch Global",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNmNyVE0xWWNtYk1TQ1o4dXdLOVZ5S1lmSVh3OVdtZ0h6M2QzX282RFFiQVhCQjlwY1lEQjlHY1dnVTcwTlhTRlJjd09DS2xHaFZtQUowUlVnaE9lenN3QV9fU1dZOThVOUJZ?oc=5",
+    "original_title": "Bosch startet als Unternehmen - Bosch Global",
+    "original_summary": "Bosch startet als Unternehmen Bosch Global",
+    "published_at": "2026-11-13T08:35:11+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Bosch começou como empresa – Bosch Global",
+    "translated_summary": "A Bosch começou como empresa Bosch Global",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:00+00:00"
+  },
+  {
     "id": "a24834684a0d6dea0a8c",
     "country": "Coreia do Sul",
     "category": "Economia",
@@ -5744,11 +5888,11 @@
     "published_at": "2026-11-13T08:04:42+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Estados Gerais do PS procuram novas vozes para construir alternativas à atual governação",
+    "translated_summary": "Arranca no sábado o encontro que promove os Estados Gerais do Partido Socialista. Um debate que abre portas à Sociedade Civil e aos independentes sobre como se pode construir uma alternativa ao atual Governo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:10+00:00"
   },
   {
     "id": "44640ed600e4de28a1d2",
@@ -5766,11 +5910,11 @@
     "topics": [
       "Indústria e produção"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Disputa sobre os custos laborais: a administração da Mercedes ameaça com o encerramento de fábricas - electrive.net",
+    "translated_summary": "Disputa sobre os custos de mão de obra: o Conselho de Administração da Mercedes ameaça encerrar fábricas electrive.net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:11+00:00"
   },
   {
     "id": "f99d2bb09b554280f520",
@@ -5789,11 +5933,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Investidores globais olham para os ativos chineses: de onde vêm a segurança, a resiliência e a confiança na inovação? - 21st Century Business Herald",
+    "translated_summary": "Investidores globais olham para os ativos chineses: de onde vêm a segurança, a resiliência e a confiança na inovação? 21st Century Business Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:14+00:00"
   },
   {
     "id": "d09407e00cdd6c502e67",
@@ -5854,11 +5998,11 @@
     "topics": [
       "Condução autónoma"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Hyundai Motor expande o ecossistema de condução autónoma na Coreia do Sul em colaboração com a Socar e a Apex Mobility - Motorgraph",
+    "translated_summary": "Hyundai Motor Company, Socar e Apex Mobility desenvolvem o ecossistema de veículos autónomos na Coreia do Sul Motorgraph",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:17+00:00"
   },
   {
     "id": "2d5b799e5ebedec9d2bb",
@@ -5874,11 +6018,11 @@
     "published_at": "2026-11-13T07:54:00+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Festival Utopia arranca hoje em Braga - o minho",
+    "translated_summary": "Festival Utopia arranca hoje em Braga o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:20+00:00"
   },
   {
     "id": "633e7cf94cbe1a1f7744",
@@ -5896,11 +6040,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Primeira reunião direta após 5 anos de congelamento diplomático! A Lituânia retoma o diálogo com a China. Será que o \"Gabinete de Representação de Taiwan\" poderá ser mantido? | Li Jingtang | Notícias - Storm Media",
+    "translated_summary": "Primeira reunião direta após 5 anos de congelamento diplomático! A Lituânia retoma o diálogo com a China. Poderá o \"Gabinete de Representação de Taiwan\" ser mantido? | Li Jingtang | Notícias Storm Media",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:21+00:00"
   },
   {
     "id": "bfffa66af1e7e7bd5791",
@@ -5936,11 +6080,11 @@
     "published_at": "2026-11-13T07:48:37+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Secretário-Geral do Comité Central do Partido Comunista do Vietname e Presidente do Estado, Tô Lâm, participará na Semana de Reuniões dos Líderes da Cooperação Económica Ásia-Pacífico de 2026, que se realizará na China, e realizará atividades bilaterais no país - cn.baochinhphu.vn",
+    "translated_summary": "O Secretário-Geral do Comité Central do Partido Comunista do Vietname e Presidente do Estado, Tô Lâm, participará na Semana de Reuniões dos Líderes da Cooperação Económica Ásia-Pacífico de 2026, a realizar na China, e em atividades bilaterais na China cn.baochinhphu.vn",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:23+00:00"
   },
   {
     "id": "821f4f0a5a7efbbe2eab",
@@ -5956,11 +6100,11 @@
     "published_at": "2026-11-13T07:48:00+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Seleção faz último treino e viaja para Braga - o minho",
+    "translated_summary": "Seleção faz último treino e viaja para Braga o minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:27+00:00"
   },
   {
     "id": "96b61e46e518ad1d58d7",
@@ -5978,11 +6122,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "failed",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": "2026-11-13T09:03:34+00:00",
+    "translation_status": "translated",
+    "translated_title": "Ministério dos Negócios Estrangeiros: Já esclarecemos a nossa posição várias vezes em relação à chamada narrativa dos \"espiões chineses\".",
+    "translated_summary": "Pequim, 13 de novembro (Repórter Li Jingze) — A porta-voz do Ministério dos Negócios Estrangeiros da China, Mao Ning, presidiu à conferência de imprensa regular no dia 13.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:28+00:00",
     "translation_error": "ReadTimeout"
   },
   {
@@ -5999,11 +6143,11 @@
     "published_at": "2026-11-13T07:37:13+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Guoxing Aerospace, \"a primeira empresa de IA espacial\", entra na bolsa de valores de Hong Kong. Sun Dong: Reflete as vantagens da \"dupla capacitação\" de Hong Kong",
+    "translated_summary": "Hong Kong, 13 de novembro (repórter Dai Xiaotong) — A Chengdu Guoxing Aerospace Technology Co., Ltd. (doravante denominada \"Guoxing Aerospace\"), conhecida como a \"primeira empresa de IA espacial\", foi cotada no mercado principal da Hong Kong Exchanges and Clearing Limited (doravante denominada \"Bolsa de Valores de Hong Kong\") no dia 13. Durante a cerimónia de admissão à cotação, Sun Dong, Secretário para a Inovação, Tecnologia e Indústria do Governo da Região Administrativa Especial de Hong Kong, afirmou que a Guoxing Aerospace assinou um acordo de cooperação com a Hong Kong Science and Technology Parks Corporation para estabelecer a sua sede internacional e um centro de investigação e desenvolvimento em Hong Kong.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:32+00:00"
   },
   {
     "id": "be3b9d7de93a9059888e",
@@ -6019,11 +6163,11 @@
     "published_at": "2026-11-13T07:36:33+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Xangai emite o primeiro documento específico sobre gestão de dados científicos",
+    "translated_summary": "Xangai, 13 de novembro (repórter Zheng Yingying) — A Comissão Municipal de Ciência e Tecnologia de Xangai e o Departamento Municipal de Dados de Xangai divulgaram conjuntamente, no dia 13, o \"Regulamento Municipal de Xangai para a Gestão de Dados Científicos (em vigor experimentalmente)\". Este é o primeiro documento governamental emitido por Xangai que regula especificamente a gestão de dados científicos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:35+00:00"
   },
   {
     "id": "f50b8c7c103ce9e0d35a",
@@ -6041,11 +6185,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Resposta da China ao encontro entre os Presidentes da China e da Rússia: mantemos a comunicação com as partes envolvidas",
+    "translated_summary": "Pequim, 13 de novembro (Repórter Li Jingze) — A porta-voz do Ministério dos Negócios Estrangeiros da China, Mao Ning, presidiu à conferência de imprensa regular no dia 13. Um jornalista fez uma pergunta sobre a reunião entre os líderes da China e dos Estados Unidos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:39+00:00"
   },
   {
     "id": "f04fdd8a9098d7ed6849",
@@ -6064,11 +6208,11 @@
       "Geopolítica",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O Ministério dos Negócios Estrangeiros da China fala sobre a presente edição da Expo de Importação: empresas de vários países voltam a dar um \"voto de confiança\" ao mercado chinês",
+    "translated_summary": "Pequim, 13 de novembro (Repórteres Li Jingze e Zhang Su) — A porta-voz do Ministério dos Negócios Estrangeiros da China, Mao Ning, presidiu à conferência de imprensa regular no dia 13.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:42+00:00"
   },
   {
     "id": "654ab00383fff68d4bd2",
@@ -6087,11 +6231,11 @@
       "Tarifas e comércio",
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Parte chinesa: Sempre se opôs ao uso abusivo de medidas de controlo das exportações e à perturbação da estabilidade das cadeias globais de produção e abastecimento",
+    "translated_summary": "Pequim, 13 de novembro (Repórter Li Jingze) — A porta-voz do Ministério dos Negócios Estrangeiros da China, Mao Ning, presidiu à conferência de imprensa regular no dia 13.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:45+00:00"
   },
   {
     "id": "c58a8681b7c66567a49c",
@@ -6109,11 +6253,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A 33.ª Reunião Informal dos Líderes da APEC terá lugar. Parte chinesa: Espera-se que seja alcançada a Declaração dos Líderes de Shenzhen",
+    "translated_summary": "Pequim, 13 de novembro (Repórter Li Jingze) — A porta-voz do Ministério dos Negócios Estrangeiros da China, Mao Ning, presidiu à conferência de imprensa regular no dia 13.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:48+00:00"
   },
   {
     "id": "4d8caa4e070b6c325b0d",
@@ -6175,11 +6319,11 @@
       "Veículos elétricos",
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Porque é que a proibição da exportação de massa negra da Índia é importante para as suas ambições em matéria de baterias para veículos elétricos - Business Standard",
+    "translated_summary": "Porque é que a proibição da Índia de exportar massa negra é importante para as suas ambições em matéria de baterias para veículos elétricos Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:51+00:00"
   },
   {
     "id": "216142cab6843a1cf3fd",
@@ -6195,11 +6339,11 @@
     "published_at": "2026-11-13T07:28:38+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Dois departamentos emitem conjuntamente o \"Plano de Implementação do Novo Armazenamento de Energia para o 15.º Plano Quinquenal\"",
+    "translated_summary": "China News Service, 13 de novembro — Segundo informações do site da Comissão Nacional de Desenvolvimento e Reforma, a Comissão Nacional de Desenvolvimento e Reforma e a Administração Nacional de Energia emitiram, no dia 13, o \"Comunicado sobre a publicação do lt;Plano de Implementação para o Novo Armazenamento de Energia do 15.º Plano Quinquenalgt;\". O \"Plano de Implementação\" refere que, até 2030, o novo armazenamento de energia passará da fase de desenvolvimento em grande escala para a fase de desenvolvimento orientado para o mercado, com uma capacidade instalada nacional de novo armazenamento de energia a atingir os 300 milhões de quilowatts e uma duração média de armazenamento de energia de cerca de 3 horas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:54+00:00"
   },
   {
     "id": "6f8b7c80a455bb4a8441",
@@ -6215,11 +6359,11 @@
     "published_at": "2026-11-13T07:28:04+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Carbon Measures abre um escritório em Singapura e lança o primeiro projeto-piloto local de descarbonização industrial - TNGlobal",
+    "translated_summary": "A Carbon Measures abre um escritório em Singapura e lança o primeiro projeto-piloto local de descarbonização industrial TNGlobal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:57+00:00"
   },
   {
     "id": "06dfbf25214fbd1681f9",
@@ -6238,11 +6382,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Jensen Huang, no Fórum de Investimento Estratégico de Taiwan, mostra otimismo cauteloso em relação à cadeia de fornecimento taiwanesa e às ações taiwanesas - Valores mobiliários - Economic Daily News",
+    "translated_summary": "Jensen Huang, no Fórum Estratégico de Investimento em Taiwan, mostra otimismo em relação à cadeia de suprimentos de Taiwan e às ações taiwanesas - Jornal Económico de Valores Mobiliários",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:00+00:00"
   },
   {
     "id": "a87115723690b08f3eae",
@@ -6260,11 +6404,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Tendências e preocupações do desenvolvimento económico de Taiwan no contexto do jogo estratégico entre a China e os Estados Unidos - Taiwan China Review News",
+    "translated_summary": "Tendências e preocupações do desenvolvimento económico de Taiwan no contexto do jogo estratégico entre a China e os Estados Unidos China Review News, Taiwan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:03+00:00"
   },
   {
     "id": "9398d3d33bdcd1aa6544",
@@ -6303,11 +6447,11 @@
       "Veículos elétricos",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Associação Coreana de Jornalistas Automóveis realiza o \"EV Media Insight Talk\"... Busca de soluções para a popularização dos veículos elétricos - Asia Economy",
+    "translated_summary": "A Associação Coreana de Jornalistas Automóveis realiza o \"EV Media Insight Talk\"... À procura de soluções para a popularização dos veículos elétricos Asia Economy",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:06+00:00"
   },
   {
     "id": "654e94fa6d24ddd5aafa",
@@ -6325,11 +6469,11 @@
     "topics": [
       "Geopolítica"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Resposta do Ministério dos Negócios Estrangeiros ao encontro entre os Presidentes da China e dos EUA",
+    "translated_summary": "No dia 13 de novembro, a porta-voz do Ministério dos Negócios Estrangeiros, Mao Ning, presidiu à conferência de imprensa regular. Um jornalista fez uma pergunta sobre o encontro entre os chefes de Estado da China e dos Estados Unidos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:09+00:00"
   },
   {
     "id": "7a74824c51c762b6bc4f",
@@ -6348,11 +6492,11 @@
       "Indústria e produção",
       "Investimento e empresas"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Vice-presidente da Comissão de Valores Mobiliários da China: O desenvolvimento da China tem uma certeza a longo prazo e o investimento na China tem uma base sólida - 21st Century Business Herald",
+    "translated_summary": "Vice-presidente da Comissão Reguladora de Valores Mobiliários: O desenvolvimento da China tem uma certeza a longo prazo e o investimento na China tem uma base sólida 21st Century Business Herald",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:12+00:00"
   },
   {
     "id": "e6c4525bef344d771ca1",
@@ -6376,6 +6520,28 @@
     "translated_summary": "Sem pânico após a era de Jensen Huang! O Fórum de Investimento Estratégico de Taiwan revela os segredos da \"Cadeia de Abastecimento de Taiwan\" e do bom desempenho do mercado de ações taiwanês TechNews",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T14:24:45+00:00"
+  },
+  {
+    "id": "7c37df96b40c200ea914",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSThEdmdfSEoyWUhoMlIxd1BqeV9NWUxITHF5X1RXR2steDJNZ1h5MzRPMHp3WURVUzZmWVhNWUdkQjdlalAtdzB0cmRhcl9PRWlrRnY0N1VPQQ?oc=5",
+    "original_title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 13일) - 한국경제",
+    "original_summary": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 13일) 한국경제",
+    "published_at": "2026-11-13T07:20:44+00:00",
+    "first_seen_at": "2026-11-13T19:58:17+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Resumo de conteúdos Premium9 de hoje (13 de novembro) - The Korea Economic Daily",
+    "translated_summary": "Resumo de conteúdos Premium9 de hoje (13 de novembro) Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T19:59:03+00:00"
   },
   {
     "id": "58cc2bf70868d7cbbba9",
@@ -6754,11 +6920,11 @@
     "published_at": "2026-11-13T07:00:00+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"Liberdade de Expressão\" A aprovação da construção de SMRs nos Estados Unidos não significa que a política energética de Taiwan tenha uma resposta - Liberty Times Net",
+    "translated_summary": "\"Liberty Times\" A aprovação da construção de SMR nos EUA não significa que a política energética de Taiwan tenha uma resposta Liberty Times Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:15+00:00"
   },
   {
     "id": "76458911e11537142be1",
@@ -6818,11 +6984,11 @@
       "Veículos elétricos",
       "BYD"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A nova estação de carregamento de veículos elétricos da BYD combina painéis solares e baterias e utiliza braços robóticos - HT Auto",
+    "translated_summary": "A nova estação de carregamento de veículos elétricos da BYD combina painéis solares e baterias e utiliza braços robóticos HT Auto",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:18+00:00"
   },
   {
     "id": "34719ce04bc22ef23d5d",
@@ -6904,11 +7070,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A inflação no retalho na Índia atinge o valor mais elevado dos últimos dois anos, 6,09%, devido ao aumento dos preços dos alimentos - Down To Earth",
+    "translated_summary": "A inflação no retalho na Índia atinge o valor mais alto em dois anos, 6,09%, devido ao aumento dos preços dos alimentos Down To Earth",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:21+00:00"
   },
   {
     "id": "f62841d5ee8b3a5593fb",
@@ -6969,11 +7135,11 @@
     "topics": [
       "Condução autónoma"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Hyundai Motor expande o ecossistema de condução autónoma com a Socar e a Apex Mobility - The Korea Herald",
+    "translated_summary": "A Hyundai Motor expande o ecossistema de condução autónoma com a Socar e a Apex Mobility Hankook Ilbo",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:24+00:00"
   },
   {
     "id": "d7797923cd3280573ce3",
@@ -7097,11 +7263,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Orçamento federal de 2027 mantido – Nova dívida aumenta para 210 mil milhões de euros - WirtschaftsWoche",
+    "translated_summary": "Orçamento federal de 2027 mantido – Novo endividamento aumenta para 210 mil milhões de euros WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:27+00:00"
   },
   {
     "id": "7a537ee37921264d27ac",
@@ -7206,11 +7372,11 @@
     "published_at": "2026-11-13T06:16:37+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Porque é que Singapura continua a surgir na disputa pelos chips da Nvidia e pela China - CNBC",
+    "translated_summary": "Por que razão Singapura continua a surgir na disputa pelos chips da Nvidia e pela China CNBC",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:30+00:00"
   },
   {
     "id": "ec73404d4c623b935124",
@@ -7312,11 +7478,11 @@
     "topics": [
       "Inflação e preços"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cebolas sobem 116%, batatas descem 14%: o problema da inflação na Índia precisa de soluções de armazenamento, não apenas de aumentos das taxas de juro – ThePrint",
+    "translated_summary": "Cebolas sobem 116%, batatas descem 14%: o problema da inflação na Índia precisa de soluções de armazenamento, não apenas de aumentos da taxa de juro ThePrint",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:33+00:00"
   },
   {
     "id": "17ff3e268148909fd20b",
@@ -7907,11 +8073,11 @@
     "published_at": "2026-11-13T05:28:58+00:00",
     "first_seen_at": "2026-11-13T09:02:49+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "\"A Alemanha é o pior país para produzir veículos\" – WELT",
+    "translated_summary": "\"A Alemanha é o pior país para produzir veículos\" WELT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:36+00:00"
   },
   {
     "id": "59a980f771a34c702c67",
@@ -7970,11 +8136,11 @@
       "Veículos elétricos",
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ofensiva dos veículos elétricos chineses: não há tempo para reagir… A solução para a sobrevivência da indústria automóvel sul-coreana - Ajou Economic Daily",
+    "translated_summary": "A ofensiva dos veículos elétricos chineses, sem tempo para reagir… A solução para a sobrevivência da indústria automóvel sul-coreana, Ajou Economic",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-13T20:00:39+00:00"
   },
   {
     "id": "464f94bc435507271332",
