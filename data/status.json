@@ -1,71 +1,186 @@
 {
-  "last_run": "2026-11-14T16:46:15+00:00",
+  "last_run": "2026-11-14T17:42:40+00:00",
   "first_run_at": "2026-11-06T01:57:53+00:00",
   "target_lang": "pt",
-  "articles_total": 5599,
+  "articles_total": 5601,
   "archive_days": 30,
-  "added": 13,
-  "translated_this_run": 13,
+  "added": 2,
+  "translated_this_run": 2,
   "translation_failed_this_run": 0,
   "sources_total": 57,
-  "sources_ok": 57,
-  "sources_failed": [],
+  "sources_ok": 19,
+  "sources_failed": [
+    {
+      "source": "china-politics-search",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+%E6%94%BF%E5%BA%9C+%E6%94%BF%E7%AD%96+%E5%A4%96%E4%BA%A4+%E8%B4%B8%E6%98%93&h"
+    },
+    {
+      "source": "china-auto-zh",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+%E6%B1%BD%E8%BD%A6+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6+%E7%94%B5%E6"
+    },
+    {
+      "source": "japan-politics-search",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC+%E6%94%BF%E5%BA%9C+%E9%A6%96%E7%9B%B8+%E5%9B%BD%E4%BC%9A+%E6%94%BF%E7%AD%96+%"
+    },
+    {
+      "source": "japan-auto-search",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC+%28%E8%87%AA%E5%8B%95%E8%BB%8A+OR+%E3%83%88%E3%83%A8%E3%82%BF+OR+%E3%83%9B%E3"
+    },
+    {
+      "source": "de-politics",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Deutschland+%28Bundesregierung+OR+Bundestag+OR+Haushalt+OR+Au%C3%9Fenpolitik%29+when%3A7d&hl=de&"
+    },
+    {
+      "source": "de-auto",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Deutschland+%28Autoindustrie+OR+Volkswagen+OR+Mercedes+OR+BMW+OR+Elektroautos%29+when%3A7d&hl=de"
+    },
+    {
+      "source": "kr-politics",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%28%EC%A0%95%EB%B6%80+OR+%EA%B5%AD%ED%9A%8C+OR+%EC%A0%95%EC"
+    },
+    {
+      "source": "kr-auto",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%ED%95%9C%EA%B5%AD+%EC%9E%90%EB%8F%99%EC%B0%A8+%28%ED%98%84%EB%8C%80%EC%B0%A8+OR+%EA%B8%B0%EC%95"
+    },
+    {
+      "source": "tw-politics",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3+%28%E6%94%BF%E5%BA%9C+OR+%E7%AB%8B%E6%B3%95%E9%99%A2+OR+%E6%94%BF%E7%AD%96+OR"
+    },
+    {
+      "source": "tw-auto",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3+%28%E9%9B%BB%E5%8B%95%E8%BB%8A+OR+%E6%B1%BD%E8%BB%8A%E7%94%A2%E6%A5%AD+OR+%E8"
+    },
+    {
+      "source": "in-politics",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=India+%28government+OR+parliament+OR+cabinet+OR+trade+policy%29+when%3A7d&hl=en-IN&gl=IN&ceid=IN"
+    },
+    {
+      "source": "in-auto",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=India+%28automotive+OR+electric+vehicles+OR+car+manufacturing+OR+EV+batteries%29+when%3A7d&hl=en"
+    },
+    {
+      "source": "sg-politics",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Singapore+%28government+OR+parliament+OR+trade+policy+OR+legislation%29+when%3A7d&hl=en-SG&gl=SG"
+    },
+    {
+      "source": "sg-auto",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Singapore+%28electric+vehicles+OR+automotive+industry+OR+autonomous+vehicles+OR+EV+charging%29+w"
+    },
+    {
+      "source": "bosch-strategy-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Konzern+OR+Umsatz+OR+Gewinn+OR+Strategie+OR+Restrukturierung+OR+Investitionen+OR+"
+    },
+    {
+      "source": "bosch-strategy-en",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Robert+Bosch%22+%28earnings+OR+financial+results+OR+restructuring+OR+investment+OR+strategy%2"
+    },
+    {
+      "source": "bosch-mobility-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Mobility+OR+Elektroauto+OR+Antrieb+OR+Bremssystem+OR+autonomes+Fahren+OR+Wasserst"
+    },
+    {
+      "source": "bosch-mobility-en",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28automotive+OR+mobility+OR+brake+OR+ADAS+OR+electric+vehicle+OR+hydrogen%29+when%3"
+    },
+    {
+      "source": "bosch-manufacturing-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Werk+OR+Produktionsstandort+OR+Produktion+OR+Fabrik+OR+Lieferkette+OR+Fertigung%2"
+    },
+    {
+      "source": "bosch-rexroth-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch+Rexroth%22+%28ctrlX+OR+Robotik+OR+Automatisierung+OR+Industrie+OR+KI%29+when%3A7d&hl=de"
+    },
+    {
+      "source": "bosch-technology-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Halbleiter+OR+Sensoren+OR+K%C3%BCnstliche+Intelligenz+OR+Software+OR+Robotik%29+w"
+    },
+    {
+      "source": "bosch-technology-en",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28semiconductors+OR+artificial+intelligence+OR+sensors+OR+software+defined+vehicle%"
+    },
+    {
+      "source": "bosch-labor-de",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Stellenabbau+OR+Besch%C3%A4ftigte+OR+Betriebsrat+OR+Jobs+OR+Tarifverhandlungen+OR"
+    },
+    {
+      "source": "bosch-labor-en",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28job+cuts+OR+layoffs+OR+workers+OR+hiring+OR+works+council%29+when%3A7d&hl=en-US&g"
+    },
+    {
+      "source": "bosch-portugal-pt",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Braga+OR+Aveiro+OR+Ovar+OR+Portugal+OR+%22Car+Multimedia%22%29+when%3A7d+-%22Edo+"
+    },
+    {
+      "source": "tw-taipeitimes",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.taipeitimes.com/xml/index.rss"
+    },
+    {
+      "source": "china-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+%28%E7%BB%8F%E6%B5%8E+OR+GDP+OR+%E5%87%BA%E5%8F%A3+OR+%E6%8A%95%E8%B5%84+OR+%"
+    },
+    {
+      "source": "jp-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC+%28%E7%B5%8C%E6%B8%88+OR+GDP+OR+%E6%99%AF%E6%B0%97+OR+%E6%97%A5%E9%8A%80+OR+%"
+    },
+    {
+      "source": "de-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Deutschland+%28Wirtschaft+OR+Konjunktur+OR+BIP+OR+Inflation+OR+Arbeitsmarkt+OR+Investitionen%29+"
+    },
+    {
+      "source": "kr-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%ED%95%9C%EA%B5%AD+%28%EA%B2%BD%EC%A0%9C+OR+%EC%84%B1%EC%9E%A5%EB%A5%A0+OR+%EB%AC%BC%EA%B0%80+OR"
+    },
+    {
+      "source": "tw-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3+%28%E7%B6%93%E6%BF%9F+OR+GDP+OR+%E5%87%BA%E5%8F%A3+OR+%E7%89%A9%E5%83%B9+OR+%"
+    },
+    {
+      "source": "in-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=India+%28economy+OR+GDP+OR+inflation+OR+RBI+OR+investment+OR+exports%29+when%3A7d&hl=en-IN&gl=IN"
+    },
+    {
+      "source": "sg-economy",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Singapore+%28economy+OR+GDP+OR+inflation+OR+MAS+OR+investment+OR+trade%29+when%3A7d&hl=en-SG&gl="
+    },
+    {
+      "source": "pt-auto-search",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Portugal+%28%22ind%C3%BAstria+autom%C3%B3vel%22+OR+%22setor+autom%C3%B3vel%22+OR+%22ve%C3%ADculo"
+    },
+    {
+      "source": "pt-economy-search",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Portugal+%28economia+OR+infla%C3%A7%C3%A3o+OR+investimento+OR+exporta%C3%A7%C3%B5es+OR+PIB+OR+em"
+    },
+    {
+      "source": "braga-diario-minho",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adiariodominho.pt+Braga+when%3A7d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150"
+    },
+    {
+      "source": "braga-correio-minho",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acorreiodominho.pt+Braga+when%3A7d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150"
+    },
+    {
+      "source": "braga-ominho",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aominho.pt+Braga+when%3A7d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150"
+    }
+  ],
   "items_seen_by_source": {
     "chinanews-politics": 12,
     "chinanews-economy": 4,
-    "china-politics-search": 3,
     "china-auto-carnewschina": 10,
     "china-auto-cnevpost": 40,
-    "china-auto-zh": 6,
     "japan-politics-nhk": 40,
-    "japan-politics-search": 4,
     "japan-auto-carwatch": 30,
-    "japan-auto-search": 40,
-    "de-politics": 40,
-    "de-auto": 40,
-    "kr-politics": 40,
-    "kr-auto": 40,
-    "tw-politics": 40,
-    "tw-auto": 26,
-    "in-politics": 28,
-    "in-auto": 24,
-    "sg-politics": 27,
-    "sg-auto": 31,
     "bosch-official-de": 2,
-    "bosch-strategy-de": 6,
-    "bosch-strategy-en": 0,
-    "bosch-mobility-de": 1,
-    "bosch-mobility-en": 7,
-    "bosch-manufacturing-de": 7,
-    "bosch-rexroth-de": 0,
-    "bosch-technology-de": 4,
-    "bosch-technology-en": 3,
-    "bosch-labor-de": 12,
-    "bosch-labor-en": 0,
-    "bosch-portugal-pt": 10,
     "de-bundesregierung-official": 10,
     "de-bundestag-official": 6,
     "kr-koreaherald-business": 1,
     "kr-yonhap-national": 14,
-    "tw-taipeitimes": 3,
     "in-etauto-industry": 20,
     "in-etauto-components": 18,
     "sg-straitstimes": 3,
     "china-scmp-china": 21,
-    "china-economy": 35,
-    "jp-economy": 35,
-    "de-economy": 35,
-    "kr-economy": 35,
-    "tw-economy": 35,
-    "in-economy": 35,
-    "sg-economy": 35,
     "pt-politics-rtp": 12,
-    "pt-auto-search": 28,
     "pt-economy-rtp": 50,
-    "pt-economy-search": 35,
-    "braga-diario-minho": 6,
-    "braga-correio-minho": 12,
-    "braga-ominho": 27,
     "braga-bragatv": 0,
     "braga-vmtv": 0
   }

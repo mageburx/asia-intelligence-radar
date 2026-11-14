@@ -64,6 +64,48 @@
     "last_translation_attempt_at": "2026-11-14T16:46:58+00:00"
   },
   {
+    "id": "f92b6602610d84c6ae21",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa_n1779188",
+    "original_title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+    "original_summary": "A suspensão das descolagens durante várias horas na sexta-feira nos Estados Unidos poderá levar ao cancelamento de um total de 16 mil voos, estimou hoje o regulador, prevendo que a operação esteja regularizada no final de domingo.",
+    "published_at": "2026-11-14T17:38:03+00:00",
+    "first_seen_at": "2026-11-14T17:42:40+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+    "translated_summary": "A suspensão das descolagens durante várias horas na sexta-feira nos Estados Unidos poderá levar ao cancelamento de um total de 16 mil voos, estimou hoje o regulador, prevendo que a operação esteja regularizada no final de domingo.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T17:47:12+00:00"
+  },
+  {
+    "id": "58fee672629a5492914f",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "RTP Notícias · Economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-rtp",
+    "publisher": "RTP Notícias · Economia",
+    "url": "https://www.rtp.pt/noticias/economia/protesto-junta-milhares-de-pessoas-pelo-direito-a-morar_e1779157",
+    "original_title": "Protesto junta milhares de pessoas pelo \"direito a morar\"",
+    "original_summary": "Há manifestações pelo \"direito à Habitação\", a decorrer de norte a sul do país. Acompanhamos aqui os protestos.",
+    "published_at": "2026-11-14T17:27:19+00:00",
+    "first_seen_at": "2026-11-14T17:42:40+00:00",
+    "topics": [
+      "Habitação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Protesto junta milhares de pessoas pelo \"direito a morar\"",
+    "translated_summary": "Há manifestações pelo \"direito à Habitação\", a decorrer de norte a sul do país. Acompanhamos aqui os protestos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T17:47:13+00:00"
+  },
+  {
     "id": "0504eb252a6c43ece060",
     "country": "Portugal",
     "category": "Economia",
