@@ -1,5 +1,90 @@
 [
   {
+    "id": "c835c8d6b02b39ae70fd",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "ECO",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVBQY2xNd2xxRTUwYmVabEZSc1VFODhBYjViZ1FjYlVlY2toWTFoVHlXVU5BaHpyck5uMmlIQUxpc2laclFNeGVpRTloakFkc1ZlaHkySTFxWmV2T21UbnVUbVF1TXdrbkZtWGh5Z2hoVlNzWnVMbzVndEFNbzJhYUtDcEpRWHA4bGV5bE9zSURiZ2VIMVBV?oc=5",
+    "original_title": "Canadá põe indústria automóvel à frente de acordo com os EUA - ECO",
+    "original_summary": "Canadá põe indústria automóvel à frente de acordo com os EUA ECO",
+    "published_at": "2026-11-14T14:24:48+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Canadá põe indústria automóvel à frente de acordo com os EUA - ECO",
+    "translated_summary": "Canadá põe indústria automóvel à frente de acordo com os EUA ECO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:25+00:00"
+  },
+  {
+    "id": "923f5aa9a2baee48e9ee",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261114de76006",
+    "original_title": "自民 松山参院会長 消費税減税法案“国民・公明 方向性同じ”",
+    "original_summary": "食料品の消費税減税関連法案をめぐり、自民党の松山参議院議員会長は、国民民主党や公明党とは政策の方向性が同じだとして、それぞれの主張に耳を傾け、幅広い賛同を得て成立させたいという考えを示しました。",
+    "published_at": "2026-11-14T14:07:30+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Presidente do Senado do Partido Liberal Democrata, Matsuyama: \"O Partido Liberal Democrata e o Partido Komeito têm a mesma orientação\" relativamente ao projeto de lei de redução do imposto sobre o consumo",
+    "translated_summary": "No que diz respeito ao projeto de lei relativo à redução do imposto sobre o consumo de produtos alimentares, o Presidente da Câmara dos Conselheiros do Partido Liberal Democrata, Matsuyama, afirmou que o Partido Democrático Constitucional e o Novo Komeito partilham a mesma orientação política e manifestou a intenção de ouvir os argumentos de cada um e de fazer com que o projeto de lei seja aprovado com um amplo consenso.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:48:48+00:00"
+  },
+  {
+    "id": "cbe1d1dc3d6712629291",
+    "country": "Índia",
+    "category": "Automóvel",
+    "source": "Google News · India – Automotive",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-auto",
+    "publisher": "The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPem9xZjhhbWc2Ui1sc2NfRy1qNFFKT3BVRzNndG1aaUc5aWNYWktkaDRwcTNNNkI4MDNhZEUtRTNoMEM2ZVZVdkV2ZG0tTk14SEd3SnN6TWpSWThqNDVzd0ppV1FqUkNkaXZTWTVncmZ1MkZSdkJNZzVLVThEMEpVNlROQ3IwckQ3RTAxN0hpVzdyNE9sNVhfMjVlWnd3ZXROZDNsallRWENrNmJsc1htUkVjWUlmcHFlMFRqZXNtVE1nLW9Fb3BtaVJXZTlCWDhpUXBCczBiTWVsTFZ0RzR5VHRSd2tDeUh6ZWpVUXZLaWJyRWlFNS1qaVo3VmtjMVZVYTJXcEUyc9IBjAJBVV95cUxNdkFDSEUxZzdmZWhhazFWQUVuRmpVdFpGQ3FNV1pseUR1U0xvdGUzWXk3eGhaUVdnLThzNFNEU3B6WFF3NmhsQ0l1NlhmQjJkb1h1TlhVaWFiYVFjV21nYVlta2RpLTl2MzRka3JiZW1jOWVfa3NOMmNYZ29pa1oyYjBNVDhSLUZ3T0FzLUtzRkVCTlZlMjVWWkV3UnVTa3hKdnNuT05sQ1pSRjFOOEc0bmoySXZxYUtjSXJKeFBwSmMyR2xmNHpfZGtaZ21Pd0cxN2dFNlhNUTBSalRpVWR2OE1vMEczSG12UVNBdzFWNWlpVGZKc2NYSFZpM3pqYWhRclZvbEh4elF1WjZ6?oc=5",
+    "original_title": "Battery PLI scheme achieves just 1.4 GWh capacity against 50 GWh target, faces delays: NITI Aayog report - The Economic Times",
+    "original_summary": "Battery PLI scheme achieves just 1.4 GWh capacity against 50 GWh target, faces delays: NITI Aayog report The Economic Times",
+    "published_at": "2026-11-14T13:59:52+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Baterias"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O regime de incentivos à produção de baterias atinge apenas 1,4 GWh de capacidade, em vez da meta de 50 GWh, e enfrenta atrasos: relatório da NITI Aayog - The Economic Times",
+    "translated_summary": "O regime PLI para baterias atinge apenas 1,4 GWh de capacidade em comparação com a meta de 50 GWh e enfrenta atrasos: relatório da NITI Aayog The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:05+00:00"
+  },
+  {
+    "id": "3024006cf4159d3d4618",
+    "country": "Bosch",
+    "category": "Pessoas",
+    "source": "Bosch · Trabalhadores",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-labor-de",
+    "publisher": "Wochenblatt Reporter",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckVUU2NHZmU1LVVxRXlfMzNWUDI5VXd5VU1fNThaVzhqdmxoYjRuN0FiSHNOWVJ0R1pQZHhkX2JQb0ttTWFkYkN6NEN4N1JmcTFEV2ZDRGJhS0g5S29vZE5hOUZGcm5qVjdHZ0piZWZPdW9QVHlzdnNMcXptVXZha0FxVC1FRHZIQVZNM0ZvblJBQmtfNHJYbzVTNlFQSFJkb1ZUV01obUFaOUhZNW0wUFE0VXdPaGtVQXNFenJWR2Y?oc=5",
+    "original_title": "Bosch plant Umbau in Gerlingen: 62.500 Beschäftigte wechseln - Wochenblatt Reporter",
+    "original_summary": "Bosch plant Umbau in Gerlingen: 62.500 Beschäftigte wechseln Wochenblatt Reporter",
+    "published_at": "2026-11-14T13:57:17+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Fábricas e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Bosch planeia uma reestruturação em Gerlingen: 62 500 colaboradores serão transferidos - Wochenblatt Reporter",
+    "translated_summary": "A Bosch planeia uma reestruturação em Gerlingen: 62 500 colaboradores mudam Wochenblatt Reporter",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:11+00:00"
+  },
+  {
     "id": "099894f7705a0d62e8d2",
     "country": "Índia",
     "category": "Economia",
@@ -18,6 +103,28 @@
     "translated_summary": "Governo de Himachal Pradesh himachalpr.gov.in",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T13:57:17+00:00"
+  },
+  {
+    "id": "95d186036699d74494b9",
+    "country": "Bosch",
+    "category": "Estratégia",
+    "source": "Bosch · Estratégia e resultados (DE)",
+    "source_type": "Imprensa / agregador",
+    "source_id": "bosch-strategy-de",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTIzQU5iYlNHNG54UWRaVDBfY3czd3pXM0xEUWRCU0lHMXFMcXVFMlozNVFfaDE4eE0wMkZKZXJzdG1YMFRERXhMekdlZVp3Q1pZam1mekNDMEpyQWJEMmw3bWItZkZwTFJxYy1aVGtndG9xZXVXZUFUYkROTkFlTzd1TkVkTXhrTkhlUXpYTHl3bFRvdURDNThfVXhlMVkwWlpGYWZpUVRkdWdxNWdHNnBLQQ?oc=5",
+    "original_title": "Bosch-Chef: Worauf er bei der neuen Konzernstruktur setzt - WirtschaftsWoche",
+    "original_summary": "Bosch-Chef: Worauf er bei der neuen Konzernstruktur setzt WirtschaftsWoche",
+    "published_at": "2026-11-14T13:38:21+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Diretor da Bosch: Em que aposta na nova estrutura do grupo - WirtschaftsWoche",
+    "translated_summary": "Diretor da Bosch: Em que aposta na nova estrutura do grupo WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:08+00:00"
   },
   {
     "id": "cf45fb7715739f2d598e",
@@ -147,6 +254,26 @@
     "last_translation_attempt_at": "2026-11-14T13:56:34+00:00"
   },
   {
+    "id": "da2eb52d47dc7a12fd0f",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wYVRsNTBadVhZempVd29PZzFOdUlIaFY2bE9zSXE5SXFHM0FuaTc1S2JxNXh6Tko3ZzJHTi1FQ2w5dThOcnNjTVZRR0pIZ1p5MTEteGh1QlR4elZhclVZMHY5SHo2U09iOEpmSzNUVTljSGhnZzVMYw?oc=5",
+    "original_title": "Manifestantes vão montar tendas no centro de Braga - O MINHO",
+    "original_summary": "Manifestantes vão montar tendas no centro de Braga O MINHO",
+    "published_at": "2026-11-14T13:02:00+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Manifestantes vão montar tendas no centro de Braga - O MINHO",
+    "translated_summary": "Manifestantes vão montar tendas no centro de Braga O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:27+00:00"
+  },
+  {
     "id": "f8279a832db672cf336e",
     "country": "China",
     "category": "Política",
@@ -229,6 +356,26 @@
     "translated_summary": "Gestor Christian Fischer: Em que aposta o CEO da Bosch na nova estrutura do grupo Main-Post",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T13:57:08+00:00"
+  },
+  {
+    "id": "cc43b0d32c14f0cc3bca",
+    "country": "Portugal",
+    "category": "Automóvel",
+    "source": "Google News · Indústria automóvel portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-auto-search",
+    "publisher": "Correio da Manhã",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGVvVnA1RC1qNzVtT2NadWRYczVQb3hrQWlMODlwa1BGWE10T25NUGItelh1VHh6X2xvTDA3Ym1pX0ZoYjBVYnpYSjgzVUpacUJtZi0zdDF6cXo2dGo2RlcxZkI2RXh3ZDNVVHA0bUpsU0xQa1VOOVh0RDhhekRyQ0FCYmYzd3dXaUl4ZnBaRDNyb1JYYXFhc2VJZEVfaHZhX042c3ZMb0FzdlM4UXczTFRn?oc=5",
+    "original_title": "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel - Correio da Manhã",
+    "original_summary": "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel Correio da Manhã",
+    "published_at": "2026-11-14T12:40:00+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel - Correio da Manhã",
+    "translated_summary": "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel Correio da Manhã",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:24+00:00"
   },
   {
     "id": "7c354f7e4d5e98775ed4",
@@ -959,6 +1106,28 @@
     "last_translation_attempt_at": "2026-11-14T12:56:22+00:00"
   },
   {
+    "id": "2e521e7223cf88c1e4b5",
+    "country": "Portugal",
+    "category": "Economia",
+    "source": "Google News · Economia portuguesa",
+    "source_type": "Imprensa / agregador",
+    "source_id": "pt-economy-search",
+    "publisher": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOFUxNUtZUzlyUXE0Vnpra0lMTzNMbVRWeUt1UldVbE9ZYkR5aXpReUs3V0NqVXMyZzl1OXJlNC1mb2FqODRMMDhKRXk2ZUVFWHJ4TXZJMXBkbWNSbV9ncmNlVVZxV0FpX3BOZlR2Wlh3RDRZNUt0U0hGWFpiV2IzaUt1a1REX3Qtc1lDTkxlX3hfZUpJSUk5SXh0SUJYWVEyMWR2UXhrMTh5WlpvdmhLd0duUE1zdU0zemdJUmxHUlB1RGtPTGlEUXN4ZV9aeU8yUW9GZ3BuWnV4anZ0YTlRc1NaTDJxcFFtbDg3cW41QV9sSFRUcGZrZXJhNXB4MEhiWTkwZVdBaw?oc=5",
+    "original_title": "Ansioso pela chegada do GTA VI? Algumas empresas vão dar dias de folga aos funcionários para jogarem - CNN Portugal",
+    "original_summary": "Ansioso pela chegada do GTA VI? Algumas empresas vão dar dias de folga aos funcionários para jogarem CNN Portugal",
+    "published_at": "2026-11-14T09:23:34+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Ansioso pela chegada do GTA VI? Algumas empresas vão dar dias de folga aos funcionários para jogarem - CNN Portugal",
+    "translated_summary": "Ansioso pela chegada do GTA VI? Algumas empresas vão dar dias de folga aos funcionários para jogarem CNN Portugal",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:26+00:00"
+  },
+  {
     "id": "afeda245edcac4ba58cd",
     "country": "Taiwan",
     "category": "Política",
@@ -1223,6 +1392,28 @@
     "translated_summary": "A Índia está no bom caminho para atingir a meta de 1 bilião de dólares em exportações neste ano fiscal: Goyal ET Government",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T09:52:12+00:00"
+  },
+  {
+    "id": "11faceb5b1edadc510eb",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMXdFalR3UWFTc0JJX3dxdmlKa2x5anhTa3VmRzFETG45UGxVTjNSeUFmMUc4Q3hhQ29kdmc5cGhJeFJxNk81OGNvNlFHVUFCVG1adnZrM3FEZw?oc=5",
+    "original_title": "트럼프·시진핑·푸틴 19일 한자리에…韓 \"제2의 얄타 안 된다\" - 한국경제",
+    "original_summary": "트럼프·시진핑·푸틴 19일 한자리에…韓 \"제2의 얄타 안 된다\" 한국경제",
+    "published_at": "2026-11-14T07:49:59+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Trump, Xi Jinping e Putin reunidos no mesmo local no dia 19… Coreia do Sul: \"Não pode ser uma segunda Ialta\" - The Korea Economic Daily",
+    "translated_summary": "Trump, Xi Jinping e Putin reunidos no mesmo local no dia 19... Coreia do Sul: \"Não pode ser uma segunda Ialta\" Korea Economic Daily",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:17+00:00"
   },
   {
     "id": "836ff8b24745fac3952b",
@@ -9187,6 +9378,26 @@
     "last_translation_attempt_at": "2026-11-13T11:07:58+00:00"
   },
   {
+    "id": "bfa7b46e3752794c605d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDFTaW51bmdVZWEzY0dFX2tKZjZ5M0hKMUlNRWVSa29CY1haOWlSMDJMTzZDQWRUVDNWX1JYaERHU0MzbXA1Rm0tNkstN1RuYnlFSnRUNklHMHRCMnNwQ2lQelltZXVQR3phTDZaQnNQSVJaOU1IUVNqNTBZeF9sQkxlQW1jbnoxZjlSYWhMU2tXUXc3VW9nczJKcUFTcTAxOFdWb19McDM?oc=5",
+    "original_title": "ZDF-»Politbarometer«: AfD in Umfrage wieder deutlicher vor Union - DIE ZEIT",
+    "original_summary": "ZDF-»Politbarometer«: AfD in Umfrage wieder deutlicher vor Union DIE ZEIT",
+    "published_at": "2026-11-13T09:31:45+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "\"Politbarometer\" da ZDF: AfD novamente claramente à frente da União numa sondagem - DIE ZEIT",
+    "translated_summary": "\"Politbarometer\" da ZDF: AfD novamente claramente à frente da União na sondagem DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:48:59+00:00"
+  },
+  {
     "id": "c97273e83bf1a89fbee7",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -9805,6 +10016,28 @@
     "translated_summary": "No dia 12 de novembro, hora local, realizou-se em Istambul, na Turquia, o \"Diálogo China-Turquia sobre Civilização Ecológica e Transição Ecológica\", durante a 31.ª Conferência das Partes (COP31) da Convenção-Quadro das Nações Unidas sobre Alterações Climáticas. O diálogo foi organizado pela Agência de Notícias da China e pelo Centro de Estudos sobre o Pensamento de Xi Jinping em matéria de Civilização Ecológica, com o apoio do China News Network e do Centro de Estudos de Políticas Ambientais e Económicas do Ministério do Meio Ambiente e Ecologia. Esta foi a segunda vez que o \"Salão de Imprensa\" da Agência de Notícias da China realizou uma série de eventos multilaterais na Turquia, com a participação de representantes de diversos setores, incluindo departamentos governamentais, instituições de investigação, empresas e meios de comunicação social da China e da Turquia.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T10:04:45+00:00"
+  },
+  {
+    "id": "4a78c859c5cbf52a83af",
+    "country": "Coreia do Sul",
+    "category": "Economia",
+    "source": "Google News · Economia · Coreia do Sul",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-economy",
+    "publisher": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03MS1CY0xZRG91elhPNi1PSnlKSnhaWVRyTmt4ZHdYdk5PR0FPWjFDcDlWTVN6M1hOdjBPWkk0RmhTaWNwYkE2WXp2UnQyVVQzbVQyV1c5bEdlUQ?oc=5",
+    "original_title": "20년 만에 '구글지도' 국외반출 허용 - 한국경제",
+    "original_summary": "20년 만에 '구글지도' 국외반출 허용 한국경제",
+    "published_at": "2026-11-13T08:46:16+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Autorizada a saída do \"Google Maps\" para o estrangeiro após 20 anos - Korea Economic Daily",
+    "translated_summary": "Após 20 anos, autorizada a exportação do \"Google Maps\" Economia da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:14+00:00"
   },
   {
     "id": "cde825840984bb2dab9b",
@@ -23079,6 +23312,28 @@
     "last_translation_attempt_at": "2026-11-12T12:03:16+00:00"
   },
   {
+    "id": "9e258efdd3bc32db22ab",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Yahoo!ニュース",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nYW5XYThUcEhudTUyU3pzelJsbnc0NUotSGZoVTUzN0JHUkFaSF9LdzJjSlFWdWRMWHMweU1kRmpvWjBJMFpHeWJNX20xdVdvNTFLY3lmdThwd1UyXzByRkM1b3RWa0FOMFA4dk5RNkJtaXF0Zzh1bjlBZmFOSjg?oc=5",
+    "original_title": "BYDの軽EV「ラッコ」が2027年次RJCインポート カーオブザイヤーを受賞！（MotorFan） - Yahoo!ニュース",
+    "original_summary": "BYDの軽EV「ラッコ」が2027年次RJCインポート カーオブザイヤーを受賞！（MotorFan） Yahoo!ニュース",
+    "published_at": "2026-11-12T11:28:26+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "BYD"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O veículo elétrico ligeiro \"Seagull\" da BYD venceu o prémio RJC Import Car of the Year de 2027! (MotorFan) - Yahoo! Notícias",
+    "translated_summary": "O veículo elétrico ligeiro \"Racco\" da BYD venceu o prémio RJC Import Car of the Year de 2027! (MotorFan) Yahoo! Notícias",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:48:56+00:00"
+  },
+  {
     "id": "426e8d19a3314dec4d7d",
     "country": "Portugal",
     "category": "Economia",
@@ -24923,6 +25178,28 @@
     "translated_summary": "O \"e-POWER\" de 3.ª geração da Nissan vence o prémio RJC Technology of the Year de 2027! (MotorFan) Yahoo! Notícias",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T10:08:29+00:00"
+  },
+  {
+    "id": "3284bde111ad6bd7a327",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VY3RnVjFpc3ZSTmMtUXJsbUhIeTkxTGFZZkRCVlFaRWZWbGljMXhxbmQtRW5Rd1FybnRJTjJoYjFGdnJ2NHFheE8zcVozdw?oc=5",
+    "original_title": "日産の第3世代「e-POWER」が2027年次RJCテクノロジーオブザイヤーを受賞！ - Motor Fan",
+    "original_summary": "日産の第3世代「e-POWER」が2027年次RJCテクノロジーオブザイヤーを受賞！ Motor Fan",
+    "published_at": "2026-11-12T08:58:40+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Nissan"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A 3.ª geração do \"e-POWER\" da Nissan vence o prémio RJC Technology of the Year de 2027! - Motor Fan",
+    "translated_summary": "A terceira geração do \"e-POWER\" da Nissan vence o Prémio RJC Technology of the Year de 2027! Motor Fan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:48:53+00:00"
   },
   {
     "id": "94db4ae9c6421350dffe",
@@ -30649,6 +30926,30 @@
     "translated_summary": "\"Cuidados de saúde coreanos protegidos pela República da Coreia\"... Infostock Daily sobre a certificação governamental da marca coreana Master V Collection da CERAGEM",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T02:21:02+00:00"
+  },
+  {
+    "id": "e01cc08c2b54cfdc17e2",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "經濟日報",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMaVg0b2VDZ2NLSFcwNnRiYTZ4LWdUczZBWnVSSTZubWlEekhfRTVtMHA3X1ZiUzlaSHJpY3JTRmhKNU1YTWwwck5qd2ZkVXJsQmFmNkNYMXJud9IBX0FVX3lxTE44VVBReDYxMGhidWJ1cVJMdzdCbmFyVTNfZUp0R0NtcjdacFBOSkJtRGROc09zeXVKcTN5YjRDU0pXQlZyWmppNmdmVVloMjlmZlJRUFFFOHVWcEtlREFR?oc=5",
+    "original_title": "iShares 調查：近九成台灣投資人「自主操盤」ETF Z世代意外最愛顧問 - 經濟日報",
+    "original_summary": "iShares 調查：近九成台灣投資人「自主操盤」ETF Z世代意外最愛顧問 經濟日報",
+    "published_at": "2026-11-12T00:41:19+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Crescimento e PIB",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Inquérito da iShares: Quase 90% dos investidores taiwaneses \"operam de forma autónoma\" com ETFs. A Geração Z é, surpreendentemente, a que mais prefere consultores - Economic Daily News",
+    "translated_summary": "Inquérito da iShares: Quase 90% dos investidores taiwaneses \"operam de forma autónoma\" os ETF. A Geração Z é surpreendentemente a que mais gosta de consultores. Economic Daily News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:20+00:00"
   },
   {
     "id": "3e742be12c694b9d28a5",
@@ -44261,6 +44562,26 @@
     "translated_summary": "De acordo com o site da Comissão Nacional de Saúde e Saúde em 11 de novembro, a fim de implementar completamente o espírito de reforma das instituições partidárias e estatais, de acordo com a última revisão da Lei de Biossegurança da República Popular da China e o Regulamento da República Popular da China sobre a Gestão de Recursos Genéticos Humanos envolvendo o ajuste de responsabilidades para a gestão de recursos genéticos humanos, a Comissão Nacional de Saúde e Saúde organizou e realizou a revisão das Regras de Implementação do Regulamento sobre a Gestão de Recursos Genéticos Humanos (doravante denominadas \"Regras\") promulgadas pelo antigo Ministério da Ciência e Tecnologia em junho de 2023.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-11T07:19:29+00:00"
+  },
+  {
+    "id": "10761de3358ff2f29084",
+    "country": "Coreia do Sul",
+    "category": "Política",
+    "source": "Google News · 한국 – 정치",
+    "source_type": "Imprensa / agregador",
+    "source_id": "kr-politics",
+    "publisher": "대한민국 정책브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHFNbWFSd3ZHNUxDNXJ4NzNGY3pPbDA3WUoyeHM3T0dzSXZpQlNHUGxXZkRkQzFvRklUVlRlMElyU0haTnI3enBjdExTYi1PU1hVYmZ5aFp5ZlhFZEpKRms4S3JsSlM3RmZlQWpkTE1Rckh6ZEV0Vk1kMGhPQXRZZWpxYlg0emdjVlE?oc=5",
+    "original_title": "팀장님, 그거 있으세요? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+    "original_summary": "팀장님, 그거 있으세요? - 영상 | 멀티미디어 대한민국 정책브리핑",
+    "published_at": "2026-11-11T05:56:26+00:00",
+    "first_seen_at": "2026-11-14T14:48:21+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Chefe de equipa, tem isso? - Vídeo | Multimédia - Briefing de Políticas da Coreia do Sul",
+    "translated_summary": "Chefe de equipa, tem isso? - Vídeo | Multimédia Briefing sobre as políticas da Coreia do Sul",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T14:49:02+00:00"
   },
   {
     "id": "1b3be6f4507e3f13d153",
