@@ -1,5 +1,149 @@
 [
   {
+    "id": "01bcf01aab1b7897b72e",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "ChiniMandi",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkpWNERlOEJxUklyZDZJTVlZNy1qZkVpU3dGd2FKa3YwQmxuZHBNVk1XRjBJVVJwRkdkU2N0ZDRNY2d2Z1dpNy1sbXE2VEV3bXpFM3BHNXdtY1d2WnFEUmlHdmhDV1lKOHBURTVRV3ZiNWpwa3RJamlvRzl4WnpqOVNZeEpHTkhyUFhSaDVsNHQ5dklpRkhVb2ZHRGl3bmhLaHRxUkJkYk9HUTlKUkZTNnJPTkVycjBZQURaOW5iRzhtYVJyYzNfc21NOWNsYVhRTm5ycw?oc=5",
+    "original_title": "India's exports likely to cross USD 1 trillion in FY27, April-October shipments rise 16%: ASSOCHAM Chief Economist - ChiniMandi",
+    "original_summary": "India's exports likely to cross USD 1 trillion in FY27, April-October shipments rise 16%: ASSOCHAM Chief Economist ChiniMandi",
+    "published_at": "2026-11-14T04:47:35+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "As exportações da Índia provavelmente ultrapassarão 1 bilião de dólares no ano fiscal de 2027; as remessas de abril a outubro aumentaram 16%: economista-chefe da ASSOCHAM - ChiniMandi",
+    "translated_summary": "As exportações da Índia deverão ultrapassar 1 bilião de dólares no ano fiscal de 2027, com as expedições de abril a outubro a aumentarem 16%: economista-chefe da ASSOCHAM, ChiniMandi",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:44+00:00"
+  },
+  {
+    "id": "960631ec74e1401b90bd",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731935.shtml",
+    "original_title": "傅藏荣任福建宁德市副市长、代理市长",
+    "original_summary": "中新网宁德11月14日电 (吴允杰)14日，福建省宁德市第五届人民代表大会常务委员会第四十次会议召开。会上任命傅藏荣为宁德市人民政府副市长，并表决通过傅藏荣代理宁德市人民政府市长职务的决定。(完)",
+    "published_at": "2026-11-14T04:36:33+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Fu Zangrong nomeado vice-presidente da Câmara Municipal de Ningde, Fujian, e presidente interino da Câmara Municipal",
+    "translated_summary": "Ningde, 14 de novembro (China News Service) — No dia 14, realizou-se a 40.ª reunião do Comité Permanente da 5.ª Assembleia Popular da cidade de Ningde, na província de Fujian. Durante a reunião, Fu Zangrong foi nomeado vice-presidente do Governo Popular da cidade de Ningde e foi aprovada, por votação, a decisão de Fu Zangrong assumir interinamente o cargo de presidente do Governo Popular da cidade de Ningde. (Fim)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:06+00:00"
+  },
+  {
+    "id": "1a5aa7587e05f156f113",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "台灣好新聞",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcm9Mcl9WbFZjN1h1U2MydTlNcVFvbFYwbXFOalotUnNrOUh2ZDFqcFhQNVV4UXMzZ1F0M1JxYzVEejJtYVBhR2dBY0d6em0zTFNHY0gxeG0zNzNMd1lwclRCeGxMbEkxNG9OWWZyWlRVRUxEcl9wbm1iMG5FT0lpWGhwWmUwLUlRek9hLWxxVlhXYW9SbERaM29aRVQyaFhQMHhxZXdCMEIwb0VXZ0w0TThITUlqRzkwUHkzYUdaN3FZekgzcEhBMU51dXkxMW0tVklOdUlaVUtFVFhTTlVmOW1sSmlPZmJxVHVGWTVCV0Q3UjI4RWpj?oc=5",
+    "original_title": "5友邦挺台參與UNFCCC 外交部誠摯感謝 - 台灣好新聞",
+    "original_summary": "5友邦挺台參與UNFCCC 外交部誠摯感謝 台灣好新聞",
+    "published_at": "2026-11-14T04:29:33+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Ministério dos Negócios Estrangeiros agradece sinceramente aos 5 países aliados pelo apoio à participação de Taiwan na CQNUAC - Taiwan Good News",
+    "translated_summary": "O Ministério dos Negócios Estrangeiros agradece sinceramente aos cinco países aliados pelo apoio à participação de Taiwan na CQNUAC. Taiwan Good News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:18+00:00"
+  },
+  {
+    "id": "2078d1fd014b98b718ea",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "carview!",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjFWaUZLR2FsUGpqS3NYRVc0X2twRW1MeHlIbEliUGRmZGY1SHpRTnN4TkZsek5EMy1wRTAwal83NUdWX04xenJmS3lrNUU2aTVXR2VuS2xFRllXdVR5MUxrZHUyX1RtZEV5LXVkTFhORmZuRnV2bFdZWkxLOHM4TnhvSmlOMnl5?oc=5",
+    "original_title": "DRIVING MAGIC × 日本自動車大学校が2027年スーパー耐久参戦体制を発表。シビック・タイプR続投で王座奪還狙う - carview!",
+    "original_summary": "DRIVING MAGIC × 日本自動車大学校が2027年スーパー耐久参戦体制を発表。シビック・タイプR続投で王座奪還狙う carview!",
+    "published_at": "2026-11-14T04:13:28+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A DRIVING MAGIC e a Universidade Automóvel do Japão anunciam a sua equipa para o Super Taikyu de 2027. Com a continuação do Civic Type R, o objetivo é reconquistar o trono - carview!",
+    "translated_summary": "A DRIVING MAGIC e a Universidade Automóvel do Japão anunciam a sua equipa para o Super Taikyu de 2027. Com a continuação do Civic Type R, o objetivo é reconquistar o trono carview!",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:09+00:00"
+  },
+  {
+    "id": "e1640ea141a54c812eea",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "中国证券监督管理委员会",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EWHZtUUVQWC15TXpoRmhZNjk4ckNlRHRaekxBWG12VVkyLUJ2VmtlTmFmZlExV1JFdF93UDQ5UmRmZEhNa2hjVFJ4Z1VfNVlXUDFCTHRiVzU4ZWMzSFV0NHhRRjRzYW1OZ3Nv?oc=5",
+    "original_title": "吴清主席在首届中国资本市场学术年会开幕式上的致辞_中国证券监督管理委员会 - 中国证券监督管理委员会",
+    "original_summary": "吴清主席在首届中国资本市场学术年会开幕式上的致辞_中国证券监督管理委员会 中国证券监督管理委员会",
+    "published_at": "2026-11-14T04:08:38+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Discurso do Presidente Wu Qing na cerimónia de abertura da Primeira Conferência Anual Académica do Mercado de Capitais da China_Comissão Reguladora de Valores Mobiliários da China - Comissão Reguladora de Valores Mobiliários da China",
+    "translated_summary": "Discurso do Presidente Wu Qing na cerimónia de abertura da Primeira Conferência Anual Académica do Mercado de Capitais da China_Comissão Reguladora de Valores Mobiliários da China Comissão Reguladora de Valores Mobiliários da China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:30+00:00"
+  },
+  {
+    "id": "2e74268e7caed9c50fb3",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "Pakistan Connect",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWkVjUFJXRzJaTVBaZEJPdEF0b2lldWRUUC1pR2RkTHpEVVJzdkJBWWx5NGZQVjZpTU9WNG9yVnV4aEtPVGVXQ2FsdEg5ME5NdUZGYXlET19DSXRUQ1F4Q3JJMkdYQQ?oc=5",
+    "original_title": "Modi government exposed: India revokes visas of 115 summit speakers - Pakistan Connect",
+    "original_summary": "Modi government exposed: India revokes visas of 115 summit speakers Pakistan Connect",
+    "published_at": "2026-11-14T04:06:33+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Governo Modi exposto: Índia revoga vistos de 115 oradores da cimeira - Pakistan Connect",
+    "translated_summary": "Governo de Modi exposto: Índia revoga vistos de 115 oradores da cimeira Pakistan Connect",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:24+00:00"
+  },
+  {
+    "id": "d5b4d15aa66ab07505bf",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "The Straits Times · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-straitstimes",
+    "publisher": "The Straits Times",
+    "url": "https://www.straitstimes.com/tech/singapore-has-suspended-a-telco-licence-in-the-past-but-will-simba-be-next",
+    "original_title": "Singapore has suspended a telco licence in the past, but will Simba be next?",
+    "original_summary": "Issuing a show cause notice is considered a serious step taken by the regulator, said experts.",
+    "published_at": "2026-11-14T04:00:00+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Singapura já suspendeu uma licença de telecomunicações no passado, mas será a Simba a próxima?",
+    "translated_summary": "A emissão de uma notificação para apresentação de justificações é considerada uma medida grave tomada pelo regulador, afirmaram os especialistas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:27+00:00"
+  },
+  {
     "id": "0467f813515704d59861",
     "country": "Japão",
     "category": "Automóvel",
@@ -60,6 +204,28 @@
     "translated_summary": "A 33.ª Reunião Informal dos Líderes da Cooperação Económica da Ásia-Pacífico (APEC) terá lugar em Shenzhen, nos dias 18 e 19 de novembro, e será presidida pelo Presidente chinês, Xi Jinping, que também fará um discurso.",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T03:56:37+00:00"
+  },
+  {
+    "id": "eba44d1439ac21ba3cb1",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYlpydUZhd2FNb0cyUm5HTWZ5Rmg4SEtTeGFSel9Ydjc1OG54SHlZeDFFWmFaZDl5V051N0NOVDhsVXVrWGdXNnUteDhpaWNCak5DME84dHlqempSWk5tNFFwMjh1RURaeVJKM0V1TzlqbGgtdWNTeU0xNGx5RFU0cnBrOWczdmMyUU90NktZeEJBcHctUFFNWWV6UHN1Z0xzZDhPNlhPSkR2akt4SXRFRXk5X1VocHdwUS15OVBYbHJfXzI0bWU4N29Gb2tYTVNxamxLVTladkszVkFJTy0xdC0waXdaNnBVSDdCa2JlRmJ5TXZob0NhYUFTZ3JiU2Z2anRod19B0gGLAkFVX3lxTE9aSURTVmp4TWR5d3JfYWt1MXRfSWI5a3VCeFNjMW9MaE9wQjdnLU5tRy0yaEtMdEF5SG0tTUI4MHMyMGN2NExoLWt5Vmx4RmdWUzlTbUo4TVkzM1dJYnZjRGhMSWR5X0lyRkpsOGoxY0x0eXhYQ3dleklTUG5FYy1RZk5RcEZnNnU3aFJ3TkRlZFM1WWJ4VjZJT05jdzhCOVdoc2FOcU9lWldZYTFrSHRrLVR5Tk9MTFAtX2ZpYUY2LTZORFZvTGFmQ2tLZGVSX1d5WG9TOG9td3czWV9GcVE0UmxpZFc2WnpsbDdjcnVVNjBmQ1R5TTVYWU1nZTVWX1RjOVJkWDZSVjg2aw?oc=5",
+    "original_title": "India achieves historic $90 billion export milestone in October: Piyush Goyal at IITF inauguration - The Economic Times",
+    "original_summary": "India achieves historic $90 billion export milestone in October: Piyush Goyal at IITF inauguration The Economic Times",
+    "published_at": "2026-11-14T03:16:53+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Índia atinge o marco histórico de 90 mil milhões de dólares em exportações em outubro: Piyush Goyal na inauguração da IITF - The Economic Times",
+    "translated_summary": "A Índia atinge um marco histórico de 90 mil milhões de dólares em exportações em outubro: Piyush Goyal na inauguração da IITF The Economic Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:21+00:00"
   },
   {
     "id": "413806a688f8196406a8",
@@ -759,6 +925,28 @@
     "translated_summary": "Crescimento contínuo! Novo máximo histórico! \"Números\" que revelam a dinâmica pujante da economia chinesa - Aplicação de notícias do Hubei Daily, Grupo de Comunicação do Hubei Daily",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T23:45:52+00:00"
+  },
+  {
+    "id": "38efb9293405b64fd975",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "央广网",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8teHRYbkJNbVdKMjVxLUtNR0pCZmNkVkdFLTdlRFB5TWZjM1JHLS1GY0JQbG0waUVCczRmcTF4ckdGTHBCS1pfWm5PZDdZbmNzQTlVYlhoUjZHRmJwS3JmNGRaYlZ2a2Vs?oc=5",
+    "original_title": "理响中国·聚焦2026中国经济丨扩容、提质、向新！ 一图读懂我国消费市场潜力与活力 - 央广网",
+    "original_summary": "理响中国·聚焦2026中国经济丨扩容、提质、向新！ 一图读懂我国消费市场潜力与活力 央广网",
+    "published_at": "2026-11-13T23:19:16+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Visão da China · Foco na economia chinesa de 2026 丨 Expansão, melhoria da qualidade e inovação! Compreender o potencial e a vitalidade do mercado de consumo da China através de um gráfico – China Radio Network",
+    "translated_summary": "Visão da China · Foco na economia chinesa em 2026 丨 Expansão, melhoria da qualidade e inovação! Compreender o potencial e a vitalidade do mercado de consumo da China através de um gráfico China Radio Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:33+00:00"
   },
   {
     "id": "6419e2293541d0c8f8ae",
@@ -2615,6 +2803,28 @@
     "translated_summary": "Li Qiang reúne-se com o primeiro-ministro tailandês, Anutin China Economic Net",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T03:57:23+00:00"
+  },
+  {
+    "id": "bb16719769b5b4aa0d17",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRG5PWVVDbV9mRzBkeVRPbUtQMEppWXQ1OG9KMFRBeFJhNHR2LTZHM29VSEJPc1lqcEZTRWFUano1dU04dWw2YzZwRjdGNFpxWGoxZ2FVNllxUGpGbHlzeUZWb1FEc0tnb3hVdQ?oc=5",
+    "original_title": "春秋（11月14日）不倫の代償 - 日本経済新聞",
+    "original_summary": "春秋（11月14日）不倫の代償 日本経済新聞",
+    "published_at": "2026-11-13T15:00:00+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Shunju (14 de novembro) O preço da infidelidade - Nikkei",
+    "translated_summary": "Shunju (14 de novembro) O preço do adultério Nihon Keizai Shimbun",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:35+00:00"
   },
   {
     "id": "2ad8e263e8f992d218bd",
@@ -12535,6 +12745,28 @@
     "last_translation_attempt_at": "2026-11-13T02:12:38+00:00"
   },
   {
+    "id": "027ed80dc39b16212382",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "MONOist",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlekFKdU1oX1B4d0t1R2xpdUlMdW5QY1AtclBLRkR2VnkwanJmY1VvRXBudDcyblk5SV9vNWpTVEJuai1fMWkxZks2enEtMnJCNl9VcnNvem1qYkhjTERaMVFQdHFsUk1JNGRjZFY5WQ?oc=5",
+    "original_title": "ホンダジェット開発30年の軌跡／地政学リスク調査で見えた日本の弱点 - MONOist",
+    "original_summary": "ホンダジェット開発30年の軌跡／地政学リスク調査で見えた日本の弱点 MONOist",
+    "published_at": "2026-11-13T01:30:00+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "30 anos de desenvolvimento do HondaJet/Pontos fracos do Japão revelados por um estudo sobre riscos geopolíticos - MONOist",
+    "translated_summary": "30 anos de desenvolvimento do HondaJet/Pontos fracos do Japão revelados por um estudo sobre riscos geopolíticos MONOist",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:12+00:00"
+  },
+  {
     "id": "091377dc2951fdd4a3c0",
     "country": "China",
     "category": "Automóvel",
@@ -12644,6 +12876,29 @@
     "translated_summary": "Com foco na próxima etapa da economia chinesa, Tian Lihui convida-o a acompanhar a Conferência Anual do Xinhua Net Think Tank de 2026. Xinhua Net Shanxi",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T02:13:19+00:00"
+  },
+  {
+    "id": "1cc34f12d3dcb933cfd4",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "自由時報",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2MHkwMzR0a0xRSEdJQkcwUFhaVC11SEVBR1B1SkxYVUZ5UFNGS0dua0pHWG9kR2dXYjMxTE4ybDBWanp2MThVU3l2QkhOMTFjNU5LN2FxOWM?oc=5",
+    "original_title": "財富自由》投資大師選股-價值型選股專家 - 自由時報",
+    "original_summary": "財富自由》投資大師選股-價值型選股專家 自由時報",
+    "published_at": "2026-11-13T01:11:52+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Indústria e produção",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "\"Liberdade Financeira\" – Seleção de ações por mestres do investimento – Especialista em seleção de ações de valor – Liberty Times",
+    "translated_summary": "\"Liberdade Financeira\" – Seleção de ações por mestres do investimento – Especialista em seleção de ações de valor – Liberty Times",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:41+00:00"
   },
   {
     "id": "48ec0f1c1aa959b114b9",
@@ -26068,6 +26323,28 @@
     "last_translation_attempt_at": "2026-11-12T20:56:58+00:00"
   },
   {
+    "id": "b0d721548697f8f6c5cb",
+    "country": "Taiwan",
+    "category": "Economia",
+    "source": "Google News · Economia · Taiwan",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-economy",
+    "publisher": "中華民國總統府",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iRU5pekpOVzV2LThOV3JpMmtPcnFmU1hnOUQ4MHdBMURrN2ljZS1DaFhwZzRMMldOTzhhVVljS0Y1NkFTamZJUUNuQl9INmxx?oc=5",
+    "original_title": "APEC經濟領袖會議登場 總統盼施振榮領袖代表向國際傳達臺灣三項重要主張 - 中華民國總統府",
+    "original_summary": "APEC經濟領袖會議登場 總統盼施振榮領袖代表向國際傳達臺灣三項重要主張 中華民國總統府",
+    "published_at": "2026-11-12T03:41:23+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Início da Reunião de Líderes Económicos da APEC. A Presidente espera que o representante dos líderes, Stan Shih, transmita à comunidade internacional as três propostas importantes de Taiwan - Gabinete da Presidente da República da China",
+    "translated_summary": "Início da Reunião de Líderes Económicos da APEC. A Presidente espera que o representante dos líderes, Stan Shih, transmita três importantes posições de Taiwan à comunidade internacional. Gabinete da Presidente da República da China.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:38+00:00"
+  },
+  {
     "id": "0ab4337355039dd07bcd",
     "country": "Japão",
     "category": "Automóvel",
@@ -39092,6 +39369,28 @@
     "translated_summary": "Autorização de trabalho de Singapura – Tudo o que precisa de saber sobre o Quadro de Avaliação da Complementaridade do Conselho de Desenvolvimento Económico de Singapura (EDB)",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T02:08:42+00:00"
+  },
+  {
+    "id": "4f6e976e1aac2480a7a6",
+    "country": "Taiwan",
+    "category": "Política",
+    "source": "Google News · 台灣 – 政治",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-politics",
+    "publisher": "中華民國外交部全球資訊網",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2LWlWRVdvT0lfOV81SDNUNGwyS0FhNFFsYlZGTEcxdkloN080bXJzYTc5a3dVTnJvcTRSQ3YzUkRTTERNTGxnbFFwb0dBdUJ2N0xBdnFpZTJEeEU4V2w4eVVnUERuZw?oc=5",
+    "original_title": "外交部長林佳龍接見「日本台灣交流協會」會長隅修三一行 - 中華民國外交部全球資訊網",
+    "original_summary": "外交部長林佳龍接見「日本台灣交流協會」會長隅修三一行 中華民國外交部全球資訊網",
+    "published_at": "2026-11-11T08:00:00+00:00",
+    "first_seen_at": "2026-11-14T04:57:41+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O Ministro dos Negócios Estrangeiros, Lin Chia-lung, recebe o Presidente da Associação de Intercâmbio Japão-Taiwan, Shuzo Sumi, e a sua comitiva - Portal Global do Ministério dos Negócios Estrangeiros da República da China",
+    "translated_summary": "O Ministro dos Negócios Estrangeiros, Lin Chia-lung, recebe o Presidente da Associação de Intercâmbio Japão-Taiwan, Shuzo Sumi, e a sua comitiva. Portal Global do Ministério dos Negócios Estrangeiros da República da China",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T04:58:15+00:00"
   },
   {
     "id": "07fb28e5f7d563472fc7",
