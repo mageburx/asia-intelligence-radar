@@ -1,5 +1,139 @@
 [
   {
+    "id": "6d6ca85ba023ff206d20",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Car Watch · Impress",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-carwatch",
+    "publisher": "Car Watch · Impress",
+    "url": "https://car.watch.impress.co.jp/docs/news/2156472.html",
+    "original_title": "日本自動車会議所、富士スピードウェイホテルで「モータースポーツシゴトEXPO」 ホンダやトヨタ、スバルなど19社の展示に100人の学生が参加",
+    "original_summary": "日本自動車会議所は11月14日、富士スピードウェイホテルや富士スピードウェイで「モータースポーツシゴトEXPO」を開催した。モータースポーツシゴトEXPOは、モータースポーツにかかわる人材を増やしていく取り組みになり、学生に向けて自動車会社やモータースポーツ関連企業19社の普段の仕事を見てもらう場を設けている。",
+    "published_at": "2026-11-14T02:36:25+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Toyota",
+      "Honda",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "100 estudantes participam na \"Motorsports Shigoto EXPO\" (Feira de Emprego do Desporto Motorizado), organizada pela Câmara do Comércio Automóvel do Japão no Hotel Fuji Speedway, com exposições de 19 empresas, incluindo a Honda, a Toyota e a Subaru.",
+    "translated_summary": "A Câmara do Automóvel do Japão realizou a \"Motorsports Shigoto EXPO\" no Hotel Fuji Speedway e no Fuji Speedway no dia 14 de novembro. A EXPO de Empregos no Desporto Motorizado é uma iniciativa destinada a aumentar o número de pessoas envolvidas no desporto motorizado, proporcionando aos estudantes a oportunidade de observarem o trabalho diário de 19 empresas automóveis e relacionadas com o desporto motorizado.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:41+00:00"
+  },
+  {
+    "id": "745f71b0477c27352f17",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Car Watch",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRTJPQTk1elIxcnlXaWlzQy1NTGFDbUVSdkkxSXdPekdnY19kMTFlX1BqbnNMTkMtejQtdkNENko2N19RY3VyRW14d0tnOGZiOU4zU0dPU1RobGluSEhxVFNoalY?oc=5",
+    "original_title": "日本自動車会議所、富士スピードウェイホテルで「モータースポーツシゴトEXPO」 ホンダやトヨタ、スバルなど19社の展示に100人の学生が参加 - Car Watch",
+    "original_summary": "日本自動車会議所、富士スピードウェイホテルで「モータースポーツシゴトEXPO」 ホンダやトヨタ、スバルなど19社の展示に100人の学生が参加 Car Watch",
+    "published_at": "2026-11-14T02:36:25+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Toyota",
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "100 estudantes participam na \"Motorsports Shigoto EXPO\" (Feira de Emprego no Desporto Motorizado), organizada pela Câmara do Automóvel do Japão no Hotel Fuji Speedway, com exposições de 19 empresas, incluindo a Honda, a Toyota e a Subaru - Car Watch",
+    "translated_summary": "100 estudantes participam na \"Motorsports Shigoto EXPO\" (Feira de Empregos no Desporto Motorizado), organizada pela Câmara do Comércio Automóvel do Japão no Hotel Fuji Speedway, com exposições de 19 empresas, incluindo a Honda, a Toyota e a Subaru Car Watch",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:45+00:00"
+  },
+  {
+    "id": "309f49af8879dc74f8bc",
+    "country": "China",
+    "category": "Política",
+    "source": "China News Service · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "chinanews-politics",
+    "publisher": "China News Service · China",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731900.shtml",
+    "original_title": "微视频｜亚太共潮生",
+    "original_summary": "亚太经合组织第三十三次领导人非正式会议将于11月18日至19日在深圳举行。国家主席习近平将出席会议及相关活动。",
+    "published_at": "2026-11-14T02:35:23+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Videoclipe | A Ásia-Pacífico prospera em conjunto",
+    "translated_summary": "A 33.ª Reunião Informal de Líderes da Cooperação Económica Ásia-Pacífico (APEC) terá lugar em Shenzhen, nos dias 18 e 19 de novembro. O Presidente Xi Jinping participará na reunião e nas atividades relacionadas.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:31+00:00"
+  },
+  {
+    "id": "ffadc6464b82ead598ee",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUUzenZVRTVXQ2hEeVg0LTNqRW5qakxrN0NCQmJ3Q0dRY05idmYtNkdFbWNfSzlRZ0hEY2diNG1UZFU5c1d2cEFmQS1XN3lYQTNJYlRRUFhidGlFYTFzSldzaG5rVlA0eTJQZUhwbzhSS3djN2ctamhYNWVid3hDWUlJbG9BZHgteE1wOXZjUDAtektILTg1RkxldFlnZm_SAawBQVVfeXFMTy1LbFh5Y1M4b3FFYnI5OU1zb1N4UHpQUWRQbE9iN1oyS2tGWW1HWEo1MElTOE1Wd1d0cUZPcDl4WTdtRm1vQlRYNE1tRDFqUW9lV3FmcWM1Vmx2bGZZa1hwUFZ5NGpNYnFmR1R3VHc5YW9COXAyR1dUQzNWQWxkaU1RbDhWS3plZEdtQ01vM2tjNlNPNXFSNXhCcm9Pd3Q2LTd4N1F4dFRWUUFXdA?oc=5",
+    "original_title": "US promises India trade tariff edge over rivals - The New Indian Express",
+    "original_summary": "US promises India trade tariff edge over rivals The New Indian Express",
+    "published_at": "2026-11-14T02:31:00+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Tarifas e comércio"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Os EUA prometem à Índia uma vantagem em termos de tarifas comerciais em relação aos rivais - The New Indian Express",
+    "translated_summary": "Os EUA prometem à Índia uma vantagem pautal comercial em relação aos rivais The New Indian Express",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:52+00:00"
+  },
+  {
+    "id": "8dd398c5487498a33f55",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华网",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DNEVraUhjQmZaQXllbUhDam9VYzcxWHVESkhNWlduaGR6MnBBVTJ2bG9jSnd0NXlBTmpOdGVDMHJZZVBPM0hCZUhRVGhSa2dpUnZZOU54bVhuWVNvZVZuNWd4U1d2MDBJZUlvQXpEalpXMjlhYWpVeEJB?oc=5",
+    "original_title": "中国经济样本观察·企业样本篇｜走进六必居，解码590岁老酱园的“产品革命” - 新华网",
+    "original_summary": "中国经济样本观察·企业样本篇｜走进六必居，解码590岁老酱园的“产品革命” 新华网",
+    "published_at": "2026-11-14T02:17:38+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Investimento e empresas"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Observação de amostras da economia chinesa · Capítulo sobre amostras de empresas | Visita à Liubiju e análise da \"revolução dos produtos\" da antiga fábrica de molhos com 590 anos - Xinhua Net",
+    "translated_summary": "Observação de amostras da economia chinesa – Capítulo sobre amostras de empresas | Visita à Liubiju e análise da \"revolução dos produtos\" da antiga fábrica de molhos com 590 anos – Xinhua Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:57:00+00:00"
+  },
+  {
+    "id": "5537bbb7fc2f229705ab",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajJic1h2WjNGOG5oWHdMQkh2ejB6YkJvdzZyaHJZck84OWtGeHRlUDIycmpBZDhUY2wtZzRQV1llR1lyU3ppUjhmZUJMbGJDRm9Rd0dSemJVZXlZbTd2cldVYnlBUF9ZSG11R2ZxbzROMnBoV0ZYU0laTzN0YU93aXV1QQ?oc=5",
+    "original_title": "南方五省区新能源汽车产业链前10月用电增量贡献超三成 - 手机新浪网",
+    "original_summary": "南方五省区新能源汽车产业链前10月用电增量贡献超三成 手机新浪网",
+    "published_at": "2026-11-14T02:17:12+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Mais de 30% do aumento do consumo de eletricidade nos primeiros 10 meses do ano nas cinco províncias e regiões do sul deveu-se à cadeia industrial de veículos de energia nova - Sina Mobile",
+    "translated_summary": "As cinco províncias e regiões do sul contribuíram com mais de 30% do aumento do consumo de eletricidade nos primeiros 10 meses da cadeia industrial de veículos de energia nova Sina.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:38+00:00"
+  },
+  {
     "id": "9d040d77d22495c6ae08",
     "country": "Índia",
     "category": "Política",
@@ -18,6 +152,28 @@
     "translated_summary": "O Governo central revê as regras de pavilhão marítimo para navios mercantes e embarcações governamentais NDTV",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T02:08:36+00:00"
+  },
+  {
+    "id": "4af8b7f0a2e955c3caf5",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "Google News · chinês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-zh",
+    "publisher": "凤凰网",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04WS1TaGtGMVViSkhZWnRFVW1HMFdnRXM1NzZhVTA4dkNUaVR4WGQ3VEIzbXktaUYxM0l2dGptaTJMdnl1d1o3SQ?oc=5",
+    "original_title": "南方五省区新能源汽车产业链前10月用电增量贡献超三成 - 凤凰网",
+    "original_summary": "南方五省区新能源汽车产业链前10月用电增量贡献超三成 凤凰网",
+    "published_at": "2026-11-14T01:47:04+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O aumento do consumo de eletricidade na cadeia de produção de veículos de energia nova das cinco províncias e regiões do sul nos primeiros 10 meses contribuiu com mais de 30% - Phoenixnet",
+    "translated_summary": "A cadeia industrial de veículos de energia nova das cinco províncias e regiões do sul contribuiu com mais de 30% do aumento do consumo de eletricidade nos primeiros 10 meses do ano — Phoenix News",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:34+00:00"
   },
   {
     "id": "038d933132bd2a7a20de",
@@ -2012,6 +2168,26 @@
     "last_translation_attempt_at": "2026-11-13T15:55:23+00:00"
   },
   {
+    "id": "d83d28c249b9a0efbbfa",
+    "country": "Índia",
+    "category": "Economia",
+    "source": "Google News · Economia · Índia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-economy",
+    "publisher": "Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHMzcmpsbDNkMHdNX2ItS2paYi1RQ0NBaXhRMXF4elJGTlBRbDQyalhaR3ZONmNuNUpGN25YLU56bHZCWHVvZ0VUTlFYN0RfMktOZUd5NWdrQjNmZlFSQVlPX2Z3UGV1TVhRQzRodjl3aGlUN3NMaXhycFJmUXVBM3drb1E0TDBya3pDZnhQT3JsU1psVVdUenRDOGp2VS1MRTB0bFdZMXpxNVhyQkN0YXVNdHMtalhLQV9LX19RSjhRVG03ZkY5dHdaZXRXQTEw0gHWAUFVX3lxTE1kai1rNDdVRzR5YS1qZXNIV3BXVnBORTlfN0NpaW1rRXM5enVyZE9qOWZoYVR4cGVTdDNhNHJKUk4taW9LQmNnc09EUkRQcldKTkFibmFoMjZzSVdpT3lfdzNzZS1xcTByaXEydXBwTm5kemxYOG44cHdRUFItOUhHeXVxdzF0RFFFMlpIa3ZxMnVfcUFEYkVsamt6TDZfM0RnTk54bnNJanBuRWFEeklPRTNrRHd1SXU2SmZ6TXNMRm5JMFV3V0tDcHVpeFJRUGR6QXlVUlE?oc=5",
+    "original_title": "India's current account deficit widens to $25.8 bn in H1FY27: RBI data - Business Standard",
+    "original_summary": "India's current account deficit widens to $25.8 bn in H1FY27: RBI data Business Standard",
+    "published_at": "2026-11-13T15:36:13+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O défice da balança corrente da Índia aumenta para 25,8 mil milhões de dólares no primeiro semestre do ano fiscal de 2027: dados do RBI - Business Standard",
+    "translated_summary": "O défice da balança corrente da Índia aumenta para 25,8 mil milhões de dólares no primeiro semestre do ano fiscal de 2027: dados do RBI Business Standard",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:57:07+00:00"
+  },
+  {
     "id": "dd8d9b8620d90720c4d8",
     "country": "Índia",
     "category": "Economia",
@@ -2222,6 +2398,26 @@
     "translated_summary": "Pensão legal, substituição do plano Riester, pensão aos 63 anos: A MDR pergunta a sua opinião MDR.de",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T15:54:47+00:00"
+  },
+  {
+    "id": "c59fb9f378ddd8bc172e",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVreDlTUVZLbjBNRGZmNkxwcmMyNWN2UnZKNzdpMnVSQ0tlUUdGa2VzOWhQZnpOWFVXZEFoa3g2Rm1WbnlvNFpjVElGdUZwVXpGbkZLdDlQWmN6ZGtUY2RNSUNuR2FYNmcwbElSZ0p5aVg5ODFvcTg0TEJNa1FGRHVwMTVhSmNfdmFvZkxrTEdkai1tMThtbkVuX2l2THV1NWxucldhekVDR3c3aFE2RFVpZEM?oc=5",
+    "original_title": "Nvidia Crisis Prompts Scrutiny of Lutnick’s Role in Chip Policy - Bloomberg.com",
+    "original_summary": "Nvidia Crisis Prompts Scrutiny of Lutnick’s Role in Chip Policy Bloomberg.com",
+    "published_at": "2026-11-13T14:45:10+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A crise da Nvidia leva a um escrutínio do papel de Lutnick na política de chips - Bloomberg.com",
+    "translated_summary": "A crise da Nvidia leva a um escrutínio do papel de Lutnick na política de chips Bloomberg.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:55+00:00"
   },
   {
     "id": "6163533ddd0495bf3bf0",
@@ -4204,6 +4400,28 @@
     "translated_summary": "Foi realizada uma reunião de peritos do governo sobre a receção de trabalhadores estrangeiros, e foram elaboradas, em linhas gerais, propostas de alteração ao sistema de competências específicas e à política operacional do sistema de trabalho de formação que será introduzido a partir do próximo ano. No setor da \"restauração\", é apontada uma grave escassez de mão de obra...",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T12:00:32+00:00"
+  },
+  {
+    "id": "b32d19f4cb5cdff594e1",
+    "country": "Japão",
+    "category": "Economia",
+    "source": "Google News · Economia · Japão",
+    "source_type": "Imprensa / agregador",
+    "source_id": "jp-economy",
+    "publisher": "日本経済新聞",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MU1RiQTI5c0gzYUxsR2h5ZlN0cEx1TG11cnZOSWM0bElCZkl1NkkxdWhPMmhNZ2J2bDd2U1QzQjFzY0JZNHNnTjJOaWlJTXV4dEI5VFNJcWZrLXN4eVdXMGVzSVItdk1yMmVfZA?oc=5",
+    "original_title": "マーケ支援のプレイド、不正アクセスでサービス停止 - 日本経済新聞",
+    "original_summary": "マーケ支援のプレイド、不正アクセスでサービス停止 日本経済新聞",
+    "published_at": "2026-11-13T11:51:28+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Plaid, empresa de apoio ao marketing, suspende serviços devido a acesso não autorizado - Nikkei",
+    "translated_summary": "Plaid, empresa de apoio ao marketing, suspende serviços devido a acesso não autorizado Nikkei",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:57:04+00:00"
   },
   {
     "id": "3260b503994353b7b9d8",
@@ -18205,6 +18423,28 @@
     "last_translation_attempt_at": "2026-11-12T15:01:44+00:00"
   },
   {
+    "id": "96636c47445a4d3e79ea",
+    "country": "China",
+    "category": "Economia",
+    "source": "Google News · Economia · China",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-economy",
+    "publisher": "新华网",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVlBdlRqbkVucFN4eDZPNVVzeDNuTW56Mkd1a1BhRFRvRzJRS2Q1SUoyaXJjZUtyaFgxR1lGWVhUUVNMQ1A5VjF0T3poLXJzOVhPRUxtM2htNmpFUUJ5VmMxQjBIUFFrMlFQSDVrZzZkLXNwSk94UWZ0MTJHMkFzWmZR?oc=5",
+    "original_title": "海报｜“中国经济圆桌会”共话“三农”发展新图景-思客 - 新华网",
+    "original_summary": "海报｜“中国经济圆桌会”共话“三农”发展新图景-思客 新华网",
+    "published_at": "2026-11-12T13:28:46+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Cartaz | \"Mesa-Redonda sobre a Economia Chinesa\" discute o novo panorama do desenvolvimento dos \"três aspetos rurais\" - Think Tank - Xinhua Net",
+    "translated_summary": "Cartaz | \"Mesa Redonda sobre a Economia Chinesa\" discute o novo cenário de desenvolvimento dos \"três rurais\" - Siké, Xinhua Net",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:57+00:00"
+  },
+  {
     "id": "71a1edded049b4c4bbb7",
     "country": "Alemanha",
     "category": "Automóvel",
@@ -27303,6 +27543,26 @@
     "translated_summary": "Acordo comercial entre os EUA e a Índia parece estar a chegar ao fim após o revés de Trump nas sondagens Traders Union",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-12T01:18:11+00:00"
+  },
+  {
+    "id": "2cb1c9136aeff9d5fb4f",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "DIE ZEIT",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGNad0pJTkNyZ3VUcXdJcDNaVGFUVDdKRndoZlNMTHpqeDgxM1FOb1dFNk9XQ0hFRFpmcmR3Z3U5aV9mVXV1SDk3ZkxGU2cwYm04cV9DWjl4anFkMElYOXp1TU9ydVZCcDZFR294UzkyV2lVRFQ5aEhyUGIzWGRaR1dLVWhDUFNRTFRaZWFjaEJpNE1fMmRIOG1pQ0YxLWIySVV6eFpoQjBOd3BjUGttUloyTHU?oc=5",
+    "original_title": "Bundeshaushalt 2027: Und wieder läuft Friedrich Merz gegen die Wand - DIE ZEIT",
+    "original_summary": "Bundeshaushalt 2027: Und wieder läuft Friedrich Merz gegen die Wand DIE ZEIT",
+    "published_at": "2026-11-12T00:08:12+00:00",
+    "first_seen_at": "2026-11-14T02:56:02+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Orçamento Federal de 2027: E Friedrich Merz volta a bater com a cabeça na parede - DIE ZEIT",
+    "translated_summary": "Orçamento Federal de 2027: E Friedrich Merz volta a bater com a cabeça na parede DIE ZEIT",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-14T02:56:49+00:00"
   },
   {
     "id": "75072ee49654a22d3fa9",
