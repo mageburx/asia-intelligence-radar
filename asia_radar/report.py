@@ -11,6 +11,7 @@ from .braga_local import filter_records
 from .braga_upgrade import upgrade_braga_dashboard
 from .bosch_analysis import analyze_bosch
 from .bosch_group_upgrade import upgrade_bosch_group_dashboard
+from .denmark_upgrade import upgrade_denmark_dashboard
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
 STATUS=ROOT/"data"/"status.json"
@@ -24,7 +25,7 @@ def make_payload(articles,status,now=None):
     articles=filter_records(articles)
     recent=[x for x in articles if timedelta(0)<=now-parse_utc(x.get("published_at",""))<timedelta(hours=24)]
     counts={}
-    for country in ["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Braga"]:
+    for country in ["China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Dinamarca","Braga"]:
         for category in ("Política","Automóvel","Economia","Atualidade"):
             counts[f"{country}|{category}"]=sum(1 for a in recent if a.get("country")==country and a.get("category")==category)
     trends=trend_data(articles,now)
@@ -68,7 +69,7 @@ def main():
     export_archive_csv(articles)
     payload=json.dumps(make_payload(articles,status),ensure_ascii=False,separators=(",",":"))
     payload=payload.replace("<","\\u003c").replace(">","\\u003e").replace("&","\\u0026")
-    template=upgrade_bosch_group_dashboard(upgrade_braga_dashboard(upgrade_geo_dashboard(upgrade_dashboard(OUT.read_text(encoding="utf-8")))))
+    template=upgrade_denmark_dashboard(upgrade_bosch_group_dashboard(upgrade_braga_dashboard(upgrade_geo_dashboard(upgrade_dashboard(OUT.read_text(encoding="utf-8"))))))
     marker=r'(<script id="payload" type="application/json">).*?(</script>)'
     if not re.search(marker,template,re.S): raise RuntimeError("Missing dashboard payload marker")
     page=re.sub(marker,lambda m:m.group(1)+payload+m.group(2),template,count=1,flags=re.S)

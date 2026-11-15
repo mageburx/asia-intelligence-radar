@@ -80,6 +80,13 @@ def detect_source_lang(text,country):
         re.search(r"[äöüßÄÖÜ]",text) or
         re.search(r"\b(der|die|das|den|dem|und|für|mit|von|bei|eine|einer|eines|werden|deutschen|deutschland|bundesregierung|bundestag|autoindustrie|zulieferer)\b",text.lower())
     ): return "de"
+    if country=="Dinamarca":
+        # Latin script: avoid misidentifying English-language Danish reports.
+        low=text.casefold()
+        if re.search(r"[æøå]",low): return "da"
+        da=re.findall(r"\b(?:og|med|som|fra|til|den|det|der|for|nye|biler|elbiler|regeringen|folketinget|dansk|danske|danmark|bilafgift|økonomi|investeringer|afgifter|ministeren)\b",low)
+        en=re.findall(r"\b(?:the|with|says|government|according|electric|denmark|vehicle|announces|market)\b",low)
+        return "da" if len(da)>len(en) else "en"
     if country in {"Portugal","Braga"}: return "pt"
     if country=="Bosch":
         pt_markers=re.findall(r"\b(?:para|com|uma|dos|das|não|trabalhadores|fábrica|produção|investimento|portuguesa|empresa|anuncia)\b",text.casefold())

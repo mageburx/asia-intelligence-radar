@@ -1,10 +1,10 @@
-# Global Intelligence Radar — 7 países + Bosch Intelligence
+# Global Intelligence Radar — 9 países + Bosch Intelligence
 
 Bot **independente** de vigilância noticiosa: política e indústria automóvel (China, Japão, Alemanha, Coreia do Sul, Taiwan, Índia e Singapura), leitura horária de RSS público, traduções automáticas para português ou inglês e dashboard responsivo hospedável no GitHub Pages.
 
 ## O que faz
 
-- 57 fontes/consultas (45 para geografias e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
+- 62 fontes/consultas (45 para geografias e 12 para Bosch), incluindo RSS original chinês (China News Service), japonês (NHK Política e Car Watch), imprensa especializada chinesa (CarNewsChina, CnEVPost) e pesquisa RSS por edições regionais e idiomas locais via Google News (DE/KR/TW/IN/SG).
 - Recolha de **títulos, excertos RSS, autor/publicação, datas e URLs**. Não descarrega artigos completos nem contorna paywalls / CAPTCHAs.
 - Deduplicação por URL/categoria/país; retenção contínua de 30 dias (data de publicação). Armazenamento JSON para facilitar o MVP.
 - Tradução dos **títulos e excertos** para `pt` (padrão) ou `en`; o original fica acessível no dashboard. Tradução grátis experimental via MyMemory (limitada por quota partilhada) e, opcionalmente, DeepL API. Se a tradução falhar, exibe claramente o original com estado pendente e tenta novamente passadas 6 horas.
@@ -149,3 +149,8 @@ O painel Bosch inclui três vistas: Visão geral (métricas oficiais, data, inte
 ## Remoção de falsos positivos Bosch (11/11/2026)
 
 O nome Bosch também surge em notícias desportivas sobre o treinador de hóquei **Edo Bosch** e em notícias culturais sobre **Hieronymus Bosch**. Estes casos **não são notícias do Grupo Bosch**. `bosch_relevant` rejeita-os na recolha, e `braga_local.filter_records` remove os registos antigos de Bosch das vistas, do arquivo CSV e da análise financeira/noticiosa. A consulta de Portugal evita também a frase exata `"Edo Bosch"`. Mantêm-se notícias reais sobre produtos, fábricas, investimentos e outras atividades da Bosch. Os commits antigos de GitHub podem conservar o histórico anterior.
+
+
+## Dinamarca (15/11/2026)
+
+Dinamarca é o 9.º país monitorizado, com **Política**, **Automóvel** e **Economia**. Cinco fontes/pesquisas: DR Politik (RSS direto), Google News em dinamarquês por categoria e pesquisa de notícias da FDM. Bandeira SVG local, tradução PT/EN, tendências e arquivo de 30 dias. As notícias são guardadas à medida da recolha, sem recuperação automática de 30 dias retroativos.

@@ -62,7 +62,7 @@ POLITICAL_WORDS=(
  "legislatur","legislation","national assembly","assembly passes","lawmakers","presidential","cabinet",
  "federal government","policy maker","ministerial","Bundesministerium","Bundeswirtschaft","Bundestagsfraktion",
  "Verordnung","Regierungsentwurf","대통령실","국무회의","입법","국회의원",
- "governo","autarquia","câmara municipal","município","vereador","ministério","parlamento português","primeiro-ministro","orçamento do estado"
+ "governo","autarquia","câmara municipal","município","vereador","ministério","parlamento português","primeiro-ministro","orçamento do estado","folketing","regering","ministeriet","udenrigspolitik","folketingsvalg","statsminister","afstemning"
 )
 def relevant_native_politics(title,summary):
     t=f"{title} {summary}".casefold()

@@ -26,7 +26,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(trend_data(articles,now)[0]["status"],"Tema emergente")
     def test_new_public_rss_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        self.assertEqual(len(sources),57)
+        self.assertEqual(len(sources),62)
         ids={s["id"]:s for s in sources}
         expected={"de-bundesregierung-official","de-bundestag-official",
                   "kr-koreaherald-business","kr-yonhap-national","tw-taipeitimes",
@@ -43,6 +43,14 @@ class RadarTests(unittest.TestCase):
         self.assertTrue(relevant_native_auto("Car parts supplier in South Korea",""))
         self.assertFalse(relevant_native_auto("K-pop chart climbs to new record","concerts"))
         self.assertFalse(relevant_native_auto("Bank announces dividends","financial results"))
+    def test_danish_language_and_feeds(self):
+        self.assertEqual(detect_source_lang("Regeringen fremlægger nye afgifter på elbiler","Dinamarca"),"da")
+        self.assertEqual(detect_source_lang("Danish government announces electric vehicle policy","Dinamarca"),"en")
+        sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
+        danish=[s for s in sources if s["country"]=="Dinamarca"]
+        self.assertEqual(len(danish),5)
+        self.assertEqual({s["category"] for s in danish},{"Política","Automóvel","Economia"})
+        self.assertEqual(len({s["id"] for s in danish}),5)
     def test_new_language_detection(self):
         self.assertEqual(detect_source_lang("현대차 전기차","Coreia do Sul"),"ko")
         self.assertEqual(detect_source_lang("台灣政府宣布政策","Taiwan"),"zh-TW")
@@ -50,7 +58,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(detect_source_lang("India auto manufacturing","Índia"),"en")
     def test_seven_country_sources(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal"}
+        countries={"China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Dinamarca"}
         self.assertEqual(set(s["country"] for s in sources if s["country"] not in {"Bosch","Braga"}),countries)
         for c in countries:
             self.assertEqual(set(s["category"] for s in sources if s["country"]==c),{"Política","Automóvel","Economia"})
@@ -58,7 +66,7 @@ class RadarTests(unittest.TestCase):
         self.assertTrue(all(feed_url(s).startswith("https://") for s in sources))
     def test_economy_portugal_and_braga(self):
         sources=json.loads((ROOT/"config"/"sources.json").read_text(encoding="utf-8"))
-        self.assertEqual(len(sources),57)
+        self.assertEqual(len(sources),62)
         self.assertEqual({s["category"] for s in sources if s["country"]=="Portugal"},
                          {"Política","Automóvel","Economia"})
         self.assertEqual({s["category"] for s in sources if s["country"]=="Braga"},
@@ -72,7 +80,7 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(detect_source_lang("Governo aprova medidas económicas","Portugal"),"pt")
     def test_empty_counts_seven_markets(self):
         p=make_payload([],{},datetime.now(timezone.utc))
-        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Braga"):
+        for country in ("China","Japão","Alemanha","Coreia do Sul","Taiwan","Índia","Singapura","Portugal","Dinamarca","Braga"):
             self.assertIn(f"{country}|Política",p["counts24"])
             self.assertIn(f"{country}|Automóvel",p["counts24"])
             self.assertIn(f"{country}|Economia",p["counts24"])

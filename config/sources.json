@@ -615,5 +615,58 @@
     "kind": "rss",
     "url": "https://vmtv.sapo.pt/feed/",
     "max_entries": 60
+  },
+  {
+    "id": "dk-politics-dr",
+    "country": "Dinamarca",
+    "category": "Política",
+    "name": "DR Nyheder · Politik",
+    "kind": "rss",
+    "url": "https://www.dr.dk/nyheder/service/feeds/politik",
+    "max_entries": 35
+  },
+  {
+    "id": "dk-politics-google",
+    "country": "Dinamarca",
+    "category": "Política",
+    "name": "Google News · Dinamarca política",
+    "kind": "google",
+    "query": "Danmark (Folketinget OR regering OR politik OR udenrigspolitik OR erhvervspolitik) when:7d",
+    "locale": "da",
+    "gl": "DK",
+    "ceid": "DK:da"
+  },
+  {
+    "id": "dk-auto-google",
+    "country": "Dinamarca",
+    "category": "Automóvel",
+    "name": "Google News · Dinamarca automóvel",
+    "kind": "google",
+    "query": "Danmark (bilindustri OR elbiler OR bilsalg OR bilafgift OR bilproduktion OR ladestandere) when:7d",
+    "locale": "da",
+    "gl": "DK",
+    "ceid": "DK:da"
+  },
+  {
+    "id": "dk-auto-fdm",
+    "country": "Dinamarca",
+    "category": "Automóvel",
+    "name": "Google News · FDM automóvel",
+    "kind": "google",
+    "query": "site:fdm.dk/nyheder (elbiler OR bilafgift OR bilmarked OR biler OR bilsalg) when:7d",
+    "locale": "da",
+    "gl": "DK",
+    "ceid": "DK:da"
+  },
+  {
+    "id": "dk-economy-google",
+    "country": "Dinamarca",
+    "category": "Economia",
+    "name": "Google News · Dinamarca economia",
+    "kind": "google",
+    "query": "Danmark (økonomi OR inflation OR vækst OR investering OR eksport OR beskæftigelse OR erhvervsliv) when:7d",
+    "locale": "da",
+    "gl": "DK",
+    "ceid": "DK:da"
   }
 ]
