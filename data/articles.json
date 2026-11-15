@@ -1,5 +1,153 @@
 [
   {
+    "id": "c7ce55434f2753cb9e53",
+    "country": "Japão",
+    "category": "Política",
+    "source": "NHK · política",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-politics-nhk",
+    "publisher": "NHK · política",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76245",
+    "original_title": "高市首相 東南アジアなどと先端技術分野で共同研究提案へ",
+    "original_summary": "ASEANの関連首脳会議などに出席するため高市総理大臣は16日からフィリピンと中国を訪問します。 17日、開かれる首脳会合ではAIや量子といった先端技術の分野で共同研究を進める構想を提案する方向で調…",
+    "published_at": "2026-11-15T20:21:35+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A Primeira-Ministra Takaichi propõe investigação conjunta em áreas de alta tecnologia com o Sudeste Asiático e outros países",
+    "translated_summary": "A Primeira-Ministra Takaichi visitará as Filipinas e a China a partir do dia 16 para participar em cimeiras relacionadas com a ASEAN e outros eventos. Na cimeira que terá lugar no dia 17, está a ser ponderada a possibilidade de propor uma iniciativa para promover a investigação conjunta em áreas de tecnologias de ponta, como a IA e a computação quântica…",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:52+00:00"
+  },
+  {
+    "id": "c39572a0c7a88d469fab",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "中日新聞Web",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSSWZ4Q2MwWjRPZHdKbGxNUVpMc19ncGs0MHVVZ3g2R0tOUzBfQXZuenlTYjg2anBkV1hNeUtaU3M0Q0NtSGMtcVFOdW9yUHo5SHVnQ2NlZEY3VXMwcTdQOC1SRU0?oc=5",
+    "original_title": "欧州のEV政策 日本車排除されぬよう - 中日新聞Web",
+    "original_summary": "欧州のEV政策 日本車排除されぬよう 中日新聞Web",
+    "published_at": "2026-11-15T20:05:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Política europeia de veículos elétricos: evitar a exclusão dos automóveis japoneses - Site do Chunichi Shimbun",
+    "translated_summary": "Jornal Chunichi Web: Política europeia de veículos elétricos não deve excluir os automóveis japoneses",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:05+00:00"
+  },
+  {
+    "id": "62aa4e61d96859ba3f9f",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "日経ビジネス電子版",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03VFhhZ3JHM29vYjJmYnp3LUs1c0RFcHpXajRrRmpwRTFQTXpWS2ppZzU3OFBha3FQaXdGZUtzVGFnQjJwaUctM3lnNGNwNGlhRXRmQ2FlLU5rb2t4S1JZSjI3dHhwcFk?oc=5",
+    "original_title": "［徹底予測2027 自動車］中国EVが世界席巻 日本勢は輸出減でトヨタなど国内生産に影響懸念 - 日経ビジネス電子版",
+    "original_summary": "［徹底予測2027 自動車］中国EVが世界席巻 日本勢は輸出減でトヨタなど国内生産に影響懸念 日経ビジネス電子版",
+    "published_at": "2026-11-15T20:00:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Tarifas e comércio",
+      "Indústria e produção",
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "[Previsão completa para 2027 — Automóveis] Os veículos elétricos chineses dominam o mundo. A diminuição das exportações japonesas levanta preocupações sobre o impacto na produção nacional, incluindo a da Toyota - Nikkei Business Online",
+    "translated_summary": "[Previsão completa para 2027 — Automóveis] Os veículos elétricos chineses dominam o mundo. A diminuição das exportações japonesas levanta preocupações sobre o impacto na produção nacional, incluindo a da Toyota. Nikkei Business (edição eletrónica)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:55+00:00"
+  },
+  {
+    "id": "d4b64de5e6edf5c1b8f1",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "The Straits Times · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-straitstimes",
+    "publisher": "The Straits Times",
+    "url": "https://www.straitstimes.com/singapore/ucl-law-graduate-defence-merit-scholarship-mindef-career",
+    "original_title": "From TikTok strategy to defence diplomacy: Why this UCL law graduate chose MINDEF over the Bar",
+    "original_summary": "",
+    "published_at": "2026-11-15T20:00:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Geopolítica"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Da estratégia do TikTok à diplomacia de defesa: porque é que este licenciado em Direito pela UCL escolheu o MINDEF em vez da Ordem dos Advogados",
+    "translated_summary": "",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:20+00:00"
+  },
+  {
+    "id": "aaa870713fa59021f352",
+    "country": "China",
+    "category": "Automóvel",
+    "source": "CarNewsChina",
+    "source_type": "Imprensa / agregador",
+    "source_id": "china-auto-carnewschina",
+    "publisher": "CarNewsChina",
+    "url": "https://carnewschina.com/2026/11/15/chinas-top-ev-charger-operator-bans-e-motos-and-e-bikes-from-juicing-up-citing-safety-concerns/",
+    "original_title": "China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns",
+    "original_summary": "TELD, also known as Te Lai Dian or Tide Energy, has banned all two-wheeled EVs from accessing its 900,000-strong charger network. The post China’s top EV charger operator bans e-motos and e-bikes from juicing up, citing safety concerns appeared first on CarNewsChina.com .",
+    "published_at": "2026-11-15T19:54:43+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "O principal operador de carregadores de veículos elétricos da China proíbe o carregamento de motociclos e bicicletas elétricos, alegando motivos de segurança",
+    "translated_summary": "A TELD, também conhecida como Te Lai Dian ou Tide Energy, proibiu todos os veículos elétricos de duas rodas de acederem à sua rede de 900 000 carregadores. O artigo \"Principal operador de carregadores de veículos elétricos da China proíbe o carregamento de motociclos elétricos e bicicletas elétricas, alegando preocupações de segurança\" foi publicado pela primeira vez em CarNewsChina.com.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:48+00:00"
+  },
+  {
+    "id": "09a35d75b7f965de25b1",
+    "country": "Braga",
+    "category": "Atualidade",
+    "source": "O MINHO · Braga",
+    "source_type": "Imprensa / agregador",
+    "source_id": "braga-ominho",
+    "publisher": "O MINHO",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVpPWWhGVG5jRUVOU1cyQ3pwV1J0ajRuTU1FeW1QTGh3VURMeG5XZFZXQTJOWnIxTzd6cGpNR0t6aDFxSEJsMExXSFlPVjdBc0xxQmI4ekdxVlBsTE4zblE3ZkdONHFFTkV5Nm14bm9ZTHNYdmhqdHBXYmZRX0l6S2JldXhlX01ENkNqVmEyR3F1Vk9qaU5RR3lBU0JCOTk4T2F6X21RLUNyN0pQdldSQWdoeU84MVk?oc=5",
+    "original_title": "Tribunal de Instrução manda julgar 15 pessoas por tráfico de dezenas de armas em Braga e no Norte - O MINHO",
+    "original_summary": "Tribunal de Instrução manda julgar 15 pessoas por tráfico de dezenas de armas em Braga e no Norte O MINHO",
+    "published_at": "2026-11-15T19:12:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Tribunal de Instrução manda julgar 15 pessoas por tráfico de dezenas de armas em Braga e no Norte - O MINHO",
+    "translated_summary": "Tribunal de Instrução manda julgar 15 pessoas por tráfico de dezenas de armas em Braga e no Norte O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:28+00:00"
+  },
+  {
+    "id": "1937e5d3380cc2781cb2",
+    "country": "Índia",
+    "category": "Política",
+    "source": "Google News · India – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "in-politics",
+    "publisher": "The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVgtT01COEd2dmt4dFk0MGRVcnBOQUt6djcwbmRSY0FOczA4SnZNQnk4Mk9WcExxelA5TXIxbEFtQ2FjSjlDdjdqdlprbHRuejk3WVBST2szdlQxZldGS0lHS2dxZEpzZ0hKcHR1UWFLVm9nbHdmT1ZIdHJzWGZZRWRXYkl5R0RPTDloWHlBLWNhckJJWEdfSHc2ZzhsenFlSHRzLXFqTWlrbS1OZjJyYUY4RHZjQ1RX0gG_AUFVX3lxTE84Y0h0aGczcXJRTHkwT0VlQ3FFQUVsbS1Vclg1STdBLUxMb0NlbnhvTVViVFp6T0VPUDZjOGI3Q0h4OThpYUJnVEo1b3c0WmZUMXFxUmtNZV9tMFV1b1JyRlNzcnhsSGdyY1FVQmZYZUxrS1d2c2V5UHNUTzl0Zi1xVEFrNVVxVGtGalBhMjlzZTJjRHd0ZTBGanpDTlBQQkJhbTJEUU9mT0VkZzBwZzlYaGJoSnIxMlpocW5RTVlN?oc=5",
+    "original_title": "PM in Manila: Giving new momentum to India’s Act East Policy - The Hindu",
+    "original_summary": "PM in Manila: Giving new momentum to India’s Act East Policy The Hindu",
+    "published_at": "2026-11-15T19:02:44+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "Primeiro-Ministro em Manila: dar um novo impulso à Política \"Act East\" da Índia - The Hindu",
+    "translated_summary": "Primeiro-Ministro em Manila: dar um novo impulso à Política \"Act East\" da Índia The Hindu",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:14+00:00"
+  },
+  {
     "id": "25518c75748222a26b50",
     "country": "Dinamarca",
     "category": "Política",
@@ -13,11 +161,11 @@
     "published_at": "2026-11-15T18:55:22+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Suécia, Política sueca | Caos governamental na Suécia: o Partido do Centro escolhe os Social-Democratas - Nettavisen",
+    "translated_summary": "Suécia, Política sueca | Caos governamental na Suécia: o Partido do Centro escolhe os sociais-democratas Nettavisen",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:22+00:00"
   },
   {
     "id": "7bca42cf6a5632d2d607",
@@ -33,11 +181,11 @@
     "published_at": "2026-11-15T18:32:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Empresária de Braga avaliou 5.000 queijos para descobrir o melhor do mundo - O MINHO",
+    "translated_summary": "Empresária de Braga avaliou 5.000 queijos para descobrir o melhor do mundo O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:29+00:00"
   },
   {
     "id": "754a866ba1d30d547da7",
@@ -53,11 +201,11 @@
     "published_at": "2026-11-15T18:28:38+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "O SV que não quer mexer com o mercado - Nettavisen",
+    "translated_summary": "O Social-Democrata que não quer brincar com o mercado Nettavisen",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:25+00:00"
   },
   {
     "id": "0b475a0235f4dc6922a9",
@@ -73,11 +221,11 @@
     "published_at": "2026-11-15T18:17:18+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Braga inaugura monumento de homenagem aos combatentes do concelho",
+    "translated_summary": "Braga vai inaugurar, amanhã, 16 de novembro, o Monumento aos Combatentes do Concelho de Braga, já instalado na Avenida Central. A cerimónia pretende homenagear os militares dos três ramos das Forças Armadas — Marinha, Exército e Força Aérea —, perpetuando a memória daqueles que serviram Portugal. O programa começa às 10h30, com uma eucaristia na […]",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:30+00:00"
   },
   {
     "id": "d80555653e811235eb00",
@@ -113,11 +261,11 @@
     "published_at": "2026-11-15T17:30:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Inger Støjberg: O comportamento de Jacob Harris é \"uma vergonha\"",
+    "translated_summary": "Os eleitores que querem um partido de protesto devem procurar noutro lugar que não os Democratas da Dinamarca, diz Inger Støjberg.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:28+00:00"
   },
   {
     "id": "22a4c60f472175086a63",
@@ -155,11 +303,11 @@
     "published_at": "2026-11-15T17:10:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Sociedade Dinamarquesa para a Conservação da Natureza quer que os pisos sejam retirados dos parques infantis",
+    "translated_summary": "No entanto, o professor sublinha que não há qualquer risco documentado para os seres humanos.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:31+00:00"
   },
   {
     "id": "2d884695041d32553e46",
@@ -197,11 +345,11 @@
     "topics": [
       "Tarifas e comércio"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Exportações da Coreia do Sul para os EUA, Alemanha, China e outros países atingem 1 bilião… O caminho a seguir - MoneyToday - MoneyToday",
+    "translated_summary": "Exportações da Coreia do Sul para os EUA, Alemanha, China e outros países atingem 1 bilião… O caminho a seguir - MoneyToday MoneyToday",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:31+00:00"
   },
   {
     "id": "1b90c3d5b240a1bb9caa",
@@ -237,11 +385,11 @@
     "published_at": "2026-11-15T15:52:18+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Prabowo, da Indonésia, pede desculpas a Singapura e à Malásia pelo nevoeiro transfronteiriço - South China Morning Post",
+    "translated_summary": "Prabowo, da Indonésia, pede desculpas a Singapura e à Malásia pelo nevoeiro transfronteiriço South China Morning Post",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:34+00:00"
   },
   {
     "id": "99a58878fb0614df37c7",
@@ -257,11 +405,11 @@
     "published_at": "2026-11-15T15:40:32+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Cimeira de CEO para impulsionar a integração - China Daily Global Edition",
+    "translated_summary": "Cimeira de CEO para impulsionar a integração China Daily Global Edition",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:38+00:00"
   },
   {
     "id": "9691c8f8728f37631d78",
@@ -277,11 +425,11 @@
     "published_at": "2026-11-15T15:40:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Apesar da camaradagem e da festa, houve, ainda assim, um abalo no bom ambiente da Esquerda.",
+    "translated_summary": "Vários críticos da cimeira da Esquerda tomaram a palavra no final e estragaram o bom ambiente.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:35+00:00"
   },
   {
     "id": "822366b79c7c48ddc168",
@@ -317,11 +465,11 @@
     "published_at": "2026-11-15T15:30:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reeleição histórica na Autoeuropa: Nove mandatos reforçam liderança em Palmela - SAPO",
+    "translated_summary": "Reeleição histórica na Autoeuropa: Nove mandatos reforçam liderança em Palmela SAPO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:41+00:00"
   },
   {
     "id": "f65b1a1f5741d3c8b34e",
@@ -339,11 +487,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Reestruturação de negócios com base na IA ｜ Edição eletrónica especial do Nikkei (PR) - ps.nikkei.com",
+    "translated_summary": "Redesenhar o negócio com base na IA ｜ Edição eletrónica do Nikkei (Relações Públicas) ps.nikkei.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:42+00:00"
   },
   {
     "id": "9b89b9478edb849d435b",
@@ -361,11 +509,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Coleção da Biblioteca do Instituto de Economia da Ásia que apoiou o estudo sobre as \"disparidades Sul-Sul\" - Instituto de Economias em Desenvolvimento",
+    "translated_summary": "Coleção da Biblioteca do Instituto de Economia Asiática que apoiou o estudo sobre as \"disparidades Sul-Sul\" Instituto de Economias em Desenvolvimento",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:45+00:00"
   },
   {
     "id": "5bf6fd6b33439ac30c54",
@@ -383,11 +531,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Veja como funciona a economia dos casamentos na Índia, que movimenta 130 mil milhões de dólares - Bloomberg.com",
+    "translated_summary": "Veja a economia dos casamentos na Índia, que movimenta 130 mil milhões de dólares Bloomberg.com",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:48+00:00"
   },
   {
     "id": "48acb7b37a138f9ccbbe",
@@ -427,11 +575,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Startup Portugal: \"Queremos que a economia portuguesa se desenvolva com talento português\" - Jornal de Negócios",
+    "translated_summary": "Startup Portugal: \"Queremos que a economia portuguesa se desenvolva com talento português\" Jornal de Negócios",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:51+00:00"
   },
   {
     "id": "1d94c5fc3d7347bacf55",
@@ -489,11 +637,11 @@
     "published_at": "2026-11-15T15:00:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "ANÁLISE: Troels Lund obteve o apoio do partido para poder obter os votos dos eleitores – ninguém sabe se será bem-sucedido",
+    "translated_summary": "O caminho para o progresso passa pela credibilidade ecológica, prometeu Troels Lund Poulsen no congresso nacional do Partido Liberal. A base concordou com um aceno de cabeça. Agora, o presidente do Partido Liberal (V) tem de apresentar políticas, conquistar eleitores e alcançar o progresso.",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:37+00:00"
   },
   {
     "id": "9d2fb63223161c46875a",
@@ -509,11 +657,11 @@
     "published_at": "2026-11-15T14:49:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal treinou em Braga com titulares em recuperação - Diário do Minho",
+    "translated_summary": "Portugal treinou em Braga com titulares em recuperação Diário do Minho",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:52+00:00"
   },
   {
     "id": "71037840375b06a6498f",
@@ -553,11 +701,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "(APEC de Shenzhen) Entrevista exclusiva com Zheng Yongnian: O pessimismo ocidental em relação à economia chinesa é infundado; o mundo empresarial sabe onde está o dinamismo - China News Network",
+    "translated_summary": "(APEC de Shenzhen) Entrevista exclusiva com Zheng Yongnian: O pessimismo ocidental em relação à economia chinesa não tem fundamento; o mundo empresarial sabe onde está a dinâmica China News Network",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:53+00:00"
   },
   {
     "id": "b217452c5f24bceb6e92",
@@ -655,11 +803,11 @@
     "published_at": "2026-11-15T14:28:44+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Ladrões mascarados: roubaram cartas Pokémon no valor de 1,5 milhões de coroas - Finansavisen",
+    "translated_summary": "Ladrões mascarados: roubaram cartas Pokémon no valor de 1,5 milhões de coroas suecas Finansavisen",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:41+00:00"
   },
   {
     "id": "27c8f4cf47cc9eb94a71",
@@ -675,11 +823,11 @@
     "published_at": "2026-11-15T14:26:00+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Portugal treinou em Braga com titulares em recuperação - O MINHO",
+    "translated_summary": "Portugal treinou em Braga com titulares em recuperação O MINHO",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:56+00:00"
   },
   {
     "id": "2f2c99e876351ec7ebd4",
@@ -695,11 +843,11 @@
     "published_at": "2026-11-15T14:24:24+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Países do Sudeste Asiático assinam acordo de comércio digital para facilitar pagamentos e reduzir a burocracia – Yahoo Finance",
+    "translated_summary": "Países do Sudeste Asiático assinam acordo de comércio digital para facilitar pagamentos e reduzir a burocracia Yahoo Finance",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:57+00:00"
   },
   {
     "id": "76fe6b92e09773ca7647",
@@ -715,11 +863,11 @@
     "published_at": "2026-11-15T14:06:01+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
+    "translation_status": "translated",
+    "translated_title": "Troels Lund acredita no cargo de primeiro-ministro, mas e as bases?",
     "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:44+00:00"
   },
   {
     "id": "27b14d6ae779ad92649e",
@@ -735,11 +883,11 @@
     "published_at": "2026-11-15T14:05:58+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Nova Alemanha | Cicero Online - Cicero Online",
+    "translated_summary": "Nova Alemanha | Cicero Online Cicero Online",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:41:00+00:00"
   },
   {
     "id": "301959d86f840a51d839",
@@ -780,11 +928,11 @@
     "topics": [
       "Crescimento e PIB"
     ],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "A Conferência de Outono de 2026 sobre Previsões e Perspetivas Macroeconómicas da China foi realizada na Universidade de Xiamen_Secção de Notícias – Xiamen.com",
+    "translated_summary": "A Conferência de Outono de 2026 sobre Previsões e Perspetivas Macroeconómicas da China realizada na Universidade de Xiamen_Canal de Notícias da Rede de Xiamen",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:41:03+00:00"
   },
   {
     "id": "18fdff01bf9de4704357",
@@ -820,11 +968,11 @@
     "published_at": "2026-11-15T13:45:35+00:00",
     "first_seen_at": "2026-11-15T19:50:13+00:00",
     "topics": [],
-    "translation_status": "pending",
-    "translated_title": "",
-    "translated_summary": "",
-    "translated_lang": "",
-    "last_translation_attempt_at": ""
+    "translation_status": "translated",
+    "translated_title": "Dinamarca: podem ter sido roubados cartões Pokémon de grande valor - VG",
+    "translated_summary": "Dinamarca: Podem ter sido roubados cartões Pokémon de grande valor VG",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:46+00:00"
   },
   {
     "id": "99a22976f583e28ecac0",
@@ -1704,6 +1852,28 @@
     "translated_summary": "Última reunião da Reserva Federal deste ano… Qual é a probabilidade de um \"grande passo\"? [Leitura da Economia Internacional de Han Sang-chun] The Korea Economic Daily",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-15T17:47:39+00:00"
+  },
+  {
+    "id": "a07377fcee82350b0f04",
+    "country": "Taiwan",
+    "category": "Automóvel",
+    "source": "Google News · 台灣 – 汽車產業",
+    "source_type": "Imprensa / agregador",
+    "source_id": "tw-auto",
+    "publisher": "Facebook",
+    "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxObGVjUXE0eEc2VWZ1RzJLdDFOWnNHRmpTcUwwOGhIaFQxYlAxZUhXVEwxZWtGb29xVFo0WlAyWVl0bUNsbzdFQ0c1UzhuZk1CNEIzWUROMkxkOW5JQnJ4XzBZMXZFX0FneWZfQ0RmS0Z3VE1JX3JOY1RJaHR5Z0xXbmJNNm5LY3N1OTR4QnIxTkIwRS03NU9wVjNfZFlyOUZ2dXRVYWdjaC1QNzg0cVJBRmVVZ0VmVjE0UXFuODFXUmo4azg5V2xhX3lfSG9LcUphZUFicWI5SDZlVXVXNF9ESVhNblFEZWZGQlZzZkxNeHI5YVpkck15VFFkQTdsM2RNUXBMRzRCUmdhcmFuV0xFVVY2STlkWm9maHVDcXBmbzJyTmNydF9MVlRYQ3NSWWlPNXY1bXp3YjBRakpKYTFETmh4OU5HYnlVRmJnemVveVhiM0J5cUNfSUVMdlZPOUNSUF9pOEt0QmNjM1RpdC1QQ21ER01EemV1Ny1OcXd1ZDFldXFaN2JvbjdVM3MxYVNLcWJxSjMtMUhRMGd1eTNfLVBiZFVtZ2J1QzM5NEliTHJwUFdwQ1VHbXJyMmVGM242Z2N1TDIzSXI5OHdnZTRTams1SzFuNjY3bmtIT2NCX1hnTzhWNnVNWWpqeUVVLVFvRW1GNkFILWpoWTF0NGNZUzRmSXVlbmN2SkV3enVjY3ZjYVpHdHFlcElieVlrYm90REZSYXJlZ1NvMUFHLWhSZjNfZnJTc2xSVVBfQm8tc3pvbEdVOExHTm01d1d3dzIxT1BqSjZsY1h5TG4wQWhPZXFTZ0V0d0dJZVR1LTlRV3c4YXZ0OW5Mckxnb01lYUNJNW0yRzFIcG40UQ?oc=5",
+    "original_title": "【特斯拉全新電動車官網開訂「新台幣98萬」！每月還要多付近1萬元訂閱費】 沒有方向盤、沒有電門與煞車踏板！ （#豬頭皮） - Facebook",
+    "original_summary": "【特斯拉全新電動車官網開訂「新台幣98萬」！每月還要多付近1萬元訂閱費】 沒有方向盤、沒有電門與煞車踏板！ （#豬頭皮） Facebook",
+    "published_at": "2026-11-15T08:23:17+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Veículos elétricos"
+    ],
+    "translation_status": "translated",
+    "translated_title": "【O novo carro elétrico da Tesla já está disponível para encomenda no site oficial por \"980 000 novos dólares taiwaneses\"! Além disso, há uma taxa de subscrição mensal de cerca de 10 000 NTD] Sem volante, sem acelerador e sem pedal de travão! (#Cabeça de Porco) - Facebook",
+    "translated_summary": "【O novo veículo elétrico da Tesla já está disponível para encomenda no site oficial por \"980 mil novos dólares taiwaneses\"! Além disso, há uma taxa de subscrição mensal de cerca de 10 mil TWD] Sem volante, sem pedal do acelerador e sem pedal do travão! (#Cabeça de Porco) Facebook",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:11+00:00"
   },
   {
     "id": "675b4b6e0a2a01b05aed",
@@ -2958,6 +3128,28 @@
     "translated_summary": "",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-14T16:46:58+00:00"
+  },
+  {
+    "id": "87f26ceb233aee82e24d",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "au Webポータル",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GWC1mUmxKNmhyWmNSXzczNlVvY1FYUXBCRnVxRjlIcXBHdGpOX1Fic09xWnFWZV9tVW50N0ltVENHYlVtQWFFWEUzZWs4ZkxZNm0xeGZfUFR2Z2tyc01JOVR6bzZ2WFF6V3E5b3BR?oc=5",
+    "original_title": "トヨタはなぜ米国で“軽トラ”を組み立てる？ 日本が誇る“小さなはたらくクルマ”がアメリカに進出！ 660cc×右ハンドル「KEI-01」の現地での用途とは - au Webポータル",
+    "original_summary": "トヨタはなぜ米国で“軽トラ”を組み立てる？ 日本が誇る“小さなはたらくクルマ”がアメリカに進出！ 660cc×右ハンドル「KEI-01」の現地での用途とは au Webポータル",
+    "published_at": "2026-11-14T23:10:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Toyota"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Porque é que a Toyota monta \"caminhões ligeiros\" nos Estados Unidos? O \"pequeno carro utilitário\" de que o Japão se orgulha chega aos Estados Unidos! Qual é a utilização local do \"KEI-01\" de 660 cc com volante à direita? - Portal Web da au",
+    "translated_summary": "Porque é que a Toyota monta \"caminhões ligeiros\" nos Estados Unidos? O \"pequeno carro utilitário\" de que o Japão se orgulha chega aos Estados Unidos! Qual é a utilização local do \"KEI-01\" de 660 cc com volante à direita? Portal Web da au",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:59+00:00"
   },
   {
     "id": "8c2b407230844041bc3d",
@@ -8465,6 +8657,28 @@
     "last_translation_attempt_at": "2026-11-14T02:09:05+00:00"
   },
   {
+    "id": "457ed2cb7975d80300df",
+    "country": "Japão",
+    "category": "Automóvel",
+    "source": "Google News · japonês",
+    "source_type": "Imprensa / agregador",
+    "source_id": "japan-auto-search",
+    "publisher": "Motor Fan",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzTGRmeGVjTzc0T2IyUS04LVlwc2xYbzlYTi1NLTd4OVlBTkVrWWhtZHNZaVJXUXlRRmJzam5TcThSSHpwMVFjc1lieEtnQQ?oc=5",
+    "original_title": "イタリアと日本のスタジオが手掛けた鋭いカウル。ホンダの大型スポーツツアラー「CB1000GT」が国内発売 - Motor Fan",
+    "original_summary": "イタリアと日本のスタジオが手掛けた鋭いカウル。ホンダの大型スポーツツアラー「CB1000GT」が国内発売 Motor Fan",
+    "published_at": "2026-11-13T22:00:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Honda"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Carenagem de linhas vincadas concebida por estúdios italianos e japoneses. A grande sport-tourer da Honda, a \"CB1000GT\", é lançada no mercado nacional - Motor Fan",
+    "translated_summary": "Uma carenagem de linhas vincadas concebida por estúdios italianos e japoneses. A grande sport-tourer da Honda, a \"CB1000GT\", é lançada no mercado nacional Motor Fan",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:02+00:00"
+  },
+  {
     "id": "1ce599e36beb9dc20b4f",
     "country": "Braga",
     "category": "Atualidade",
@@ -10034,6 +10248,26 @@
     "translated_summary": "A Go Eve obtém 750 000 £ em financiamento para melhorar o sistema de carregamento de frotas de veículos elétricos DockChain Charged EVs",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T18:58:03+00:00"
+  },
+  {
+    "id": "deee833c713e3338dd4b",
+    "country": "Singapura",
+    "category": "Política",
+    "source": "Google News · Singapore – Politics",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-politics",
+    "publisher": "TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
+    "original_title": "The unfolding Jensen Huang scandal: a timeline - TechCrunch",
+    "original_summary": "The unfolding Jensen Huang scandal: a timeline TechCrunch",
+    "published_at": "2026-11-13T15:58:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "O escândalo de Jensen Huang em desenvolvimento: uma cronologia - TechCrunch",
+    "translated_summary": "O escândalo de Jensen Huang em desenvolvimento: uma cronologia TechCrunch",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:17+00:00"
   },
   {
     "id": "236268b7ee3653b0f7cb",
@@ -12997,6 +13231,29 @@
     "translated_summary": "Bundestag: União e SPD elogiam o orçamento, apesar do imposto sobre a eletricidade por resolver DIE ZEIT",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-13T12:00:35+00:00"
+  },
+  {
+    "id": "2005a492467d22d13f9d",
+    "country": "Alemanha",
+    "category": "Política",
+    "source": "Google News · Deutschland – Politik",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-politics",
+    "publisher": "WirtschaftsWoche",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDlHTzM4b0huVk1VR0ZUcWhOSFRkaVhOcTFtall0bF9BZkNwQkx5cHJiOGJjSkxzWlptQTF0N2NfSFoyLUN2MFVzWjFQYnVOTXZaTFY0RC01czAzSGNCOGtyM1pkaV9ZNzdocFFhUmVKUHpyWWJaTVZweDJrMnFDWWhyNnFsVmMwU1lSWC1nWlJxTWN1ZzhZZllHVmFKY3hEaURfRU15RW5JZXJLR0VnVEY3UVBpLVF1dHNSYzItaUo?oc=5",
+    "original_title": "Bundestag: Union und SPD loben Haushalt trotz ungelöster Stromsteuer - WirtschaftsWoche",
+    "original_summary": "Bundestag: Union und SPD loben Haushalt trotz ungelöster Stromsteuer WirtschaftsWoche",
+    "published_at": "2026-11-13T11:26:28+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Crescimento e PIB",
+      "Eleições e governação"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Bundestag: a União e o SPD elogiam o orçamento, apesar do imposto sobre a eletricidade não estar resolvido - WirtschaftsWoche",
+    "translated_summary": "Bundestag: a CDU/CSU e o SPD elogiam o orçamento, apesar do imposto sobre a eletricidade não estar resolvido WirtschaftsWoche",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:08+00:00"
   },
   {
     "id": "386e6bc6cbfcb40655f5",
@@ -58248,6 +58505,28 @@
     "last_translation_attempt_at": "2026-11-13T06:06:35+00:00"
   },
   {
+    "id": "2315615bc9e9c8d77d57",
+    "country": "Alemanha",
+    "category": "Economia",
+    "source": "Google News · Economia · Alemanha",
+    "source_type": "Imprensa / agregador",
+    "source_id": "de-economy",
+    "publisher": "SWR",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHhwQ0g2QlRxWHZtaUlab0NKZzZSUUlNRVRwTWl0LW44ZEtwUXZvYzlSUHRkQ3RTNXI4b1U2V01XWGtKVUhqM2hQQ0J4MlppMF9yZzl3TlljNS0tNEc2blhGQmk1NGhsN1hIX3VwNURkZ3BuV09OY2hqVks1MHF3OEY2cE5sSmRyZF9zaEIyblJ4dnhRS2UydkdKU0V6STRhcnk5VC01UFNQTlM2ZXJJMS0wS1Jic0tBbWV6b25HOGxGTmE0TjFLdW1qb04xMkFxLW9WdG1HWFN1dmZlMnRpZ05fTDJrMW8?oc=5",
+    "original_title": "Einkaufen oder Urlaub machen: Das lässt die Wirtschaft in der Grenzregion D-CH wachsen - SWR",
+    "original_summary": "Einkaufen oder Urlaub machen: Das lässt die Wirtschaft in der Grenzregion D-CH wachsen SWR",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Crescimento e PIB"
+    ],
+    "translation_status": "translated",
+    "translated_title": "Fazer compras ou férias: é o que faz crescer a economia na região fronteiriça entre a Alemanha e a Suíça - SWR",
+    "translated_summary": "Fazer compras ou férias: é o que faz crescer a economia na região fronteiriça entre a Alemanha e a Suíça SWR",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:22+00:00"
+  },
+  {
     "id": "66f121e08c95dc92925e",
     "country": "Portugal",
     "category": "Economia",
@@ -64425,6 +64704,28 @@
     "translated_summary": "",
     "translated_lang": "",
     "last_translation_attempt_at": ""
+  },
+  {
+    "id": "238711b377f15509b38d",
+    "country": "Singapura",
+    "category": "Economia",
+    "source": "Google News · Economia · Singapura",
+    "source_type": "Imprensa / agregador",
+    "source_id": "sg-economy",
+    "publisher": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNnJSdi1XU1VCcmZkeTItaFFMcWIybjI3Tm5BX3p5Q1ZyUGY3SHVTY01fNVc0clFoQlhRRDRwbjYtWUdyRVFiWEVzYVh3TVYzbjNYcmEzN1FiaVVUcXRBZFY5bVh3aUlIdlN3YjlHQ19ySGE1SmtTZXk1YkI3VGc2VmRrZWpRMDFORzFCY3RsTUdTU0hlNlhHY0ZFZzdvU2V1M21HS0VsY3VXNGFaYW9XV3ZCeXpXMEVmLWVGU3ZlLU9UdjZFcXZBRlgtcnNkV2NBelpON3JFRnVEUWlidzlTNFFyVXdjN2dR?oc=5",
+    "original_title": "Collins Aerospace relocating Singapore plant to new $250M manufacturing facility in Seletar Aerospace Park, Singapore - Singapore Economic Development Board (EDB)",
+    "original_summary": "Collins Aerospace relocating Singapore plant to new $250M manufacturing facility in Seletar Aerospace Park, Singapore Singapore Economic Development Board (EDB)",
+    "published_at": "2026-11-10T08:00:00+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [
+      "Indústria e produção"
+    ],
+    "translation_status": "translated",
+    "translated_title": "A Collins Aerospace vai relocalizar a fábrica de Singapura para novas instalações de produção no valor de 250 milhões de dólares no Seletar Aerospace Park, Singapura - Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_summary": "A Collins Aerospace está a relocalizar a fábrica de Singapura para novas instalações de produção no valor de 250 milhões de dólares no Seletar Aerospace Park, Singapura Conselho de Desenvolvimento Económico de Singapura (EDB)",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:40:25+00:00"
   },
   {
     "id": "d083eaf604416667d9c2",
@@ -74546,6 +74847,26 @@
     "translated_summary": "Ações de investimento externo da Índia sobem 40,8%, para $ 178 trilhões",
     "translated_lang": "pt",
     "last_translation_attempt_at": "2026-11-10T03:58:00+00:00"
+  },
+  {
+    "id": "259d7dc202f2be82853f",
+    "country": "Dinamarca",
+    "category": "Economia",
+    "source": "Google News · Dinamarca economia",
+    "source_type": "Imprensa / agregador",
+    "source_id": "dk-economy-google",
+    "publisher": "Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmUtVEx6QXMySjZWOVZTUllMTHNJQ3c2a1p1QzRZX3hNTmJxaTlsYVpjVG1ybExUemhqdjgyVDVpa181Q3lXMGhnMXNmZU1jMHBWd0pfcVV0akNSSEt5MW82ZGsycFdjSThVZGJNdTI5S054dWREQXNvTlN4bHZIR1JnbXFXdjhyVjFoMWVpTUVITEFvbnVPVGs1Vkl2bzQ?oc=5",
+    "original_title": "Omans økonomi holder seg motstandsdyktig når IMF fullfører 2026-gjennomgangen - Traders Union",
+    "original_summary": "Omans økonomi holder seg motstandsdyktig når IMF fullfører 2026-gjennomgangen Traders Union",
+    "published_at": "2026-11-09T14:26:29+00:00",
+    "first_seen_at": "2026-11-15T20:38:50+00:00",
+    "topics": [],
+    "translation_status": "translated",
+    "translated_title": "A economia de Omã mantém-se resiliente à medida que o FMI conclui a revisão de 2026 - Traders Union",
+    "translated_summary": "A economia de Omã mantém-se resiliente enquanto o FMI conclui a revisão de 2026 Traders Union",
+    "translated_lang": "pt",
+    "last_translation_attempt_at": "2026-11-15T20:39:18+00:00"
   },
   {
     "id": "d239b435bfc3c22457d0",
