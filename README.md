@@ -154,3 +154,8 @@ O nome Bosch também surge em notícias desportivas sobre o treinador de hóquei
 ## Dinamarca (15/11/2026)
 
 Dinamarca é o 9.º país monitorizado, com **Política**, **Automóvel** e **Economia**. Cinco fontes/pesquisas: DR Politik (RSS direto), Google News em dinamarquês por categoria e pesquisa de notícias da FDM. Bandeira SVG local, tradução PT/EN, tendências e arquivo de 30 dias. As notícias são guardadas à medida da recolha, sem recuperação automática de 30 dias retroativos.
+
+
+## Tradução de notícias dinamarquesas (15/11/2026)
+
+O radar reconhece títulos em dinamarquês (`da`), incluindo notícias sem caracteres especiais, e traduz automaticamente os títulos e, quando possível, os excertos para **português europeu** (`TARGET_LANG=pt`, predefinição) ou **inglês** (`TARGET_LANG=en`). Usa DeepL (opcional, com chave) ou MyMemory (sem chave, limites de quota). Mantém sempre o título original. O bot reserva aproximadamente um quarto do limite horário de traduções (10 em 40, quando existem pendências) para a Dinamarca e dedica as restantes às outras fontes. Se uma tradução falhar, conserva o original e volta a tentar após seis horas. Como o serviço gratuito tem limites, nem todas as notícias ficam traduzidas imediatamente.

@@ -2,8 +2,9 @@ import unittest
 from datetime import datetime,timedelta,timezone
 from asia_radar.core import article_id,topic_tags,relevant_native_politics,trend_data,clean_text,bosch_category,bosch_relevant,bosch_topic_tags,relevant_native_auto,relevant_native_economy,relevant_braga
 from asia_radar.report import make_payload,export_archive_csv,safe_csv
-from asia_radar.collector import detect_source_lang,feed_url,ROOT,retain_archive,ARCHIVE_DAYS
+from asia_radar.collector import detect_source_lang,feed_url,ROOT,retain_archive,ARCHIVE_DAYS,translation_order,translate_one,translate_backlog
 import json, csv, tempfile
+from unittest.mock import patch, Mock
 from pathlib import Path
 class RadarTests(unittest.TestCase):
     def test_strip_markup(self):
@@ -51,6 +52,54 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(len(danish),5)
         self.assertEqual({s["category"] for s in danish},{"Política","Automóvel","Economia"})
         self.assertEqual(len({s["id"] for s in danish}),5)
+    def test_danish_without_special_characters(self):
+        self.assertEqual(detect_source_lang("Danmarks regering ændrer reglerne","Dinamarca"),"da")
+        self.assertEqual(detect_source_lang("Danmarks regering annoncerer nye tiltag","Dinamarca"),"da")
+        self.assertEqual(detect_source_lang("Regeringen vil ændre bilmarked","Dinamarca"),"da")
+        self.assertEqual(detect_source_lang("Denmark government announces new vehicle sales","Dinamarca"),"en")
+        self.assertEqual(detect_source_lang("Danish government announces electric vehicle policy","Dinamarca"),"en")
+
+    def test_danish_translation_request_portuguese_and_english(self):
+        source="Regeringen fremlægger nye afgifter på elbiler"
+        for target,expected in (("pt","da|pt-PT"),("en","da|en")):
+            response=Mock()
+            response.json.return_value={"responseStatus":200,
+                                         "responseData":{"translatedText":"Texto traduzido"}}
+            response.raise_for_status.return_value=None
+            with patch.dict("os.environ",{"DEEPL_API_KEY":""}):
+                with patch("asia_radar.collector.requests.get",return_value=response) as get:
+                    self.assertEqual(translate_one(source,target,"Dinamarca"),"Texto traduzido")
+                    self.assertEqual(get.call_args.kwargs["params"]["langpair"],expected)
+
+    def test_danish_translation_request_deepl(self):
+        response=Mock()
+        response.json.return_value={"translations":[{"text":"The government changes taxes"}]}
+        response.raise_for_status.return_value=None
+        with patch.dict("os.environ",{"DEEPL_API_KEY":"demo"}):
+            with patch("asia_radar.collector.requests.post",return_value=response) as post:
+                self.assertEqual(translate_one("Regeringen ændrer afgifterne","en","Dinamarca"),
+                                 "The government changes taxes")
+                self.assertEqual(post.call_args.kwargs["data"]["source_lang"],"DA")
+                self.assertEqual(post.call_args.kwargs["data"]["target_lang"],"EN-GB")
+
+    def test_danish_backlog_has_guaranteed_priority(self):
+        now=datetime.now(timezone.utc).isoformat()
+        items=[{"id":str(i),"country":"China","original_title":"Headline",
+                "original_summary":"","first_seen_at":now,"translation_status":"pending"} for i in range(10)]
+        danish={"id":"dk","country":"Dinamarca",
+                "original_title":"Regeringen ændrer bilafgift",
+                "original_summary":"","first_seen_at":"2026-11-01",
+                "translation_status":"pending"}
+        items.append(danish)
+        queue=translation_order(items,"pt",8)
+        self.assertEqual(queue[0]["id"],"dk")
+        with patch("asia_radar.collector.translate_one",return_value="O governo altera o imposto"):
+            with patch("asia_radar.collector.time.sleep"):
+                done,failed=translate_backlog(items,"pt",3)
+        self.assertEqual((done,failed),(3,0))
+        self.assertEqual(danish["translated_lang"],"pt")
+        self.assertEqual(danish["translation_status"],"translated")
+
     def test_new_language_detection(self):
         self.assertEqual(detect_source_lang("현대차 전기차","Coreia do Sul"),"ko")
         self.assertEqual(detect_source_lang("台灣政府宣布政策","Taiwan"),"zh-TW")

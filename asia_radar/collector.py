@@ -81,12 +81,24 @@ def detect_source_lang(text,country):
         re.search(r"\b(der|die|das|den|dem|und|für|mit|von|bei|eine|einer|eines|werden|deutschen|deutschland|bundesregierung|bundestag|autoindustrie|zulieferer)\b",text.lower())
     ): return "de"
     if country=="Dinamarca":
-        # Latin script: avoid misidentifying English-language Danish reports.
+        # Danish RSS can contain English titles; detect native wording as well
+        # as ø/æ/å. For otherwise ambiguous headlines prefer Danish (the
+        # configured Danish feeds and searches are regional, language=da).
         low=text.casefold()
         if re.search(r"[æøå]",low): return "da"
-        da=re.findall(r"\b(?:og|med|som|fra|til|den|det|der|for|nye|biler|elbiler|regeringen|folketinget|dansk|danske|danmark|bilafgift|økonomi|investeringer|afgifter|ministeren)\b",low)
-        en=re.findall(r"\b(?:the|with|says|government|according|electric|denmark|vehicle|announces|market)\b",low)
-        return "da" if len(da)>len(en) else "en"
+        da=re.findall(
+            r"\b(?:danmark|danmarks|dansk|danske|regering|regeringen|"
+            r"folketinget|folketingsvalg|statsminister|statsministeren|"
+            r"økonomi|økonomisk|erhverv|investering|investeringer|"
+            r"elbiler|elbilen|biler|bilerne|bilafgift|bilmarked|"
+            r"skatter|skat|afgifter|virksomheder|stiger|falder|"
+            r"med|som|fra|til|den|det|der|for|nye|flere|skal|"
+            r"efter|bliver|siger|ifølge|af|og)\b",low)
+        en=re.findall(
+            r"\b(?:denmark|danish|the|with|says|government|according|"
+            r"electric|vehicle|announces|market|growth|reports|"
+            r"has|have|will|new|from|after|economy|cars|car|for)\b",low)
+        return "en" if len(en)>len(da) else "da"
     if country in {"Portugal","Braga"}: return "pt"
     if country=="Bosch":
         pt_markers=re.findall(r"\b(?:para|com|uma|dos|das|não|trabalhadores|fábrica|produção|investimento|portuguesa|empresa|anuncia)\b",text.casefold())
@@ -120,14 +132,32 @@ def translate_one(text,target,country):
         raise RuntimeError("MyMemory did not return a translation")
     return translated
 
-def translate_backlog(articles,lang,budget):
-    now=datetime.now(timezone.utc)
-    done=failed=0
+def translation_order(articles,lang,budget,now=None):
+    """Reserve one quarter of hourly translations for Danish headlines.
+
+    Keep the other three quarters for the existing 61 feeds; no provider
+    call is made here. Once the global queue empties, unused capacity is
+    available to Denmark.
+    """
+    now=now or datetime.now(timezone.utc)
+    pending=[]
     for row in sorted(articles,key=lambda a:a.get("first_seen_at",""),reverse=True):
-        if done+failed>=budget or failed>=3: break
-        if row.get("translated_lang")==lang and row.get("translation_status")=="translated": continue
+        if row.get("translated_lang")==lang and row.get("translation_status")=="translated":
+            continue
         last=parse_utc(row.get("last_translation_attempt_at",""))
-        if row.get("translation_status")=="failed" and now-last<timedelta(hours=6): continue
+        if row.get("translation_status")=="failed" and now-last<timedelta(hours=6):
+            continue
+        pending.append(row)
+    danish=[row for row in pending if row.get("country")=="Dinamarca"]
+    other=[row for row in pending if row.get("country")!="Dinamarca"]
+    reserve=min(len(danish), max(1,budget//4)) if budget>0 else 0
+    return danish[:reserve]+other+danish[reserve:]
+
+
+def translate_backlog(articles,lang,budget):
+    done=failed=0
+    for row in translation_order(articles,lang,budget):
+        if done+failed>=budget or failed>=3: break
         try:
             row["last_translation_attempt_at"]=iso_now()
             row["translated_title"]=translate_one(row["original_title"],lang,row["country"])
@@ -139,6 +169,7 @@ def translate_backlog(articles,lang,budget):
             if not row["translated_title"]: raise ValueError("Empty translation")
             row["translation_status"]="translated"
             row["translated_lang"]=lang
+            row.pop("translation_error",None)
             done+=1
             if not os.getenv("DEEPL_API_KEY"): time.sleep(1.0)
         except Exception as exc:
@@ -147,6 +178,7 @@ def translate_backlog(articles,lang,budget):
             failed+=1
             print(f"Translation failed: {row['id']} ({type(exc).__name__})")
     return done,failed
+
 def retain_archive(articles, now=None):
     """Rolling archive of the last 30 days by original publication timestamp."""
     now=now or datetime.now(timezone.utc)
