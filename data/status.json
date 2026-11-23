@@ -1,89 +1,70 @@
 {
-  "last_run": "2026-11-23T00:15:51+00:00",
+  "last_run": "2026-11-23T07:40:55+00:00",
   "first_run_at": "2026-11-06T01:57:53+00:00",
   "target_lang": "pt",
-  "articles_total": 9750,
+  "articles_total": 9911,
   "archive_days": 30,
-  "added": 68,
+  "added": 161,
   "translated_this_run": 40,
   "translation_failed_this_run": 0,
   "sources_total": 62,
-  "sources_ok": 52,
+  "sources_ok": 58,
   "sources_failed": [
     {
-      "source": "china-auto-zh",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+%E6%B1%BD%E8%BD%A6+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6+%E7%94%B5%E6%B"
-    },
-    {
-      "source": "japan-politics-nhk",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.web.nhk/n-data/conf/na/rss/cat4.xml"
+      "source": "japan-politics-search",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC+%E6%94%BF%E5%BA%9C+%E9%A6%96%E7%9B%B8+%E5%9B%BD%E4%BC%9A+%E6%94%BF%E7%AD%96+%E5"
     },
     {
       "source": "de-auto",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Deutschland+%28Autoindustrie+OR+Volkswagen+OR+Mercedes+OR+BMW+OR+Elektroautos%29+when%3A7d&hl=de&g"
     },
     {
-      "source": "tw-auto",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3+%28%E9%9B%BB%E5%8B%95%E8%BB%8A+OR+%E6%B1%BD%E8%BB%8A%E7%94%A2%E6%A5%AD+OR+%E8%B"
+      "source": "tw-politics",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3+%28%E6%94%BF%E5%BA%9C+OR+%E7%AB%8B%E6%B3%95%E9%99%A2+OR+%E6%94%BF%E7%AD%96+OR+%"
     },
     {
-      "source": "sg-auto",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Singapore+%28electric+vehicles+OR+automotive+industry+OR+autonomous+vehicles+OR+EV+charging%29+whe"
-    },
-    {
-      "source": "bosch-strategy-de",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Konzern+OR+Umsatz+OR+Gewinn+OR+Strategie+OR+Restrukturierung+OR+Investitionen+OR+%C"
-    },
-    {
-      "source": "bosch-mobility-en",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Bosch%22+%28automotive+OR+mobility+OR+brake+OR+ADAS+OR+electric+vehicle+OR+hydrogen%29+when%3A7"
-    },
-    {
-      "source": "bosch-labor-de",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Bosch%22+%28Stellenabbau+OR+Besch%C3%A4ftigte+OR+Betriebsrat+OR+Jobs+OR+Tarifverhandlungen+OR+E"
-    },
-    {
-      "source": "bosch-labor-en",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Bosch%22+%28job+cuts+OR+layoffs+OR+workers+OR+hiring+OR+works+council%29+when%3A7d&hl=en-US&gl="
-    },
-    {
-      "source": "dk-politics-dr",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dr.dk/nyheder/service/feeds/politik"
+      "source": "sg-politics",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Singapore+%28government+OR+parliament+OR+trade+policy+OR+legislation%29+when%3A7d&hl=en-SG&gl=SG&c"
     }
   ],
   "items_seen_by_source": {
-    "chinanews-politics": 10,
+    "chinanews-politics": 9,
     "chinanews-economy": 2,
-    "china-politics-search": 1,
+    "china-politics-search": 3,
     "china-auto-carnewschina": 10,
     "china-auto-cnevpost": 40,
-    "japan-politics-search": 5,
+    "china-auto-zh": 10,
+    "japan-politics-nhk": 40,
     "japan-auto-carwatch": 30,
     "japan-auto-search": 40,
-    "de-politics": 28,
+    "de-politics": 26,
     "kr-politics": 40,
     "kr-auto": 40,
-    "tw-politics": 40,
+    "tw-auto": 19,
     "in-politics": 26,
     "in-auto": 27,
-    "sg-politics": 28,
+    "sg-auto": 27,
     "bosch-official-de": 1,
-    "bosch-strategy-en": 10,
+    "bosch-strategy-de": 7,
+    "bosch-strategy-en": 7,
     "bosch-mobility-de": 0,
+    "bosch-mobility-en": 8,
     "bosch-manufacturing-de": 7,
     "bosch-rexroth-de": 1,
-    "bosch-technology-de": 0,
+    "bosch-technology-de": 1,
     "bosch-technology-en": 1,
+    "bosch-labor-de": 9,
+    "bosch-labor-en": 0,
     "bosch-portugal-pt": 2,
     "de-bundesregierung-official": 19,
     "de-bundestag-official": 3,
-    "kr-koreaherald-business": 8,
-    "kr-yonhap-national": 9,
+    "kr-koreaherald-business": 5,
+    "kr-yonhap-national": 16,
     "tw-taipeitimes": 3,
     "in-etauto-industry": 20,
-    "in-etauto-components": 17,
+    "in-etauto-components": 15,
     "sg-straitstimes": 1,
-    "china-scmp-china": 13,
+    "china-scmp-china": 12,
     "china-economy": 35,
     "jp-economy": 35,
     "de-economy": 35,
@@ -92,17 +73,18 @@
     "in-economy": 35,
     "sg-economy": 35,
     "pt-politics-rtp": 12,
-    "pt-auto-search": 30,
+    "pt-auto-search": 35,
     "pt-economy-rtp": 50,
     "pt-economy-search": 35,
-    "braga-diario-minho": 7,
-    "braga-correio-minho": 16,
-    "braga-ominho": 29,
-    "braga-bragatv": 3,
+    "braga-diario-minho": 8,
+    "braga-correio-minho": 18,
+    "braga-ominho": 26,
+    "braga-bragatv": 4,
     "braga-vmtv": 1,
-    "dk-politics-google": 21,
+    "dk-politics-dr": 20,
+    "dk-politics-google": 20,
     "dk-auto-google": 7,
     "dk-auto-fdm": 0,
-    "dk-economy-google": 15
+    "dk-economy-google": 14
   }
 }
